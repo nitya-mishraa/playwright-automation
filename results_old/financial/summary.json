@@ -46,7 +46,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       },
       {
         "label": "View RA Results",
@@ -54,7 +54,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
       }
     ]
   },
@@ -94,7 +94,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
       }
     ]
   },
@@ -134,7 +134,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   },
@@ -218,7 +218,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
       }
     ]
   },
@@ -258,7 +258,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   },
@@ -298,7 +298,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
       }
     ]
   },
@@ -346,6 +346,46 @@
     "bid_links": [
       {
         "label": "BID NO:",
+        "text": "GEM/2026/B/7397230",
+        "href": "/showbidDocument/9169642",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9169642"
+      }
+    ],
+    "status": "Financial Evaluation",
+    "items_short": "150000000000091092-Main Equipm...",
+    "items_full": "150000000000091092-Main Equipment AI server along with AI Software and Spares for Yard 16101,Prepar",
+    "items_category": "Artificial Intelligence Lab Items",
+    "rows": [
+      "Items: 150000000000091092-Main Equipm...",
+      "Quantity: 114",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 30-03-2026 3:37 PM",
+      "End Date: 09-04-2026 4:00 PM"
+    ],
+    "result_buttons": [
+      {
+        "label": "View BID Results",
+        "href": "/bidding/bid/getBidResultView/9169642",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9169642"
+      }
+    ],
+    "bid_no": "GEM/2026/B/7397230",
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9169642",
+        "html_file": "",
+        "screenshot": "",
+        "text": "",
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+      }
+    ]
+  },
+  {
+    "bid_links": [
+      {
+        "label": "BID NO:",
         "text": "GEM/2026/B/7339465",
         "href": "/showbidDocument/9101826",
         "url": "https://bidplus.gem.gov.in/showbidDocument/9101826"
@@ -378,66 +418,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      }
-    ]
-  },
-  {
-    "bid_links": [
-      {
-        "label": "Bid No.:",
-        "text": "GEM/2025/B/6663700",
-        "href": "showbidDocument/8328886",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/8328886"
-      },
-      {
-        "label": "RA NO:",
-        "text": "GEM/2026/R/651686",
-        "href": "/showradocumentPdf/9174856",
-        "url": "https://bidplus.gem.gov.in/showradocumentPdf/9174856"
-      }
-    ],
-    "status": "Financial Evaluation",
-    "items_short": "Wireless Dismounted Soldier Co...",
-    "items_full": "Wireless Dismounted Soldier Communication System (Situational Intelligence Visualization Awareness ",
-    "items_category": "",
-    "rows": [
-      "Items: Wireless Dismounted Soldier Co...",
-      "Quantity: 126",
-      "Department Name And Address:",
-      "Ministry of Defence Department of Defence",
-      "Start Date: 31-03-2026 12:00 PM",
-      "End Date: 01-04-2026 12:00 PM"
-    ],
-    "result_buttons": [
-      {
-        "label": "View Bid Results",
-        "href": "/bidding/bid/getBidResultView/8328886",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8328886"
-      },
-      {
-        "label": "View RA Results",
-        "href": "/bidding/bid/getBidResultView/9174856",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9174856"
-      }
-    ],
-    "bid_no": "GEM/2025/B/6663700",
-    "results": [
-      {
-        "label": "View Bid Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8328886",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      },
-      {
-        "label": "View RA Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9174856",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   }

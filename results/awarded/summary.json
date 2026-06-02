@@ -32,11 +32,69 @@
       {
         "label": "View BID Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9311678",
-        "html_file": "./results\\awarded\\GEM_2026_B_7524015_View_BID_Results.html",
-        "screenshot": "./results\\awarded\\GEM_2026_B_7524015_View_BID_Results.png",
-        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7524015\nBid Number: GEM/2026/B/7524015\n\nBid Status: Active\n\nQuantity: 16\n\nBid Validity (From End Date): 30 ( Days)\n\nBid Start Date / Time: 11-05-2026 11:07:08\n\nBid End Date / Time: 21-05-2026 12:00:00\n\nBid Opening Date / Time: 21-05-2026 12:30:00\n\nBuyer Details\n\nName: ***********\n\nAddress: *********** NEW DELHI\n\nMinistry: Ministry Of Defence\n\nDepartment: Department Of Military Affairs\n\nOrganisation: Indian Army\n\nOffice: ***********\n\n2. Evaluation\nS.No.\tSeller Name\tOffered Item\tTotal Price\tRank\tStatus\n1\tRam enterprises\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 79882.00\tL1\tQualified \n2\tSARS NEXT SOLUTION PRIVATE LIMITED\n( MSE Social Category:OBC )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 81000.00\tL2\tQualified\n3\tKS ENTERPRISES\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 81026.00\tL3\tQualified\n4\tNARENDRA ENTERPRISES\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 82935.00\tL4\tQualified\n5\tGTAC SOLUTIONS PRIVATE LIMITED\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 88318.00\tL5\tQualified\n6\tPRANAV ENTERPRISES\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 90766.00\tL6\tQualified\n7\tambika enterprises\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 93976.00\tL7\tQualified\n8\tGRASP CORPORATION (MSE)\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 134894.00\tL8\tQualified\n9\tM/S DUMRAON ENTERPRISES\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence A Modern Approach,Hands On Machine Learning with Scikit Learn, Keras, and T\n\n\t` 147398.00\tL9\tQualified\n\n\nView Contract\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
-        "error": "",
-        "panels_expanded": 1
+        "html_file": "",
+        "screenshot": "",
+        "text": "",
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+      }
+    ]
+  },
+  {
+    "bid_links": [
+      {
+        "label": "Bid No.:",
+        "text": "GEM/2026/B/7491569",
+        "href": "showbidDocument/9275556",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9275556"
+      },
+      {
+        "label": "RA NO:",
+        "text": "GEM/2026/R/666935",
+        "href": "/showradocumentPdf/9321422",
+        "url": "https://bidplus.gem.gov.in/showradocumentPdf/9321422"
+      }
+    ],
+    "status": "Bid Award",
+    "items_short": "Open Source Digital Intelligen...",
+    "items_full": "Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+    "items_category": "",
+    "rows": [
+      "Items: Open Source Digital Intelligen...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 14-05-2026 9:00 AM",
+      "End Date: 20-05-2026 11:46 AM"
+    ],
+    "result_buttons": [
+      {
+        "label": "View Bid Results",
+        "href": "/bidding/bid/getBidResultView/9275556",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9275556"
+      },
+      {
+        "label": "View RA Results",
+        "href": "/bidding/bid/getBidResultView/9321422",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321422"
+      }
+    ],
+    "bid_no": "GEM/2026/B/7491569",
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9275556",
+        "html_file": "",
+        "screenshot": "",
+        "text": "",
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321422",
+        "html_file": "",
+        "screenshot": "",
+        "text": "",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   },
@@ -75,7 +133,7 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9314086",
         "html_file": "./results\\awarded\\GEM_2026_B_7526127_View_BID_Results.html",
         "screenshot": "./results\\awarded\\GEM_2026_B_7526127_View_BID_Results.png",
-        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7526127\nBid Number: GEM/2026/B/7526127\n\nBid Status: Active\n\nQuantity: 1\n\nBid Validity (From End Date): 30 ( Days)\n\nBid Start Date / Time: 11-05-2026 15:58:01\n\nBid End Date / Time: 16-05-2026 16:00:00\n\nBid Opening Date / Time: 16-05-2026 16:30:00\n\nBuyer Details\n\nName: Pawan\n\nAddress: Pawan,Adcdzoii11-Ed@Gov.In,U.T. PRESS BUILDING, SECTOR 18A,CHANDIGARH,CHANDIGARH,160018,India,0172-2717023-\n\nMinistry: Ministry Of Finance\n\nDepartment: Department Of Revenue\n\nOrganisation: Directorate Of Enforcement\n\nOffice: Chandigarh Zonal Office Ii\n\n2. TECHNICAL EVALUATION\nList Of Sellers Participated\nS.No.\tSeller Name\tOffered Item\tParticipated On\tMSE/MII Status\tStatus\n1\tIACUITY FINTECH PRIVATE LIMITED   \t\n\nMake : iAcuity\n\nModel : FTS 1 Year Subscription 1 User 3 Active Cases\n\n\t15-05-2026 10:35:23\tMII  MSE  \n\tQualified\n\n3. FINANCIAL EVALUATION\nList Of Sellers Qualified Financially\nS.No.\tSeller Name\tOffered Item\tTotal Price\tRank\n1\tIACUITY FINTECH PRIVATE LIMITED(MSE,MII)\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial Intelligence_Big Data_Analytics Ver 2.0\n\n\t` 1468500.00\tL1 \n\n\n\nView Contract\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nNewspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). Original Equipment Manufacturers (OEMs) are invited to attend a GeM workshop on the Vendor Assessment process to better understand and streamline their Vendor Assessment journey. For details, please check your GeM-registered email inbox. Following the recent system update, some service providers who have not updated their MSE details are being reflected as Non-MSE, including certain MSE bidders who participated in service bids from 4th to 24th February. Buyers are advised to verify the MSE status of such bidders through the “Seek Clarification” option and communicate its decision for MSE status to GeM for correction, if applicable.MSE service providers are requested to re-verify their MSE profile in GeM if they are getting the message that they are not eligible for MSE purchase preference during bid participation A Gentle Reminder: It is reminded that the buyers who have pending or expired GeM orders including SERVICES Orders placed on or before 14 December 2023, and have not closed these orders, will not be able to procure on GeM after 31 march 2026 until the orders are closed using Partial/Complete Order Closure or updated through bulk payment. GeM sellers can now explore expanded market access through the Open Network for Digital Commerce (ONDC) — learn more at https://portal.ondc.org/merchant-registration. Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,676\nProduct Categories\n \n1,919,595\nOrder Value (Cr.)\n \n352\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 02-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
         "error": "",
         "panels_expanded": 2
       }
@@ -116,7 +174,7 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9290378",
         "html_file": "./results\\awarded\\GEM_2026_B_7504765_View_BID_Results.html",
         "screenshot": "./results\\awarded\\GEM_2026_B_7504765_View_BID_Results.png",
-        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7504765\nBid Number: GEM/2026/B/7504765\n\nBid Status: Active\n\nQuantity: 1\n\nBid Validity (From End Date): 180 ( Days)\n\nBid Start Date / Time: 05-05-2026 16:07:08\n\nBid End Date / Time: 15-05-2026 17:00:00\n\nBid Opening Date / Time: 15-05-2026 17:30:00\n\nBuyer Details\n\nName: Manojkumar Arutlal Patel\n\nAddress: Manojkumar Arutlal Patel,Mgr-Acc-Gnr@Gujarat.Gov.In,GUJ INFO PETRO LTD. 2ND FLOOR, BLOCK-15, UDYOG BHAVAN, SECTOR-11, GANDHINAGAR -382011,Gandhi Nagar,GUJARAT,382010,India,079-23238887-\n\nState: Gujarat\n\nDepartment: Energy And Petro Chemicals Department Gujarat\n\nOrganisation: Gujarat Info Petro Ltd (Gipl)\n\nOffice: Ho\n\n2. TECHNICAL EVALUATION\nList Of Sellers Participated\nS.No.\tSeller Name\tOffered Item\tParticipated On\tMSE/MII Status\tStatus\n1\tPVKL TECH SERVICES PRIVATE LIMITED   \t\n\nMake : Provakil\n\nModel : Provakil Court Case Management Up to 1000 Cases\n\n\t14-05-2026 17:43:30\tMSE  \n\tQualified\n\n3. FINANCIAL EVALUATION\nList Of Sellers Qualified Financially\nS.No.\tSeller Name\tOffered Item\tTotal Price\tRank\n1\tPVKL TECH SERVICES PRIVATE LIMITED(MSE)\n( MSE Social Category:General )    \t\n\nItem Categories : Business Intelligence and Data Analysis Software (V2)\n\n\t` 400000.00\tL1\n\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nNewspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). Original Equipment Manufacturers (OEMs) are invited to attend a GeM workshop on the Vendor Assessment process to better understand and streamline their Vendor Assessment journey. For details, please check your GeM-registered email inbox. Following the recent system update, some service providers who have not updated their MSE details are being reflected as Non-MSE, including certain MSE bidders who participated in service bids from 4th to 24th February. Buyers are advised to verify the MSE status of such bidders through the “Seek Clarification” option and communicate its decision for MSE status to GeM for correction, if applicable.MSE service providers are requested to re-verify their MSE profile in GeM if they are getting the message that they are not eligible for MSE purchase preference during bid participation A Gentle Reminder: It is reminded that the buyers who have pending or expired GeM orders including SERVICES Orders placed on or before 14 December 2023, and have not closed these orders, will not be able to procure on GeM after 31 march 2026 until the orders are closed using Partial/Complete Order Closure or updated through bulk payment. GeM sellers can now explore expanded market access through the Open Network for Digital Commerce (ONDC) — learn more at https://portal.ondc.org/merchant-registration. Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,676\nProduct Categories\n \n1,919,595\nOrder Value (Cr.)\n \n352\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 02-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
         "error": "",
         "panels_expanded": 2
       }
@@ -166,19 +224,60 @@
       {
         "label": "View Bid Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9209216",
-        "html_file": "./results\\awarded\\GEM_2026_B_7432112_View_Bid_Results.html",
-        "screenshot": "./results\\awarded\\GEM_2026_B_7432112_View_Bid_Results.png",
-        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7432112\nBid Number: GEM/2026/B/7432112\n\nBid Status: Active\n\nQuantity: 1\n\nBid Validity (From End Date): 180 ( Days)\n\nBid Start Date / Time: 20-04-2026 15:25:43\n\nBid End Date / Time: 30-04-2026 16:00:00\n\nBid Opening Date / Time: 30-04-2026 16:30:00\n\nAverage Turn Over of Last 3 Years: 7 Lakhs Experience with Gov. Required: Years\nBuyer Details\n\nName: ***********\n\nAddress: *********** NEW DELHI\n\nMinistry: Ministry Of Defence\n\nDepartment: Department Of Military Affairs\n\nOrganisation: Indian Army\n\nOffice: ***********\n\n2. TECHNICAL EVALUATION\nList Of Sellers Participated\nS.No.\tSeller Name\tOffered Item\tParticipated On\tEMD Status\tMSE/MII Status\tStatus\n1\tCPTS NETWORK PRIVATE LIMITED   \t\n\nMake : Zoho\n\nModel : Zoho Analytics-OnPremise 3PU&unrestricted CG 1AMC\n\n\t30-04-2026 10:58:21\tRegistered with designated Agency / Authority\tMII  N/A\tQualified\n2\tM/S NEXGEN SOLUTION   \t\n\nMake : Zoho\n\nModel : Zoho Analytics-OnPremise 3PU&unrestricted CG 1AMC\n\n\t28-04-2026 13:48:30\tRegistered with designated Agency / Authority\tMII  N/A\tQualified\n3\tROMAN NETWORKS PRIVATE LIMITED   \t\n\nMake : Zoho\n\nModel : Zoho Analytics-OnPremise 3PU&unrestricted CG 1AMC\n\n\t28-04-2026 13:34:46\tRegistered with designated Agency / Authority\tMII  N/A\tQualified\n\n\n\nRA has been created for this Bid, To participate please search RA under \"ongoing bids/RAs available for participation\" filter and participate.\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
-        "error": "",
-        "panels_expanded": 1
-      },
-      {
-        "label": "View RA Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9295927",
         "html_file": "",
         "screenshot": "",
         "text": "",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9295927",
+        "html_file": "./results\\awarded\\GEM_2026_B_7432112_View_RA_Results.html",
+        "screenshot": "./results\\awarded\\GEM_2026_B_7432112_View_RA_Results.png",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nNewspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). Original Equipment Manufacturers (OEMs) are invited to attend a GeM workshop on the Vendor Assessment process to better understand and streamline their Vendor Assessment journey. For details, please check your GeM-registered email inbox. Following the recent system update, some service providers who have not updated their MSE details are being reflected as Non-MSE, including certain MSE bidders who participated in service bids from 4th to 24th February. Buyers are advised to verify the MSE status of such bidders through the “Seek Clarification” option and communicate its decision for MSE status to GeM for correction, if applicable.MSE service providers are requested to re-verify their MSE profile in GeM if they are getting the message that they are not eligible for MSE purchase preference during bid participation A Gentle Reminder: It is reminded that the buyers who have pending or expired GeM orders including SERVICES Orders placed on or before 14 December 2023, and have not closed these orders, will not be able to procure on GeM after 31 march 2026 until the orders are closed using Partial/Complete Order Closure or updated through bulk payment. GeM sellers can now explore expanded market access through the Open Network for Digital Commerce (ONDC) — learn more at https://portal.ondc.org/merchant-registration. Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,676\nProduct Categories\n \n1,919,595\nOrder Value (Cr.)\n \n352\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 02-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
+        "error": "",
+        "panels_expanded": 1
+      }
+    ]
+  },
+  {
+    "bid_links": [
+      {
+        "label": "BID NO:",
+        "text": "GEM/2026/B/7454076",
+        "href": "/showbidDocument/9233796",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9233796"
+      }
+    ],
+    "status": "Bid Award",
+    "items_short": "Diesel Power Generator (up to ...",
+    "items_full": "Diesel Power Generator (up to 900 KVA)",
+    "items_category": "",
+    "rows": [
+      "Items: Diesel Power Generator (up to ...",
+      "Quantity: 4",
+      "Department Name And Address:",
+      "Revenue and Special Intelligence Department Government of Uttar Pradesh",
+      "Start Date: 18-04-2026 2:41 PM",
+      "End Date: 04-05-2026 10:00 AM"
+    ],
+    "result_buttons": [
+      {
+        "label": "View BID Results",
+        "href": "/bidding/bid/getBidResultView/9233796",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9233796"
+      }
+    ],
+    "bid_no": "GEM/2026/B/7454076",
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9233796",
+        "html_file": "./results\\awarded\\GEM_2026_B_7454076_View_BID_Results.html",
+        "screenshot": "./results\\awarded\\GEM_2026_B_7454076_View_BID_Results.png",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nNewspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). Original Equipment Manufacturers (OEMs) are invited to attend a GeM workshop on the Vendor Assessment process to better understand and streamline their Vendor Assessment journey. For details, please check your GeM-registered email inbox. Following the recent system update, some service providers who have not updated their MSE details are being reflected as Non-MSE, including certain MSE bidders who participated in service bids from 4th to 24th February. Buyers are advised to verify the MSE status of such bidders through the “Seek Clarification” option and communicate its decision for MSE status to GeM for correction, if applicable.MSE service providers are requested to re-verify their MSE profile in GeM if they are getting the message that they are not eligible for MSE purchase preference during bid participation A Gentle Reminder: It is reminded that the buyers who have pending or expired GeM orders including SERVICES Orders placed on or before 14 December 2023, and have not closed these orders, will not be able to procure on GeM after 31 march 2026 until the orders are closed using Partial/Complete Order Closure or updated through bulk payment. GeM sellers can now explore expanded market access through the Open Network for Digital Commerce (ONDC) — learn more at https://portal.ondc.org/merchant-registration. Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,676\nProduct Categories\n \n1,919,595\nOrder Value (Cr.)\n \n352\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 02-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
+        "error": "",
+        "panels_expanded": 2
       }
     ]
   },
@@ -269,15 +368,16 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
       },
       {
         "label": "View RA Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9271944",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "html_file": "./results\\awarded\\GEM_2026_B_7370636_View_RA_Results.html",
+        "screenshot": "./results\\awarded\\GEM_2026_B_7370636_View_RA_Results.png",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nNewspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). Original Equipment Manufacturers (OEMs) are invited to attend a GeM workshop on the Vendor Assessment process to better understand and streamline their Vendor Assessment journey. For details, please check your GeM-registered email inbox. Following the recent system update, some service providers who have not updated their MSE details are being reflected as Non-MSE, including certain MSE bidders who participated in service bids from 4th to 24th February. Buyers are advised to verify the MSE status of such bidders through the “Seek Clarification” option and communicate its decision for MSE status to GeM for correction, if applicable.MSE service providers are requested to re-verify their MSE profile in GeM if they are getting the message that they are not eligible for MSE purchase preference during bid participation A Gentle Reminder: It is reminded that the buyers who have pending or expired GeM orders including SERVICES Orders placed on or before 14 December 2023, and have not closed these orders, will not be able to procure on GeM after 31 march 2026 until the orders are closed using Partial/Complete Order Closure or updated through bulk payment. GeM sellers can now explore expanded market access through the Open Network for Digital Commerce (ONDC) — learn more at https://portal.ondc.org/merchant-registration. Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,676\nProduct Categories\n \n1,919,595\nOrder Value (Cr.)\n \n352\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 02-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
+        "error": "",
+        "panels_expanded": 1
       }
     ]
   },
@@ -354,91 +454,10 @@
       {
         "label": "View BID Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9201656",
-        "html_file": "./results\\awarded\\GEM_2026_B_7425229_View_BID_Results.html",
-        "screenshot": "./results\\awarded\\GEM_2026_B_7425229_View_BID_Results.png",
-        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7425229\nBid Number: GEM/2026/B/7425229\n\nBid Status: Active\n\nBid Validity (From End Date): 180 ( Days)\n\nBid Start Date / Time: 20-04-2026 13:01:53\n\nBid End Date / Time: 30-04-2026 14:00:00\n\nBid Opening Date / Time: 30-04-2026 14:30:00\n\nContract Duration:  1 Year (S)\n\nAverage Turn Over of Last 3 Years: 200 Lakhs Experience with Gov. Required: Years Project Experience Required: Yes\nBuyer Details\n\nName: Brajesh Kumar Pandey\n\nAddress: Brajesh Kumar Pandey,Buyer1.Niuan.Dl@Gembuyer.In,National Institute Of Urban Affairs 1 & 2 Floor, Core 4B, India Habitat Centre Lodhi Road,NEW DELHI,DELHI,110003,India,011-24643284-220\n\nMinistry: Ministry Of Urban Development\n\nDepartment: Na\n\nOrganisation: National Institute Of Urban Affairs (Niua)\n\nOffice: Delhi Central\n\n2. TECHNICAL EVALUATION\nList Of Sellers Participated\nS.No.\tSeller Name\tParticipated On\tEMD Status\tStatus\n1\tAPPENTUS TECHNOLOGIES PRIVATE LIMITED   \t30-04-2026 12:26:39\tStart-up \tDisqualified\n2\tGUIDONA SOFTPEDIA PRIVATE LIMITED   \t29-04-2026 15:00:44\tRegistered with designated Agency / Authority\tDisqualified\n3\tHANUAI PRIVATE LIMITED   \t29-04-2026 21:44:34\tStart-up \tQualified\n4\tMOUNT TALENT CONSULTING PRIVATE LIMITED   \t30-04-2026 10:52:46\tRegistered with designated Agency / Authority\tDisqualified\n5\tVentureIT   \t26-04-2026 13:19:51\tRegistered with designated Agency / Authority \tDisqualified\n6\tVISION TECHNOLOGIES   \t29-04-2026 22:36:52\tRegistered with designated Agency / Authority\tDisqualified\n\n3. FINANCIAL EVALUATION\nList Of Sellers Qualified Financially\nS.No.\tSeller Name\tOffered Item\tTotal Price\tRank\n1\tHANUAI PRIVATE LIMITED\n( MSE Social Category:General )    \t\n\nItem Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; Machine Le\n\n\t` 20296000.00\tH1 \n\n\n\nView Contract\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
-        "error": "",
-        "panels_expanded": 2
-      }
-    ]
-  },
-  {
-    "bid_links": [
-      {
-        "label": "BID NO:",
-        "text": "GEM/2026/B/7370636",
-        "href": "/showbidDocument/9138414",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/9138414"
-      }
-    ],
-    "status": "Bid Award",
-    "items_short": "Vocational Training Services ...",
-    "items_full": "Vocational Training Services  - Version 2 - hybrid; 1; Buyers Location; Artificial Intelligence",
-    "items_category": "",
-    "rows": [
-      "Items: Vocational Training Services ...",
-      "Quantity: 1",
-      "Department Name And Address:",
-      "Higher Education Department Uttar Pradesh",
-      "Start Date: 23-03-2026 3:31 PM",
-      "End Date: 21-04-2026 9:00 AM"
-    ],
-    "result_buttons": [
-      {
-        "label": "View BID Results",
-        "href": "/bidding/bid/getBidResultView/9138414",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9138414"
-      }
-    ],
-    "bid_no": "GEM/2026/B/7370636",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9138414",
         "html_file": "",
         "screenshot": "",
         "text": "",
         "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      }
-    ]
-  },
-  {
-    "bid_links": [
-      {
-        "label": "BID NO:",
-        "text": "GEM/2026/B/7420148",
-        "href": "/showbidDocument/9196125",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/9196125"
-      }
-    ],
-    "status": "Bid Award",
-    "items_short": "Intelligence Scale for Indian ...",
-    "items_full": "Intelligence Scale for Indian Children (MISIC)",
-    "items_category": "",
-    "rows": [
-      "Items: Intelligence Scale for Indian ...",
-      "Quantity: 1",
-      "Department Name And Address:",
-      "Health & Family Welfare Department Gujarat",
-      "Start Date: 07-04-2026 12:23 PM",
-      "End Date: 17-04-2026 1:00 PM"
-    ],
-    "result_buttons": [
-      {
-        "label": "View BID Results",
-        "href": "/bidding/bid/getBidResultView/9196125",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9196125"
-      }
-    ],
-    "bid_no": "GEM/2026/B/7420148",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9196125",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   }

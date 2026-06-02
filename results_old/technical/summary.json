@@ -155,7 +155,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   },
@@ -195,7 +195,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
     ]
   },
@@ -315,7 +315,7 @@
         "html_file": "",
         "screenshot": "",
         "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
       }
     ]
   },

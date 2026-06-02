@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
 import json
 import os
 import re
@@ -20,7 +21,33 @@ STATUSES = [
 def safe_name(s):
     return re.sub(r"[^A-Za-z0-9._-]+", "_", s).strip("_")
 
+def extract_bid_data(html):
+    soup = BeautifulSoup(html, "html.parser")
+    text = soup.get_text(" ", strip=True)
 
+    return {
+        "has_bid_details": "bid details" in text.lower(),
+        "has_technical_evaluation": "technical evaluation" in text.lower(),
+        "has_financial_evaluation": "financial evaluation" in text.lower()
+    }
+
+def detect_page_type(html):
+    html = html.lower()
+
+    if "national public procurement portal" in html:
+        return "homepage"
+    
+
+    if "technical evaluation" in html:
+        return "information"
+
+    if "financial evaluation" in html:
+        return "information"
+
+    if "bid details" in html:
+        return "information"
+
+    return "unknown"
 def absolutize(href):
     if not href:
         return ""
@@ -131,14 +158,14 @@ def collect_status(context, checkbox_id, folder_name):
                 # isn't actually viewable for the given id. Detect and skip.
                 final_url = bid_page.url
                 title = bid_page.title() or ""
-                is_home = (
-                    "National Public Procurement Portal" in title
-                    or final_url.rstrip("/") == "https://bidplus.gem.gov.in"
-                    or final_url.endswith("/all-bids")
-                    or "getBidResultView" not in final_url
-                    and "getSinglePacketResultView" not in final_url
-                )
+                html_content = bid_page.content()
+
+                page_type = detect_page_type(html_content)
+
+                print("Page Type:", page_type)
+                is_home = (page_type == "homepage")
                 if is_home:
+                    
                     status_code = response.status if response else "?"
                     entry["error"] = (
                         f"redirected_to_home (status={status_code}, final_url={final_url})"
@@ -171,6 +198,14 @@ def collect_status(context, checkbox_id, folder_name):
                 html_path = os.path.join(out_dir, f"{slug}.html")
                 with open(html_path, "w", encoding="utf-8") as fh:
                     fh.write(bid_page.content())
+
+                data = extract_bid_data(html_content)
+
+                json_path = os.path.join(out_dir, f"{slug}_data.json")
+
+                with open(json_path, "w", encoding="utf-8") as jf:
+                    json.dump(data, jf, indent=2)
+                    
 
                 png_path = os.path.join(out_dir, f"{slug}.png")
                 bid_page.screenshot(path=png_path, full_page=True)
