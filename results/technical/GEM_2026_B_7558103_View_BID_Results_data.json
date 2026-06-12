@@ -1,0 +1,22 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7558103",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "19-05-2026 15:39:24",
+    "bid_end_datetime": "09-06-2026 16:00:00",
+    "bid_opening_datetime": "09-06-2026 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Kandle Goutham Kumar",
+    "address": "Kandle Goutham Kumar,gouthamkumar.kandle@gov.in,Indian Cyber Crime Coordination Centre (I4C), 5th Floor, NDCC-II Building, Jai Singh Road, New Delhi,Central Delhi,DELHI,110001,India,011-23438206-",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Women Safety Division",
+    "organisation": "N/a",
+    "office": "Indian Cyber Crime Coordination Centre"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

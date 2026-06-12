@@ -1,5 +1,38 @@
 {
-  "has_bid_details": true,
-  "has_technical_evaluation": true,
-  "has_financial_evaluation": true
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7526127",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "11-05-2026 15:58:01",
+    "bid_end_datetime": "16-05-2026 16:00:00",
+    "bid_opening_datetime": "16-05-2026 16:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Pawan",
+    "address": "Pawan,adcdzoii11-ed@gov.in,U.T. PRESS BUILDING, SECTOR 18A,CHANDIGARH,CHANDIGARH,160018,India,0172-2717023-",
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Revenue",
+    "organisation": "Directorate Of Enforcement",
+    "office": "Chandigarh Zonal Office Ii"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : FTS 1 Year Subscription 1 User 3 Active Cases",
+      "participated_on": "15-05-2026 10:35:23",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence_Big Data_Analytics Ver 2.0",
+      "total_price": "` 1468500.00",
+      "rank": "L1"
+    }
+  ]
 }

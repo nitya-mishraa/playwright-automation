@@ -1,5 +1,36 @@
 {
-  "has_bid_details": true,
-  "has_technical_evaluation": true,
-  "has_financial_evaluation": true
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7504765",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "05-05-2026 16:07:08",
+    "bid_end_datetime": "15-05-2026 17:00:00",
+    "bid_opening_datetime": "15-05-2026 17:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Manojkumar Arutlal Patel",
+    "department": "Energy And Petro Chemicals Department Gujarat",
+    "organisation": "Gujarat Info Petro Ltd (gipl)",
+    "office": "Ho"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Provakil Model  : Provakil Court Case Management Up to 1000 Cases",
+      "participated_on": "14-05-2026 17:43:30",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 400000.00",
+      "rank": "L1"
+    }
+  ]
 }

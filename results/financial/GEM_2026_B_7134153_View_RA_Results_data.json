@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "39",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Vinod Rawat",
+    "address": "Vinod Rawat,rawat.vinod@meity.gov.in,7th Floor, Block A, DMRC Building, DMRC IT Park, Shastri Park,East Delhi,DELHI,110053,India,011-22170262-",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Indian Computer Emergency Response Team (cert-in)",
+    "office": "6 Cgo Complex Lodhi Road New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CEOITBOX TECH SERVICES LLP Under PMA",
+      "offered_item": "Item Categories : Recorded Future Advanced Threat Intelligence 1st Year,Google Threat Intelligence 1st Year,Fortinet",
+      "total_price": "` 769658195.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MIKROZ INFOSECURITY PRIVATE LIMITED (MSE) Under PMA",
+      "offered_item": "Item Categories : Recorded Future Advanced Threat Intelligence 1st Year,Google Threat Intelligence 1st Year,Fortinet",
+      "total_price": "` 770841395.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "X9 CYBER SECURITY & IT SERVICES PRIVATE LIMITED (MSE) Under PMA",
+      "offered_item": "Item Categories : Recorded Future Advanced Threat Intelligence 1st Year,Google Threat Intelligence 1st Year,Fortinet",
+      "total_price": "` 773669685.00 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

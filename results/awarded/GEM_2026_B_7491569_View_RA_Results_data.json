@@ -1,0 +1,58 @@
+{
+  "bid_details": {
+    "quantity": "1"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** GHAZIABAD",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Production",
+    "organisation": "Bharat Electronics Limited (bel)",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SIX DEE NETAD SOLUTIONS PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+      "total_price": "` 7800000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CRIMSON ENERGY EXPERTS PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+      "total_price": "` 7948200.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DEEPMINDZ INNOVATIONS PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+      "total_price": "` 8998000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "QBIT LABS PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+      "total_price": "` 9500000.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "PHARYNXAI TECHNOLOGIES PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+      "total_price": "` 21000000.00 (Bid Price)",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "MERIDIAN DATA LABS PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Open Source Digital Intelligence, Threat & Narrative Monitoring Platform",
+      "total_price": "` 44801036.00 (Bid Price)",
+      "rank": "L6"
+    }
+  ]
+}

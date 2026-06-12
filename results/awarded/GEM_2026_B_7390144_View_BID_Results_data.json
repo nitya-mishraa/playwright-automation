@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7390144",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "10-04-2026 13:32:34",
+    "bid_end_datetime": "11-05-2026 14:00:00",
+    "bid_opening_datetime": "11-05-2026 14:30:00",
+    "bid_validity_days": "150"
+  },
+  "buyer_details": {
+    "name": "Jayashree Rangarajan",
+    "address": "Jayashree Rangarajan,apod3@dpsdae.gov.in,DIRECTORATE OF PURCHASE AND STORES V. S. BHAVAN ANUSHAKTINAGAR,Mumbai - City,MAHARASHTRA,400094,India,022-25486104-",
+    "ministry": "Pmo",
+    "department": "Department Of Atomic Energy",
+    "organisation": "Directorate Of Purchase And Stores",
+    "office": "Directorate Of Purchase And Stores"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "FINE WELD ENGINEERING SOLUTION Under PMA",
+      "offered_item": "Make  : NA Model  : FW-OCUSEEDMVI-26 Title : OCU seed assembly with machine intelligence",
+      "participated_on": "07-05-2026 14:36:57",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MULTIQUADRANT INDUSTRIAL CONTROLS (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : Multiquadrant-OCUSeedAssembly Title : OCU seed assembly with machine intelligence",
+      "participated_on": "04-05-2026 13:49:17",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PRECISION ELECTROPLAST PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : PEPL-OCUSEEDASSEMBLY-MVI Title : OCU seed assembly with machine intelligence",
+      "participated_on": "05-05-2026 09:51:27",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PRECISION ELECTROPLAST PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : OCU seed assembly with machine intelligence",
+      "total_price": "` 4717640.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MULTIQUADRANT INDUSTRIAL CONTROLS (INDIA) PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : OCU seed assembly with machine intelligence",
+      "total_price": "` 5015000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "FINE WELD ENGINEERING SOLUTION (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : OCU seed assembly with machine intelligence",
+      "total_price": "` 5133000.00",
+      "rank": "L3"
+    }
+  ]
+}

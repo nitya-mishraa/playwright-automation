@@ -3,6 +3,119 @@
     "bid_links": [
       {
         "label": "BID NO:",
+        "text": "GEM/2026/B/7479753",
+        "href": "/showbidDocument/9262444",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9262444"
+      }
+    ],
+    "status": "Technical Evaluation",
+    "items_short": "Artificial intelligence based ...",
+    "items_full": "Artificial intelligence based camera 32 channel",
+    "items_category": "",
+    "rows": [
+      "Items: Artificial intelligence based ...",
+      "Quantity: 2",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 21-05-2026 1:11 PM",
+      "End Date: 11-06-2026 1:00 PM"
+    ],
+    "result_buttons": [
+      {
+        "label": "View BID Results",
+        "href": "/bidding/bid/getBidResultView/9262444",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9262444"
+      }
+    ],
+    "bid_no": "GEM/2026/B/7479753",
+    "results": []
+  },
+  {
+    "bid_links": [
+      {
+        "label": "BID NO:",
+        "text": "GEM/2026/B/7561506",
+        "href": "/showbidDocument/9353221",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9353221"
+      }
+    ],
+    "status": "Technical Evaluation",
+    "items_short": "Business Intelligence and Data...",
+    "items_full": "Business Intelligence and Data Analysis Software (V2)",
+    "items_category": "",
+    "rows": [
+      "Items: Business Intelligence and Data...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Women Safety Division",
+      "Start Date: 22-05-2026 4:27 PM",
+      "End Date: 09-06-2026 5:00 PM"
+    ],
+    "result_buttons": [
+      {
+        "label": "View BID Results",
+        "href": "/bidding/bid/getBidResultView/9353221",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9353221"
+      }
+    ],
+    "bid_no": "GEM/2026/B/7561506",
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9353221",
+        "html_file": "./results\\technical\\GEM_2026_B_7561506_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7561506_View_BID_Results.png",
+        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7561506\nBid Number: GEM/2026/B/7561506\n\nBid Status: Active\n\nQuantity: 1\n\nBid Validity (From End Date): 180 ( Days)\n\nBid Start Date / Time: 22-05-2026 16:27:31\n\nBid End Date / Time: 09-06-2026 17:00:00\n\nBid Opening Date / Time: 09-06-2026 17:30:00\n\nAverage Turn Over of Last 3 Years: 3 Lakhs Experience with Gov. Required: Years\nBuyer Details\n\nName: Ganesh N S\n\nAddress: Ganesh N S,So_pur_gnr@Nfsu.Ac.In,Campus Admin, Room No: 007, ITC Building Gujarat Campus National Forensic Sciences University Sector 9, Gandhinagar-382007, Gujarat - India.,Gandhi Nagar,GUJARAT,382007,India\n\nMinistry: Ministry Of Home Affairs\n\nDepartment: Women Safety Division\n\nOrganisation: National Forensic Sciences University\n\nOffice: 382007\n\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "error": "",
+        "panels_expanded": 0
+      }
+    ]
+  },
+  {
+    "bid_links": [
+      {
+        "label": "BID NO:",
+        "text": "GEM/2026/B/7558103",
+        "href": "/showbidDocument/9349497",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9349497"
+      }
+    ],
+    "status": "Technical Evaluation",
+    "items_short": "Proactive Financial Cyber Inte...",
+    "items_full": "Proactive Financial Cyber Intelligence Solution",
+    "items_category": "",
+    "rows": [
+      "Items: Proactive Financial Cyber Inte...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Women Safety Division",
+      "Start Date: 19-05-2026 3:39 PM",
+      "End Date: 09-06-2026 4:00 PM"
+    ],
+    "result_buttons": [
+      {
+        "label": "View BID Results",
+        "href": "/bidding/bid/getBidResultView/9349497",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9349497"
+      }
+    ],
+    "bid_no": "GEM/2026/B/7558103",
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9349497",
+        "html_file": "./results\\technical\\GEM_2026_B_7558103_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7558103_View_BID_Results.png",
+        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7558103\nBid Number: GEM/2026/B/7558103\n\nBid Status: Active\n\nQuantity: 1\n\nBid Validity (From End Date): 180 ( Days)\n\nBid Start Date / Time: 19-05-2026 15:39:24\n\nBid End Date / Time: 09-06-2026 16:00:00\n\nBid Opening Date / Time: 09-06-2026 16:30:00\n\nAverage Turn Over of Last 3 Years: 17 Lakhs Experience with Gov. Required: Years\nBuyer Details\n\nName: Kandle Goutham Kumar\n\nAddress: Kandle Goutham Kumar,Gouthamkumar.Kandle@Gov.In,Indian Cyber Crime Coordination Centre (I4C), 5th Floor, NDCC-II Building, Jai Singh Road, New Delhi,Central Delhi,DELHI,110001,India,011-23438206-\n\nMinistry: Ministry Of Home Affairs\n\nDepartment: Women Safety Division\n\nOrganisation: N/A\n\nOffice: Indian Cyber Crime Coordination Centre\n\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "error": "",
+        "panels_expanded": 0
+      }
+    ]
+  },
+  {
+    "bid_links": [
+      {
+        "label": "BID NO:",
         "text": "GEM/2026/B/7361986",
         "href": "/showbidDocument/9128373",
         "url": "https://bidplus.gem.gov.in/showbidDocument/9128373"
@@ -28,16 +141,7 @@
       }
     ],
     "bid_no": "GEM/2026/B/7361986",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9128373",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      }
-    ]
+    "results": []
   },
   {
     "bid_links": [
@@ -72,10 +176,11 @@
       {
         "label": "View BID Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9300870",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "html_file": "./results\\technical\\GEM_2026_B_7514376_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7514376_View_BID_Results.png",
+        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7514376\nBid Number: GEM/2026/B/7514376\n\nBid Status: Active\n\nBid Validity (From End Date): 120 ( Days)\n\nBid Start Date / Time: 11-05-2026 11:59:24\n\nBid End Date / Time: 28-05-2026 12:00:00\n\nBid Opening Date / Time: 28-05-2026 12:30:00\n\nContract Duration:  1 Year (S)\n\nAverage Turn Over of Last 3 Years: Lakhs Experience with Gov. Required: Years Project Experience Required: No\nBuyer Details\n\nName: Nitu\n\nAddress: Nitu,Nitu@Indianoil.In,Indian Oil Corporation Ltd, Southern Region Pipelines, House Of Four Frames, 6-13, Wheatcroft Road, Nungambakkam, Chennai – 600034,Chennai,TAMIL NADU,600034,India,044-28243187-\n\nMinistry: Ministry Of Petroleum And Natural Gas\n\nDepartment: Indian Oil Corporation Limited\n\nOrganisation: Iocl- Srpl\n\nOffice: South\n\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "error": "",
+        "panels_expanded": 0
       }
     ]
   },
@@ -83,39 +188,40 @@
     "bid_links": [
       {
         "label": "BID NO:",
-        "text": "GEM/2026/B/7483688",
-        "href": "/showbidDocument/9266832",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/9266832"
+        "text": "GEM/2026/B/7527165",
+        "href": "/showbidDocument/9315247",
+        "url": "https://bidplus.gem.gov.in/showbidDocument/9315247"
       }
     ],
     "status": "Technical Evaluation",
-    "items_short": "MS Planner and Project Plan-3,...",
-    "items_full": "MS Planner and Project Plan-3,Microsoft Planner and Project Plan-3,Planner and Project Plan-3,Plann",
-    "items_category": "Microsoft Power BI Premium",
+    "items_short": "Binet Kamat Intelligence Test ...",
+    "items_full": "Binet Kamat Intelligence Test - Revised (BKT-R)",
+    "items_category": "",
     "rows": [
-      "Items: MS Planner and Project Plan-3,...",
-      "Quantity: 12",
+      "Items: Binet Kamat Intelligence Test ...",
+      "Quantity: 1",
       "Department Name And Address:",
-      "Ministry of Communications Department of Telecommunications (DOT)",
-      "Start Date: 28-04-2026 5:10 PM",
-      "End Date: 23-05-2026 6:00 PM"
+      "Health & Family Welfare Department Gujarat",
+      "Start Date: 11-05-2026 6:05 PM",
+      "End Date: 21-05-2026 7:00 PM"
     ],
     "result_buttons": [
       {
         "label": "View BID Results",
-        "href": "/bidding/bid/getBidResultView/9266832",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9266832"
+        "href": "/bidding/bid/getBidResultView/9315247",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9315247"
       }
     ],
-    "bid_no": "GEM/2026/B/7483688",
+    "bid_no": "GEM/2026/B/7527165",
     "results": [
       {
         "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9266832",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9315247",
+        "html_file": "./results\\technical\\GEM_2026_B_7527165_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7527165_View_BID_Results.png",
+        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7527165\nBid Number: GEM/2026/B/7527165\n\nBid Status: Active\n\nQuantity: 1\n\nBid Validity (From End Date): 15 ( Days)\n\nBid Start Date / Time: 11-05-2026 18:05:10\n\nBid End Date / Time: 21-05-2026 19:00:00\n\nBid Opening Date / Time: 21-05-2026 19:30:00\n\nAverage Turn Over of Last 3 Years: Lakhs Experience with Gov. Required: Years\nBuyer Details\n\nName: Gambhava Rameshkumar Raghavbhai\n\nAddress: Gambhava Rameshkumar Raghavbhai,Buycon383.Hfwdg.Gj@Gembuyer.In,HOSPITAL FOR MENTAL HEALTH 361004 JAMNAGAR JAMNAGAR 0288-2750218 Hospitalformentalhealth.Jam@Gmail.Com,Jamnagar,GUJARAT,361004,India,0288-2750218-\n\nState: Gujarat\n\nDepartment: Health & Family Welfare Department Gujarat\n\nOrganisation: N/A\n\nOffice: Hospital For Mental Health\n\n2. TECHNICAL EVALUATION\nWaiting for the completion of technical evaluation.\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "error": "",
+        "panels_expanded": 1
       }
     ]
   },
@@ -152,10 +258,11 @@
       {
         "label": "View BID Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9211908",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "html_file": "./results\\technical\\GEM_2026_B_7434586_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7434586_View_BID_Results.png",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nHDFC Bank services on the GeM Portal will remain unavailable from 12 June, 9:00 PM to 13 June, 5:00 AM due to scheduled maintenance by HDFC Bank. Users are advised to plan their GeM activities accordingly. Newspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). GeM Vendor Assessment Workshop is being conducted for prospective OEMs on GeM to impart understanding of the VA process and documentation requirements. The upcoming workshop session is planned for 19th June 2026. For details, please click the banner on GeM website homepage Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,632\nProduct Categories\n \n1,933,457\nOrder Value (Cr.)\n \n349\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 12-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
+        "error": "",
+        "panels_expanded": 0
       }
     ]
   },
@@ -192,10 +299,11 @@
       {
         "label": "View BID Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9268897",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
+        "html_file": "./results\\technical\\GEM_2026_B_7485572_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7485572_View_BID_Results.png",
+        "text": "English\n  Dark Mode Font Size A- A A+ Skip to Main Content\nNeed Help ? \nPRODUCTS SERVICES CONTENT\nForward Auction   \nBids   \nLogin\nSign Up \n CATEGORIES\nGeM Advantages\nGeM Exclusive\nFAQs\nContact Us\nRate a Seller\n New on GeM \n\nHOME / BID STATUS\n1. BID DETAILS - GEM/2026/B/7485572\nBid Number: GEM/2026/B/7485572\n\nBid Status: Active\n\nQuantity: 11\n\nBid Validity (From End Date): 180 ( Days)\n\nBid Start Date / Time: 30-04-2026 11:23:22\n\nBid End Date / Time: 11-05-2026 12:00:00\n\nBid Opening Date / Time: 11-05-2026 12:30:00\n\nAverage Turn Over of Last 3 Years: 25 Lakhs Experience with Gov. Required: Years\nBuyer Details\n\nName: Vineet Khokher\n\nAddress: Vineet Khokher,Vineet.Khokher@Sfio.Nic.In,SFIO, 2nd Floor, Pt Deendayal Antyodaya Bhawan, CGO Complex, New Delhi-110003,Central Delhi,DELHI,110003,India,011-24369244-\n\nMinistry: Ministry Of Corporate Affairs\n\nDepartment: Na\n\nOrganisation: Serious Fraud Investigation Office (Sfio)\n\nOffice: Cgo Complex Lodi Road\n\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSite Map\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nBRAND GeM\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nNotifications\n\nCCM Schedule\n\nForums\n\nTESTIMONIALS\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nMoUs\nTRAINING\n\nLMS\n\nTraining Calendar\n\nTraining Module\n\nFacilitators\n\nDownload GeM Logo\n\nNEED HELP?\n\nFAQs\n\nVideo Guides\n\nRaise-a Ticket\n\nContact Us\n\nCareers\n\n         \n\n© 2026 GeM All rights reserved\n\nSite operated and maintained by Managed Service Provider\n\n    ",
+        "error": "",
+        "panels_expanded": 0
       }
     ]
   },
@@ -232,10 +340,11 @@
       {
         "label": "View BID Results",
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9203795",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+        "html_file": "./results\\technical\\GEM_2026_B_7427176_View_BID_Results.html",
+        "screenshot": "./results\\technical\\GEM_2026_B_7427176_View_BID_Results.png",
+        "text": "English\nहिंदी\nதமிழ்\nবাংলা\nঅসমীয়া\nਪੰਜਾਬੀ\nગુજરાતી\nಕನ್ನಡ\nमराठी\nമലയാളം\nଓଡ଼ିଆ\nతెలుగు\n  Dark Mode Font Size A- A A+ Skip to Main Content  \n Raise a Ticket Need Help ? \nPRODUCTS SERVICES CONTENT    INTERACTIVE TRAINING COURSES   \nForward Auction   \nOngoing Auctions\nFA Buyer Registration\nFA Buyer Login\nBids   \nList of Bids\nRailways Bids\nPBP Notices\nSign Up  \nBuyer Organisation\nSeller/Service Provider\nGRA /VA for GeM New\nLogin  \nGeM\nGRA /VA for GeM New\n Categories\nFeatures & Benefits Business Opportunities Seller On GeM View Contracts  CPPP \n New on GeM \n03\n\nHDFC Bank services on the GeM Portal will remain unavailable from 12 June, 9:00 PM to 13 June, 5:00 AM due to scheduled maintenance by HDFC Bank. Users are advised to plan their GeM activities accordingly. Newspaper & Magazine Supply Service (Version 2)” is now live and the old version has been discontinued for procurement. Service Providers are advised to create their offerings under the new version at earliest GeM is linked with TReDS Exchanges for sharing CPSE purchases from MSMEs with financiers, encouraging cheaper and quicker financing. Primary Buyers and Sellers/Service Providers are requested to update TReDS Exchange onboarding status in their profile (Profile -> TReDS). GeM Vendor Assessment Workshop is being conducted for prospective OEMs on GeM to impart understanding of the VA process and documentation requirements. The upcoming workshop session is planned for 19th June 2026. For details, please click the banner on GeM website homepage Dear sellers, GeM takes strict actions against the errant sellers.Don’t indulge in Bid Rigging, Cartelisation, tinkering, bypassing or any type of collusion.\n  GeM Outlet Stores  \nSaras Ajeevika\nODOP\nStartup Runway\nThe Aabhar Collection\nIndia Handloom\nIndia Handicraft\nWomaniya\nMillets\n\n\nPopular Product Categories\n\n\nOXYGEN GAS & ACCESSORIES\n\nOxygen Concentrator\nOxygen Flow Meter\nCompressed oxygen IS:309\nO2 Gas Cylinders - Steel\nHF Nasal O2 Therapy Unit\n\nView All\n \nMEDICAL\n\nHand Sanitizer\nAir Pollution Mask\nSurgical Gloves\nCovid-19 Kit for...\n\nView All\n \nSARAS COLLECTION\n\nHandicrafts\nHandloom Texti..\nPersonal Care..\nAccessories\n\nView All\n \n \nFURNITURE\n\nOffice Chair\nComputer Desk\nLounge Chair\nStorage Rack\n\nView All\n \nFIRE SAFETY\n\nFire Extinguishers\nSprinklers Smoke\nDetectors Fire\nAlarms\n\nView All\n \nCOMPUTERS\n\nDesktop Computer\nComputer Monitor\nPC Software\nComputer Printer\n\nView All\n \nEXPLORE THE MARKET\nPopular Service Categories\n\nSecurity Manpower\n\n \n\nCatering\n\n \n\nHuman Resource\n\n \n\nCloud\n\n \n\nVehicle Hiring\n\nVIEW ALL SERVICES\nWhy you should choose GeM\n\n\n10,632\nProduct Categories\n \n1,933,457\nOrder Value (Cr.)\n \n349\nService Categories\n\nRich Listing of Products / Services\n\n \n\nIntegrated Payment System\n \n\n \n\nMultiple Procurement Modes - Direct Purchase / Bid / RA\n\n \n\nGreat Transparency and Speed of Procurement\n\n \n\nOnline Ordering and Contract Generation\n\nCustomers Speak\n\n“We wish to express our sincere appreciation for the exceptional commitment displayed by GeM Team in the auctioning of different items at Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow. Continuous assistance and guidance were provided with utmost professionalism and excellence by GeM Team. The achieved price was exceedingly competitive, surpassing our reserved value significantly, an accomplishment that is both impressive and noteworthy. We look forward to utilizing GeM Forward Auction in future as well for disposal of other goods and materials”\n\nSh. S.B.Singh\n\nSTO/ Nodal Officer( GeM Cell) SGPGIMS, Lucknow\n\n    \nInitiatives\nVIEW ALL INITIATIVES\nGeM Connect\nVIEW ALL NOTIFICATIONS\nWEB INFO\n\nTerms of Use\n\nWebsite Policies\n\nDocument Help\n\nSitemap\n\nWeb Information Manager\n\nABOUT GeM\n\nIntroduction to GeM\n\nStatistics\n\nRight to Information\n\nAnalytics\n\nNew on GeM\n\nTestimonials\n\nBrand GeM\n\nNEWS & EVENTS\n\nNewsroom\n\nGallery\n\nLatest Updates/Features\n\nCCM Schedule\n\nForums\n\nRESOURCES\n\nGeM Handbook\n\nOM’s/Circulars\n\nTerms and Conditions\n\nPolicies/Manuals\n\nMiscellaneous\n\nGeM Integration Toolkit\n\nMoU's\n\nTRAINING\n\nInteractive Training Courses\n\nLMS\n\nGeM Webinar\n\nTraining Module\n\nBusiness Facilitators\n\nGeM Logo\n\nList of Suspended Sellers\n\nSellers Suspended due to non-compliance with GFR Rule 144(xi)\n\nNEED HELP ?\n\nFAQs\n\nFeedback\n\nRaise a Ticket\n\nContact Us\n\nCareers\n\nUseful links\n\n \n\nThis site is designed, developed and maintained by Managed Service Provider and is owned by Government e Marketplace (GeM)\n\n     \n\n© 2026 GeM All rights reserved\n\nLast Updated: 12-Jun-2026\n\nGovernment e Marketplace is a 100 percent Government owned Section 8 company setup under the aegis of Department of Commerce, Ministry of Commerce and Industry for procurement of common use goods and services by government ministries, departments and CPSEs.\n\n     \n''",
+        "error": "",
+        "panels_expanded": 0
       }
     ]
   },
@@ -268,135 +377,6 @@
       }
     ],
     "bid_no": "GEM/2026/B/7437373",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9215127",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      }
-    ]
-  },
-  {
-    "bid_links": [
-      {
-        "label": "BID NO:",
-        "text": "GEM/2026/B/7430364",
-        "href": "/showbidDocument/9207265",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/9207265"
-      }
-    ],
-    "status": "Technical Evaluation",
-    "items_short": "Custom Bid for Services - 9050...",
-    "items_full": "Custom Bid for Services - 9050C26B02 : Design, Engineering, Supply, Installation, Testing & Commiss",
-    "items_category": "",
-    "rows": [
-      "Items: Custom Bid for Services - 9050...",
-      "Quantity: 1",
-      "Department Name And Address:",
-      "Ministry of Petroleum and Natural Gas INDIAN OIL CORPORATION LIMITED",
-      "Start Date: 09-04-2026 5:51 PM",
-      "End Date: 30-04-2026 6:00 PM"
-    ],
-    "result_buttons": [
-      {
-        "label": "View BID Results",
-        "href": "/bidding/bid/getBidResultView/9207265",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9207265"
-      }
-    ],
-    "bid_no": "GEM/2026/B/7430364",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9207265",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
-      }
-    ]
-  },
-  {
-    "bid_links": [
-      {
-        "label": "BID NO:",
-        "text": "GEM/2026/B/7215461",
-        "href": "/showbidDocument/8959247",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/8959247"
-      }
-    ],
-    "status": "Technical Evaluation",
-    "items_short": "Business Intelligence (BI) Too...",
-    "items_full": "Business Intelligence (BI) Tool for Data Analysis Lab",
-    "items_category": "",
-    "rows": [
-      "Items: Business Intelligence (BI) Too...",
-      "Quantity: 1",
-      "Department Name And Address:",
-      "Ministry of Home Affairs Women Safety Division",
-      "Start Date: 11-03-2026 12:52 PM",
-      "End Date: 15-04-2026 2:00 PM"
-    ],
-    "result_buttons": [
-      {
-        "label": "View BID Results",
-        "href": "/bidding/bid/getBidResultView/8959247",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8959247"
-      }
-    ],
-    "bid_no": "GEM/2026/B/7215461",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8959247",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      }
-    ]
-  },
-  {
-    "bid_links": [
-      {
-        "label": "BID NO:",
-        "text": "GEM/2026/B/7391178",
-        "href": "/showbidDocument/9162647",
-        "url": "https://bidplus.gem.gov.in/showbidDocument/9162647"
-      }
-    ],
-    "status": "Technical Evaluation",
-    "items_short": "Artificial intelligence, Machi...",
-    "items_full": "Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development, O&M, Integ",
-    "items_category": "",
-    "rows": [
-      "Items: Artificial intelligence, Machi...",
-      "Quantity: 1",
-      "Department Name And Address:",
-      "Ministry of Civil Aviation AIRLINE ALLIED SERVICES Limited",
-      "Start Date: 25-03-2026 3:40 PM",
-      "End Date: 15-04-2026 2:00 PM"
-    ],
-    "result_buttons": [
-      {
-        "label": "View BID Results",
-        "href": "/bidding/bid/getBidResultView/9162647",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9162647"
-      }
-    ],
-    "bid_no": "GEM/2026/B/7391178",
-    "results": [
-      {
-        "label": "View BID Results",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9162647",
-        "html_file": "",
-        "screenshot": "",
-        "text": "",
-        "error": "redirected_to_home (status=200, final_url=https://gem.gov.in/)"
-      }
-    ]
+    "results": []
   }
 ]

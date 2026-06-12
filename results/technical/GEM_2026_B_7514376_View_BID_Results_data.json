@@ -1,0 +1,21 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7514376",
+    "bid_status": "Active",
+    "bid_start_datetime": "11-05-2026 11:59:24",
+    "bid_end_datetime": "28-05-2026 12:00:00",
+    "bid_opening_datetime": "28-05-2026 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Nitu",
+    "address": "Nitu,nitu@indianoil.in,Indian Oil Corporation Ltd, Southern Region Pipelines, House of Four Frames, 6-13, Wheatcroft Road, Nungambakkam, Chennai \u2013 600034,Chennai,TAMIL NADU,600034,India,044-28243187-",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Indian Oil Corporation Limited",
+    "organisation": "Iocl- Srpl",
+    "office": "South"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}
