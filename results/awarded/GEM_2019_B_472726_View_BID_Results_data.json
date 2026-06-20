@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/472726",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "20-12-2019 16:21:06",
+    "bid_end_datetime": "20-01-2020 09:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Md. Mujammil Ali",
+    "department": "Finance Department Assam",
+    "organisation": "N/a",
+    "office": "Guwahati"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Software Re-Seller Sole Propreitorship Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "20-01-2020 01:46:34",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Software Re-Seller Sole Propreitorship Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 187494.00",
+      "rank": "L1"
+    }
+  ]
+}

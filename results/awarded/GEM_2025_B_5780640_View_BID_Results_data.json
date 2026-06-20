@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5780640",
+    "bid_status": "Active",
+    "quantity": "20",
+    "bid_start_datetime": "03-01-2025 19:18:36",
+    "bid_end_datetime": "25-01-2025 20:00:00",
+    "bid_opening_datetime": "25-01-2025 20:30:00",
+    "bid_validity_days": "170"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** LEH",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "JMS ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-01-2025 12:43:42",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "KAUSHAL FABRICATORS Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-01-2025 11:14:13",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KBS ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-01-2025 12:12:37",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KAUSHAL FABRICATORS (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Deterrence concepts,Life Three point zero,The Innovators Dilemma,2034 Elliot Ackerman,The Economics",
+      "total_price": "` 35580.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "KBS ENTERPRISES (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Deterrence concepts,Life Three point zero,The Innovators Dilemma,2034 Elliot Ackerman,The Economics",
+      "total_price": "` 38569.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "JMS ENTERPRISES (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Deterrence concepts,Life Three point zero,The Innovators Dilemma,2034 Elliot Ackerman,The Economics",
+      "total_price": "` 40206.00",
+      "rank": "L3"
+    }
+  ]
+}

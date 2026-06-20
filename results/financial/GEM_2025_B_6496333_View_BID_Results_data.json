@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6496333",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "03-09-2025 09:39:07",
+    "bid_end_datetime": "19-09-2025 14:00:00",
+    "bid_opening_datetime": "19-09-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KANGRA",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BLISSFULCOSMOS LLP Under PMA",
+      "offered_item": "Make  : NASCO Model  : 101-7150AI Title : High Fidelity whole Body Patient communication Training Module Based on Artificial Intelligence",
+      "participated_on": "16-09-2025 21:14:49",
+      "mse_mii_status": "Start-up",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MULTISCIENCE / DVS PUBLISHERS Under PMA",
+      "offered_item": "Make  : Prestan Model  : PP-AM-1269-MS Title : High Fidelity whole Body Patient communication Training Module Based on Artificial Intelligence",
+      "participated_on": "14-09-2025 13:23:35",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SHARMA BROS SCIENTIFIC INSTRUMENT CO Under PMA",
+      "offered_item": "Make  : NA Model  : 56061 Title : High Fidelity whole Body Patient communication Training Module Based on Artificial Intelligence",
+      "participated_on": "18-09-2025 19:51:49",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

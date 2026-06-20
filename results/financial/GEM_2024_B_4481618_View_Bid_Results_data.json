@@ -1,0 +1,77 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4481618",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "13-01-2024 17:35:18",
+    "bid_end_datetime": "29-01-2024 10:00:00",
+    "bid_opening_datetime": "29-01-2024 10:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "52"
+  },
+  "buyer_details": {
+    "name": "Abhay Verma",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARD POLYPACKS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-01-2024 15:44:38",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S SASTA UPBHOKTA BHANDAR Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-01-2024 14:55:10",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S SHRI BALAJI TRADING AND SUPPLYING CO. Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-01-2024 21:35:47",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S VAISHNAVI ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-01-2024 11:37:50",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "MAA KALI PACKERS MOOVERS AND TRANSPORTATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 23:46:47",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "SHANTI OFFSET PRINTERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 11:53:56",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "Surepak Industries Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-01-2024 16:21:21",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": []
+}

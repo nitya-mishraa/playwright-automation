@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Manan Kiritkumar Oza",
+    "department": "Home Department Gujarat",
+    "organisation": "N/a",
+    "office": "Anti Terrorism Squad"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SKAN NETCOMMUNICATIONS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 49029900.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "TNS NETWORKING SOLUTIONS PRIVATE LIMITED. Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 49259000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 49390000.00",
+      "rank": "L3"
+    }
+  ]
+}

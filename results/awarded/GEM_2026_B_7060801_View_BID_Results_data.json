@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7060801",
+    "bid_status": "Active",
+    "bid_start_datetime": "19-01-2026 16:01:54",
+    "bid_end_datetime": "10-02-2026 16:00:00",
+    "bid_opening_datetime": "10-02-2026 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Ashutosh Pandey",
+    "address": "Ashutosh Pandey,ad.mm-nca@gov.in,National Telecommunications Institute for Policy Research, Innovation and Training Admin Building, ALTTC Campus Govt of India Enclave, Ghaziabad-201002,GHAZIABAD,UTTAR PRADESH,201002,India,941-5008990-",
+    "ministry": "Ministry Of Communications",
+    "department": "Department Of Telecommunications (dot)",
+    "organisation": "Ntiprit",
+    "office": "National Telecommunications Institute Ghaziabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DEVISHREE SOLUTIONS Under PMA",
+      "offered_item": "06-02-2026 12:53:58",
+      "participated_on": "Offline upload",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DIGITOAD TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "30-01-2026 17:11:07",
+      "participated_on": "Offline upload",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "FAYWAY PRIVATE LIMITED Under PMA",
+      "offered_item": "23-01-2026 16:44:14",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MONARCH SALES Under PMA",
+      "offered_item": "07-02-2026 16:48:16",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DIGITOAD TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; As per Sco",
+      "total_price": "` 849600.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MONARCH SALES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; As per Sco",
+      "total_price": "` 1019520.00",
+      "rank": "L2"
+    }
+  ]
+}

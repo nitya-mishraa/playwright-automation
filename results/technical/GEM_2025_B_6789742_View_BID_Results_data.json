@@ -1,0 +1,19 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6789742",
+    "bid_status": "Active",
+    "bid_start_datetime": "14-10-2025 16:42:01",
+    "bid_end_datetime": "24-10-2025 17:00:00",
+    "bid_opening_datetime": "24-10-2025 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Kamal Kishore",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

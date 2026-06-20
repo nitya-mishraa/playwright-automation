@@ -411,13 +411,13 @@ function getServiceOptions(){
                                 <div class="col-sm-3 col-md-4 col-xs-12">
                                                                 
                                     <div id="navbar" class="navbar-collapse row collapse sce">
-                                        <ul class="nav navbar-nav bid-navset pull-right" data-smartmenus-id="1781251357600768">
+                                        <ul class="nav navbar-nav bid-navset pull-right" data-smartmenus-id="17819496347541616">
                                    <li class="on-focus">
                                                                                                
                                                          
-                                                                                                                    <a href="#" title="Forward Auction" class="has-submenu" id="sm-1781251357600768-1" aria-haspopup="true" aria-controls="sm-1781251357600768-2" aria-expanded="false">Forward Auction &nbsp; <i class="fa fa-caret-down text-danger" aria-hidden="true"></i></a>
+                                                                                                                    <a href="#" title="Forward Auction" class="has-submenu" id="sm-17819496347541616-1" aria-haspopup="true" aria-controls="sm-17819496347541616-2" aria-expanded="false">Forward Auction &nbsp; <i class="fa fa-caret-down text-danger" aria-hidden="true"></i></a>
                                                         
-                                                                                                                    <ul class="dropdown-menu" id="sm-1781251357600768-2" role="group" aria-hidden="true" aria-labelledby="sm-1781251357600768-1" aria-expanded="false">
+                                                                                                                    <ul class="dropdown-menu" id="sm-17819496347541616-2" role="group" aria-hidden="true" aria-labelledby="sm-17819496347541616-1" aria-expanded="false">
                                                             
                                                                     <li class=" on-focus">
                                                                         <a href="https://forwardauction.gem.gov.in/eprocure/home" title="Ongoing Auctions">Ongoing Auctions</a>
@@ -435,9 +435,9 @@ function getServiceOptions(){
                                                       <li class="on-focus">
                                                                                                
                                                          
-                                                                                                                    <a href="#" title="Bids" class="has-submenu" id="sm-1781251357600768-3" aria-haspopup="true" aria-controls="sm-1781251357600768-4" aria-expanded="false">Bids &nbsp; <i class="fa fa-caret-down text-danger" aria-hidden="true"></i></a>
+                                                                                                                    <a href="#" title="Bids" class="has-submenu" id="sm-17819496347541616-3" aria-haspopup="true" aria-controls="sm-17819496347541616-4" aria-expanded="false">Bids &nbsp; <i class="fa fa-caret-down text-danger" aria-hidden="true"></i></a>
                                                         
-                                                                                                                    <ul class="dropdown-menu" id="sm-1781251357600768-4" role="group" aria-hidden="true" aria-labelledby="sm-1781251357600768-3" aria-expanded="false">
+                                                                                                                    <ul class="dropdown-menu" id="sm-17819496347541616-4" role="group" aria-hidden="true" aria-labelledby="sm-17819496347541616-3" aria-expanded="false">
                                                             
                                                                     <li class=" on-focus">
                                                                         <a href="/all-bids" title="List of Bids">List of Bids</a>
@@ -451,9 +451,9 @@ function getServiceOptions(){
                                                     <li><a class="btn-nov1" title="Login" href="https://sso.gem.gov.in/ARXSSO/oauth/login">Login</a></li>  <li class="on-focus">
                                                                                                
                                                          
-                                                                                                                    <a href="#" class="has-submenu" title="Sign Up" id="sm-1781251357600768-5" aria-haspopup="true" aria-controls="sm-1781251357600768-6" aria-expanded="false">Sign Up&nbsp;<i class="fa fa-caret-down text-danger" aria-hidden="true"></i>  </a>
+                                                                                                                    <a href="#" class="has-submenu" title="Sign Up" id="sm-17819496347541616-5" aria-haspopup="true" aria-controls="sm-17819496347541616-6" aria-expanded="false">Sign Up&nbsp;<i class="fa fa-caret-down text-danger" aria-hidden="true"></i>  </a>
                                                         
-                                                                                                                    <ul class="dropdown-menu" id="sm-1781251357600768-6" role="group" aria-hidden="true" aria-labelledby="sm-1781251357600768-5" aria-expanded="false">
+                                                                                                                    <ul class="dropdown-menu" id="sm-17819496347541616-6" role="group" aria-hidden="true" aria-labelledby="sm-17819496347541616-5" aria-expanded="false">
                                                             
                                                                     <li class=" on-focus">
                                                                         <a href="https://mkp.gem.gov.in/registration/signup#!/buyer" title="Buyers">Buyers</a>
@@ -576,7 +576,7 @@ function getServiceOptions(){
                             <div class="col-md-8">
 
                                 <div id="navbar" class="navbar-collapse collapse sce">
-                                    <ul class="nav navbar-nav bid-nov-set" data-smartmenus-id="178125135760266">
+                                    <ul class="nav navbar-nav bid-nov-set" data-smartmenus-id="1781949634757201">
 
                                         <li>
                                             <a href="https://gem.gov.in/page/detail/26/english" title="GeM Advantages" id="nov-color">GeM Advantages</a>
@@ -903,7 +903,7 @@ function getServiceOptions(){
 </div>
 <script type="text/javascript">
     $(document).ready(function () {
-        var post_array = {'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'};
+        var post_array = {'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'};
 
         $('body').on('click', '.view_consignees', function (e) {
             var bid_id = $(this).attr('data-bid_id');
@@ -966,7 +966,7 @@ function getServiceOptions(){
                         type: "POST",
                         dataType: 'html',
                         async: true,
-                        data: {'bid_id':bid_id, 'processID': process_id, 'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'},
+                        data: {'bid_id':bid_id, 'processID': process_id, 'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'},
                         url: '/bidding/buyer/getCaDocView/',
                         success: function (data) {
                                 $('.ca_doc_view').html(data);
@@ -1137,7 +1137,7 @@ function getServiceOptions(){
             url: "https://bidplus.gem.gov.in/bidding/buyer/getReason/" + bp_id,
             async: false,
             type: "POST",
-            data: {'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'},
+            data: {'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'},
             dataType: 'json',
             success: function (data) {
                 if (data.isStatus == 1)
@@ -1167,7 +1167,7 @@ function getServiceOptions(){
             url: "https://bidplus.gem.gov.in/bidding/bid/viewSellerEvaluation/"+bid_id+"/"+bp_id,
             async: false,
             type: "POST",
-            data: {'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'},
+            data: {'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'},
             dataType: 'html',
             success: function (data) {
                 $('.participation_evaluation_data').html(data);
@@ -1182,7 +1182,7 @@ function getServiceOptions(){
             type: "POST",
             dataType: 'json',
             async: true,
-            data: {'processID': processID, 'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'},
+            data: {'processID': processID, 'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'},
             url: '/bidding/buyer/getProductDetails/',
             success: function (data) {
                 showCompare(data);
@@ -1196,7 +1196,7 @@ function getServiceOptions(){
             type: "POST",
             dataType: 'json',
             async: true,
-            data: {'processID': processID, 'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'},
+            data: {'processID': processID, 'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'},
             url: '/bidding/buyer/getServiceDetails/',
             success: function (data) {
                 showCompareService(data);
@@ -1585,7 +1585,7 @@ function getServiceOptions(){
 
 <!--FOOTER ENDS--> 
 <input type="hidden" id="cname" value="csrf_bd_gem_nk">
-<input type="hidden" id="chash" value="0217c0c8855adf6ac58086d21741d0c2">
+<input type="hidden" id="chash" value="d6270baaf6a02e6c0c883424e2c0c12e">
 
 <!--GeM Loader -->
 <div class="backgroundLoder" style="display:none"></div>
@@ -1759,7 +1759,7 @@ function getServiceOptions(){
             var loadbased_required = $('input[name="loadbased_required"]:checked').val();
             var loadbased_reason = $(".loadbased_reason").val().trim();
             var bd_id = $("#bd_id").val();
-            var post_array = {"load_bid_file":load_bid_file,"bd_id":bd_id,"loadbased_required":loadbased_required,"loadbased_reason":loadbased_reason,'csrf_bd_gem_nk': '0217c0c8855adf6ac58086d21741d0c2'};
+            var post_array = {"load_bid_file":load_bid_file,"bd_id":bd_id,"loadbased_required":loadbased_required,"loadbased_reason":loadbased_reason,'csrf_bd_gem_nk': 'd6270baaf6a02e6c0c883424e2c0c12e'};
             $.ajax({
                 url: "https://bidplus.gem.gov.in/bidding/updateLoadData/",
                 async: false,
@@ -1786,7 +1786,7 @@ function getServiceOptions(){
         var fd = new FormData();
         fd.append("loadbased_file", document.getElementById("loadbased_file").files[0]);
         fd.append('bid_id', bidID);
-        fd.append('csrf_bd_gem_nk', '0217c0c8855adf6ac58086d21741d0c2');
+        fd.append('csrf_bd_gem_nk', 'd6270baaf6a02e6c0c883424e2c0c12e');
         var saveLoadDocUrl = "https://bidplus.gem.gov.in/bidding/buyerbid/saveLoadDoc/";
         var load_bid_file = '';
         $.ajax({
@@ -1954,7 +1954,7 @@ function getServiceOptions(){
                     form_data.append('bidID', bidID);
                     form_data.append('token', token);
                     form_data.append('load_bid_file', load_bid_file);
-                    form_data.append('csrf_bd_gem_nk', '0217c0c8855adf6ac58086d21741d0c2');
+                    form_data.append('csrf_bd_gem_nk', 'd6270baaf6a02e6c0c883424e2c0c12e');
                     form_data.append('save_all_boq', 1);
                     $.ajax({
                         url: saveUrl,
@@ -1981,7 +1981,7 @@ function getServiceOptions(){
                         url: saveUrl,
                         async: false,
                         type: "POST",
-                        data: $('#form_att').serialize() + "&load_bid_file=" + load_bid_file+ "&bid_type=" + btype + "&variantID=" + variantID + "&itemID=" + itemID + "&detailID=" + detailID + "&token=" + token + "&csrf_bd_gem_nk=0217c0c8855adf6ac58086d21741d0c2&minimum_rate="+minimum_rate+"&buyer_boq_file="+file_boq,
+                        data: $('#form_att').serialize() + "&load_bid_file=" + load_bid_file+ "&bid_type=" + btype + "&variantID=" + variantID + "&itemID=" + itemID + "&detailID=" + detailID + "&token=" + token + "&csrf_bd_gem_nk=d6270baaf6a02e6c0c883424e2c0c12e&minimum_rate="+minimum_rate+"&buyer_boq_file="+file_boq,
                         dataType: "html",
                         success: function (data) {
                             if (data)
@@ -2011,7 +2011,7 @@ function getServiceOptions(){
             url: "https://bidplus.gem.gov.in/bidding/step1_save/",
             async: false,
             type: "POST",
-            data: "bidID=" + bidID + "&bid_type=" + bid_type + "&csrf_bd_gem_nk=0217c0c8855adf6ac58086d21741d0c2", //$('#form_contract').serialize() + "&
+            data: "bidID=" + bidID + "&bid_type=" + bid_type + "&csrf_bd_gem_nk=d6270baaf6a02e6c0c883424e2c0c12e", //$('#form_contract').serialize() + "&
             dataType: "html",
             success: function (data) {
                 if (data)
@@ -2052,7 +2052,7 @@ function getServiceOptions(){
                     var form_data = new FormData();
                     form_data.append('bid_type', 0);
                     form_data.append('bidID', bidID);
-                    form_data.append('csrf_bd_gem_nk', '0217c0c8855adf6ac58086d21741d0c2');
+                    form_data.append('csrf_bd_gem_nk', 'd6270baaf6a02e6c0c883424e2c0c12e');
                     form_data.append('save_all_boq', 1);
                     showLoader();
                     $.ajax({
@@ -2128,7 +2128,7 @@ function getServiceOptions(){
                 url: "https://bidplus.gem.gov.in/bidding/bid/setLanguageCookie/",
                 async: false,
                 type: "POST",
-                data: "value=" + lang_value + "&text=" + lang_text + "&csrf_bd_gem_nk=" + '0217c0c8855adf6ac58086d21741d0c2',
+                data: "value=" + lang_value + "&text=" + lang_text + "&csrf_bd_gem_nk=" + 'd6270baaf6a02e6c0c883424e2c0c12e',
                 dataType: "json",
                 success: function (data) {
                     location.reload();
@@ -2257,7 +2257,7 @@ function getServiceOptions(){
                 url: "https://bidplus.gem.gov.in/bidding/showSpecs/",
                 async: false,
                 type: "POST",
-                data: "csrf_bd_gem_nk=0217c0c8855adf6ac58086d21741d0c2&variantID=" + variantID + "&itemID=" + itemID + "&btype=" + btype + "&token=" + token + "&bdid=" + bdid,
+                data: "csrf_bd_gem_nk=d6270baaf6a02e6c0c883424e2c0c12e&variantID=" + variantID + "&itemID=" + itemID + "&btype=" + btype + "&token=" + token + "&bdid=" + bdid,
                 dataType: "html",
                 success: function (data) {                    
                     $('.hiddSpecs').hide();

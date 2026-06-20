@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1780621",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "21-12-2021 16:17:35",
+    "bid_end_datetime": "31-12-2021 17:00:00",
+    "bid_opening_datetime": "31-12-2021 17:30:00",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Sossamma Thomas",
+    "address": "022-25487114-,MAHARASHTRA,India,DIRECTORATE OF PURCHASE AND STORES V. S. BHAVAN ANUSHAKTINAGAR,Sossamma Thomas,MUMBAI,po_gem@dpsdae.gov.in,400094",
+    "ministry": "Pmo",
+    "department": "Department Of Atomic Energy",
+    "organisation": "N/a",
+    "office": "Directorate Of Purchase And Stores"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GLOBAL TECHNOLOGY Under PMA",
+      "offered_item": "Make  : SnapGene Model  : SnapGene Academic Perpetual",
+      "participated_on": "27-12-2021 23:48:28",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "GRAPHSTATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Graphpad Model  : Prism 9 Perpetual",
+      "participated_on": "22-12-2021 23:05:24",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KONARK SOLUTIONS BANGALORE PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Graphpad Model  : Prism 9 Perpetual",
+      "participated_on": "31-12-2021 12:43:16",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GRAPHSTATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 68229.00",
+      "rank": "L1"
+    }
+  ]
+}

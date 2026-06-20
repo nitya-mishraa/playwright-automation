@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3163347",
+    "bid_status": "Active",
+    "quantity": "56",
+    "bid_start_datetime": "21-02-2023 19:36:45",
+    "bid_end_datetime": "03-03-2023 14:00:00",
+    "bid_opening_datetime": "03-03-2023 14:30:00",
+    "bid_validity_days": "40"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** LEH",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CHAWLA MACHINERY STORE Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-03-2023 10:32:07",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Moni Enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-03-2023 10:51:16",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Universal Traders Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-03-2023 11:29:45",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CHAWLA MACHINERY STORE (MII) Under PMA",
+      "offered_item": "Item Categories : Way We sleep,The 5 am Club,The Go Giver,Marcus Aurelius Meditations,Ego Is The enemy,Jeff Bezos And",
+      "total_price": "` 46359.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Moni Enterprises (MII) Under PMA",
+      "offered_item": "Item Categories : Way We sleep,The 5 am Club,The Go Giver,Marcus Aurelius Meditations,Ego Is The enemy,Jeff Bezos And",
+      "total_price": "` 48735.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Universal Traders (MII) Under PMA",
+      "offered_item": "Item Categories : Way We sleep,The 5 am Club,The Go Giver,Marcus Aurelius Meditations,Ego Is The enemy,Jeff Bezos And",
+      "total_price": "` 51605.00",
+      "rank": "L3"
+    }
+  ]
+}

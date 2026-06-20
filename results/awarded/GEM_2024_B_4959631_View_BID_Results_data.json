@@ -1,0 +1,92 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4959631",
+    "bid_status": "Active",
+    "quantity": "54",
+    "bid_start_datetime": "18-05-2024 19:42:51",
+    "bid_end_datetime": "08-06-2024 20:00:00",
+    "bid_opening_datetime": "08-06-2024 20:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Santosh Kumar",
+    "address": "Santosh Kumar,p.authority-1838@kvs.gov.in,PRINCIPAL-Kendriya Vidyalaya Mughalsarai,CHANDAULI,UTTAR PRADESH,232101,India",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of School Education And Literacy",
+    "organisation": "Kendriya Vidyalaya Sangathan",
+    "office": "Kendriya Vidyalaya Mughalsarai"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DURGA FURNITURE AND STEEL FABRICATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "07-06-2024 15:44:38",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "FSTI INDIA Under PMA",
+      "offered_item": "-",
+      "participated_on": "08-06-2024 15:01:17",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M M ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "24-05-2024 15:40:13",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M.F.ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-05-2024 15:46:49",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "M/S S.S. TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "24-05-2024 20:55:47",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "TECHB Under PMA",
+      "offered_item": "-",
+      "participated_on": "30-05-2024 18:11:19",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M.F.ENTERPRISES ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Makenbreak Humanzee DIY Stem or Steam Toy,Tellurion DIY Stem or Steam Toy,Steam 13 in 1 Solar Educa",
+      "total_price": "` 200000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S S.S. TRADERS ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Makenbreak Humanzee DIY Stem or Steam Toy,Tellurion DIY Stem or Steam Toy,Steam 13 in 1 Solar Educa",
+      "total_price": "` 204930.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M M ENTERPRISES ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Makenbreak Humanzee DIY Stem or Steam Toy,Tellurion DIY Stem or Steam Toy,Steam 13 in 1 Solar Educa",
+      "total_price": "` 217800.00",
+      "rank": "L3"
+    }
+  ]
+}

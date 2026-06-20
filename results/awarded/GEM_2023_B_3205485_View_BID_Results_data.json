@@ -1,0 +1,82 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3205485",
+    "bid_status": "Active",
+    "quantity": "109",
+    "bid_start_datetime": "01-03-2023 14:02:59",
+    "bid_end_datetime": "13-03-2023 14:00:00",
+    "bid_opening_datetime": "13-03-2023 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Gowher Ahmad Malik",
+    "department": "Higher Education Department Jammu And Kashmir",
+    "organisation": "N/a",
+    "office": "Govt Degree College Uttersoo"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Bharat Enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-03-2023 22:20:35",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "GreenTech Solar & Security Solutions Under PMA",
+      "offered_item": "-",
+      "participated_on": "13-03-2023 10:28:46",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S KUBE HEALTHCARE AND MEDICAL SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-03-2023 22:26:08",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S Peerzada Pharmaceuticals Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-03-2023 23:08:27",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GreenTech Solar & Security Solutions Under PMA",
+      "offered_item": "Item Categories : Public finance in theory and Practice,ECONOMICS OF DEVELOPMENT,PUBLIC FINANCE,THE ECONOMICS OF DEVE",
+      "total_price": "` 103065.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S Peerzada Pharmaceuticals ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Public finance in theory and Practice,ECONOMICS OF DEVELOPMENT,PUBLIC FINANCE,THE ECONOMICS OF DEVE",
+      "total_price": "` 147392.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S KUBE HEALTHCARE AND MEDICAL SERVICES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Public finance in theory and Practice,ECONOMICS OF DEVELOPMENT,PUBLIC FINANCE,THE ECONOMICS OF DEVE",
+      "total_price": "` 199867.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "Bharat Enterprises ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Public finance in theory and Practice,ECONOMICS OF DEVELOPMENT,PUBLIC FINANCE,THE ECONOMICS OF DEVE",
+      "total_price": "` 224048.00",
+      "rank": "L4"
+    }
+  ]
+}

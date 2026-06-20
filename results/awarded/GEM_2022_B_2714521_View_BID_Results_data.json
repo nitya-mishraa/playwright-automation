@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2714521",
+    "bid_status": "Active",
+    "quantity": "10",
+    "bid_start_datetime": "07-11-2022 15:04:40",
+    "bid_end_datetime": "21-11-2022 14:00:00",
+    "bid_opening_datetime": "21-11-2022 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "S R Ram Aravind",
+    "address": "EI BHAVAN, 1, BHIKAJI CAMA PLACE, NEW DELHI-110066,NEW DELHI,India,110066,ram.aravind@eil.co.in,S R Ram Aravind,DELHI",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Engineers India Limited",
+    "organisation": "Engineers India Limited",
+    "office": "Engineers India Limited"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Pro (Pack of 3 Licenses)",
+      "participated_on": "21-11-2022 13:37:59",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "IFI TECHSOLUTIONS LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Pro (Pack of 3 Licenses)",
+      "participated_on": "18-11-2022 18:19:56",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 67796.61",
+      "rank": "L1"
+    }
+  ]
+}

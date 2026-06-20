@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6046078",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "11-03-2025 17:36:15",
+    "bid_end_datetime": "21-03-2025 17:00:00",
+    "bid_opening_datetime": "21-03-2025 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Laxmi Narain",
+    "address": "Laxmi Narain,laxmi.narain75@gov.in,Principal Accounts Office, Ministry Of Industry, Room No. 517-D, Udyog Bhawan, New Delhi,NEW DELHI,DELHI,110011,India,-23061088-",
+    "ministry": "Ministry Of Commerce And Industry",
+    "department": "Department For Promotion Of Industry & Internal Trade",
+    "organisation": "Office Of Chief Controller Of Accounts Dipp",
+    "office": "Udyog Bhawan New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "participated_on": "-",
+      "mse_mii_status": "L1",
+      "status": "-"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "participated_on": "-",
+      "mse_mii_status": "L2",
+      "status": "-"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "-",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "-",
+      "rank": "L2"
+    }
+  ]
+}

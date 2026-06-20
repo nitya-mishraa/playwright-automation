@@ -1,0 +1,45 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4113068",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "19-10-2023 17:31:54",
+    "bid_end_datetime": "10-11-2023 12:00:00",
+    "bid_opening_datetime": "10-11-2023 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "50"
+  },
+  "buyer_details": {
+    "name": "Hakim Arif Hamid",
+    "department": "Skuast Kashmir",
+    "organisation": "Skuastkashmir",
+    "office": "Jammu And Kashmir"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NVIDIA Model  : DGXA100 Title : DGX",
+      "participated_on": "06-11-2023 16:45:38",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "FORE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NVIDIA Model  : NVIDIA DGX A100 Title : NVIDIA DGX A100",
+      "participated_on": "06-11-2023 20:26:10",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "INGRAM MICRO INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Nvidia Model  : Nvidia DGX A100 Title : Nvidia DGX A100",
+      "participated_on": "08-11-2023 14:16:29",
+      "mse_mii_status": "Turnover >= 500 Cr.",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

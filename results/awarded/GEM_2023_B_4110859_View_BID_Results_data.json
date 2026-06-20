@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4110859",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "19-10-2023 17:39:44",
+    "bid_end_datetime": "30-10-2023 15:00:00",
+    "bid_opening_datetime": "30-10-2023 15:30:00",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Kuldeep Singh",
+    "address": "Kuldeep Singh,bycon1.dmrc.newdelhi@gembuyer.in,OFFICE OF CONTROLLER OF STORES, DO BUILDING, SHASTRI PARK TRAIN DEPOT SHASTRI PARK, DELHI-110053,NORTH EAST DELHI,DELHI,110053,India,-9910375461-",
+    "ministry": "Ministry Of Urban Development",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "Dmrc"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "participated_on": "` 1650000.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 1650000.00",
+      "rank": "L1"
+    }
+  ]
+}

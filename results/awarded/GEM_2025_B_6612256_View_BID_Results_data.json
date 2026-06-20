@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6612256",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "28-08-2025 12:08:33",
+    "bid_end_datetime": "18-09-2025 21:00:00",
+    "bid_opening_datetime": "18-09-2025 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "72"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KURNOOL",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (ecs)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ALLATONE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : Oracle Data Integrator for Oracle Business Intelli Title : Oracle Data Integrator for Oracle Business Intelligence Latest Version (25 Named User Plus Perpetual",
+      "participated_on": "18-09-2025 16:20:05",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BLOOM SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : ORACLE Model  : Oracle Data Integrator for Oracle BI Title : Oracle Data Integrator for Oracle Business Intelligence Latest Version (25 Named User Plus Perpetual",
+      "participated_on": "18-09-2025 20:06:07",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SOFTEL SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : ORACLE Model  : Oracle Data Integrator for Oracle Business Title : Oracle Data Integrator for Oracle Business Intelligence Latest Version (25 Named User Plus Perpetual",
+      "participated_on": "18-09-2025 19:21:58",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "WIZERTECH INFORMATICS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : ORACLE Model  : Data Integrator For Oracle Business Intelligence Title : Oracle Data Integrator for Oracle Business Intelligence Latest Version (25 Named User Plus Perpetual",
+      "participated_on": "18-09-2025 17:19:20",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

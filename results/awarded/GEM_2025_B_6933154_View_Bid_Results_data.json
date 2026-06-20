@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6933154",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "26-11-2025 11:47:58",
+    "bid_end_datetime": "08-01-2026 16:00:00",
+    "bid_opening_datetime": "08-01-2026 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Kavish Sharma",
+    "address": "Kavish Sharma,so_adm_gwht@nfsu.ac.in,Guwahati Campus National Forensic Sciences University (Transit Campus) Narkasur Hiltop , GMCH Road, Bhangagarh, Guwahati, Kamrup (M), Assam-781032,Kamrup,ASSAM,781032,India,075-66177302-",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Women Safety Division",
+    "organisation": "National Forensic Sciences University",
+    "office": "382007"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "FORENTECH SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Oxygen Forensic Model  : OXYGEN FORENSIC DETECTIVE Title : Comprehensive Academic Lab for Mobile Forensic Intelligence Solution with Cloud and Chinese Phone Su",
+      "participated_on": "16-12-2025 23:40:02",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "H.M Enterprise Under PMA",
+      "offered_item": "Make  : Oxygen Forensic Model  : Detective Network Title : Comprehensive Academic Lab for Mobile Forensic Intelligence Solution with Cloud and Chinese Phone Su",
+      "participated_on": "17-12-2025 11:17:18",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HGM TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Oxygen Forensic Model  : oxygen forensic Detective Network Title : Comprehensive Academic Lab for Mobile Forensic Intelligence Solution with Cloud and Chinese Phone Su",
+      "participated_on": "16-12-2025 21:59:05",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "NEXTECHNO GEN PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Oxygen Forensic Model  : OXYGEN FORENSIC DETECTIVE NETWORK Title : Comprehensive Academic Lab for Mobile Forensic Intelligence Solution with Cloud and Chinese Phone Su",
+      "participated_on": "17-12-2025 11:12:10",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

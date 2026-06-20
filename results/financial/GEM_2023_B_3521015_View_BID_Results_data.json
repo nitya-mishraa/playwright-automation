@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3521015",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "20-06-2023 09:58:52",
+    "bid_end_datetime": "19-07-2023 15:00:00",
+    "bid_opening_datetime": "19-07-2023 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** VISAKHAPATNAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Defence Research And Development Organisation (drdo)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "APOLLO MICRO SYSTEMS LIMITED Under PMA",
+      "offered_item": "Make  : OEM Model  : OEM Title : Artificial Intelligence Enabled On Board Computer And Wireless Communication Terminal",
+      "participated_on": "18-07-2023 14:01:37",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BIT MAPPER INTEGRATION TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Bitmapper Integration Technologies Pvt Ltd Model  : BMIT-NC-BWC1 Title : Body Worn Camera",
+      "participated_on": "10-07-2023 14:52:11",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "JK PAPER LIMITED Under PMA",
+      "offered_item": "Make  : OEM Model  : CWS TEST JIG Title : CWS TEST JIG",
+      "participated_on": "19-07-2023 14:27:47",
+      "mse_mii_status": "Turnover >= 500 Cr.",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "STUAM TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Make  : ICS Model  : ICSAIWCT0001 Title : Artificial Intelligence Enabled On Board Computer And Wireless Communication Terminal",
+      "participated_on": "19-07-2023 13:58:56",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": []
+}

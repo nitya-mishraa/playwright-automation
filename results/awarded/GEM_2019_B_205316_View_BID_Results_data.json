@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/205316",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "15-03-2019 13:45:38",
+    "bid_end_datetime": "25-03-2019 16:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Shishu Pal Singh",
+    "department": "Medical Health And Family Welfare Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Chief Medical Officer Moradabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2013",
+      "participated_on": "21-03-2019 15:40:15",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Adult Intelligence Scale",
+      "total_price": "` 106325.00",
+      "rank": "L1"
+    }
+  ]
+}

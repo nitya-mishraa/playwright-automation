@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1444910",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "17-08-2021 17:32:36",
+    "bid_end_datetime": "27-08-2021 18:00:00",
+    "bid_opening_datetime": "27-08-2021 18:30:00",
+    "bid_validity_days": "45"
+  },
+  "buyer_details": {
+    "name": "Dalip Kumar",
+    "address": "PRINCIPAL ACCOUNTS OFFICE, MINISTRY OF SCIENCE & TECHNOLOGY, HALL 'K', TECHNOLOGY BHAVAN, NEW MEHRAULI ROAD, NEW DELHI 110016,011-26856126-327,110016,India,DELHI,Dalip Kumar,SOUTH DELHI,sao.paoadmn-dst@gov.in",
+    "ministry": "Ministry Of Science And Technology",
+    "department": "Department Of Science And Technology (dst)",
+    "organisation": "N/a",
+    "office": "Office Of Chief Controller Of Accounts"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableaucreator",
+      "participated_on": "26-08-2021 12:51:06",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 382000.00",
+      "rank": "L1"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/7022449",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "20-12-2025 14:05:38",
+    "bid_end_datetime": "03-01-2026 14:00:00",
+    "bid_opening_datetime": "03-01-2026 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** JODHPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CPTS NETWORK PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Zoho Model  : Zoho Analytics OnPremise",
+      "participated_on": "29-12-2025 12:19:31",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S  NEXGEN SOLUTION Under PMA",
+      "offered_item": "Make  : Zoho Model  : Zoho Analytics OnPremise",
+      "participated_on": "29-12-2025 13:31:19",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ROMAN NETWORKS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Zoho Model  : Zoho Analytics OnPremise",
+      "participated_on": "28-12-2025 12:59:20",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

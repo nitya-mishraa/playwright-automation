@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4737022",
+    "bid_status": "Active",
+    "quantity": "76",
+    "bid_start_datetime": "05-03-2024 14:21:42",
+    "bid_end_datetime": "15-03-2024 15:00:00",
+    "bid_opening_datetime": "15-03-2024 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KUPWARA",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MIR COMMUNICATION TARATHPORA (MSE) ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : The Millionaire Fast Lane,You are the Placebo,The Prophet,Almanack of Naval Ravikant A Guide to Wea",
+      "participated_on": "` 50000.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S FARHAN SUPPLIERS (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Millionaire Fast Lane,You are the Placebo,The Prophet,Almanack of Naval Ravikant A Guide to Wea",
+      "participated_on": "` 61090.00",
+      "mse_mii_status": "L2",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Kashmir Crown  Traders Under PMA",
+      "offered_item": "Item Categories : The Millionaire Fast Lane,You are the Placebo,The Prophet,Almanack of Naval Ravikant A Guide to Wea",
+      "participated_on": "` 92800.00",
+      "mse_mii_status": "L3",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MIR COMMUNICATION TARATHPORA (MSE) ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : The Millionaire Fast Lane,You are the Placebo,The Prophet,Almanack of Naval Ravikant A Guide to Wea",
+      "total_price": "` 50000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S FARHAN SUPPLIERS (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Millionaire Fast Lane,You are the Placebo,The Prophet,Almanack of Naval Ravikant A Guide to Wea",
+      "total_price": "` 61090.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Kashmir Crown  Traders Under PMA",
+      "offered_item": "Item Categories : The Millionaire Fast Lane,You are the Placebo,The Prophet,Almanack of Naval Ravikant A Guide to Wea",
+      "total_price": "` 92800.00",
+      "rank": "L3"
+    }
+  ]
+}

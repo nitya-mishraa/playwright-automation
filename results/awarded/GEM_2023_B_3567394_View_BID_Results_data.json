@@ -1,0 +1,43 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3567394",
+    "bid_status": "Active",
+    "bid_start_datetime": "15-06-2023 15:54:36",
+    "bid_end_datetime": "29-06-2023 12:00:00",
+    "bid_opening_datetime": "29-06-2023 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Yengkhom Kamaleshwar Singha",
+    "address": "yksingha@coalindia.in,ODISHA,Yengkhom Kamaleshwar Singha,SAMBALPUR,India,Innovation Cell, MCL, Anand Vihar, Burla, Sambalpur, Odisha,768020,0663-2542674-",
+    "ministry": "Ministry Of Coal",
+    "department": "Mahanadi Coalfields Limited",
+    "organisation": "Mahanadi Coalfields Limited",
+    "office": "Mahanadi Coalfields Limited"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "UCTL PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development, O&M; Vehic",
+      "total_price": "` 2925000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "LOCANIX PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development, O&M; Vehic",
+      "total_price": "` 3465000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "IMAC DESIGN AND ENGINEERING SERVICES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development, O&M; Vehic",
+      "total_price": "` 3846150.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6867587",
+    "bid_status": "Active",
+    "quantity": "30000",
+    "bid_start_datetime": "08-11-2025 11:41:38",
+    "bid_end_datetime": "18-11-2025 12:00:00",
+    "bid_opening_datetime": "18-11-2025 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Samundra Sein",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ATAL ENTERPRISES Under PMA",
+      "offered_item": "Make  : NA Model  : KJE/DEL/86/25-26",
+      "participated_on": "17-11-2025 21:48:27",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OM SHAKTI TEXTILES Under PMA",
+      "offered_item": "Make  : OS Model  : OS",
+      "participated_on": "18-11-2025 11:45:22",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PASCHIMANCHAL TEXTILE PRODUCERS CO-OPERATIVE FEDERATION LIMITED Under PMA",
+      "offered_item": "Make  : PTPCFL Model  : HANDLOOM BLANKET(POLYMIDE)",
+      "participated_on": "17-11-2025 12:26:02",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SBNK ENTERPRISES Under PMA",
+      "offered_item": "Make  : BHM Model  : BH-BHL-19",
+      "participated_on": "18-11-2025 11:47:33",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SHIVBACHAN GREEN SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : KJE/DEL/86/25-26",
+      "participated_on": "18-11-2025 05:56:59",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "SKAP SOLUTION PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : BHM Model  : BH-BHL-01",
+      "participated_on": "17-11-2025 15:42:22",
+      "mse_mii_status": "Start-up",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "U P INDUSTRIAL COOPERATIVE ASSOCIATION LIMITED Under PMA",
+      "offered_item": "Make  : UPICA Model  : UPICA BLANKET",
+      "participated_on": "14-11-2025 21:25:49",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "U.P HANDICRAFTS DEVELOPMENT AND MARKETING CORPORATION LIMITED Under PMA",
+      "offered_item": "Make  : UPHDMC Model  : UPHDMC",
+      "participated_on": "17-11-2025 12:57:53",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "U.P TEXTILES HANDLOOMS Under PMA",
+      "offered_item": "Make  : NA Model  : KJE/DEL/86/25-26",
+      "participated_on": "17-11-2025 19:06:30",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "UTTAR PRADESH STATE HANDLOOM CORPORATION LIMITED Under PMA",
+      "offered_item": "Make  : UP HANDLOOMS Model  : UP HANDLOOMS  Handloom Blanket",
+      "participated_on": "13-11-2025 18:58:05",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "WORKSTREAM TRADERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : KJE/DEL/86/25-26",
+      "participated_on": "15-11-2025 04:25:00",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2777245",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "25-11-2022 09:14:37",
+    "bid_end_datetime": "28-11-2022 14:00:00",
+    "bid_opening_datetime": "28-11-2022 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** PATIALA",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "FAIR DEAL TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-11-2022 12:53:54",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S VINTAGE SALES CORPORATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-11-2022 10:56:38",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAVLAL ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-11-2022 10:41:38",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VINTAGE SALES CORPORATION (MII) Under PMA",
+      "offered_item": "Item Categories : Embedded system on module development kit for artificial intelligence and computer vision applicati",
+      "total_price": "` 73000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "FAIR DEAL TRADERS (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Embedded system on module development kit for artificial intelligence and computer vision applicati",
+      "total_price": "` 76500.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAVLAL ENTERPRISES (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Embedded system on module development kit for artificial intelligence and computer vision applicati",
+      "total_price": "` 83000.00",
+      "rank": "L3"
+    }
+  ]
+}

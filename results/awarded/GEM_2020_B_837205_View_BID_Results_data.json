@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/837205",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "16-10-2020 11:29:25",
+    "bid_end_datetime": "26-10-2020 12:00:00",
+    "bid_opening_datetime": "26-10-2020 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "40"
+  },
+  "buyer_details": {
+    "name": "Augustine George",
+    "address": "Augustine George,IIMK Campus PO Kozhikode,495-2809133-133,673570,KOZHIKODE,India,buyer1.iim.clt@gembuyer.in,KERALA",
+    "ministry": "Ministry Of Human Resource Development",
+    "department": "Department Of Higher Education",
+    "organisation": "Indian Institute Of Management (iim)",
+    "office": "Indian Institute Of Management Kozhikode (iimk)"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : STATCRAFT Model  : STATCRAFT",
+      "participated_on": "16-10-2020 15:01:02",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 2473000.00",
+      "rank": "L1"
+    }
+  ]
+}

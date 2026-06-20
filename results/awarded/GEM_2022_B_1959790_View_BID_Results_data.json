@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/1959790",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "16-02-2022 17:43:32",
+    "bid_end_datetime": "26-02-2022 18:00:00",
+    "bid_opening_datetime": "26-02-2022 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "80"
+  },
+  "buyer_details": {
+    "name": "Sunil Kumar Bhagat",
+    "address": "Sunil Kumar Bhagat,P.O.: NIT Jamshedpur,buyer1.nit.jamshedpr@gembuyer.in,WEST SINGHBHUM,JHARKHAND,831014,India,657-2374249-",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "National Institute Of Technology (nit)",
+    "office": "Nit Jamshedpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "A.Z. ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-02-2022 16:48:24",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ecomed enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-02-2022 13:47:55",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "UNITECH INFO SYSTEMS Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-02-2022 15:16:04",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ecomed enterprises (MII) Under PMA",
+      "offered_item": "Item Categories : Electroencephalogram (EEG) Machine,Electromyograph (EMG) Machine,System-on-Module (SOM),Floyd Baseb",
+      "total_price": "` 495000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "A.Z. ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Electroencephalogram (EEG) Machine,Electromyograph (EMG) Machine,System-on-Module (SOM),Floyd Baseb",
+      "total_price": "` 709000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Unitech Info System Under PMA",
+      "offered_item": "Item Categories : Electroencephalogram (EEG) Machine,Electromyograph (EMG) Machine,System-on-Module (SOM),Floyd Baseb",
+      "total_price": "` 722000.00",
+      "rank": "L3"
+    }
+  ]
+}

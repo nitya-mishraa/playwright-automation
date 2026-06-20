@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1776511",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "17-12-2021 23:19:37",
+    "bid_end_datetime": "05-01-2022 14:00:00",
+    "bid_opening_datetime": "05-01-2022 14:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Sanjay Kumar Srivastava",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IT BUSINESS SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-12-2021 14:03:22",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S AMBEY ADVERTISING COMPANY Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-12-2021 15:41:51",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

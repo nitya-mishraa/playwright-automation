@@ -1,0 +1,43 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4649599",
+    "bid_status": "Active",
+    "bid_start_datetime": "16-02-2024 20:55:24",
+    "bid_end_datetime": "14-03-2024 17:00:00",
+    "bid_opening_datetime": "14-03-2024 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Archana Shukla",
+    "address": "Archana Shukla,shukla.archna20@mospi.gov.in,Statistics Division, Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment, B-2, Ground Floor Pt Deendayal Antyodaya Bhawan, Lodhi Road, CGO Complex, New Delhi-110003,SOUTH EAST DELHI,DELHI,110003,India,011-24369840-",
+    "ministry": "Ministry Of Social Justice And Empowerment",
+    "department": "Department Of Social Justice And Empowerment",
+    "organisation": "N/a",
+    "office": "Antyodaya Bhawan Cgo Complex"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DEW SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Setting up of Central Smart Surveillance Unit CSSU with Artificial Intell",
+      "total_price": "` 41016800.00",
+      "rank": "H1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "TRIGYN TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Setting up of Central Smart Surveillance Unit CSSU with Artificial Intell",
+      "total_price": "` 39294000.00",
+      "rank": "H2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NETPROPHETS CYBERWORKS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Setting up of Central Smart Surveillance Unit CSSU with Artificial Intell",
+      "total_price": "` 43330000.00",
+      "rank": "H3"
+    }
+  ]
+}

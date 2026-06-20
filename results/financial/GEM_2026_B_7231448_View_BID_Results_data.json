@@ -1,0 +1,129 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7231448",
+    "bid_status": "Active",
+    "bid_start_datetime": "12-02-2026 19:07:39",
+    "bid_end_datetime": "27-02-2026 21:00:00",
+    "bid_opening_datetime": "27-02-2026 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Satish Jagdeo Sangode",
+    "department": "Higher And Technical Education Department Maharashtra",
+    "organisation": "University Of Pune",
+    "office": "Sppu"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADROITEC ENGINEERING SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "20-02-2026 16:28:07",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BLUECHIP INFOCORP PRIVATE LIMITED Under PMA",
+      "offered_item": "24-02-2026 12:10:11",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "FLUIDMECH SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "27-02-2026 16:30:57",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "HYTECH AUTOMATION Under PMA",
+      "offered_item": "26-02-2026 13:59:45",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "LAWRENCE AND MAYO (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "26-02-2026 14:39:43",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "MARCONI TECHNOLOGIES Under PMA",
+      "offered_item": "26-02-2026 19:43:17",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "PRAGA AIRMATIC MACHINES PRIVATE LIMITED Under PMA",
+      "offered_item": "26-02-2026 13:36:03",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "Skillmine Solutions LLP Under PMA",
+      "offered_item": "27-02-2026 15:00:04",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "VentureIT Under PMA",
+      "offered_item": "20-02-2026 16:40:20",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "ZEAL TECH INDUSTRIES PRIVATE LIMITED Under PMA",
+      "offered_item": "27-02-2026 19:45:07",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BLUECHIP INFOCORP PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Integration with pre-de",
+      "total_price": "` 45194000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "HYTECH AUTOMATION ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Integration with pre-de",
+      "total_price": "` 45278960.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "MARCONI TECHNOLOGIES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Integration with pre-de",
+      "total_price": "` 46466040.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "Skillmine Solutions LLP Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Integration with pre-de",
+      "total_price": "` 55259400.00",
+      "rank": "L4"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5471178",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "04-10-2024 16:31:43",
+    "bid_end_datetime": "19-10-2024 21:00:00",
+    "bid_opening_datetime": "19-10-2024 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Shankar Behera",
+    "department": "Forest And Environment Department Odisha",
+    "organisation": "P.c.c.f.,orissa,bhubaneswar",
+    "office": "Divisional Forest Officer Hirakud Wl Division"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INTOZI TECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT-IK-ID",
+      "participated_on": "14-10-2024 17:36:32",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S M.ENGINEERING WORKS Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT-IK-ID",
+      "participated_on": "14-10-2024 16:41:11",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SPACEMETRIKS Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT-IK-ID",
+      "participated_on": "14-10-2024 16:26:50",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TANGENT SOLUTIONS Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT-IK-ID",
+      "participated_on": "14-10-2024 16:45:39",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TANGENT SOLUTIONS Under PMA",
+      "offered_item": "Item Categories : Artifical Intelligence (AI) based Video Analytics Software",
+      "total_price": "` 18549600.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Spacemetriks Under PMA",
+      "offered_item": "Item Categories : Artifical Intelligence (AI) based Video Analytics Software",
+      "total_price": "` 19046900.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S M.ENGINEERING WORKS Under PMA",
+      "offered_item": "Item Categories : Artifical Intelligence (AI) based Video Analytics Software",
+      "total_price": "` 19252700.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "INTOZI TECH PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artifical Intelligence (AI) based Video Analytics Software",
+      "total_price": "` 19980000.00",
+      "rank": "L4"
+    }
+  ]
+}

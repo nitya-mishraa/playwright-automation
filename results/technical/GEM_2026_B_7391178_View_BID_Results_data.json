@@ -1,0 +1,21 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7391178",
+    "bid_status": "Active",
+    "bid_start_datetime": "25-03-2026 15:40:11",
+    "bid_end_datetime": "15-04-2026 14:00:00",
+    "bid_opening_datetime": "15-04-2026 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Seikh Ashadul Bari",
+    "address": "Seikh Ashadul Bari,buyer3.aasl.dl@gembuyer.in,Alliance Air Bhawan, Terminal 1, IGIA New Delhi,South West delhi,DELHI,110037,India,011-25672458-",
+    "ministry": "Ministry Of Civil Aviation",
+    "department": "Airline Allied Services Limited",
+    "organisation": "Airline Allied Services Limited",
+    "office": "Del"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

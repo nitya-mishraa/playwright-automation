@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/742014",
+    "bid_status": "Active",
+    "quantity": "10",
+    "bid_start_datetime": "08-08-2020 10:54:09",
+    "bid_end_datetime": "18-08-2020 11:00:00",
+    "bid_opening_datetime": "18-08-2020 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Naresh Bhardwaj",
+    "address": "110016,011-26544800-820,Naresh Bhardwaj,SOUTH DELHI,India,con3.niepa.delhi@gembuyer.in,DELHI,17B, Sri Aurobindo Marg NCERT Campus",
+    "ministry": "Ministry Of Human Resource Development",
+    "department": "Department Of Higher Education",
+    "organisation": "National University Of Educational Planning And Administration (nuepa)",
+    "office": "New Delhi 110016"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NUMERICAL ANALYTICS INSTRUMENTS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NVivo Model  : NVivo",
+      "participated_on": "17-08-2020 17:13:38",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "R R COMPUTERS AND ELECTRONICS Under PMA",
+      "offered_item": "Make  : NVivo Model  : NVivo",
+      "participated_on": "16-08-2020 16:16:53",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

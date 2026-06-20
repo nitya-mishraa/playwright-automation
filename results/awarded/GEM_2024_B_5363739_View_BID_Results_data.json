@@ -1,0 +1,115 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5363739",
+    "bid_status": "Active",
+    "quantity": "29",
+    "bid_start_datetime": "06-09-2024 12:00:31",
+    "bid_end_datetime": "17-09-2024 10:00:00",
+    "bid_opening_datetime": "17-09-2024 10:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "52"
+  },
+  "buyer_details": {
+    "name": "Sanjeev Kumar Saxena",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Artline Solutions Under PMA",
+      "offered_item": "Make  : hp Model  : HP 250 G9 i5 1235U Win11P 851233 wifi 15.6\"",
+      "participated_on": "16-09-2024 17:12:50",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ATHARVA TECH MINDS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : acer Model  : Aspire Lite AL15 52",
+      "participated_on": "16-09-2024 18:24:00",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DEVIKA ENTERPRISES Under PMA",
+      "offered_item": "Make  : acer Model  : Aspire Lite AL15 52",
+      "participated_on": "16-09-2024 15:17:03",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "DHARAM AGENCIES Under PMA",
+      "offered_item": "Make  : Dell Model  : Dell Vostro 3530",
+      "participated_on": "17-09-2024 09:58:15",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "DOCKET CARE SYSTEMS Under PMA",
+      "offered_item": "Make  : hp Model  : HP 250 G9 i5 1235U Win11P 851233 wifi 15.6\"",
+      "participated_on": "17-09-2024 04:57:47",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "LATEST INFORMATION TECHNOLOGY Under PMA",
+      "offered_item": "Make  : hp Model  : HP 250 G9 i5 1235U Win11P 1651233 wifi 15.6\" FHD",
+      "participated_on": "17-09-2024 09:57:49",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "SNGOYAL CONSULTANTS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : acer Model  : Aspire Lite AL15 52",
+      "participated_on": "16-09-2024 23:42:35",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "SOFTRONIX DIGITAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : acer Model  : Aspire Lite AL15 52",
+      "participated_on": "17-09-2024 08:08:42",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "STRATEGIC MARKETING Under PMA",
+      "offered_item": "Make  : hp Model  : HP 250 G9 i5 1235U Win11P 851233 wifi 15.6\"",
+      "participated_on": "16-09-2024 17:13:41",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DOCKET CARE SYSTEMS Under PMA",
+      "offered_item": "Item Categories : Laptop - Notebook,Desktop Computers,Line Interactive UPS with AVR (V2)",
+      "total_price": "` 2006600.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "STRATEGIC MARKETING Under PMA",
+      "offered_item": "Item Categories : Laptop - Notebook,Desktop Computers,Line Interactive UPS with AVR (V2)",
+      "total_price": "` 2197338.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Artline Solutions Under PMA",
+      "offered_item": "Item Categories : Laptop - Notebook,Desktop Computers,Line Interactive UPS with AVR (V2)",
+      "total_price": "` 2227991.40",
+      "rank": "L3"
+    }
+  ]
+}

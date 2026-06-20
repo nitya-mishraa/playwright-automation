@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6631560",
+    "bid_status": "Active",
+    "quantity": "12",
+    "bid_start_datetime": "11-09-2025 12:54:19",
+    "bid_end_datetime": "22-09-2025 13:00:00",
+    "bid_opening_datetime": "22-09-2025 13:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KOLKATA",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IEMA RESEARCH & DEVELOPMENT PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "17-09-2025 16:21:57",
+      "mse_mii_status": "Start-up",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MFX INTERACTIVE PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "22-09-2025 11:51:50",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SIPL SYSTEMS & SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "22-09-2025 11:52:54",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": []
+}

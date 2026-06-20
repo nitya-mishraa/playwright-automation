@@ -1,0 +1,62 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2096179",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "07-04-2022 17:34:03",
+    "bid_end_datetime": "23-04-2022 18:00:00",
+    "bid_opening_datetime": "23-04-2022 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Amit Chopra",
+    "address": "Amit Chopra,282006,UTTAR PRADESH,con4.mmsme.rj@gembuyer.in,0562-2344673-,India,MSME - Technology Development Centre (Process and Product Development Centre) Foundry Nagar, Hathras Road, Agra,AGRA",
+    "ministry": "Ministry Of Micro Small And Medium Enterprises",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "Uttar Pradesh"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DIGITECH CONTROL AND SYSTEMS Under PMA",
+      "offered_item": "-",
+      "participated_on": "21-04-2022 17:27:05",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Elektro Labs Under PMA",
+      "offered_item": "-",
+      "participated_on": "22-04-2022 20:13:20",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TIOT SYSTEMS LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "21-04-2022 12:30:21",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DIGITECH CONTROL AND SYSTEMS (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Automation and Artificial Intelligence Lab Items",
+      "total_price": "` 4987435.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Elektro Lab (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Automation and Artificial Intelligence Lab Items",
+      "total_price": "` 8895000.00",
+      "rank": "L2"
+    }
+  ]
+}

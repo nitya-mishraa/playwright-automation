@@ -1,0 +1,22 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5307015",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "16-09-2024 14:51:03",
+    "bid_end_datetime": "18-02-2025 15:00:00",
+    "bid_opening_datetime": "18-02-2025 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Ramyash Yadav",
+    "address": "Ramyash Yadav,yadav.ram@pgimer.edu.in,POST GRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH, sector 12 CHANDIGARH,CHANDIGARH,CHANDIGARH,160012,India,-9876980878-",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "organisation": "Post Graduate Institute Of Medical Education And Research Chandigarh",
+    "office": "Pgimer"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

@@ -1,0 +1,278 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6106673",
+    "bid_status": "Active",
+    "bid_start_datetime": "02-04-2025 17:54:10",
+    "bid_end_datetime": "23-04-2025 18:00:00",
+    "bid_opening_datetime": "23-04-2025 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Shiv Kumar Joshi",
+    "address": "Shiv Kumar Joshi,buycon71.mt.dl@gembuyer.in,CCIC of India Ltd. Jawahar Vyapar Bhawan Janpath,NEW DELHI,DELHI,110001,India,011-23310804-272",
+    "ministry": "Ministry Of Textiles",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "Central"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VIGILANT DYNAMIC SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 1770.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "A. B. ELECTRONICS & COMMUNICATION ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 28320.00",
+      "mse_mii_status": "L2",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SEAGUL INFOTECH ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 29000.00",
+      "mse_mii_status": "L3",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "BHOOMI ELECTRONICS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 29500.00",
+      "mse_mii_status": "L4",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "NCR CONSULTANCY & SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 31093.00",
+      "mse_mii_status": "L5",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "FLORA INTEGRATED TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 31500.00",
+      "mse_mii_status": "L6",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "M/S KAY VEE ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 31985.00",
+      "mse_mii_status": "L7",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "NS TECHNOLOGY ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 32000.00",
+      "mse_mii_status": "L8",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "DU VENT TECHNOLOGIES ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 34500.00",
+      "mse_mii_status": "L9",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "dignified solutions llp ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 34500.00",
+      "mse_mii_status": "L9",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "M A TRADING CO ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 34500.00",
+      "mse_mii_status": "L9",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "WEBORNET PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 38000.00",
+      "mse_mii_status": "L10",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "13",
+      "seller_name": "ALOBHA TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 38000.00",
+      "mse_mii_status": "L10",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "14",
+      "seller_name": "DIGITAL TECH ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 39998.00",
+      "mse_mii_status": "L11",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "15",
+      "seller_name": "KRION COMPUTER SERVICES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 45000.00",
+      "mse_mii_status": "L12",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "16",
+      "seller_name": "MAGICA FACILITY MANAGEMENT SERVICES (I) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 59900.00",
+      "mse_mii_status": "L13",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "17",
+      "seller_name": "Asian IT Services ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "participated_on": "` 120000.00",
+      "mse_mii_status": "L14",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VIGILANT DYNAMIC SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 1770.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "A. B. ELECTRONICS & COMMUNICATION ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 28320.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SEAGUL INFOTECH ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 29000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "BHOOMI ELECTRONICS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 29500.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "NCR CONSULTANCY & SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 31093.00",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "FLORA INTEGRATED TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 31500.00",
+      "rank": "L6"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "M/S KAY VEE ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 31985.00",
+      "rank": "L7"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "NS TECHNOLOGY ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 32000.00",
+      "rank": "L8"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "DU VENT TECHNOLOGIES ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 34500.00",
+      "rank": "L9"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "dignified solutions llp ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 34500.00",
+      "rank": "L9"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "M A TRADING CO ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 34500.00",
+      "rank": "L9"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "WEBORNET PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 38000.00",
+      "rank": "L10"
+    },
+    {
+      "sr_no": "13",
+      "seller_name": "ALOBHA TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 38000.00",
+      "rank": "L10"
+    },
+    {
+      "sr_no": "14",
+      "seller_name": "DIGITAL TECH ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 39998.00",
+      "rank": "L11"
+    },
+    {
+      "sr_no": "15",
+      "seller_name": "KRION COMPUTER SERVICES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 45000.00",
+      "rank": "L12"
+    },
+    {
+      "sr_no": "16",
+      "seller_name": "MAGICA FACILITY MANAGEMENT SERVICES (I) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 59900.00",
+      "rank": "L13"
+    },
+    {
+      "sr_no": "17",
+      "seller_name": "Asian IT Services ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : AMC of Integrated Security and Surveillance System - Smart Retail (Business Intelligence) Solution;",
+      "total_price": "` 120000.00",
+      "rank": "L14"
+    }
+  ]
+}

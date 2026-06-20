@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4062267",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "09-10-2023 15:40:53",
+    "bid_end_datetime": "23-11-2023 09:00:00",
+    "bid_opening_datetime": "23-11-2023 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Narendra Kumar Bhakta",
+    "address": "Narendra Kumar Bhakta,nk.bhakta.arci@nic.in,Balapur Post, RCI Road, Hyderabad,HYDERABAD,TELANGANA,500005,India,040-24452323-",
+    "ministry": "Ministry Of Science And Technology",
+    "department": "Department Of Science And Technology (dst)",
+    "organisation": "International Advanced Research Centre For Powder Metallurgy And New Materials",
+    "office": "Hyderabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PATSEER TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PatSeer Model  : Business Intelligence and Data Analysis Software (",
+      "participated_on": "27-10-2023 15:44:04",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PATSEER TECHNOLOGIES PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 199420.00",
+      "rank": "L1"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4943432",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "18-05-2024 18:15:51",
+    "bid_end_datetime": "08-06-2024 19:00:00",
+    "bid_opening_datetime": "08-06-2024 19:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** CHENNAI",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Air Force",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SOUNDRY  POWER  SYSTEMS Under PMA",
+      "offered_item": "Make  : APC Model  : SYMIM5-CC Title : APC Symmetra LX Intelligence Module",
+      "participated_on": "06-06-2024 15:47:44",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SOUNDRY  POWER  SYSTEMS Under PMA",
+      "offered_item": "Item Categories : Intelligence module",
+      "total_price": "` 141600.00",
+      "rank": "L1"
+    }
+  ]
+}

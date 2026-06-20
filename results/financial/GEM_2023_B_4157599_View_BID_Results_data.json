@@ -1,0 +1,292 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4157599",
+    "bid_status": "Active",
+    "quantity": "20000",
+    "bid_start_datetime": "01-11-2023 14:14:14",
+    "bid_end_datetime": "16-11-2023 15:00:00",
+    "bid_opening_datetime": "16-11-2023 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "45"
+  },
+  "buyer_details": {
+    "name": "Sanjeev Kumar Saxena",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AGARWAL HANDLOOM INDUSTRIES Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 6380000.00",
+      "mse_mii_status": "L1",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "A2Z Multiservices and IT Solutions Private Limited Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 6500000.00",
+      "mse_mii_status": "L2",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "AAA SPINNERS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 6500000.00",
+      "mse_mii_status": "L2",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "IBRAHIM WOOL TRADING CO Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 6820000.00",
+      "mse_mii_status": "L3",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "S.S.Group of companies Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 7140000.00",
+      "mse_mii_status": "L4",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "SKAP SOLUTION PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 7740000.00",
+      "mse_mii_status": "L5",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "B R Infra Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 7940000.00",
+      "mse_mii_status": "L6",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "Bundelkhand gramodyog sansthan Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 8140000.00",
+      "mse_mii_status": "L7",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "Jagriti Sewa Aashram ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 8420000.00",
+      "mse_mii_status": "L8",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "SHRI MAHADEV KAMBAL AWAM HANDLOOM, BADAURA PARA, GHAZIPUR Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 8578000.00",
+      "mse_mii_status": "L9",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "U.P HANDICRAFTS DEVELOPMENT AND MARKETING CORPORATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 9300000.00",
+      "mse_mii_status": "L10",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "PASCHIMANCHAL TEXTILE PRODUCERS CO-OPERATIVE FEDERATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 9460000.00",
+      "mse_mii_status": "L11",
+      "status": "Not Evaluated"
+    },
+    {
+      "sr_no": "13",
+      "seller_name": "U P INDUSTRIAL COOPERATIVE ASSOCIATION LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 9500000.00",
+      "mse_mii_status": "L12",
+      "status": "Not Evaluated"
+    },
+    {
+      "sr_no": "14",
+      "seller_name": "MOHD.SHAMEEM AND CO Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 9555400.00",
+      "mse_mii_status": "L13",
+      "status": "Not Evaluated"
+    },
+    {
+      "sr_no": "15",
+      "seller_name": "UTTAR PRADESH STATE HANDLOOM CORPORATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 9600000.00",
+      "mse_mii_status": "L14",
+      "status": "Not Evaluated"
+    },
+    {
+      "sr_no": "16",
+      "seller_name": "SHIVBACHAN GREEN SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 9980000.00",
+      "mse_mii_status": "L15",
+      "status": "Not Evaluated"
+    },
+    {
+      "sr_no": "17",
+      "seller_name": "M/S HANSRAJ TRADERS Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 11200000.00",
+      "mse_mii_status": "L16",
+      "status": "Not Evaluated"
+    },
+    {
+      "sr_no": "18",
+      "seller_name": "M/S LAXMI FURNITURE SANITARY & HARDWARE Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "participated_on": "` 13000000.00",
+      "mse_mii_status": "L17",
+      "status": "Not Evaluated"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AGARWAL HANDLOOM INDUSTRIES Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 6380000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "A2Z Multiservices and IT Solutions Private Limited Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 6500000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "AAA SPINNERS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 6500000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "IBRAHIM WOOL TRADING CO Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 6820000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "S.S.Group of companies Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 7140000.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "SKAP SOLUTION PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 7740000.00",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "B R Infra Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 7940000.00",
+      "rank": "L6"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "Bundelkhand gramodyog sansthan Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 8140000.00",
+      "rank": "L7"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "Jagriti Sewa Aashram ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 8420000.00",
+      "rank": "L8"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "SHRI MAHADEV KAMBAL AWAM HANDLOOM, BADAURA PARA, GHAZIPUR Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 8578000.00",
+      "rank": "L9"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "U.P HANDICRAFTS DEVELOPMENT AND MARKETING CORPORATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 9300000.00",
+      "rank": "L10"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "PASCHIMANCHAL TEXTILE PRODUCERS CO-OPERATIVE FEDERATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 9460000.00",
+      "rank": "L11"
+    },
+    {
+      "sr_no": "13",
+      "seller_name": "U P INDUSTRIAL COOPERATIVE ASSOCIATION LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 9500000.00",
+      "rank": "L12"
+    },
+    {
+      "sr_no": "14",
+      "seller_name": "MOHD.SHAMEEM AND CO Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 9555400.00",
+      "rank": "L13"
+    },
+    {
+      "sr_no": "15",
+      "seller_name": "UTTAR PRADESH STATE HANDLOOM CORPORATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 9600000.00",
+      "rank": "L14"
+    },
+    {
+      "sr_no": "16",
+      "seller_name": "SHIVBACHAN GREEN SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 9980000.00",
+      "rank": "L15"
+    },
+    {
+      "sr_no": "17",
+      "seller_name": "M/S HANSRAJ TRADERS Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 11200000.00",
+      "rank": "L16"
+    },
+    {
+      "sr_no": "18",
+      "seller_name": "M/S LAXMI FURNITURE SANITARY & HARDWARE Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 13000000.00",
+      "rank": "L17"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6377369",
+    "bid_status": "Active",
+    "quantity": "28",
+    "bid_start_datetime": "24-06-2025 12:46:21",
+    "bid_end_datetime": "15-07-2025 15:00:00",
+    "bid_opening_datetime": "15-07-2025 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "Himanshu Singh",
+    "address": "Himanshu Singh,buyer1.mosje.lucknow@gembuyer.in,Mohaan Road, Near Mohaan Road Police Chowki,LUCKNOW,UTTAR PRADESH,226017,India,078-39456178-",
+    "ministry": "Ministry Of Social Justice And Empowerment",
+    "department": "Department Of Empowerment Of Persons With Disabilities",
+    "organisation": "N/a",
+    "office": "Pandit Deendayal Upadhyaya National  Institute For Persons With Physical Disabilities"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NATIONAL PSYCHOLOGICAL CORPORATION ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "participated_on": "` 447693.00",
+      "mse_mii_status": "L1",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CONSCIOUS MIND SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "participated_on": "` 546200.00",
+      "mse_mii_status": "L2",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PRASAD PSYCHO PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "participated_on": "` 597118.00",
+      "mse_mii_status": "L3",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "KPS PUBLISHERS Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "participated_on": "` 626968.70",
+      "mse_mii_status": "L4",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "M/S INDIAN SCIENTIFIC CORPORATION Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "participated_on": "` 638915.00",
+      "mse_mii_status": "L5",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NATIONAL PSYCHOLOGICAL CORPORATION ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "total_price": "` 447693.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CONSCIOUS MIND SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "total_price": "` 546200.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PRASAD PSYCHO PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "total_price": "` 597118.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "KPS PUBLISHERS Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "total_price": "` 626968.70",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "M/S INDIAN SCIENTIFIC CORPORATION Under PMA",
+      "offered_item": "Item Categories : The Childhood Autism Rating Scale CARS II,Stanford Binet Intelligence Scales Fifth Edition SB5 Comp",
+      "total_price": "` 638915.00",
+      "rank": "L5"
+    }
+  ]
+}

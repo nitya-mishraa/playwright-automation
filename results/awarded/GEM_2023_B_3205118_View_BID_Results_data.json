@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3205118",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "01-03-2023 13:29:48",
+    "bid_end_datetime": "11-03-2023 14:00:00",
+    "bid_opening_datetime": "11-03-2023 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Wazim Mustafa",
+    "address": "India,Directorate of Revenue Intelligence, Guwahati Zonal Unit, Gr. & 1st Floor, Mainaak Towers, Christian Basti, G.S. Road,Wazim Mustafa,wazim.mustafa@gov.in,781005,KAMRUP,ASSAM",
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Revenue",
+    "organisation": "Cbic Central Board Of Indirect Taxes & Customs",
+    "office": "Dri Guwahati Zonal Unit"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "A T C AGENCIES (GUWAHATI) Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-03-2023 19:45:13",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "07-03-2023 16:21:05",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "N.G. MERCANTILE PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-03-2023 15:18:57",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Optimizer",
+      "total_price": "` 379213.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "N.G. MERCANTILE PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Optimizer",
+      "total_price": "` 379213.06",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "A T C AGENCIES (GUWAHATI) (MII) Under PMA",
+      "offered_item": "Item Categories : Optimizer",
+      "total_price": "` 399725.00",
+      "rank": "L3"
+    }
+  ]
+}

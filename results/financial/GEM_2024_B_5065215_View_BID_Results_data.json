@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5065215",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "19-06-2024 16:53:32",
+    "bid_end_datetime": "29-06-2024 11:00:00",
+    "bid_opening_datetime": "29-06-2024 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Krishan Kumar",
+    "address": "Krishan Kumar,nichq-ipsec@nic.in,A BLOCK CGO COMPLEX NATIONAL INFORMATICS CENTRE NEW DELHI,SOUTH EAST DELHI,DELHI,110003,India",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "National Informatics Centre (nic)",
+    "office": "National Informatics Centre-head Quaters"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARSENAL INFOSOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : CloudSEK Model  : CloudSEK Platform",
+      "participated_on": "28-06-2024 16:58:54",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PRARUH TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Make  : CloudSEK Model  : CloudSEK Platform",
+      "participated_on": "28-06-2024 16:45:43",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "RAH INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : CloudSEK Model  : CloudSEK Platform",
+      "participated_on": "28-06-2024 17:41:31",
+      "mse_mii_status": "Turnover >= 500 Cr.",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "STARLIGHT DATA SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : CloudSEK Model  : CloudSEK Platform",
+      "participated_on": "28-06-2024 14:01:55",
+      "mse_mii_status": "Start-up",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

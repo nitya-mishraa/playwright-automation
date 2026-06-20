@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/203685",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "13-03-2019 09:56:08",
+    "bid_end_datetime": "23-03-2019 12:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Alok Chandra",
+    "department": "Medical Health And Family Welfare Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Office Of Chief Medical Officer Bareilly"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2013",
+      "participated_on": "13-03-2019 12:13:55",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Adult Intelligence Scale",
+      "total_price": "` 106325.00",
+      "rank": "L1"
+    }
+  ]
+}

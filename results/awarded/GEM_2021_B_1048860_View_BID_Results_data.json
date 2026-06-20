@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1048860",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "17-02-2021 14:50:27",
+    "bid_end_datetime": "01-03-2021 10:00:00",
+    "bid_opening_datetime": "01-03-2021 10:30:00",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Prasad Krishnaji Bhingarkar",
+    "address": "MAHARASHTRA,PUNE,buyer7.cdac.pune@gembuyer.in,C-DAC C-DAC Innovation Park, Panchavati, Pashan,India,411008,Prasad Krishnaji Bhingarkar,020-25503675-675",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "Centre For Development Of Advanced Computing (c-dac)",
+    "office": "West"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : ABM999OSAE01X1Z",
+      "participated_on": "27-02-2021 11:14:26",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 128700.00",
+      "rank": "L1"
+    }
+  ]
+}

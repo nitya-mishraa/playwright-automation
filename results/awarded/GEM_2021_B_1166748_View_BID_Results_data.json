@@ -1,0 +1,52 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1166748",
+    "bid_status": "Active",
+    "quantity": "50",
+    "bid_start_datetime": "10-04-2021 16:57:14",
+    "bid_end_datetime": "26-04-2021 21:00:00",
+    "bid_opening_datetime": "26-04-2021 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "35"
+  },
+  "buyer_details": {
+    "name": "Vishal Tatwade",
+    "department": "Urban Development And Environment Department",
+    "organisation": "Indore Municipal Corporation Indore",
+    "office": "Indore"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BRAIN ABOVE INFOSOL PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : brain above Model  : Smart Waste Management Suite Version 3",
+      "participated_on": "23-04-2021 20:12:44",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PRECISE TELEMATICS & VENTURES LLP Under PMA",
+      "offered_item": "Make  : brain above Model  : Smart Waste Management Suite Version 3",
+      "participated_on": "23-04-2021 20:58:45",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BRAIN ABOVE INFOSOL PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 4810000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PRECISE TELEMATICS & VENTURES LLP ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 5000000.00",
+      "rank": "L2"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/1997265",
+    "bid_status": "Active",
+    "quantity": "12",
+    "bid_start_datetime": "01-03-2022 15:58:24",
+    "bid_end_datetime": "11-03-2022 16:00:00",
+    "bid_opening_datetime": "11-03-2022 16:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Murugeswari S",
+    "department": "Commercial Taxes And Registration Department Tamil Nadu",
+    "organisation": "Office Of The Cct",
+    "office": "Chennai"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "Make  : SAS Model  : SAS Visual Analytics on SAS Viya",
+      "participated_on": "10-03-2022 17:43:27",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OBJECT TECHNOLOGY SOLUTIONS INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SAS Model  : SAS Visual Analytics on SAS Viya",
+      "participated_on": "09-03-2022 17:49:10",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAANVI OPTIMA SOLUTIONS Under PMA",
+      "offered_item": "Make  : SAS Model  : SAS Visual Analytics on SAS Viya",
+      "participated_on": "09-03-2022 11:33:32",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OBJECT TECHNOLOGY SOLUTIONS INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0),Business intelligence and data analy",
+      "total_price": "` 42343082.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0),Business intelligence and data analy",
+      "total_price": "` 42346326.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAANVI OPTIMA SOLUTIONS Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0),Business intelligence and data analy",
+      "total_price": "` 42349945.00",
+      "rank": "L3"
+    }
+  ]
+}

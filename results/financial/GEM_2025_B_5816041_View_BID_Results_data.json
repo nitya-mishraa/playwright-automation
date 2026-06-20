@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5816041",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "22-01-2025 16:29:26",
+    "bid_end_datetime": "03-02-2025 17:00:00",
+    "bid_opening_datetime": "03-02-2025 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "62"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** Mysuru",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (ls)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ELEXYT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : VEDTS Model  : VEDTS-PBM Ver1.0",
+      "participated_on": "27-01-2025 18:20:09",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SOFT SOL CONSULTANTS Under PMA",
+      "offered_item": "Make  : VEDTS Model  : VEDTS-PBM Ver1.0",
+      "participated_on": "24-01-2025 11:15:30",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "VEDANT TECH SOLUTIONS Under PMA",
+      "offered_item": "Make  : VEDTS Model  : VEDTS-PBM Ver1.0",
+      "participated_on": "01-02-2025 12:43:32",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

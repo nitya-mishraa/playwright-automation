@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1571169",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "06-10-2021 17:39:22",
+    "bid_end_datetime": "30-10-2021 09:00:00",
+    "bid_opening_datetime": "30-10-2021 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Arun Fakirappa Adrakatti",
+    "address": "Arun Fakirappa Adrakatti,ODISHA,second floor Govt ITI Berhampur,buyer10.iiseri.or@gembuyer.in,GANJAM,760010,0680-2227739-,India",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "Indian Institute Of Science Education And Research (iisers)",
+    "office": "Berhampur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GRAPHSTATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Graphpad Model  : Prism 9 Perpetual",
+      "participated_on": "11-10-2021 04:21:58",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GRAPHSTATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 314350.00",
+      "rank": "L1"
+    }
+  ]
+}

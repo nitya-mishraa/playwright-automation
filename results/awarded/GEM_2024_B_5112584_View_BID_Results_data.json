@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5112584",
+    "bid_status": "Active",
+    "quantity": "58",
+    "bid_start_datetime": "23-08-2024 17:22:26",
+    "bid_end_datetime": "02-09-2024 11:00:00",
+    "bid_opening_datetime": "02-09-2024 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Vinay Garg",
+    "address": "Vinay Garg,buyer20.pfcl.dl@gembuyer.in,Power Finance Corporation Limited, Urjanidhi, 1, Barakhamba Lane, Connaught Place, New Delhi -110001,NEW DELHI,DELHI,110001,India",
+    "ministry": "Ministry Of Power",
+    "department": "Power Finance Corporation Limited",
+    "organisation": "Power Finance Corporation Limited",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BLUECHIP INFOCORP PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "02-09-2024 10:27:50",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "02-09-2024 10:14:54",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "02-09-2024 10:27:17",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 1266731.00",
+      "rank": "L1"
+    }
+  ]
+}

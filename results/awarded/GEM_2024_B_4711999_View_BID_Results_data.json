@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4711999",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "05-03-2024 15:24:26",
+    "bid_end_datetime": "15-03-2024 16:00:00",
+    "bid_opening_datetime": "15-03-2024 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Rajesh Singh",
+    "address": "Rajesh Singh,r.singh25@gov.in,INSTITUTE OF SECRETARIAT TRAINING AND MANAGEMENT, DOPT, ADMINISTRATIVE BLOCK, JNU OLD CAMPUS, OLOF PALME AMRG, NEW DELHI,SOUTH DELHI,DELHI,110067,India",
+    "ministry": "Ministry Of Personnel Public Grievances And Pensions",
+    "department": "Department Of Personnel And Training",
+    "organisation": "Institute Of Secretariat Training And Management (istm)",
+    "office": "Jnu (old) Campus"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MANUPATRA INFORMATION SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Manupatra Model  : Manupatra",
+      "participated_on": "13-03-2024 10:18:44",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MANUPATRA INFORMATION SOLUTIONS PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 48300.00",
+      "rank": "L1"
+    }
+  ]
+}

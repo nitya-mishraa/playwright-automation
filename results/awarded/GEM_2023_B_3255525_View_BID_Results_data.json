@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3255525",
+    "bid_status": "Active",
+    "quantity": "47",
+    "bid_start_datetime": "11-03-2023 21:48:50",
+    "bid_end_datetime": "22-03-2023 10:00:00",
+    "bid_opening_datetime": "22-03-2023 10:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** UDHAMPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "midland the book shop Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-03-2023 10:53:20",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "midland the book shop Under PMA",
+      "offered_item": "Item Categories : Thinking Fast and Slow,Surrounded by Idiots,Sapiens a Graphic history,A short History of Nearly Eve",
+      "total_price": "` 50000.00",
+      "rank": "L1"
+    }
+  ]
+}

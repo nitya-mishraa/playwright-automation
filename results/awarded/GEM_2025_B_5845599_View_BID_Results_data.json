@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5845599",
+    "bid_status": "Active",
+    "quantity": "311",
+    "bid_start_datetime": "21-01-2025 10:52:50",
+    "bid_end_datetime": "11-02-2025 11:00:00",
+    "bid_opening_datetime": "11-02-2025 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** POONCH",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "A.B OVERSEAS Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-02-2025 22:05:12",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ACTSOCPRO ENVIRONMENT SOLUTIONS LLP Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-02-2025 22:34:46",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "RADICAL ARMY SUPPLY SOLUTIONS Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-02-2025 22:12:44",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SEVEN STAR TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-02-2025 22:01:02",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

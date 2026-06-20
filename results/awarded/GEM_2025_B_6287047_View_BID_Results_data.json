@@ -1,0 +1,75 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6287047",
+    "bid_status": "Active",
+    "quantity": "20000",
+    "bid_start_datetime": "29-05-2025 17:53:12",
+    "bid_end_datetime": "09-06-2025 18:00:00",
+    "bid_opening_datetime": "09-06-2025 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Samundra Sein",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ANANDESHWAR AGRO FOODS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : flood relief kit",
+      "participated_on": "09-06-2025 11:07:58",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ASIAN TRADING & MANUFACTURING CORPORATION Under PMA",
+      "offered_item": "Make  : NA Model  : flood relief kit",
+      "participated_on": "05-06-2025 14:27:30",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S RUDRAKSH AGRO Under PMA",
+      "offered_item": "Make  : NA Model  : flood relief kit",
+      "participated_on": "09-06-2025 14:29:43",
+      "mse_mii_status": "Offline upload",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S S.ENTERPRISES Under PMA",
+      "offered_item": "Make  : NA Model  : flood relief kit",
+      "participated_on": "09-06-2025 16:19:33",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S S.ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Disaster Relief Kit - Packet 1 (UP Gov.)",
+      "total_price": "` 69480000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ANANDESHWAR AGRO FOODS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Disaster Relief Kit - Packet 1 (UP Gov.)",
+      "total_price": "` 69780000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ASIAN TRADING & MANUFACTURING CORPORATION Under PMA",
+      "offered_item": "Item Categories : Disaster Relief Kit - Packet 1 (UP Gov.)",
+      "total_price": "` 69960000.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6390371",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "27-06-2025 13:05:46",
+    "bid_end_datetime": "11-07-2025 14:00:00",
+    "bid_opening_datetime": "11-07-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KANPUR NAGAR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Production",
+    "organisation": "Advanced Weapons And Equipment India Limited",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ANGEL INDUSTRIAL INSTRUMENTATION Under PMA",
+      "offered_item": "Make  : Angel Model  : AII 20 Title : SET OF SINGLE PHASE 180 AMPS MMAW WELDING EQUIPMENT BASED ON RESONANCE INTELLIGENCE TECHNOLOGY, ALS",
+      "participated_on": "11-07-2025 11:11:08",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EFFICIENT DISTRIBUTORS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : fronius Model  : 4.075.213 Title : SET OF SINGLE PHASE 180 AMPS MMAW WELDING EQUIPMENT BASED ON RESONANCE INTELLIGENCE TECHNOLOGY, ALS",
+      "participated_on": "11-07-2025 10:53:26",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S INNOVATIVE MARKETING AGENCIES Under PMA",
+      "offered_item": "Make  : fronius Model  : 4.075.213 Title : SET OF SINGLE PHASE 180 AMPS MMAW WELDING EQUIPMENT BASED ON RESONANCE INTELLIGENCE TECHNOLOGY, ALS",
+      "participated_on": "10-07-2025 14:36:01",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "PROTECH SOLUTIONS Under PMA",
+      "offered_item": "Make  : fronius Model  : IGNIS 180 Title : SET OF SINGLE PHASE 180 AMPS MMAW WELDING EQUIPMENT BASED ON RESONANCE INTELLIGENCE TECHNOLOGY, ALS",
+      "participated_on": "11-07-2025 13:17:36",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S INNOVATIVE MARKETING AGENCIES Under PMA",
+      "offered_item": "Item Categories : SET OF SINGLE PHASE 180 AMPS MMAW WELDING EQUIPMENT BASED ON RESONANCE INTELLIGENCE TECHNOLOGY, ALS",
+      "total_price": "` 161374.44",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PROTECH SOLUTIONS Under PMA",
+      "offered_item": "Item Categories : SET OF SINGLE PHASE 180 AMPS MMAW WELDING EQUIPMENT BASED ON RESONANCE INTELLIGENCE TECHNOLOGY, ALS",
+      "total_price": "` 163380.00",
+      "rank": "L2"
+    }
+  ]
+}

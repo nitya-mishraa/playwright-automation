@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/215326",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "10-04-2019 10:18:51",
+    "bid_end_datetime": "23-04-2019 12:00:00",
+    "experience_with_gov_required": "1",
+    "bid_validity_days": "135"
+  },
+  "buyer_details": {
+    "name": "Jagdish Kumar Sharma",
+    "address": "dycomdt.ssbdel@gov.in,NEW DELHI,India,Force Hqrs, Sashastra Seema Bal, East Block - V, R.K.Puram, New Delhi,DELHI,Jagdish Kumar Sharma,110066",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "Sashastra Seema Bal (ssb)",
+    "office": "Fhq Ssb New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "23-04-2019 10:58:04",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "18-04-2019 15:35:44",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "EUNITE TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "23-04-2019 11:39:17",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "INTEC INFONET PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "23-04-2019 11:51:54",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

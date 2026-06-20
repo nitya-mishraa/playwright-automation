@@ -1,0 +1,64 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5885076",
+    "bid_status": "Active",
+    "bid_start_datetime": "06-02-2025 11:45:07",
+    "bid_end_datetime": "20-02-2025 17:00:00",
+    "bid_opening_datetime": "20-02-2025 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Madhu Mahajan",
+    "address": "MADHU MAHAJAN,madhu1050@nic.in,A BLOCK CGO COMPLEX NATIONAL INFORMATICS CENTRE NEW DELHI,NEW DELHI,DELHI,110003,India,011-24305863-0",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "National Informatics Centre (nic)",
+    "office": "National Informatics Centre-head Quaters"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SKILLMINE TECHNOLOGY CONSULTING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Hiring of Professionals for Cloud, Network and Security - Security related roles; SOC Analyst Level",
+      "total_price": "` 63394320.00",
+      "rank": "H1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "E-SOLUTIONS IT SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Hiring of Professionals for Cloud, Network and Security - Security related roles; SOC Analyst Level",
+      "total_price": "` 69849864.00",
+      "rank": "H2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "RENOVISION AUTOMATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Hiring of Professionals for Cloud, Network and Security - Security related roles; SOC Analyst Level",
+      "total_price": "` 68676012.00",
+      "rank": "H3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "Item Categories : Hiring of Professionals for Cloud, Network and Security - Security related roles; SOC Analyst Level",
+      "total_price": "` 99355992.00",
+      "rank": "H4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "AARAV GLOBAL PRODUCTS AND SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Hiring of Professionals for Cloud, Network and Security - Security related roles; SOC Analyst Level",
+      "total_price": "` 68545728.00",
+      "rank": "H5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "VELOCIS SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Hiring of Professionals for Cloud, Network and Security - Security related roles; SOC Analyst Level",
+      "total_price": "` 77928000.00",
+      "rank": "H6"
+    }
+  ]
+}

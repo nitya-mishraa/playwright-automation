@@ -1,0 +1,111 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6597309",
+    "bid_status": "Active",
+    "quantity": "4453",
+    "bid_start_datetime": "29-09-2025 12:33:08",
+    "bid_end_datetime": "20-10-2025 12:00:00",
+    "bid_opening_datetime": "20-10-2025 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** RAJAURI",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Hqids",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ACCESS COMPUTERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "18-10-2025 14:23:29",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ADVIT TRADE LINKS Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-10-2025 21:12:05",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "EWIT INFOTECH Under PMA",
+      "offered_item": "-",
+      "participated_on": "17-10-2025 16:38:10",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "EXACTEL Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-10-2025 09:11:03",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "Fast Track Traders Under PMA",
+      "offered_item": "-",
+      "participated_on": "17-10-2025 10:48:14",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "GIGA HOUSE Under PMA",
+      "offered_item": "-",
+      "participated_on": "18-10-2025 11:28:46",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "I.S. Trading Co. Under PMA",
+      "offered_item": "-",
+      "participated_on": "18-10-2025 15:50:02",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "M/S HOME DECOR Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-10-2025 07:18:18",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "M/S NISSAR ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "17-10-2025 21:31:53",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "M/S U.V. TECHNO Under PMA",
+      "offered_item": "-",
+      "participated_on": "18-10-2025 11:06:09",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "TAWI ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-10-2025 20:59:28",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": []
+}

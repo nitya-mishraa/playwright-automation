@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/663987",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "08-06-2020 10:01:53",
+    "bid_end_datetime": "18-06-2020 11:00:00",
+    "bid_opening_datetime": "18-06-2020 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** ERNAKULAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Reseach & Development",
+    "organisation": "Office Of Dg ( Ns & M)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : PCL999LFGE05X1Z",
+      "participated_on": "17-06-2020 10:31:27",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EMBEDDED SYSTEMS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : PCL999LFGE05X1Z",
+      "participated_on": "10-06-2020 15:10:29",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 1768096.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EMBEDDED SYSTEMS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 1999950.00",
+      "rank": "L2"
+    }
+  ]
+}

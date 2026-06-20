@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/762466",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "25-08-2020 10:39:41",
+    "bid_end_datetime": "04-09-2020 11:00:00",
+    "bid_opening_datetime": "04-09-2020 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "80"
+  },
+  "buyer_details": {
+    "name": "Manu Garg",
+    "address": "India,011-22900579-,Manu Garg,NICSI, 1st Floor, NBCC Tower, Bhikaji Cama Place, New Delhi-66, SOUTH DELHI,NEW DELHI,DELHI,110066,gm-mudhmu@nic.in",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Viewer",
+      "participated_on": "02-09-2020 17:47:30",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 662000.00",
+      "rank": "L1"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/844700",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "23-10-2020 12:41:22",
+    "bid_end_datetime": "05-11-2020 13:00:00",
+    "bid_opening_datetime": "05-11-2020 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "Ramesha N M",
+    "address": "Ramesha N M,India,KARNATAKA,080-22176311-,NIRMAL BHAVAN ICMR COMPLEX 2ND FLOOR POOJANAHALLI ROAD OFF N.H.7 ADJACENT TO TRUMPET FLYOVER OF BIAL KANNAMANGALA POST BENGALURU,BANGALORE RURAL,rameshreddy.ncdir@gov.in,562110",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health Research",
+    "organisation": "Indian Council Of Medical Research (icmr)",
+    "office": "National Centre For Disease Informatics And Research, Bengaluru"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableaucreator",
+      "participated_on": "02-11-2020 11:37:30",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableaucreator",
+      "participated_on": "05-11-2020 12:47:27",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableaucreator",
+      "participated_on": "05-11-2020 10:59:58",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 194910.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 194925.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 194937.00",
+      "rank": "L3"
+    }
+  ]
+}

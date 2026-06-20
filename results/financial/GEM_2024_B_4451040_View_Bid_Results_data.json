@@ -1,0 +1,63 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4451040",
+    "bid_status": "Active",
+    "quantity": "4451",
+    "bid_start_datetime": "18-01-2024 08:26:16",
+    "bid_end_datetime": "29-01-2024 09:00:00",
+    "bid_opening_datetime": "29-01-2024 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** RAJAURI",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Hqids",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "EWIT INFOTECH Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-01-2024 14:31:23",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EXACTEL Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-01-2024 20:52:30",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "I.S. Trading Co. Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 15:48:12",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S U.V. TECHNO Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 16:01:22",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "TAWI ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 19:58:49",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

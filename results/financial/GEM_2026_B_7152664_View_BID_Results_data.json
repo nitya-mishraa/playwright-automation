@@ -1,0 +1,87 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7152664",
+    "bid_status": "Active",
+    "quantity": "20",
+    "bid_start_datetime": "27-01-2026 11:43:40",
+    "bid_end_datetime": "06-02-2026 12:00:00",
+    "bid_opening_datetime": "06-02-2026 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "45"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** ANANTHNAG",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "04-02-2026 23:49:59",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-02-2026 11:59:43",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-02-2026 20:47:21",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-02-2026 22:03:20",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-01-2026 23:08:01",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-01-2026 21:59:49",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-02-2026 23:24:50",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "********** Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-02-2026 17:34:14",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,29 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5577855",
+    "bid_status": "Active",
+    "bid_start_datetime": "06-11-2024 11:01:46",
+    "bid_end_datetime": "28-11-2024 09:00:00",
+    "bid_opening_datetime": "28-11-2024 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** HYDERABAD",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (mss)",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADROITEC ENGINEERING SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Subscription of Parts Intelligence",
+      "total_price": "` 1415000.00",
+      "rank": "L1"
+    }
+  ]
+}

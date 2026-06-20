@@ -1,0 +1,45 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4498069",
+    "bid_status": "Active",
+    "quantity": "101",
+    "bid_start_datetime": "17-01-2024 17:48:52",
+    "bid_end_datetime": "12-02-2024 17:00:00",
+    "bid_opening_datetime": "12-02-2024 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "38"
+  },
+  "buyer_details": {
+    "name": "Abhay Verma",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S AMBEY ADVERTISING COMPANY Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 14:02:19",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S SASTA UPBHOKTA BHANDAR Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 15:13:54",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/s Shrijal Printers and Stationary Point Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-02-2024 16:57:08",
+      "mse_mii_status": "Offline upload",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": []
+}

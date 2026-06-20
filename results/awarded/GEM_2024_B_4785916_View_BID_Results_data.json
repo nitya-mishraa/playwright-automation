@@ -1,0 +1,82 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4785916",
+    "bid_status": "Active",
+    "quantity": "57",
+    "bid_start_datetime": "15-03-2024 16:54:23",
+    "bid_end_datetime": "05-04-2024 17:00:00",
+    "bid_opening_datetime": "05-04-2024 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "208"
+  },
+  "buyer_details": {
+    "name": "Vijay Vishwanath Sarkate",
+    "department": "Urban Development Department",
+    "organisation": "Kalyan Dombivali Municipal Corporation",
+    "office": "Hq1"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AVM INFOTECH (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-04-2024 11:29:37",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "LIFE SPEAKS Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-04-2024 17:41:03",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Parshwa Energy Solution Under PMA",
+      "offered_item": "-",
+      "participated_on": "04-04-2024 13:32:44",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ROBOSTORMS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-04-2024 12:47:43",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AVM INFOTECH (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Solar Operated Robotic Coding Artificial Intelligence Lab 1,Solar Operated Robotic Coding Artificia",
+      "total_price": "` 30001950.00",
+      "rank": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ROBOSTORMS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Solar Operated Robotic Coding Artificial Intelligence Lab 1,Solar Operated Robotic Coding Artificia",
+      "total_price": "` 30000810.00",
+      "rank": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Parshwa Energy Solution Under PMA",
+      "offered_item": "Item Categories : Solar Operated Robotic Coding Artificial Intelligence Lab 1,Solar Operated Robotic Coding Artificia",
+      "total_price": "` 29999955.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "LIFE SPEAKS Under PMA",
+      "offered_item": "Item Categories : Solar Operated Robotic Coding Artificial Intelligence Lab 1,Solar Operated Robotic Coding Artificia",
+      "total_price": "` 30000240.00",
+      "rank": "L2"
+    }
+  ]
+}

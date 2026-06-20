@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4425416",
+    "bid_status": "Active",
+    "quantity": "12",
+    "bid_start_datetime": "02-01-2024 18:00:54",
+    "bid_end_datetime": "12-01-2024 18:00:00",
+    "bid_opening_datetime": "12-01-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KANPUR NAGAR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARC SOLUTIONS Under PMA",
+      "offered_item": "Item Categories : eastern ladakh at lac under great threat,significance of tawang for china,india tibet card standoff",
+      "participated_on": "` 20160.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MANSIRAT ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : eastern ladakh at lac under great threat,significance of tawang for china,india tibet card standoff",
+      "participated_on": "` 25400.00",
+      "mse_mii_status": "L2",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DJ TRADER Under PMA",
+      "offered_item": "Item Categories : eastern ladakh at lac under great threat,significance of tawang for china,india tibet card standoff",
+      "participated_on": "` 26100.00",
+      "mse_mii_status": "L3",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARC SOLUTIONS Under PMA",
+      "offered_item": "Item Categories : eastern ladakh at lac under great threat,significance of tawang for china,india tibet card standoff",
+      "total_price": "` 20160.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MANSIRAT ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : eastern ladakh at lac under great threat,significance of tawang for china,india tibet card standoff",
+      "total_price": "` 25400.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DJ TRADER Under PMA",
+      "offered_item": "Item Categories : eastern ladakh at lac under great threat,significance of tawang for china,india tibet card standoff",
+      "total_price": "` 26100.00",
+      "rank": "L3"
+    }
+  ]
+}

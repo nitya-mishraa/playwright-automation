@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "quantity": "1"
+  },
+  "buyer_details": {
+    "name": "Naveen Agrawal",
+    "address": "Naveen Agrawal,gem3-nicsi@nicsi.nic.in,1st Floor, NBCC Tower, 15 Bhikaji Cama Place,NEW DELHI,DELHI,110066,India",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "THOUGHTSOL INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 2750036.44",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "VSN INTERNATIONAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 2754237.29",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "MULTIVERSE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 3110000.00",
+      "rank": "L3"
+    }
+  ]
+}

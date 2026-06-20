@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3191049",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "26-02-2023 14:30:48",
+    "bid_end_datetime": "08-03-2023 15:00:00",
+    "bid_opening_datetime": "08-03-2023 15:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Siba Kumar Udgata",
+    "address": "udgatacs.uoh@nic.in,India,K.V.RANGAREDDY,500046,TELANGANA,School of Computer and Information Sciences, University of Hyderabad Prof CR Rao Road Gachibowli Hyderabad,Siba Kumar Udgata,040-23134119-",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "University Of Hyderabad Andhra Pradesh",
+    "office": "Administrative Building University Of Hyderabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NEURULUS LABS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "participated_on": "` 98990.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NEURULUS LABS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 98990.00",
+      "rank": "L1"
+    }
+  ]
+}

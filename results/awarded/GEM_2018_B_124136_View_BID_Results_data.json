@@ -1,0 +1,35 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2018/B/124136",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "22-11-2018 14:26:42",
+    "bid_end_datetime": "03-12-2018 17:00:00",
+    "experience_with_gov_required": "1"
+  },
+  "buyer_details": {
+    "name": "Deepak Kumar",
+    "department": "Medical Health And Family Welfare Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "C.m.o Lalitpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2012",
+      "participated_on": "23-11-2018 10:44:19",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Intelligence Scale for Children",
+      "total_price": "` 88109.00",
+      "rank": "L1"
+    }
+  ]
+}

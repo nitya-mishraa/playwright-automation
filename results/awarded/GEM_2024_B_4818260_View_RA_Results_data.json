@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "quantity": "12933"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** CHANDIGARH",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (ls)",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "APAAR SOLUTIONS (MII) Under PMA",
+      "offered_item": "Item Categories : Supply and installation of 5 MP High Quality PTZ CCTV camera equipment with all required accessorie",
+      "total_price": "` 4945740.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SHREENATH ENTERPRISES (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Supply and installation of 5 MP High Quality PTZ CCTV camera equipment with all required accessorie",
+      "total_price": "` 4963400.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "RASNAL TELECOM (MII) Under PMA",
+      "offered_item": "Item Categories : Supply and installation of 5 MP High Quality PTZ CCTV camera equipment with all required accessorie",
+      "total_price": "` 4973300.00",
+      "rank": "L3"
+    }
+  ]
+}

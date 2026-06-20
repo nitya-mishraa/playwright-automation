@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/891212",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "25-11-2020 14:18:08",
+    "bid_end_datetime": "07-12-2020 14:00:00",
+    "bid_opening_datetime": "07-12-2020 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "87"
+  },
+  "buyer_details": {
+    "name": "Silverious Victorbhai Kharadi",
+    "department": "Labour And Employment Department Gujarat",
+    "organisation": "N/a",
+    "office": "Gujarat Skill Development Mission Gandhinagar"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AADHYA CORPORATION PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : INFRAGISTICS Model  : INFRAGISTICS",
+      "participated_on": "06-12-2020 20:01:17",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Dee Vee Corporation Under PMA",
+      "offered_item": "Make  : INFRAGISTICS Model  : INFRAGISTICS",
+      "participated_on": "06-12-2020 19:49:25",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HB ENTERPRISE Under PMA",
+      "offered_item": "Make  : idiagnosis Technologies Model  : Interest Assessment Software 1.3 FOR ITI",
+      "participated_on": "05-12-2020 17:46:17",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "infinity corporation Under PMA",
+      "offered_item": "Make  : Oswal Model  : Interest Assessment Software",
+      "participated_on": "05-12-2020 17:06:04",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

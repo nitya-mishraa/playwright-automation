@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1024540",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "15-02-2021 10:04:49",
+    "bid_end_datetime": "02-03-2021 14:00:00",
+    "bid_opening_datetime": "02-03-2021 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "81"
+  },
+  "buyer_details": {
+    "name": "Praveen Kumar",
+    "address": "DELHI,India,Praveen Kumar,011-23219178-,ESIC, Panchdeep Bhavan, C.I.G. Marg,praveen@esic.nic.in,CENTRAL DELHI,110002",
+    "ministry": "Ministry Of Labour And Employment",
+    "department": "Na",
+    "organisation": "Employees State Insurance Corporation (esic)",
+    "office": "Headquarters"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ACCESS DATA SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SAS Model  : SAS Visual Analytics version 7.5",
+      "participated_on": "02-03-2021 09:10:11",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "Make  : SAS Model  : SAS Visual Analytics version 7.5",
+      "participated_on": "01-03-2021 17:49:06",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "LAMBENCY TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SAS Model  : SAS Visual Analytics version 7.5",
+      "participated_on": "01-03-2021 17:47:19",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,67 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4131144",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "26-10-2023 12:52:42",
+    "bid_end_datetime": "06-11-2023 13:00:00",
+    "bid_opening_datetime": "06-11-2023 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Shujat Ali Mir",
+    "department": "Higher Education Department Jammu And Kashmir",
+    "organisation": "N/a",
+    "office": "Govt Degree College Kargil"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "FOURRECK PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Fourreck Model  : FR RFID Title : RFID Library AI",
+      "participated_on": "04-11-2023 15:12:55",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INFOCUS TECHNOLOGIES Under PMA",
+      "offered_item": "Make  : RFID Automation and AI board Model  : RFID Automation & AI Title : RFID Automation Hardware & AI",
+      "participated_on": "04-11-2023 16:14:38",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NORTH CUT ENTERPRISES Under PMA",
+      "offered_item": "Make  : RAPIDRADIO SOLUTIONS PVT. LTD. Model  : RAPIDRADIO SOLUTIONS PVT. LTD. Title : RFID Library System",
+      "participated_on": "05-11-2023 19:25:30",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Northcut Enterprises ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : RFID Automation, RFID Tagging of Books, Artificial Intelligence based Digital Notice Board",
+      "total_price": "` 2010000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INFOCUS TECHNOLOGIES Under PMA",
+      "offered_item": "Item Categories : RFID Automation, RFID Tagging of Books, Artificial Intelligence based Digital Notice Board",
+      "total_price": "` 2028000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "FOURRECK PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : RFID Automation, RFID Tagging of Books, Artificial Intelligence based Digital Notice Board",
+      "total_price": "` 2400000.00",
+      "rank": "L3"
+    }
+  ]
+}

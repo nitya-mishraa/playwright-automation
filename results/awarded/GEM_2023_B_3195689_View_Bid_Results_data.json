@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3195689",
+    "bid_status": "Active",
+    "quantity": "13",
+    "bid_start_datetime": "09-03-2023 12:43:24",
+    "bid_end_datetime": "20-03-2023 14:00:00",
+    "bid_opening_datetime": "20-03-2023 14:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Bhavna Aggarwal",
+    "address": "gem1-nicsi@nicsi.nic.in,NEW DELHI,India,1st Floor, NBCC Tower, 15 Bhikaji Cama Place,DELHI,011-22900529-,110066,Bhavna Aggarwal",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARG Enterprises Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Explorer (5 User Pack)",
+      "participated_on": "20-03-2023 13:40:25",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Explorer (5 User Pack)",
+      "participated_on": "17-03-2023 16:07:06",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

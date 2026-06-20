@@ -1,0 +1,90 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1284212",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "21-06-2021 12:45:02",
+    "bid_end_datetime": "12-07-2021 15:00:00",
+    "bid_opening_datetime": "12-07-2021 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "33"
+  },
+  "buyer_details": {
+    "name": "Gaurish Joshi",
+    "department": "Technical Education Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "R E C Kannauj,uttar Pradesh"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADVANCETECH INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : AdrTech Model  : ATIPL MI 01 Title : Machine intelligence Lab",
+      "participated_on": "12-07-2021 14:11:45",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S KRISHNA ENTERPRISES Under PMA",
+      "offered_item": "Make  : Edutech Learning Solutions Pvt. Ltd. Model  : Machine Intelligent Lab Title : Machine Intelligent Lab (Edutech Learning Solutions Pvt. Ltd.",
+      "participated_on": "11-07-2021 08:29:39",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NIYO ENGINEERS Under PMA",
+      "offered_item": "Make  : NiYo Engineers Model  : BSP02 Title : PLC Lab",
+      "participated_on": "12-07-2021 11:39:38",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "Triambkeshwar godawari traders Under PMA",
+      "offered_item": "Make  : Edutech Learning Solutions Pvt. Ltd. Model  : Machine Intelligent Lab Title : Machine Intelligent Lab (Edutech Learning Solutions Pvt. Ltd.",
+      "participated_on": "11-07-2021 08:54:35",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "VIDHAN ENTERPRISES Under PMA",
+      "offered_item": "Make  : Edutech Learning Solutions Pvt. Ltd. Model  : Machine intelligence Lab (Edutech Learning Solutions Pvt. Ltd.) Title : Machine intelligence Lab",
+      "participated_on": "11-07-2021 19:37:30",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADVANCETECH INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Machine intelligence Lab",
+      "total_price": "` 4760000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Triambkeshwar godawari traders Under PMA",
+      "offered_item": "Item Categories : Machine intelligence Lab",
+      "total_price": "` 4790000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KRISHNA ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Machine intelligence Lab",
+      "total_price": "` 4796260.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "VIDHAN ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Machine intelligence Lab",
+      "total_price": "` 4798020.00",
+      "rank": "L4"
+    }
+  ]
+}

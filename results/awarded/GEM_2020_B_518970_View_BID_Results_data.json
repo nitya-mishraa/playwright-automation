@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/518970",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "28-01-2020 13:41:29",
+    "bid_end_datetime": "07-02-2020 21:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Malik Hayat Hashmi",
+    "address": "UTTAR PRADESH,buyer11.dhe.aligarh@gembuyer.in,202002,0571-2700920-3655,Prof M.N. Farooqui Computer Center Aligarh Muslim University,MALIK HAYAT HASHMI,India,ALIGARH",
+    "ministry": "Ministry Of Human Resource Development",
+    "department": "Department Of Higher Education",
+    "organisation": "Aligarh Muslim University (amu)",
+    "office": "Up"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : STATCRAFT Model  : STATCRAFT",
+      "participated_on": "05-02-2020 13:27:55",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 371000.00",
+      "rank": "L1"
+    }
+  ]
+}

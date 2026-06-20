@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4563614",
+    "bid_status": "Active",
+    "quantity": "23",
+    "bid_start_datetime": "01-02-2024 14:12:31",
+    "bid_end_datetime": "12-02-2024 13:00:00",
+    "bid_opening_datetime": "12-02-2024 13:30:00",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** MEERUT",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Vermaboockdepot Under PMA",
+      "offered_item": "Item Categories : Leaders Eat Last by Simon Sinek,Emotional Intelligence,Life Amazing Secrets,Bipin by Rachna Bish Ra",
+      "participated_on": "` 18204.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Soni enterprises Under PMA",
+      "offered_item": "Item Categories : Leaders Eat Last by Simon Sinek,Emotional Intelligence,Life Amazing Secrets,Bipin by Rachna Bish Ra",
+      "participated_on": "` 18498.00",
+      "mse_mii_status": "L2",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "mexim enterprises (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Leaders Eat Last by Simon Sinek,Emotional Intelligence,Life Amazing Secrets,Bipin by Rachna Bish Ra",
+      "participated_on": "` 21595.00",
+      "mse_mii_status": "L3",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Vermaboockdepot Under PMA",
+      "offered_item": "Item Categories : Leaders Eat Last by Simon Sinek,Emotional Intelligence,Life Amazing Secrets,Bipin by Rachna Bish Ra",
+      "total_price": "` 18204.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Soni enterprises Under PMA",
+      "offered_item": "Item Categories : Leaders Eat Last by Simon Sinek,Emotional Intelligence,Life Amazing Secrets,Bipin by Rachna Bish Ra",
+      "total_price": "` 18498.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "mexim enterprises (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Leaders Eat Last by Simon Sinek,Emotional Intelligence,Life Amazing Secrets,Bipin by Rachna Bish Ra",
+      "total_price": "` 21595.00",
+      "rank": "L3"
+    }
+  ]
+}

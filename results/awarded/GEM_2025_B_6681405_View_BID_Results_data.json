@@ -1,0 +1,29 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6681405",
+    "bid_status": "Active",
+    "bid_start_datetime": "13-09-2025 18:45:19",
+    "bid_end_datetime": "20-09-2025 15:00:00",
+    "bid_opening_datetime": "20-09-2025 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Sushil Kumar",
+    "address": "Sushil Kumar,buycon4.bpcl.noida@gembuyer.in,BPCL Complex, Sewree Fort Road, Sewree (East),Mumbai,MAHARASHTRA,400015,India",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Bharat Petroleum Corporation Ltd",
+    "organisation": "Bharat Petroleum Corporation Ltd",
+    "office": "Maharashtra"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Fin-I Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Integration with pre-de",
+      "total_price": "` 899160.00",
+      "rank": "L1"
+    }
+  ]
+}

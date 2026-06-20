@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5005918",
+    "bid_status": "Active",
+    "quantity": "8900",
+    "bid_start_datetime": "22-07-2024 13:16:18",
+    "bid_end_datetime": "01-08-2024 14:00:00",
+    "bid_opening_datetime": "01-08-2024 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Deepak Kumar",
+    "address": "Deepak Kumar,deepak.kumar2032@uidai.gov.in,8th Floor, UIDAI Headquarters, Bangla Sahib Road, Behind Kali Mandir, Gole Market, New Delhi,NEW DELHI,DELHI,110001,India,011-23478337-",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Unique Identification Authority Of India (uidai)",
+    "office": "Hq, New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DELPHI INFOSOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Hewlett Packard Enterprise Model  : AMC HPE Ezmeral Data Fabric S0M33AAE per TBstorage",
+      "participated_on": "01-08-2024 12:44:13",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ORBIT TECHSOL INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Hewlett Packard Enterprise Model  : AMC HPE Ezmeral Data Fabric S0M33AAE per TBstorage",
+      "participated_on": "01-08-2024 13:15:45",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PENTACLE IT SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Hewlett Packard Enterprise Model  : AMC HPE Ezmeral Data Fabric S0M33AAE per TBstorage",
+      "participated_on": "01-08-2024 11:19:17",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

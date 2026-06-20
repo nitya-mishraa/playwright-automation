@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "8900",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Deepak Kumar",
+    "address": "Deepak Kumar,deepak.kumar2032@uidai.gov.in,8th Floor, UIDAI Headquarters, Bangla Sahib Road, Behind Kali Mandir, Gole Market, New Delhi,NEW DELHI,DELHI,110001,India,011-23478337-",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Unique Identification Authority Of India (uidai)",
+    "office": "Hq, New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ORBIT TECHSOL INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 22192562.48",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PENTACLE IT SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 22902577.20",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DELPHI INFOSOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 24674328.00 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

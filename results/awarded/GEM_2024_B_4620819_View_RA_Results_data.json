@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "26",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** AIZAWL",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence",
+    "organisation": "Border Road Organisation",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IJ ENTERPRISES (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : UPS Battery Make Exide 12V 7 Ah CS 7 12,Desktop Switch 8 Port D LINK DES 1008C 8 Port 10 oblique 10",
+      "total_price": "` 91790.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "HARDWARE SUPPLY STORE (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : UPS Battery Make Exide 12V 7 Ah CS 7 12,Desktop Switch 8 Port D LINK DES 1008C 8 Port 10 oblique 10",
+      "total_price": "` 91900.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ICARE IT SOLUTIONS (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : UPS Battery Make Exide 12V 7 Ah CS 7 12,Desktop Switch 8 Port D LINK DES 1008C 8 Port 10 oblique 10",
+      "total_price": "` 92300.00",
+      "rank": "L3"
+    }
+  ]
+}

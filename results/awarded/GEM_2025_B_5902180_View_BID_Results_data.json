@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5902180",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "03-02-2025 14:02:30",
+    "bid_end_datetime": "13-02-2025 15:00:00",
+    "bid_opening_datetime": "13-02-2025 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "Lalit Mohan Sharma",
+    "department": "Home Department Bihar",
+    "organisation": "Bihar State Police - A Voyage Of Excellence",
+    "office": "Phq"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TECTUM TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tectum Model  : I ACT 1.1",
+      "participated_on": "08-02-2025 20:16:43",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TECTUM TECHNOLOGIES PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 59000.00",
+      "rank": "L1"
+    }
+  ]
+}

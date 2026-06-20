@@ -1,0 +1,23 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Alok Chandra",
+    "department": "Medical Health And Family Welfare Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Office Of Chief Medical Officer Bareilly"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2012",
+      "participated_on": "21-02-2019 03:21:52 (Technical)",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

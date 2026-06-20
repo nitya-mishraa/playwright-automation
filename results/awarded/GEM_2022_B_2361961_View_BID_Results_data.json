@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2361961",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "11-08-2022 14:46:52",
+    "bid_end_datetime": "22-08-2022 15:00:00",
+    "bid_opening_datetime": "22-08-2022 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Abdul Majeed Bhat",
+    "department": "Higher Education Department Jammu And Kashmir",
+    "organisation": "N/a",
+    "office": "Govt Degree College Uri"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2013",
+      "participated_on": "22-08-2022 09:56:48",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Adult Intelligence Scale",
+      "total_price": "` 88704.00",
+      "rank": "L1"
+    }
+  ]
+}

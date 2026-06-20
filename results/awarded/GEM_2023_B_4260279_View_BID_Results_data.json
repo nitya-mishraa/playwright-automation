@@ -1,0 +1,123 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4260279",
+    "bid_status": "Active",
+    "quantity": "24",
+    "bid_start_datetime": "11-12-2023 17:26:56",
+    "bid_end_datetime": "01-01-2024 18:00:00",
+    "bid_opening_datetime": "01-01-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Abhishek Solanki",
+    "address": "Abhishek Solanki,abhishek.solanki@gov.in,6 CGO Complex Lodhi Road,SOUTH EAST DELHI,DELHI,110003,India",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Indian Computer Emergency Response Team (cert-in)",
+    "office": "6 Cgo Complex Lodhi Road New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADVANTAGE CONSULTING HUB PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-12-2023 23:10:09",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AVA INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-12-2023 13:21:11",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "AVOSYS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-12-2023 15:17:10",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "BIKUTA IT SOLUTION PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-12-2023 18:10:18",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "CHESSY KNOWLEDGE QUOTIENT PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-12-2023 12:56:20",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "CPTS NETWORK PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-12-2023 22:19:59",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "PRAVARTEE SALES PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-12-2023 12:05:49",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "SEMPERSOL CONSULTANCY PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "01-01-2024 17:09:15",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AVA INDIA PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Strategic Exercises Platform,Cyber Drill Management Toolkit,Defend Exercises Tool and Solution,Feed",
+      "total_price": "` 769725752.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CPTS NETWORK PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Strategic Exercises Platform,Cyber Drill Management Toolkit,Defend Exercises Tool and Solution,Feed",
+      "total_price": "` 791377384.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PRAVARTEE SALES PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Strategic Exercises Platform,Cyber Drill Management Toolkit,Defend Exercises Tool and Solution,Feed",
+      "total_price": "` 826334648.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "AVOSYS TECHNOLOGY PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Strategic Exercises Platform,Cyber Drill Management Toolkit,Defend Exercises Tool and Solution,Feed",
+      "total_price": "` 839710420.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "CHESSY KNOWLEDGE QUOTIENT PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Strategic Exercises Platform,Cyber Drill Management Toolkit,Defend Exercises Tool and Solution,Feed",
+      "total_price": "` 846758206.00",
+      "rank": "L5"
+    }
+  ]
+}

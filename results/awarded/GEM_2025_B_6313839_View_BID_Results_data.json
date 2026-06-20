@@ -1,0 +1,82 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6313839",
+    "bid_status": "Active",
+    "quantity": "7",
+    "bid_start_datetime": "05-06-2025 15:55:17",
+    "bid_end_datetime": "20-06-2025 16:00:00",
+    "bid_opening_datetime": "20-06-2025 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Sarika Manhas",
+    "department": "Higher Education Department Jammu And Kashmir",
+    "organisation": "University Of Jammu",
+    "office": "Jammu"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BIOLOGICAL MUSEUM Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-06-2025 20:33:25",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CONSCIOUS MIND SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "17-06-2025 13:26:33",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NATIONAL PSYCHOLOGICAL CORPORATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "18-06-2025 17:35:01",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "PRASAD PSYCHO PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "18-06-2025 13:44:45",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NATIONAL PSYCHOLOGICAL CORPORATION Under PMA",
+      "offered_item": "Item Categories : Denver Development Screening Test by Frankenburg, W.K.Dodds,Ages and Stages questionnaires Third Ed",
+      "total_price": "` 494678.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PRASAD PSYCHO PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Denver Development Screening Test by Frankenburg, W.K.Dodds,Ages and Stages questionnaires Third Ed",
+      "total_price": "` 506257.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "CONSCIOUS MIND SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Denver Development Screening Test by Frankenburg, W.K.Dodds,Ages and Stages questionnaires Third Ed",
+      "total_price": "` 521500.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "BIOLOGICAL MUSEUM ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Denver Development Screening Test by Frankenburg, W.K.Dodds,Ages and Stages questionnaires Third Ed",
+      "total_price": "` 733388.00",
+      "rank": "L4"
+    }
+  ]
+}

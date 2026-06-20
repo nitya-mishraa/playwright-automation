@@ -1,0 +1,43 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3925652",
+    "bid_status": "Active",
+    "bid_start_datetime": "07-09-2023 08:13:54",
+    "bid_end_datetime": "18-09-2023 09:00:00",
+    "bid_opening_datetime": "18-09-2023 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** BANGALORE",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (aero)",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "RANGSONS AEROSPACE PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Software Development for Intelligence Exploitation System IES",
+      "total_price": "` 39717738.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OPTM MEDIA SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Software Development for Intelligence Exploitation System IES",
+      "total_price": "` 47402960.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "CLAYTRONICS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Software Development for Intelligence Exploitation System IES",
+      "total_price": "` 51320560.00",
+      "rank": "L3"
+    }
+  ]
+}

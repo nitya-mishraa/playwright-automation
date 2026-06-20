@@ -1,0 +1,45 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Virendra Bajpai",
+    "address": "SOUTH EAST DELHI,011-24366012-,3RD FLOOR, \"G\" DTE FHQ, 10th BLOCK, CGO COMPLEX, LODHI ROAD,DELHI,comdttechint.g@bsf.nic.in,India,Virendra Bajpai,110003",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "Border Security Force (bsf)",
+    "office": "Force Head Quarter Bsf New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PELORUS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 38956846.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SKAN NETCOMMUNICATIONS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 39800000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TNS NETWORKING SOLUTIONS PRIVATE LIMITED. Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 40000000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 42800000.00 (Bid Price)",
+      "rank": "L4"
+    }
+  ]
+}

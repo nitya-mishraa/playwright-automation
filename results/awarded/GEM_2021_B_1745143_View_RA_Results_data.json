@@ -1,0 +1,31 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Sunitha R",
+    "address": "560034,BANGALORE,India,Sunitha R,sunitha.r.kiocl@nic.in,080-25531461-466,KARNATAKA,KIOCL LIMITED, II Block, Koramangala, Sarjapura Road,Bangalore",
+    "ministry": "Ministry Of Steel",
+    "department": "Kiocl Limited",
+    "organisation": "Kiocl Limited",
+    "office": "Kiocl Limited/ Bangalore"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Veer Telecom Under PMA",
+      "offered_item": "Item Categories : ARTIFICIAL INTELLIGENCE BASED FACE RECOGNITION ATTENDANCE SYSTEM",
+      "total_price": "` 1306502.29",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EXULTSOFT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : ARTIFICIAL INTELLIGENCE BASED FACE RECOGNITION ATTENDANCE SYSTEM",
+      "total_price": "` 1308230.31",
+      "rank": "L2"
+    }
+  ]
+}

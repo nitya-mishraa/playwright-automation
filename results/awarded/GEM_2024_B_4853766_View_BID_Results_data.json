@@ -1,0 +1,163 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4853766",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "12-04-2024 18:43:22",
+    "bid_end_datetime": "24-05-2024 09:00:00",
+    "bid_opening_datetime": "24-05-2024 09:30:00",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Sudhakar Ramakant Mhatre",
+    "address": "Sudhakar Ramakant Mhatre,apoc2@dpsdae.gov.in,DIRECTORATE OF PURCHASE AND STORES V. S. BHAVAN ANUSHAKTINAGAR,MUMBAI,MAHARASHTRA,400094,India",
+    "ministry": "Pmo",
+    "department": "Department Of Atomic Energy",
+    "organisation": "Directorate Of Purchase And Stores",
+    "office": "Directorate Of Purchase And Stores"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ABACUS INFOTECH Under PMA",
+      "offered_item": "Make  : AIVIDTECH VISION Model  : Artificial Intelligence (AI) based video analytics Title : Artificial Intelligence (AI) based video analytics system",
+      "participated_on": "30-04-2024 19:17:44",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ACE BRAIN SYSTEMS AND SOFTWARE PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : INTOZI Model  : INT-IK Title : AI & Deep Learning Powered Video Analytics Platform INT-IK",
+      "participated_on": "30-04-2024 15:43:13",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "AHANA SYSTEMS AND SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Hikvision Model  : iDS-2CD8A47G0/SC-ZY(2.8-12mm) Title : 4MP DeepinView Self-Cleaning Bullet Camera",
+      "participated_on": "01-05-2024 09:43:54",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ASADEL TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : IMARECON Model  : IMARECON V2.0 Title : Artificial Intelligence (AI) based video analytics system",
+      "participated_on": "25-04-2024 15:47:37",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "C2C ADVANCED SYSTEMS LIMITED Under PMA",
+      "offered_item": "Make  : C2C Advanced Systems Limited Model  : C2C-AS-VAS-001 Title : video analytics system",
+      "participated_on": "30-04-2024 21:37:59",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "DIPVI DEFENCE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : DIPVI DEFENCE SOLUTIONS PRIVATE LIMITED Model  : Artificial Intelligence (AI) based video analytics Title : AI Module",
+      "participated_on": "30-04-2024 19:12:28",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "DTC INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : DTC INFOTECH PRIVATE LIMITED Model  : UnifyNow Title : AI Facial Recognition, Crowd Analytics, Vehicle Number Plate, Intrusion & Object detection software",
+      "participated_on": "30-04-2024 23:36:29",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "HC ROBOTICS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : HC Robotics Pvt Ltd Model  : AI Enabled MUM-T Title : AI enabled data analysis",
+      "participated_on": "30-04-2024 23:11:57",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "KEYPOINT TECHNOLOGIES (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Artificial Intelligence (AI) Based Software System Model  : Universal Title : Artificial Intelligence (AI) Based Software System",
+      "participated_on": "23-05-2024 19:18:38",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "POLESTAR CONSULTING PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : INTOZI Model  : INT-IK Title : AI & Deep Learning Powered Video Analytics Platform",
+      "participated_on": "30-04-2024 17:20:15",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "SRIVISIFAI TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SRIVISIFAI TECHNOLOGIES PVT LTD Model  : SV1.1 Title : SrivisifAI",
+      "participated_on": "29-04-2024 18:50:19",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "SUN SYSTEMS Under PMA",
+      "offered_item": "Make  : INTOZI Model  : INT-IK Title : AI & Deep Learning Powered Video Analytics Platform INTOZI",
+      "participated_on": "30-04-2024 16:25:57",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "13",
+      "seller_name": "TRISIM GLOBAL SOLUTIONS LLP Under PMA",
+      "offered_item": "Make  : UNIVERSAL Model  : UNIVERSAL Title : UNIVERSAL",
+      "participated_on": "01-05-2024 07:49:00",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "14",
+      "seller_name": "VTRISHUL (OPC) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : VTRISHUL Model  : VT-01 Title : Artificial Intelligence (AI) based video analytics system (Q3)",
+      "participated_on": "21-05-2024 07:16:10",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "POLESTAR CONSULTING PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence (AI) based video analytics system",
+      "total_price": "` 1997925.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Sun Systems (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence (AI) based video analytics system",
+      "total_price": "` 2050315.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ACE BRAIN SYSTEMS AND SOFTWARE PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence (AI) based video analytics system",
+      "total_price": "` 2177738.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "VTRISHUL (OPC) PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence (AI) based video analytics system",
+      "total_price": "` 9620213.00",
+      "rank": "L4"
+    }
+  ]
+}

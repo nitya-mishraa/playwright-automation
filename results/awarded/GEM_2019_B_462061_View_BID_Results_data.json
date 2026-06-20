@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/462061",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "13-12-2019 12:20:09",
+    "bid_end_datetime": "16-01-2020 09:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "50"
+  },
+  "buyer_details": {
+    "name": "Manoj Kumar",
+    "address": "Manoj Kumar,SOUTH EAST DELHI,DELHI,110076,India,central-store@aiia.gov.in,Academic Building , C -Block All India Institute of Ayurveda Mathura Road, Gautampuri, Sarita Vihar, Gautampuri Awas, Badarpur, New Delhi",
+    "ministry": "Ministry Of Ayush",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "All India Institute Of Ayurveda (aiia),  New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SPSS SOUTH ASIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : IBM Model  : IBM",
+      "participated_on": "27-12-2019 16:36:31",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SPSS SOUTH ASIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 139500.00",
+      "rank": "L1"
+    }
+  ]
+}

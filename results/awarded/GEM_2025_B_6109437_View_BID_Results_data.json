@@ -1,0 +1,130 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6109437",
+    "bid_status": "Active",
+    "quantity": "168",
+    "bid_start_datetime": "03-04-2025 15:20:07",
+    "bid_end_datetime": "10-05-2025 16:00:00",
+    "bid_opening_datetime": "10-05-2025 16:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Sujitha Kumari. S",
+    "address": "Sujitha Kumari. S,buycon12.cdacc.kl@gembuyer.in,Purchase Department, Centre for Development of Advanced Computing, Vellayambalam,THIRUVANANTHAPURAM CITY,KERALA,695033,India,0471-2723333-455",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Centre For Development Of Advanced Computing (c-dac)",
+    "office": "Thiruvananthapuram"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "COTELLIGENT (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-05-2025 14:47:16",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DEV IT SERV PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "09-05-2025 17:03:41",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HITACHI SYSTEMS INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-05-2025 15:07:34",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MADRAS SECURITY PRINTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-05-2025 15:41:25",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "PRIME INFOSERV PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-05-2025 15:47:39",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "RR CYBERSTANC LLP Under PMA",
+      "offered_item": "-",
+      "participated_on": "07-04-2025 12:46:46",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "SECHORIZON TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-05-2025 15:32:48",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "SIFY TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-05-2025 14:46:49",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "TATA ADVANCED SYSTEMS LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-05-2025 14:36:56",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TATA ADVANCED SYSTEMS LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Supply Installation, commissioning, testing and integration of SIEM - license for sustained EPS of",
+      "total_price": "` 30900000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DEV IT SERV PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Supply Installation, commissioning, testing and integration of SIEM - license for sustained EPS of",
+      "total_price": "` 32681684.60",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "MADRAS SECURITY PRINTERS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Supply Installation, commissioning, testing and integration of SIEM - license for sustained EPS of",
+      "total_price": "` 66399333.72",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SIFY TECHNOLOGIES LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Supply Installation, commissioning, testing and integration of SIEM - license for sustained EPS of",
+      "total_price": "` 67239727.79",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "HITACHI SYSTEMS INDIA PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Supply Installation, commissioning, testing and integration of SIEM - license for sustained EPS of",
+      "total_price": "` 87695740.01",
+      "rank": "L5"
+    }
+  ]
+}

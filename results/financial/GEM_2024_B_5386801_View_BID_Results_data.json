@@ -1,0 +1,173 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5386801",
+    "bid_status": "Active",
+    "bid_start_datetime": "11-09-2024 17:46:53",
+    "bid_end_datetime": "03-10-2024 10:00:00",
+    "bid_opening_datetime": "03-10-2024 10:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Abhinav Saxena",
+    "address": "ABHINAV SAXENA,abhinav.saxena@gov.in,room no 446, soochna bhavan, lodi road,CENTRAL DELHI,DELHI,110003,India,011-24369431-204",
+    "ministry": "Ministry Of Information And Broadcasting",
+    "department": "Ministry Of Information And Broadcasting",
+    "organisation": "Research Reference And Training Division (rrtd)",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L1",
+      "status": "-"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L2",
+      "status": "-"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L2",
+      "status": "-"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L3",
+      "status": "-"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L3",
+      "status": "-"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L4",
+      "status": "-"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L5",
+      "status": "-"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L6",
+      "status": "-"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L7",
+      "status": "-"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "participated_on": "-",
+      "mse_mii_status": "L8",
+      "status": "-"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L6"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L7"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "****** Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Design Development Implementation and Maintenance of an Artificial Intell",
+      "total_price": "-",
+      "rank": "L8"
+    }
+  ]
+}

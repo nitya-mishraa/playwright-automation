@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6000169",
+    "bid_status": "Active",
+    "quantity": "70",
+    "bid_start_datetime": "28-02-2025 15:40:25",
+    "bid_end_datetime": "10-03-2025 18:00:00",
+    "bid_opening_datetime": "10-03-2025 18:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Naveen Agrawal",
+    "address": "Naveen Agrawal,gem-nicsi@nicsi.nic.in,1st Floor, NBCC Tower, 15 Bhikaji Cama Place,South West delhi,DELHI,110066,India,011-22900553-",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SILVER TOUCH TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : tableaucreator",
+      "participated_on": "10-03-2025 17:25:38",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "10-03-2025 17:30:56",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 2940677.97",
+      "rank": "L1"
+    }
+  ]
+}

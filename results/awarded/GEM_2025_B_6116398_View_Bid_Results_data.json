@@ -1,0 +1,93 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6116398",
+    "bid_status": "Active",
+    "quantity": "40",
+    "bid_start_datetime": "05-04-2025 17:35:41",
+    "bid_end_datetime": "15-04-2025 18:00:00",
+    "bid_opening_datetime": "15-04-2025 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Manish Shukla",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ANULIPI TECHNOLOGIES & SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : hp Model  : HP 280 G9 MT i5 12400 Win11P 16512SSD3 21.5\"",
+      "participated_on": "15-04-2025 16:09:13",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AS TECHNOLOGY Under PMA",
+      "offered_item": "Make  : hp Model  : HP 280 G9 MT i5 12400 Win11P 16512SSD3 21.5\"",
+      "participated_on": "15-04-2025 15:54:47",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "COAGULATE GLOBAL SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : acer Model  : Veriton S2690G",
+      "participated_on": "12-04-2025 16:25:25",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S GREEN WOOD ENTERPRISES Under PMA",
+      "offered_item": "Make  : hp Model  : HP 280 G9 MT i5 12400 Win11P 16512SSD3 21.5\" IPS",
+      "participated_on": "15-04-2025 17:13:23",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "M/S STALLION ENTERPRISES Under PMA",
+      "offered_item": "Make  : hp Model  : HP 280 G9 MT i5 12400 Win11P 16512SSD3 21.5\"",
+      "participated_on": "15-04-2025 15:03:31",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "PLEXUS IT SYSTEMS (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PLEXTEK Model  : PLEXTEK MH-563",
+      "participated_on": "15-04-2025 17:54:15",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "SOFTRONIX DIGITAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : acer Model  : Veriton S2690G",
+      "participated_on": "14-04-2025 20:05:51",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "VINDHYA BRIGHT WORLD Under PMA",
+      "offered_item": "Make  : INP Model  : i5000A",
+      "participated_on": "15-04-2025 12:34:52",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "XAVIER EDUCATIONAL SERVICES AND TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : acer Model  : Veriton S2690G",
+      "participated_on": "14-04-2025 14:49:35",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": []
+}

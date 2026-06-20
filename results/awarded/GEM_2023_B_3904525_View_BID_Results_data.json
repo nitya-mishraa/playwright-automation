@@ -1,0 +1,91 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3904525",
+    "bid_status": "Active",
+    "quantity": "10",
+    "bid_start_datetime": "01-09-2023 19:04:25",
+    "bid_end_datetime": "11-09-2023 20:00:00",
+    "bid_opening_datetime": "11-09-2023 20:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "110"
+  },
+  "buyer_details": {
+    "name": "Badshaha Abbas Nadaf",
+    "department": "Rural Development Department",
+    "organisation": "Zilla Parishad Sangli",
+    "office": "Walwa Panchayat Samiti Islampur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GHORPADE INDUSTRIES Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-09-2023 20:08:25",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MAHA TECHNOLOGIES Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-09-2023 10:11:30",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "OM ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-09-2023 12:50:42",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SUSHILA TECHNOLOGIES Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-09-2023 11:40:49",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SWARA ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-09-2023 12:09:53",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "UNIVERSAL SUPPLIERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "09-09-2023 17:38:47",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MAHA TECHNOLOGIES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : WEB CAMERA CAMERA,3D CARDS EDUCATIONAL SMART 3D CARDS ENABLED WITH ARTIFICIAL INTELLIGENCE AND AUGU",
+      "total_price": "` 25000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SUSHILA TECHNOLOGIES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : WEB CAMERA CAMERA,3D CARDS EDUCATIONAL SMART 3D CARDS ENABLED WITH ARTIFICIAL INTELLIGENCE AND AUGU",
+      "total_price": "` 28000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SWARA ENTERPRISES ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : WEB CAMERA CAMERA,3D CARDS EDUCATIONAL SMART 3D CARDS ENABLED WITH ARTIFICIAL INTELLIGENCE AND AUGU",
+      "total_price": "` 29500.00",
+      "rank": "L3"
+    }
+  ]
+}

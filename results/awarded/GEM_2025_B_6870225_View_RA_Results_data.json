@@ -1,0 +1,45 @@
+{
+  "bid_details": {
+    "quantity": "895",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** JAISALMER",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SATI JASNATH ENTERPRISES (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Steel Almirah 2 Door size 76 point 7 inch L x 35 point 4 inch W with 4 shelves ISI Marked,Fazer NEO",
+      "total_price": "` 1268682.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "LAXMI ENTERPRISES (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Steel Almirah 2 Door size 76 point 7 inch L x 35 point 4 inch W with 4 shelves ISI Marked,Fazer NEO",
+      "total_price": "` 1271939.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HI TECH SOLUTIONS (MII) Under PMA",
+      "offered_item": "Item Categories : Steel Almirah 2 Door size 76 point 7 inch L x 35 point 4 inch W with 4 shelves ISI Marked,Fazer NEO",
+      "total_price": "` 1287346.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "GODARA CORPORATION (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Steel Almirah 2 Door size 76 point 7 inch L x 35 point 4 inch W with 4 shelves ISI Marked,Fazer NEO",
+      "total_price": "` 1299379.00",
+      "rank": "L4"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5117503",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "02-07-2024 17:14:17",
+    "bid_end_datetime": "12-07-2024 18:00:00",
+    "bid_opening_datetime": "12-07-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Jagdish Kumar",
+    "address": "Jagdish Kumar,buyer2.es.dl@gembuyer.in,SCHOOL OF PLANNING AND ARCHITECTURE, 4 BLOCK-B, I P ESTATE,CENTRAL DELHI,DELHI,110002,India,011-23702376-269",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "Education Secretariate",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : STATCRAFT Model  : STATCRAFT",
+      "participated_on": "08-07-2024 10:02:16",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 458000.00",
+      "rank": "L1"
+    }
+  ]
+}

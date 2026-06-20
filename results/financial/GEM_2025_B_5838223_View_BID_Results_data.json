@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5838223",
+    "bid_status": "Active",
+    "quantity": "150",
+    "bid_start_datetime": "18-01-2025 17:24:23",
+    "bid_end_datetime": "03-02-2025 10:00:00",
+    "bid_opening_datetime": "03-02-2025 10:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Siddhartha Sankar Pratihari",
+    "department": "Forest And Environment Department Odisha",
+    "organisation": "P.c.c.f.,orissa,bhubaneswar",
+    "office": "Deputy Director Similipal South Wildlife Division"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INTOZI TECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT-IK",
+      "participated_on": "27-01-2025 20:19:32",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S M.ENGINEERING WORKS Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT21-PNPR1",
+      "participated_on": "28-01-2025 14:51:42",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SPACEMETRIKS Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT21-PNPR1",
+      "participated_on": "28-01-2025 13:35:12",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TANGENT SOLUTIONS Under PMA",
+      "offered_item": "Make  : Intozi Model  : INT21-PNPR1",
+      "participated_on": "28-01-2025 13:21:24",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

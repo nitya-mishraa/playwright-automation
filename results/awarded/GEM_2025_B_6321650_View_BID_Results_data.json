@@ -1,0 +1,116 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6321650",
+    "bid_status": "Active",
+    "bid_start_datetime": "07-06-2025 17:50:29",
+    "bid_end_datetime": "21-06-2025 18:00:00",
+    "bid_opening_datetime": "21-06-2025 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "147"
+  },
+  "buyer_details": {
+    "name": "Vishal Barwal",
+    "address": "Vishal Barwal,barwalv@indianoil.in,IOCL Paradip Refinery ,Administrative Building, Post-Jhimani ,Via-Kujang Dist-Jagatsinghpur Odisha,Jagatsinghapur,ODISHA,754141,India,06722-255377-",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Indian Oil Corporation Limited",
+    "organisation": "Indian Oil Corporation Limited",
+    "office": "Iocl- Paradip Refinery"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "APSS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "21-06-2025 00:24:01",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DETECT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "21-06-2025 17:02:15",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "FLIGEN SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "21-06-2025 13:17:59",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "GARUDA AEROSPACE LIMITED Under PMA",
+      "offered_item": "21-06-2025 15:53:21",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "IG STRATEGIC SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "21-06-2025 17:07:17",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "INDRONES SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "19-06-2025 18:05:04",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "NETTANTRA TECHNOLOGIES (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "20-06-2025 14:55:25",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "RCHOBBYTECH SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "21-06-2025 14:34:49",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "STAQO WORLD PRIVATE LIMITED Under PMA",
+      "offered_item": "20-06-2025 17:23:29",
+      "participated_on": "Offline upload",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "APSS TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - 9070C25B45 Safety Monitoring at Project Construction Sites of IOCL Paradi",
+      "total_price": "` 6987600.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DETECT TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - 9070C25B45 Safety Monitoring at Project Construction Sites of IOCL Paradi",
+      "total_price": "` 7731360.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "FLIGEN SYSTEMS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - 9070C25B45 Safety Monitoring at Project Construction Sites of IOCL Paradi",
+      "total_price": "` 9765000.00",
+      "rank": "L3"
+    }
+  ]
+}

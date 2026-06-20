@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6069209",
+    "bid_status": "Active",
+    "quantity": "14",
+    "bid_start_datetime": "19-03-2025 13:31:24",
+    "bid_end_datetime": "09-04-2025 14:00:00",
+    "bid_opening_datetime": "09-04-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** MEERUT",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "FAIR DEAL TRADERS Under PMA",
+      "offered_item": "Make  : na Model  : FAIRDEALTRADERS Title : Upgradation of GS Vehicle for Brigade Intelligence and Surveillance Centre Vehicle Based",
+      "participated_on": "09-04-2025 12:15:01",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PASKALS FLUID SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PASKAL Model  : P9048-Upgrad. of GS Veh for Surveillance Centre Title : Upgradation of GS Vehicle for Brigade Intelligence and Surveillance Centre Vehicle Based",
+      "participated_on": "07-04-2025 18:28:51",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAVLAL ENTERPRISES Under PMA",
+      "offered_item": "Make  : na Model  : SAVLAL Title : Upgradation of GS Vehicle for Brigade Intelligence and Surveillance Centre Vehicle Based",
+      "participated_on": "09-04-2025 12:28:39",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": []
+}

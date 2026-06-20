@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7158633",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "05-02-2026 14:03:27",
+    "bid_end_datetime": "16-02-2026 15:00:00",
+    "bid_opening_datetime": "16-02-2026 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Joshi Jaykumar",
+    "address": "Joshi Jaykumar,procurement-ihub@gujarat.gov.in,Gujarat Student Startup and Innovation Hub Pragna Puram - KCG Campus, Opp. Physical Research Laboratory Near L.D.College of Engineering, Navarangpura, Ahmedabad,Ahmedabad,GUJARAT,380015,India,079-26308210-",
+    "ministry": "Ministry Of Corporate Affairs",
+    "department": "Na",
+    "organisation": "Registrar Of Companies (roc)",
+    "office": "Gujarat Student Startup And Innovation Hub"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PATSEER TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PatSeer Model  : PatSeer ProX",
+      "participated_on": "13-02-2026 15:30:09",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PATSEER TECHNOLOGIES PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 843700.00",
+      "rank": "L1"
+    }
+  ]
+}

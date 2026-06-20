@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5665909",
+    "bid_status": "Active",
+    "quantity": "126",
+    "bid_start_datetime": "07-12-2024 12:49:34",
+    "bid_end_datetime": "28-12-2024 13:00:00",
+    "bid_opening_datetime": "28-12-2024 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** UDHAMPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "83D NETWORK PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SIVAS Model  : SIVAS 1.0 Title : Wireless Dismounted Soldier Communication System (Situational Intelligence Visualization Awareness S",
+      "participated_on": "26-12-2024 16:30:05",
+      "mse_mii_status": "Start-up",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "C 5I POWER PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : C 5I SAS Model  : C 5I SAS Title : Wireless Dismounted Soldier Communication System (Situational Intelligence Visualization Awareness S",
+      "participated_on": "25-12-2024 14:54:34",
+      "mse_mii_status": "Start-up",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KAPAYO SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : COMSAS Model  : COMSAS 1.0 Title : Wireless Dismounted Soldier Communication System (Situational Intelligence Visualization Awareness S",
+      "participated_on": "27-12-2024 17:12:57",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "PROGRESSION INFONET PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Progression SAS Model  : Progression SAS Title : Wireless Dismounted Soldier Communication System (Situational Intelligence Visualization Awareness S",
+      "participated_on": "28-12-2024 09:48:22",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

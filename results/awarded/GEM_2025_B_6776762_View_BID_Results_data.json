@@ -1,0 +1,114 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6776762",
+    "bid_status": "Active",
+    "quantity": "270",
+    "bid_start_datetime": "25-10-2025 12:52:42",
+    "bid_end_datetime": "05-11-2025 13:00:00",
+    "bid_opening_datetime": "05-11-2025 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** HYDERABAD",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KL BOOK HOUSE ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "participated_on": "` 142970.50",
+      "mse_mii_status": "L1",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "NEEL PRAKASHAN ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "participated_on": "` 158453.70",
+      "mse_mii_status": "L2",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "mexim enterprises ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "participated_on": "` 184574.00",
+      "mse_mii_status": "L3",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MOOKAMBIKA ENTERPRISES (MSE) ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "participated_on": "` 199920.00",
+      "mse_mii_status": "L4",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "MARAR ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "participated_on": "` 205886.00",
+      "mse_mii_status": "L5",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "NAMA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "participated_on": "` 209391.00",
+      "mse_mii_status": "L6",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KL BOOK HOUSE ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "total_price": "` 142970.50",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "NEEL PRAKASHAN ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "total_price": "` 158453.70",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "mexim enterprises ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "total_price": "` 184574.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MOOKAMBIKA ENTERPRISES (MSE) ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "total_price": "` 199920.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "MARAR ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "total_price": "` 205886.00",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "NAMA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Brave PVC Stories,Leadership in War,Canot Hurt Me,Indias Most Fearless,Atomic Habits,The 7 Habi",
+      "total_price": "` 209391.00",
+      "rank": "L6"
+    }
+  ]
+}

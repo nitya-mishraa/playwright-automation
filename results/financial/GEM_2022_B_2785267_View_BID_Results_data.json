@@ -1,0 +1,165 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2785267",
+    "bid_status": "Active",
+    "quantity": "20000",
+    "bid_start_datetime": "26-11-2022 14:43:35",
+    "bid_end_datetime": "03-12-2022 16:00:00",
+    "bid_opening_datetime": "03-12-2022 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "48"
+  },
+  "buyer_details": {
+    "name": "Rashi Krishna",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "A2Z MULTISERVICES AND IT SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : CADUS Model  : 2021-22",
+      "participated_on": "03-12-2022 13:35:44",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AAA SPINNERS Under PMA",
+      "offered_item": "Make  : AASCHIN Model  : Handloom Blanket- Relief",
+      "participated_on": "30-11-2022 18:41:17",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Fairdeal Manufacturing & Marketing Under PMA",
+      "offered_item": "Make  : FMM Model  : FMM",
+      "participated_on": "03-12-2022 15:18:16",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "IBRAHIM WOOL TRADING CO Under PMA",
+      "offered_item": "Make  : IWTC Model  : IWTC",
+      "participated_on": "27-11-2022 10:41:38",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "Jagriti Sewa Aashram Under PMA",
+      "offered_item": "Make  : NA Model  : HANDLOOM BLANKET",
+      "participated_on": "03-12-2022 13:42:01",
+      "mse_mii_status": "KVIC",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "M/S AGARWAL HANDLOOM INDUSTRIES Under PMA",
+      "offered_item": "Make  : AHI Model  : AHI/HBR/07",
+      "participated_on": "03-12-2022 12:10:54",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "M/S RUDRAKSH AGRO Under PMA",
+      "offered_item": "Make  : NA Model  : B108",
+      "participated_on": "30-11-2022 10:08:51",
+      "mse_mii_status": "Offline upload",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "M/S SILVER OAK Under PMA",
+      "offered_item": "Make  : EKANGA Model  : HANDLOOM BLANKET RELIEF",
+      "participated_on": "30-11-2022 15:31:20",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "OMLITE SCIENTIFIC PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : THE HIMACHAL HANDLOOM & HANDICRAFT VIKAS SEHKARI SAMITI LIMITED Model  : Handloom Blanket- Relief",
+      "participated_on": "28-11-2022 11:38:20",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "PRATIMA HOSIERY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : V.R. Model  : V.R.",
+      "participated_on": "26-11-2022 15:44:40",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "Rangoli Sarees Under PMA",
+      "offered_item": "Make  : NA Model  : NE",
+      "participated_on": "30-11-2022 16:26:01",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "SHRI MAHADEV KAMBAL AWAM HANDLOOM, BADAURA PARA, GHAZIPUR Under PMA",
+      "offered_item": "Make  : NA Model  : SRI MAHADEV KAMBAL-RAHAT (NEW/POLYAMIDE/L-1)",
+      "participated_on": "02-12-2022 21:31:35",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "13",
+      "seller_name": "SKAP SOLUTION PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : unbranded",
+      "participated_on": "29-11-2022 14:35:41",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "14",
+      "seller_name": "TBN GROUP Under PMA",
+      "offered_item": "Make  : NA Model  : RELIEFHANDLOOM",
+      "participated_on": "03-12-2022 15:37:25",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "15",
+      "seller_name": "Tushar enterprises Under PMA",
+      "offered_item": "Make  : NA Model  : BU khadi blanket",
+      "participated_on": "03-12-2022 01:33:44",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "16",
+      "seller_name": "U P INDUSTRIAL COOPERATIVE ASSOCIATION LIMITED Under PMA",
+      "offered_item": "Make  : UPICA Model  : HANDLOOM BLANKET RELIEF",
+      "participated_on": "26-11-2022 15:19:49",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "17",
+      "seller_name": "U.P HANDICRAFTS DEVELOPMENT AND MARKETING CORPORATION LIMITED Under PMA",
+      "offered_item": "Make  : UPHDMC Model  : UPHDMC",
+      "participated_on": "27-11-2022 16:44:30",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "18",
+      "seller_name": "UTTAR PRADESH STATE HANDLOOM CORPORATION LIMITED Under PMA",
+      "offered_item": "Make  : UP HANDLOOMS Model  : UP HANDLOOMS",
+      "participated_on": "30-11-2022 11:55:43",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

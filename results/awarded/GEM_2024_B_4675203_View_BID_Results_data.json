@@ -1,0 +1,93 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4675203",
+    "bid_status": "Active",
+    "quantity": "59",
+    "bid_start_datetime": "24-02-2024 13:20:29",
+    "bid_end_datetime": "04-03-2024 15:00:00",
+    "bid_opening_datetime": "04-03-2024 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** UDHAMPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GTAC SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "04-03-2024 14:50:13",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "JAI BHARAT TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-02-2024 20:38:41",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "LIFE INFOTECH Under PMA",
+      "offered_item": "-",
+      "participated_on": "02-03-2024 10:59:40",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S KUBE HEALTHCARE AND MEDICAL SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-03-2024 17:25:21",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "Prime Associates Under PMA",
+      "offered_item": "-",
+      "participated_on": "01-03-2024 18:10:32",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "TRAPRA ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-02-2024 17:53:42",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "JAI BHARAT TRADERS (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Fifth Domain Defending Our Country Our Companies and Ourselves in the Age of Cyber Threats,Ethi",
+      "total_price": "` 200000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Prime Associates (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Fifth Domain Defending Our Country Our Companies and Ourselves in the Age of Cyber Threats,Ethi",
+      "total_price": "` 205780.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TRAPRA ENTERPRISES (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Fifth Domain Defending Our Country Our Companies and Ourselves in the Age of Cyber Threats,Ethi",
+      "total_price": "` 206080.00",
+      "rank": "L3"
+    }
+  ]
+}

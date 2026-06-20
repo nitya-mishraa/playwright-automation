@@ -1,0 +1,25 @@
+{
+  "bid_details": {
+    "quantity": "28",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Harsh Raj Singh Chouhan",
+    "address": "buycon1.iit.indore@gembuyer.in,INDORE,0731-2438700-958,453552,India,IIT Indore, Khandwa Road, Simrol, Indore,Harsh Raj Singh Chouhan,MADHYA PRADESH",
+    "ministry": "Ministry Of Human Resource Development",
+    "department": "Department Of Higher Education",
+    "organisation": "Indian Institute Of Technology (iit)",
+    "office": "Indore"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AQUASENSE PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : aquasense private limited Model  : (Aquasense) 100NB_TFM_RS485",
+      "participated_on": "14-10-2020 14:55:37 (Financial)",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

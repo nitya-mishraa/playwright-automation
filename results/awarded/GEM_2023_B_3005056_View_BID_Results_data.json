@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3005056",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "18-01-2023 16:10:22",
+    "bid_end_datetime": "28-01-2023 18:00:00",
+    "bid_opening_datetime": "28-01-2023 18:30:00",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Ashis Kumar Pradhan",
+    "address": "MADHYA PRADESH,462003,ashiskumar.manit@nic.in,Ashis Kumar Pradhan,Maulana Azad National Institute of Technology Main Road no-3, Near Mata Mandir,BHOPAL,India,0755-4051499-1499",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "National Institute Of Technology (nit)",
+    "office": "462003"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Adult Intelligence Scale",
+      "participated_on": "` 88704.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Adult Intelligence Scale",
+      "total_price": "` 88704.00",
+      "rank": "L1"
+    }
+  ]
+}

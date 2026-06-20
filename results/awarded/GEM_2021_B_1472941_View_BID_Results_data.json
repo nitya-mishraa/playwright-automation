@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1472941",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "27-08-2021 16:40:17",
+    "bid_end_datetime": "10-09-2021 15:00:00",
+    "bid_opening_datetime": "10-09-2021 15:30:00",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Manoj Kumar",
+    "address": "201301,B - 35 & 36, Jubilee Tower, Gail (India) Limited, Sector - 1, Noida,0120-2446400-11704,GAUTAM BUDDHA NAGAR,UTTAR PRADESH,buycon10.gail.noida@gembuyer.in,Manoj Kumar,India",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Gail India Limited",
+    "organisation": "Gail India Limited",
+    "office": "Noida"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Creator (2 Users)",
+      "participated_on": "10-09-2021 12:11:01",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Creator (2 Users)",
+      "participated_on": "08-09-2021 15:27:56",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0),Business intelligence and data analy",
+      "total_price": "` 670617.60",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0),Business intelligence and data analy",
+      "total_price": "` 1950000.00",
+      "rank": "L2"
+    }
+  ]
+}

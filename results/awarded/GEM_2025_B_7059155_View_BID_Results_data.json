@@ -1,0 +1,62 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/7059155",
+    "bid_status": "Active",
+    "bid_start_datetime": "07-01-2026 15:52:33",
+    "bid_end_datetime": "29-01-2026 14:00:00",
+    "bid_opening_datetime": "29-01-2026 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Karnati Venkata Naga Lalitha",
+    "address": "KARNATI VENKATA NAGA LALITHA,lalitha.karnati@coalindia.in,WCL Hqrs, Coal Estate, Civil Lines,NAGPUR CITY,MAHARASHTRA,440001,India",
+    "ministry": "Ministry Of Coal",
+    "department": "Coal India Limited",
+    "organisation": "Western Coalfields Limited",
+    "office": "Wcl Nagpur Maharashtra"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BAHETI CYBER TECH PRIVATE LIMITED Under PMA",
+      "offered_item": "12-01-2026 16:44:08",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BIDAAL TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "29-01-2026 13:19:56",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "GOTISHEEL TECHNOLOGIES LLP Under PMA",
+      "offered_item": "29-01-2026 08:31:44",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TECHSOUQ TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "21-01-2026 01:58:19",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GOTISHEEL TECHNOLOGIES LLP ( MSE Social Category:NA ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Integration with pre-de",
+      "total_price": "` 7844923.07",
+      "rank": "L1"
+    }
+  ]
+}

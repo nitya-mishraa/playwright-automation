@@ -1,0 +1,22 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7437373",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "13-04-2026 11:04:42",
+    "bid_end_datetime": "04-05-2026 12:00:00",
+    "bid_opening_datetime": "04-05-2026 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Harikrishnan P",
+    "address": "Harikrishnan P,hareenster@gmail.com,IIMK Campus PO Kozhikode,KOZHIKODE CITY,KERALA,673570,India,495-2809460-460",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "Indian Institute Of Management (iim)",
+    "office": "Indian Institute Of Management Kozhikode (iimk)"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

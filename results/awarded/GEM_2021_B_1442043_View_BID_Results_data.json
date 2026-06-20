@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1442043",
+    "bid_status": "Active",
+    "bid_start_datetime": "18-08-2021 18:33:02",
+    "bid_end_datetime": "20-09-2021 15:00:00",
+    "bid_opening_datetime": "20-09-2021 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "87"
+  },
+  "buyer_details": {
+    "name": "Pankaj Sharma",
+    "address": "PANKAJ SHARMA,6 CGO Complex Lodhi Road,110003,DELHI,India,pankaj.vats@meity.gov.in,SOUTH EAST DELHI,011-24368551-225",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "Indian Computer Emergency Response Team (cert-in)",
+    "office": "6 Cgo Complex Lodhi Road New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DYNACONS SYSTEMS AND SOLUTIONS LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - CERTIn Threat intelligence platoform AMC services",
+      "total_price": "` 88666062.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "XTRANET TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - CERTIn Threat intelligence platoform AMC services",
+      "total_price": "` 107100000.00",
+      "rank": "L2"
+    }
+  ]
+}

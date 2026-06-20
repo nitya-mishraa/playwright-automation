@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1103194",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "08-03-2021 17:29:50",
+    "bid_end_datetime": "19-03-2021 18:00:00",
+    "bid_opening_datetime": "19-03-2021 18:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Huliyar Subbaiah Nataraj",
+    "address": "UTTARAKHAND,HARIDWAR,247667,buycon25.iit.rk@gembuyer.in,INDIAN INSTITUTE OF TECHNOLOGY ROORKEE, ROORKEE,India,01332-285655-5655,Huliyar Subbaiah Nataraj",
+    "ministry": "Ministry Of Human Resource Development",
+    "department": "Department Of Higher Education",
+    "organisation": "Indian Institute Of Technology (iit)",
+    "office": "North Zone Roorkee"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : ABS999OSAE01X3Z",
+      "participated_on": "19-03-2021 13:16:29",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EMBEDDED SYSTEMS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : ABS999OSAE01X3Z",
+      "participated_on": "16-03-2021 09:04:39",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "EMBEDDED SYSTEMS SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 85950.90",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 99500.00",
+      "rank": "L2"
+    }
+  ]
+}

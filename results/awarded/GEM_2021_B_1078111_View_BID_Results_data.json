@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1078111",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "26-02-2021 14:50:39",
+    "bid_end_datetime": "09-03-2021 19:00:00",
+    "bid_opening_datetime": "09-03-2021 19:30:00",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Ranjan Kumar Sethy",
+    "address": "DELHI,India,011-23386135-,6/10, Jam Nagar House, Akbar Road, New Delhi 110001, 011-23386555,NEW DELHI,sureshm.iyer@cbi.gov.in,Ranjan Kumar Sethy,110001",
+    "ministry": "Ministry Of Personnel Public Grievances And Pensions",
+    "department": "Department Of Personnel And Training",
+    "organisation": "Central Bureau Of Investigation (cbi)",
+    "office": "Head Office"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DisplayFort Under PMA",
+      "offered_item": "Make  : Tectum Model  : LT001",
+      "participated_on": "09-03-2021 07:56:20",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "NEUMANN INFOCOM PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tectum Model  : LT001",
+      "participated_on": "08-03-2021 13:21:40",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TECTUM TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tectum Model  : LT001",
+      "participated_on": "03-03-2021 18:30:20",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TECTUM TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 236000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DisplayFort Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 275640.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NEUMANN INFOCOM PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 300000.00",
+      "rank": "L3"
+    }
+  ]
+}

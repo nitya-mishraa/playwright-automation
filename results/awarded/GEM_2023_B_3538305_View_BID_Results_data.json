@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3538305",
+    "bid_status": "Active",
+    "quantity": "75",
+    "bid_start_datetime": "09-06-2023 09:54:13",
+    "bid_end_datetime": "11-07-2023 14:00:00",
+    "bid_opening_datetime": "11-07-2023 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Bimy Manghat",
+    "address": "bimy.manghat@eil.co.in,EI BHAVAN, 1, BHIKAJI CAMA PLACE, NEW DELHI-110066,NEW DELHI,110066,011-26763339-,India,Bimy Manghat,DELHI",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Engineers India Limited",
+    "organisation": "Engineers India Limited",
+    "office": "Engineers India Limited"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Pro (Pack of 3 Licenses)",
+      "participated_on": "23-06-2023 12:26:34",
+      "mse_mii_status": "Start-up",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INDOVISION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Pro (Pack of 3 Licenses)",
+      "participated_on": "10-07-2023 17:53:54",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "THOUGHTSOL INFOTECH LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Pro (Pack of 3 Licenses)",
+      "participated_on": "11-07-2023 13:44:54",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 635593.22",
+      "rank": "L1"
+    }
+  ]
+}

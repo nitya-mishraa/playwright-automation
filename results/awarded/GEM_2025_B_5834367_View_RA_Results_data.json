@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "quantity": "820",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Veer Vikram Singh",
+    "department": "Higher Education Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dr. Apj Abdul Kalam Technical University Lucknow Uttar Pradesh"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VIDHAN ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Arduino Mega,Arduino Uno,Respberry Pi 4,Pi Display,Pi camera,BMS,NodeMCU,ESP32 CAM Development Boar",
+      "total_price": "` 5787079.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "RR ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Arduino Mega,Arduino Uno,Respberry Pi 4,Pi Display,Pi camera,BMS,NodeMCU,ESP32 CAM Development Boar",
+      "total_price": "` 5832189.00 (Bid Price)",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "MANAV ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Arduino Mega,Arduino Uno,Respberry Pi 4,Pi Display,Pi camera,BMS,NodeMCU,ESP32 CAM Development Boar",
+      "total_price": "` 6076695.00 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

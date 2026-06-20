@@ -1,0 +1,19 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5838786",
+    "bid_status": "Active",
+    "bid_start_datetime": "31-01-2025 13:05:58",
+    "bid_end_datetime": "10-02-2025 14:00:00",
+    "bid_opening_datetime": "10-02-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Manish Shukla",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

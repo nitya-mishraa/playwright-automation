@@ -1,0 +1,90 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6925342",
+    "bid_status": "Active",
+    "quantity": "79",
+    "bid_start_datetime": "11-12-2025 11:41:30",
+    "bid_end_datetime": "26-12-2025 17:00:00",
+    "bid_opening_datetime": "26-12-2025 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Kamal Jeet Singh",
+    "department": "Education Department Himachal Pradesh",
+    "organisation": "Higher Education Department",
+    "office": "Directorate Of Higher Education"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ALFA ELECTRONICS Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-12-2025 15:52:59",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CREATIVE ENGINEERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-12-2025 16:15:40",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "K S Enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-12-2025 15:33:48",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SATLUJ DOCUMENT COMPANY Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-12-2025 15:55:02",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "UNIVERSAL ENGINEERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-12-2025 16:01:59",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SATLUJ DOCUMENT COMPANY Under PMA",
+      "offered_item": "Item Categories : Artificial Kit Package - 2,Programmable Robotic Arm,Simulator Software,Nano UAS,Training UAS,3D Pri",
+      "total_price": "` 2323260.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "K S Enterprises Under PMA",
+      "offered_item": "Item Categories : Artificial Kit Package - 2,Programmable Robotic Arm,Simulator Software,Nano UAS,Training UAS,3D Pri",
+      "total_price": "` 2415500.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "UNIVERSAL ENGINEERS Under PMA",
+      "offered_item": "Item Categories : Artificial Kit Package - 2,Programmable Robotic Arm,Simulator Software,Nano UAS,Training UAS,3D Pri",
+      "total_price": "` 2434200.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ALFA ELECTRONICS Under PMA",
+      "offered_item": "Item Categories : Artificial Kit Package - 2,Programmable Robotic Arm,Simulator Software,Nano UAS,Training UAS,3D Pri",
+      "total_price": "` 2461700.00",
+      "rank": "L4"
+    }
+  ]
+}

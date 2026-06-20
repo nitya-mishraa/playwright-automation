@@ -1,0 +1,61 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7214897",
+    "bid_status": "Active",
+    "quantity": "818",
+    "bid_start_datetime": "16-02-2026 22:15:36",
+    "bid_end_datetime": "04-03-2026 09:00:00",
+    "bid_opening_datetime": "04-03-2026 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "49"
+  },
+  "buyer_details": {
+    "name": "Raja Waseem Yousuf",
+    "department": "School Education Department Jammu And Kashmir",
+    "organisation": "Directorate Of School Education",
+    "office": "Chief Education Officer Srinagar"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CHIP INN SYSTEM Under PMA",
+      "offered_item": "-",
+      "participated_on": "04-03-2026 00:01:42",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "HAZZALE BLUE TRADING PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "21-02-2026 22:09:53",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KOTWAL AGENCIES Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-03-2026 17:28:55",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "NORTHTECH ENGINEERING Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-03-2026 22:17:52",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "WELCOME AGENCIES Under PMA",
+      "offered_item": "-",
+      "participated_on": "04-03-2026 01:28:32",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    }
+  ],
+  "financial_evaluation": []
+}

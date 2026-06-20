@@ -1,0 +1,45 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5688956",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "17-12-2024 15:55:00",
+    "bid_end_datetime": "27-12-2024 21:00:00",
+    "bid_opening_datetime": "27-12-2024 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Jeksanbhai Asari",
+    "department": "Home Department Gujarat",
+    "organisation": "Director General Of Police (dgp) Office",
+    "office": "Dgp Cid & Railways G.s."
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PROPHECY ARGUS Model  : Argus 1.0",
+      "participated_on": "27-12-2024 17:30:26",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SKAN NETCOMMUNICATIONS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PROPHECY ARGUS Model  : Argus 1.0",
+      "participated_on": "27-12-2024 18:08:11",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TNS NETWORKING SOLUTIONS PRIVATE LIMITED. Under PMA",
+      "offered_item": "Make  : PROPHECY ARGUS Model  : Argus 1.0",
+      "participated_on": "27-12-2024 17:55:05",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

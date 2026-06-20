@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5035853",
+    "bid_status": "Active",
+    "quantity": "70",
+    "bid_start_datetime": "13-06-2024 16:08:26",
+    "bid_end_datetime": "04-07-2024 18:00:00",
+    "bid_opening_datetime": "04-07-2024 18:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Naveen Agrawal",
+    "address": "Naveen Agrawal,gem2-nicsi@nicsi.nic.in,1st Floor, NBCC Tower, 15 Bhikaji Cama Place,NEW DELHI,DELHI,110066,India",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "19-06-2024 21:54:56",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 3008614.07",
+      "rank": "L1"
+    }
+  ]
+}

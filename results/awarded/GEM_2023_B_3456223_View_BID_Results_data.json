@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3456223",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "17-05-2023 10:40:31",
+    "bid_end_datetime": "19-06-2023 09:00:00",
+    "bid_opening_datetime": "19-06-2023 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Ramesh",
+    "department": "Health And Family Welfare Services Department Puducherry",
+    "organisation": "N/a",
+    "office": "Puducherry"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KPS PUBLISHERS Under PMA",
+      "offered_item": "Make  : NA Model  : 16-0034-KT",
+      "participated_on": "27-05-2023 08:38:45",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KPS PUBLISHERS Under PMA",
+      "offered_item": "Item Categories : Intelligence Scale for Indian Children (MISIC)",
+      "total_price": "` 29260.00",
+      "rank": "L1"
+    }
+  ]
+}

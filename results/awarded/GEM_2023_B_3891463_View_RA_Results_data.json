@@ -1,0 +1,31 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Vijay Kumar",
+    "address": "DIRECTORATE GENERAL, CRPF, CGO COMPLEX, BLOCK NO.1, 3RD FLOOR, LODHI ROAD, NEW DELHI,digit@crpf.gov.in,110003,India,Vijay Kumar,011-24361992-,SOUTH EAST DELHI,DELHI",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "Central Reserve Police Force (crpf)",
+    "office": "Dte. Genl."
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 900000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "S.S. ENTERPRISES (MII) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 904000.00",
+      "rank": "L2"
+    }
+  ]
+}

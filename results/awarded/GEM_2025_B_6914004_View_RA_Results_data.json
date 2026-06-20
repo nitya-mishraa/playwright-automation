@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "quantity": "21"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** ERNAKULAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg ( Ns & M)",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Smartnet Informatics (MSE) Under PMA",
+      "offered_item": "Item Categories : Rack Mountable BiDirectional Voice Communication Server System,Structured Cabling and Optical Trans",
+      "total_price": "` 47298306.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DBRAINS INFO SYSTEMS & CONTROLS PRIVATE LIMITED (MSE) Under PMA",
+      "offered_item": "Item Categories : Rack Mountable BiDirectional Voice Communication Server System,Structured Cabling and Optical Trans",
+      "total_price": "` 47384671.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "RNR INFOCOM PRIVATE LIMITED (MSE) Under PMA",
+      "offered_item": "Item Categories : Rack Mountable BiDirectional Voice Communication Server System,Structured Cabling and Optical Trans",
+      "total_price": "` 47569132.00",
+      "rank": "L3"
+    }
+  ]
+}

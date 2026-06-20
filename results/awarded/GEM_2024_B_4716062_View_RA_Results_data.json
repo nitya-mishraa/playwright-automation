@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "8",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Vedant Narayan",
+    "address": "Vedant Narayan,vedant.narayan@meity.gov.in,6 CGO Complex Lodhi Road,SOUTH EAST DELHI,DELHI,110003,India,011-24368552-546",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Indian Computer Emergency Response Team (cert-in)",
+    "office": "6 Cgo Complex Lodhi Road New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DYNACONS SYSTEMS AND SOLUTIONS LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Cyber Threat Intelligence Sharing Platform,Resident Engineer from OEM,SSL Certificates for the solu",
+      "total_price": "` 118316100.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "XTRANET TECHNOLOGIES PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Cyber Threat Intelligence Sharing Platform,Resident Engineer from OEM,SSL Certificates for the solu",
+      "total_price": "` 118435076.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ARCEUS INFOTECH PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Cyber Threat Intelligence Sharing Platform,Resident Engineer from OEM,SSL Certificates for the solu",
+      "total_price": "` 135558990.00 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

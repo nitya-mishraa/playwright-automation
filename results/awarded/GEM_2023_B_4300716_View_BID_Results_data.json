@@ -1,0 +1,75 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4300716",
+    "bid_status": "Active",
+    "quantity": "116",
+    "bid_start_datetime": "06-12-2023 13:43:13",
+    "bid_end_datetime": "16-12-2023 21:00:00",
+    "bid_opening_datetime": "16-12-2023 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Mahadev Tatyaram Upare",
+    "department": "Rural Development And Panchayat Raj Department Maharashtra",
+    "organisation": "Latur Zilla Parishad",
+    "office": "Education Officer Primary Zp Latur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ATHARVA COMPUTERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-12-2023 16:38:17",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Elixir Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-12-2023 10:40:48",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Print O Park Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-12-2023 15:43:29",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "REVOEDUCATION PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-12-2023 18:47:54",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "REVOEDUCATION PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Videos on Intelligence in Marathi,Videos on Intelligence in Hindi,Practice tests,Ranking Tests,Mock",
+      "total_price": "` 2779200.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Print O Park Under PMA",
+      "offered_item": "Item Categories : Videos on Intelligence in Marathi,Videos on Intelligence in Hindi,Practice tests,Ranking Tests,Mock",
+      "total_price": "` 2800000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ATHARVA COMPUTERS Under PMA",
+      "offered_item": "Item Categories : Videos on Intelligence in Marathi,Videos on Intelligence in Hindi,Practice tests,Ranking Tests,Mock",
+      "total_price": "` 2874000.00",
+      "rank": "L3"
+    }
+  ]
+}

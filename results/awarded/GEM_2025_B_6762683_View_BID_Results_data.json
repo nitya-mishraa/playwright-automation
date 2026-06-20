@@ -1,0 +1,86 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6762683",
+    "bid_status": "Active",
+    "quantity": "1020",
+    "bid_start_datetime": "07-10-2025 15:56:57",
+    "bid_end_datetime": "28-10-2025 16:00:00",
+    "bid_opening_datetime": "28-10-2025 16:30:00",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Romesh Chander",
+    "address": "Romesh Chander,buyer56.cumhrd.jk@gembuyer.in,Central University of Jammu, Rahya-Suchani ;Bagla, Distt. Samba,SAMBA,JAMMU & KASHMIR,181143,India",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "Central University Of Jammu",
+    "office": "Jammu"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AARAV TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-10-2025 15:15:59",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "All India Book House Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-10-2025 14:03:58",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "CREATIVE ENGINEERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "07-10-2025 18:38:34",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "JAY KAY PLANET Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-10-2025 12:06:44",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "mexim enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-10-2025 12:27:22",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "RISING SUN TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-10-2025 14:09:35",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "THE NURSES' CRIB Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-10-2025 15:48:48",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AARAV TRADERS (MII) Under PMA",
+      "offered_item": "Item Categories : Advanced Engineering Mathematics,Advanced Engineering Mathematics,First Course in Artificial Intell",
+      "total_price": "` 1092383.50",
+      "rank": "L1"
+    }
+  ]
+}

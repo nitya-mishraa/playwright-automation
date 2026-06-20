@@ -1,0 +1,52 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1063025",
+    "bid_status": "Active",
+    "quantity": "550",
+    "bid_start_datetime": "23-02-2021 15:13:46",
+    "bid_end_datetime": "05-03-2021 16:00:00",
+    "bid_opening_datetime": "05-03-2021 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "122"
+  },
+  "buyer_details": {
+    "name": "Jainendra Kumar",
+    "department": "Ground Water Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Ground Water Department"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ANSOZ CREATIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : aquasense private limited Model  : AQUA100A",
+      "participated_on": "25-02-2021 19:41:29",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AQUASENSE PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : aquasense private limited Model  : AQUA100A",
+      "participated_on": "04-03-2021 14:00:22",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AQUASENSE PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics,Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 9967400.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ANSOZ CREATIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics,Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 10041450.00",
+      "rank": "L2"
+    }
+  ]
+}

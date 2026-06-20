@@ -9,6 +9,7 @@ KEYWORD = "intelligence"
 BASE_URL = "https://bidplus.gem.gov.in/all-bids"
 DOWNLOAD_DIR = "./downloads"
 RESULTS_DIR = "./results"
+MAX_PAGES = None  # safety ceiling – set to None to disable
 
 # (checkbox id on the page, output subfolder name)
 STATUSES = [
@@ -194,6 +195,33 @@ CARD_EXTRACT_JS = """() => {
     return out;
 }"""
 
+# Returns True when a non-disabled "Next" control exists in the pagination bar.
+PAGINATION_HAS_NEXT_JS = """() => {
+    return !!document.querySelector('#light-pagination a.next');
+}"""
+
+# Clicks the "Next" control and returns true on success.
+PAGINATION_CLICK_NEXT_JS = """() => {
+    const nextBtn = document.querySelector('#light-pagination a.next');
+
+    if (nextBtn) {
+        nextBtn.click();
+        return true;
+    }
+
+    return false;
+}"""
+
+# Returns {current, total} page numbers visible in the pagination bar.
+PAGINATION_INFO_JS = """() => {
+    const current = document.querySelector('#light-pagination .current');
+
+    return {
+        current: current ? parseInt(current.textContent.trim()) : 1,
+        total: null
+    };
+}"""
+
 
 def collect_status(context, checkbox_id, folder_name):
     """Open a fresh page, switch to Bid/RA Status tab, tick `checkbox_id`,
@@ -218,19 +246,67 @@ def collect_status(context, checkbox_id, folder_name):
     search_input = page.locator("#searchBid")
     search_input.fill(KEYWORD)
     search_input.press("Enter")
+
     page.wait_for_load_state("networkidle")
-    time.sleep(5)
+    time.sleep(3)
 
-    print("Extracting bid card metadata...")
-    cards = page.evaluate(CARD_EXTRACT_JS)
-    print(f"Found {len(cards)} bid cards")
+    
 
-    for c in cards:
-        for bl in c["bid_links"]:
-            bl["url"] = absolutize(bl["href"])
-        for rb in c["result_buttons"]:
-            rb["url"] = absolutize(rb["href"])
-        c["bid_no"] = c["bid_links"][0]["text"] if c["bid_links"] else ""
+   
+
+    # ── Paginated card extraction ──────────────────────────────────────────────
+    all_cards = []
+    page_num = 1
+
+    while True:
+        print(page.locator("#light-pagination").inner_text())
+        pg_info = page.evaluate(PAGINATION_INFO_JS)
+        total_label = f"/{pg_info['total']}" if pg_info["total"] else ""
+        print(f"Extracting bid cards – page {page_num}{total_label} ...")
+
+        batch = page.evaluate(CARD_EXTRACT_JS)
+        print(f"  {len(batch)} card(s) on this page")
+
+        for c in batch:
+            for bl in c["bid_links"]:
+                bl["url"] = absolutize(bl["href"])
+            for rb in c["result_buttons"]:
+                rb["url"] = absolutize(rb["href"])
+            c["bid_no"] = c["bid_links"][0]["text"] if c["bid_links"] else ""
+            c["source_page"] = page_num
+
+        all_cards.extend(batch)
+
+        # Stop if no cards came back (empty page) or we hit the safety ceiling
+        if not batch:
+            print("  Empty page – stopping pagination.")
+            break
+        if MAX_PAGES and page_num >= MAX_PAGES:
+            print(f"  Reached MAX_PAGES={MAX_PAGES} – stopping pagination.")
+            break
+
+        has_next = page.evaluate(PAGINATION_HAS_NEXT_JS)
+        if not has_next:
+            print("  No further pages detected.")
+            break
+
+        print("  Navigating to next page...")
+
+       
+
+        clicked = page.evaluate(PAGINATION_CLICK_NEXT_JS)
+
+        if not clicked:
+            break
+
+        
+
+        time.sleep(2)
+        page_num += 1
+
+    cards = all_cards
+    print(f"Total bid cards collected across {page_num} page(s): {len(cards)}")
+    # ── End pagination ─────────────────────────────────────────────────────────
 
     print("Visiting result pages...")
     for idx, card in enumerate(cards, start=1):
@@ -306,19 +382,24 @@ def collect_status(context, checkbox_id, folder_name):
                     json.dump(data, jf, indent=2)
                     
 
-                png_path = os.path.join(out_dir, f"{slug}.png")
-                bid_page.screenshot(path=png_path, full_page=True)
+                #png_path = os.path.join(out_dir, f"{slug}.png")
+                #bid_page.screenshot(path=png_path, full_page=True)
 
                 entry["text"] = bid_page.evaluate("() => document.body.innerText")
                 entry["html_file"] = html_path
-                entry["screenshot"] = png_path
+                entry["screenshot"] = ""
                 entry["panels_expanded"] = expanded
                 print(f"  - {rb['label']}: expanded {expanded} extra panel(s), saved ({len(entry['text'])} chars)")
                 bid_page.close()
             except Exception as e:
                 entry["error"] = str(e)
                 print(f"  - {rb['label']}: ERROR {e}")
+                try:
+                    bid_page.close()
+                except:
+                    pass
 
+                continue
             card["results"].append(entry)
 
         if not card["result_buttons"]:

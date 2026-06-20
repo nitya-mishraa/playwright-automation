@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3156642",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "20-02-2023 12:34:47",
+    "bid_end_datetime": "13-03-2023 10:00:00",
+    "bid_opening_datetime": "13-03-2023 10:30:00",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "R N Divyashree",
+    "address": "dr.divyashreer.n@esic.nic.in,KARNATAKA,India,080-23013305-,560010,R N Divyashree,BANGALORE,ESIC MC & PGIMSR & Model Hospital, 2nd Block, Rajajinagar",
+    "ministry": "Ministry Of Labour And Employment",
+    "department": "Na",
+    "organisation": "Employees State Insurance Corporation (esic)",
+    "office": "Karnataka"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2003",
+      "participated_on": "23-02-2023 11:48:50",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Intelligence Scale for Children",
+      "total_price": "` 74706.00",
+      "rank": "L1"
+    }
+  ]
+}

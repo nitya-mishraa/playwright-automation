@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/876868",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "26-11-2020 11:24:10",
+    "bid_end_datetime": "07-12-2020 09:00:00",
+    "bid_opening_datetime": "07-12-2020 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Awanish Kumar",
+    "address": "834001,India,965-0996781-,RANCHI,Awanish Kumar,buycon1.mop.jk@gembuyer.in,Coal Mining Head Quarters, NTPC Ltd. Ginni Plaza, Opposite Chutia Police Station, Ranchi, Jharkhand,JHARKHAND",
+    "ministry": "Ministry Of Power",
+    "department": "Na",
+    "organisation": "Ntpc Limited",
+    "office": "Ssc Coal Mining Ntpc"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AQUASENSE PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : aquasense private limited Model  : 40_EMF-DN-T-SS316-MS-IP68-0.5%",
+      "participated_on": "05-12-2020 12:25:01",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AQUASENSE PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 206700.00",
+      "rank": "L1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "quantity": "40",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Manish Shukla",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AS TECHNOLOGY Under PMA",
+      "offered_item": "Item Categories : Entry and Mid Level Desktop Computer,Multifunction Machine MFM (V2),Multifunction Machine MFM (V2),",
+      "total_price": "` 1515000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S STALLION ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Entry and Mid Level Desktop Computer,Multifunction Machine MFM (V2),Multifunction Machine MFM (V2),",
+      "total_price": "` 1530840.00 (Bid Price)",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ANULIPI TECHNOLOGIES & SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Entry and Mid Level Desktop Computer,Multifunction Machine MFM (V2),Multifunction Machine MFM (V2),",
+      "total_price": "` 1538600.00 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

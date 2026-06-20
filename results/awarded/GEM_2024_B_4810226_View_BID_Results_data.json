@@ -1,0 +1,67 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4810226",
+    "bid_status": "Active",
+    "quantity": "523",
+    "bid_start_datetime": "21-03-2024 20:19:13",
+    "bid_end_datetime": "11-04-2024 21:00:00",
+    "bid_opening_datetime": "11-04-2024 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "Rakesh Pandey",
+    "department": "Higher Education Department Uttarakhand",
+    "organisation": "N/a",
+    "office": "Hsb Govt Degree College Someshwar"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BIOLOGICAL MUSEUM Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-04-2024 20:44:14",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "KATHURIA ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-04-2024 16:35:46",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S SCIENTIFIC BUSSINESS SYSTEMS Under PMA",
+      "offered_item": "-",
+      "participated_on": "03-04-2024 11:05:53",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S SCIENTIFIC BUSSINESS SYSTEMS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Mirror Drawing Apparatus Electrical Digital Error Counter with Manual and Response Sheet,Mirror dra",
+      "total_price": "` 733656.50",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "KATHURIA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Mirror Drawing Apparatus Electrical Digital Error Counter with Manual and Response Sheet,Mirror dra",
+      "total_price": "` 841932.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "BIOLOGICAL MUSEUM ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Mirror Drawing Apparatus Electrical Digital Error Counter with Manual and Response Sheet,Mirror dra",
+      "total_price": "` 1125931.01",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2475495",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "02-09-2022 17:28:09",
+    "bid_end_datetime": "12-09-2022 18:00:00",
+    "bid_opening_datetime": "12-09-2022 18:30:00",
+    "bid_validity_days": "170"
+  },
+  "buyer_details": {
+    "name": "Ramachandran Athickan",
+    "address": "India,044-28369111-,600010,ramachandran.a.nlc@nic.in,TAMIL NADU,NLC INDIA LIMITED (Registered Office), No.135, EVR PERIYAR HIGH ROAD, KILPAUK, CHENNAI,Ramachandran Athickan,CHENNAI",
+    "ministry": "Ministry Of Coal",
+    "department": "Materials Management",
+    "organisation": "Nlc India Limited",
+    "office": "Materials Management"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Premium Per User",
+      "participated_on": "12-09-2022 14:42:36",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 31694.00",
+      "rank": "L1"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3102200",
+    "bid_status": "Active",
+    "quantity": "11",
+    "bid_start_datetime": "08-02-2023 17:29:22",
+    "bid_end_datetime": "27-02-2023 11:00:00",
+    "bid_opening_datetime": "27-02-2023 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "40"
+  },
+  "buyer_details": {
+    "name": "Shiv Kumar",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ANULIPI TECHNOLOGIES & SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : xerox Model  : Xerox Versalink B7135 (35 PPM, Mono)",
+      "participated_on": "25-02-2023 12:35:49",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AS TECHNOLOGY Under PMA",
+      "offered_item": "Make  : xerox Model  : Xerox Versalink B7135 (35 PPM, Mono)",
+      "participated_on": "22-02-2023 18:56:21",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S  GK ENTERPRISES Under PMA",
+      "offered_item": "Make  : xerox Model  : Xerox Versalink B7135 (35 PPM, Mono)",
+      "participated_on": "22-02-2023 18:06:28",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S MADHUMESH ENTERPRISES Under PMA",
+      "offered_item": "Make  : xerox Model  : Xerox Versalink B7135 (35 PPM, Mono)",
+      "participated_on": "17-02-2023 19:01:27",
+      "mse_mii_status": "Offline upload",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": []
+}

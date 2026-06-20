@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2480775",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "29-08-2022 17:01:01",
+    "bid_end_datetime": "13-10-2022 10:00:00",
+    "bid_opening_datetime": "13-10-2022 10:30:00",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** BANGALORE",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg ( Med & Cos)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TOPLINE TECHNOLOGIES INC Under PMA",
+      "offered_item": "Make  : Intel Model  : Intel\u00ae Quartus\u00ae Prime Pro Software",
+      "participated_on": "05-10-2022 13:01:50",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TOPLINE TECHNOLOGIES INC Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 408600.00",
+      "rank": "L1"
+    }
+  ]
+}

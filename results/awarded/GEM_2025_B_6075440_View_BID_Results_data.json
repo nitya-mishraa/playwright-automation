@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6075440",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "21-03-2025 10:45:30",
+    "bid_end_datetime": "11-04-2025 15:00:00",
+    "bid_opening_datetime": "11-04-2025 15:30:00",
+    "bid_validity_days": "111"
+  },
+  "buyer_details": {
+    "name": "Suryakant Jashvantkumar Solanki",
+    "address": "Suryakant Jashvantkumar Solanki,buycon12.isro.gj@gembuyer.in,IN-SPACe, New Bopal-Shilaj Road, New SAC Bopal Campus Ahmedabad,Ahmedabad,GUJARAT,380058,India,079-26916955-",
+    "ministry": "Department Of Space",
+    "department": "Department Of Space",
+    "organisation": "Indian Space Research Organization",
+    "office": "Inspace Ahmedabbad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OGIVE TECHNOLOGY LLP Under PMA",
+      "offered_item": "Make  : OEM Model  : OT-26 Title : Subscription to Market Intelligence Platform & Services related to Indian Space Sector for a perio",
+      "participated_on": "11-04-2025 08:42:33",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "TRACXN TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Make  : Tracxn Model  : Tracxn Platform Title : Subscription to Market Intelligence Platform & Services related to Indian Space Sector for a perio",
+      "participated_on": "10-04-2025 15:57:02",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "TRACXN TECHNOLOGIES LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Subscription to Market Intelligence Platform & Services related to Indian Space Sector for a perio",
+      "total_price": "` 590000.00",
+      "rank": "L1"
+    }
+  ]
+}

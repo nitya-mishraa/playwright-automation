@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5544032",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "24-10-2024 21:20:55",
+    "bid_end_datetime": "15-11-2024 21:00:00",
+    "bid_opening_datetime": "15-11-2024 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Rajesh.c",
+    "address": "Rajesh.C,buycon6.nfsu.ka@gembuyer.in,Dharwad Campus National Forensic Sciences University C/O Water & Land Management Institute,NH-4, Belur Industrial Area, Dharwad Karnataka -580011,Dharward,KARNATAKA,580011,India",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Na",
+    "organisation": "National Forensic Sciences University",
+    "office": "382007"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "3RD EYE TECHNO SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Magnet Forensics Model  : Magnet WITNESS \u2013 3 Years Title : Software for Forensic Examination of video file /CCTV footage",
+      "participated_on": "14-11-2024 18:20:27",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "NEXTECHNO GEN PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Cellebrite Model  : Cellebrite Title : Comprehensive Lab Based Mobile Forensic and Intelligence Solution Cloud and Chinese Mobile phones",
+      "participated_on": "14-11-2024 18:45:18",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "POWER FORENSICS & DIGITAL INTELLIGENCE Under PMA",
+      "offered_item": "Make  : Cellebrite Model  : UFED 4PC Title : Comprehensive Lab Based Mobile Forensic and Intelligence Solution Cloud and Chinese Mobile phones",
+      "participated_on": "15-11-2024 19:45:04",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

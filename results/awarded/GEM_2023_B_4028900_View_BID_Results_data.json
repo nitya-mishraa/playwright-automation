@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4028900",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "03-10-2023 17:13:55",
+    "bid_end_datetime": "13-10-2023 18:00:00",
+    "bid_opening_datetime": "13-10-2023 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Deepa Nayak",
+    "department": "Higher Education Department Odisha",
+    "organisation": "Commissioner-cum-secy To Govt,h.e.deptt.,bhubaneswar",
+    "office": "Higher Education"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MANUPATRA INFORMATION SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Manupatra Model  : Mykase Version 2",
+      "participated_on": "10-10-2023 14:26:44",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MANUPATRA INFORMATION SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 731600.00",
+      "rank": "L1"
+    }
+  ]
+}

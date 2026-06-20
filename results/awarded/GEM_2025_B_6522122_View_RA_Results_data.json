@@ -1,0 +1,35 @@
+{
+  "bid_details": {
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Parmod Sharma",
+    "department": "Education Department Chandigarh",
+    "organisation": "N/a",
+    "office": "District Education Office"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PLODDING TECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; AI based I",
+      "total_price": "` 3150000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INDUS TECHNOLOGIES Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; AI based I",
+      "total_price": "` 4450000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "I DREAM NETWORKS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; AI based I",
+      "total_price": "` 4470000.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4416636",
+    "bid_status": "Active",
+    "quantity": "21",
+    "bid_start_datetime": "31-12-2023 12:31:59",
+    "bid_end_datetime": "10-01-2024 17:00:00",
+    "bid_opening_datetime": "10-01-2024 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Mahesh C",
+    "department": "Home Department Karnataka",
+    "organisation": "Karnataka State Police",
+    "office": "Bangalore City Police Commissionerate"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "3RD EYE TECHNO SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : DataTrack, MD5, BlakTronics Model  : Virtual Computing Forensic Solution Title : Virtual Computing Forensic Solution",
+      "participated_on": "08-01-2024 23:35:12",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Cyint Technologies Under PMA",
+      "offered_item": "Make  : MD5 Ltd. Model  : Virtual Forensic Computing Title : Virtual Forensic Computing",
+      "participated_on": "10-01-2024 13:10:25",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KWICK FORENSIC SOLUTIONS LIMITED Under PMA",
+      "offered_item": "Make  : VFC Model  : VFC Title : VFC",
+      "participated_on": "05-01-2024 10:59:10",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KWICK SOFT SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Virtual Forensic Computing,Automatic Forensic Analysis Tool,Intelligence Gathering Tool",
+      "total_price": "` 14986590.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Cyint Technologies Under PMA",
+      "offered_item": "Item Categories : Virtual Forensic Computing,Automatic Forensic Analysis Tool,Intelligence Gathering Tool",
+      "total_price": "` 15879309.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "3RD EYE TECHNO SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Virtual Forensic Computing,Automatic Forensic Analysis Tool,Intelligence Gathering Tool",
+      "total_price": "` 16093956.00",
+      "rank": "L3"
+    }
+  ]
+}

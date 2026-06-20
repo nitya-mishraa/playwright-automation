@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4755308",
+    "bid_status": "Active",
+    "quantity": "19",
+    "bid_start_datetime": "08-03-2024 22:28:27",
+    "bid_end_datetime": "29-03-2024 18:00:00",
+    "bid_opening_datetime": "29-03-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "54"
+  },
+  "buyer_details": {
+    "name": "Shaji Mathew Kuttikandathil",
+    "address": "Shaji Mathew Kuttikandathil,mshaji.dri@gov.in,Unit No. 15, Magnet Corporate Park, Near Sola Flyover, S. G. Highway, Thaltej,AHMEDABAD,GUJARAT,380054,India",
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Revenue",
+    "organisation": "Central Board Of Excise And Customs (cbec)",
+    "office": "Directorate Of Revenue Intelligence Ahmedabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MAGNAMIOUS SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-03-2024 09:17:48",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MEGANET TECHNOLOGIES GLOBAL LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-03-2024 17:44:13",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ZENPAQ COMPUTERS & PERIPHERALS Under PMA",
+      "offered_item": "-",
+      "participated_on": "29-03-2024 10:35:32",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ZENPAQ COMPUTERS & PERIPHERALS (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Server,Firewall hardware,3 years Subscription,VMWare Standard edition with Vcentre 3 yerars,MS Wind",
+      "total_price": "` 1274700.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MAGNAMIOUS SYSTEMS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Server,Firewall hardware,3 years Subscription,VMWare Standard edition with Vcentre 3 yerars,MS Wind",
+      "total_price": "` 2164388.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "MEGA NETWORKS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Server,Firewall hardware,3 years Subscription,VMWare Standard edition with Vcentre 3 yerars,MS Wind",
+      "total_price": "` 3600000.00",
+      "rank": "L3"
+    }
+  ]
+}

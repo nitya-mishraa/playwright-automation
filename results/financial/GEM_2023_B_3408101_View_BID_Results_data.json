@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3408101",
+    "bid_status": "Active",
+    "bid_start_datetime": "02-05-2023 17:41:05",
+    "bid_end_datetime": "12-05-2023 18:00:00",
+    "bid_opening_datetime": "12-05-2023 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "48"
+  },
+  "buyer_details": {
+    "name": "Shiv Kumar",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Gopaljee Electrostat ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 9.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AACHUTHAN ENTERPRISES ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 14.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "INDUS BUSINESS & SERVICES CO. ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 18.90",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "BHARAT PRINTERS Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 19.90",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "Bharti Enterprises Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 20.00",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "a.k. group dhampur bijnor uttar pradesh ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 29.92",
+      "rank": "L6"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "MARISA SYSTEM ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Printing and Photocopying Service - Photocopying; Offsite; Office Working Days; Not Applicable; Not",
+      "total_price": "` 149999.89",
+      "rank": "L7"
+    }
+  ]
+}

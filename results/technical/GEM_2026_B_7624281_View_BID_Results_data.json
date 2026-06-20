@@ -1,0 +1,20 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7624281",
+    "bid_status": "Active",
+    "quantity": "20000",
+    "bid_start_datetime": "04-06-2026 18:52:09",
+    "bid_end_datetime": "15-06-2026 19:00:00",
+    "bid_opening_datetime": "15-06-2026 19:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Priyank Pathak",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2386510",
+    "bid_status": "Active",
+    "bid_start_datetime": "28-07-2022 17:20:33",
+    "bid_end_datetime": "16-09-2022 15:00:00",
+    "bid_opening_datetime": "16-09-2022 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "65"
+  },
+  "buyer_details": {
+    "name": "Awdhesh Kumar",
+    "address": "NEW DELHI,B 148 11th Floor Statesman House, Barakhamba Road, New Delhi,awdheshkumar.91@gov.in,DELHI,India,110001,Awdhesh Kumar,011-47537247-",
+    "ministry": "Ministry Of Railways",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "Corporate Office"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CYBERDIPLOMAT LLP Under PMA",
+      "offered_item": "12-08-2022 17:18:44",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PINACA TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "16-09-2022 02:04:50",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SATTRIX INFORMATION SECURITY LIMITED Under PMA",
+      "offered_item": "15-09-2022 23:17:34",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PINACA TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - AntiTouting  Cyber Threat Intelligence Analysis Services for IRCTC For A",
+      "total_price": "` 88500000.00",
+      "rank": "L1"
+    }
+  ]
+}

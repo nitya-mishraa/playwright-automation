@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3249829",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "10-03-2023 15:36:24",
+    "bid_end_datetime": "27-03-2023 10:00:00",
+    "bid_opening_datetime": "27-03-2023 10:30:00",
+    "bid_validity_days": "45"
+  },
+  "buyer_details": {
+    "name": "Madhumita Sengupta",
+    "address": "Madhumita Sengupta,NADIA,buyer1.iiit.kalyani@gembuyer.in,WEBEL IT Park Campus, Opp Water Treatment Plant, Kalyani,983-1264161-,India,741235,WEST BENGAL",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "Indian Institute Of Information Tehnology(iiits)",
+    "office": "Kalyani"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "HI-TECH BOOK SERVICES (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Book Artificial Intelligence,Book Machine Learning,Book Speech and Language Processing",
+      "participated_on": "` 3580.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ATR SOLUTIONS (MII) Under PMA",
+      "offered_item": "Item Categories : Book Artificial Intelligence,Book Machine Learning,Book Speech and Language Processing",
+      "participated_on": "` 4119.00",
+      "mse_mii_status": "L2",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "HI-TECH BOOK SERVICES (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Book Artificial Intelligence,Book Machine Learning,Book Speech and Language Processing",
+      "total_price": "` 3580.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ATR SOLUTIONS (MII) Under PMA",
+      "offered_item": "Item Categories : Book Artificial Intelligence,Book Machine Learning,Book Speech and Language Processing",
+      "total_price": "` 4119.00",
+      "rank": "L2"
+    }
+  ]
+}

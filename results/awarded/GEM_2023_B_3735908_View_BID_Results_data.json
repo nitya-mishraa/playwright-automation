@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3735908",
+    "bid_status": "Active",
+    "quantity": "14",
+    "bid_start_datetime": "24-07-2023 18:58:07",
+    "bid_end_datetime": "03-08-2023 19:00:00",
+    "bid_opening_datetime": "03-08-2023 19:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** BANGALORE",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Production",
+    "organisation": "Directorate Of Standardisation",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SKILL CRAFTZZZ (MSE,MII) ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : Book Titled What I really meant to say,Book Titled Golden rules for Llving your best life,Book Titl",
+      "participated_on": "` 8405.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "VARSA PARTNERS LLP (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Book Titled What I really meant to say,Book Titled Golden rules for Llving your best life,Book Titl",
+      "participated_on": "` 12784.00",
+      "mse_mii_status": "L2",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SKILL CRAFTZZZ (MSE,MII) ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : Book Titled What I really meant to say,Book Titled Golden rules for Llving your best life,Book Titl",
+      "total_price": "` 8405.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "VARSA PARTNERS LLP (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Book Titled What I really meant to say,Book Titled Golden rules for Llving your best life,Book Titl",
+      "total_price": "` 12784.00",
+      "rank": "L2"
+    }
+  ]
+}

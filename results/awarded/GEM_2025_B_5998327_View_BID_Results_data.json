@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5998327",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "27-02-2025 19:11:51",
+    "bid_end_datetime": "17-03-2025 09:00:00",
+    "bid_opening_datetime": "17-03-2025 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Rameshwar Murmu",
+    "address": "Rameshwar Murmu,murmur@cimfr.nic.in,CSIR- CIMFR, Barwa Road Campus,Dhanbad,JHARKHAND,826001,India,0326-2296003-4336",
+    "ministry": "Ministry Of Science And Technology",
+    "department": "Department Of Scientific And Industrial Research (dsir)",
+    "organisation": "Council Of Scientific And Industrial Research (csir)",
+    "office": "Central Institute Of Mining And Fuel Research, Dhanbad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INPIXON INDIA LIMITED Under PMA",
+      "offered_item": "Make  : SIGMAPLOT--INPIXON INDIA LIMITED Model  : SigmaPlot version 15",
+      "participated_on": "08-03-2025 12:16:14",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "tradehive enterprises Under PMA",
+      "offered_item": "Make  : SIGMAPLOT--INPIXON INDIA LIMITED Model  : SigmaPlot version 15",
+      "participated_on": "16-03-2025 22:27:37",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "VIBA Under PMA",
+      "offered_item": "Make  : SIGMAPLOT--INPIXON INDIA LIMITED Model  : SigmaPlot version 15",
+      "participated_on": "16-03-2025 20:03:38",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INPIXON INDIA LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 175000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "VIBA Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 184950.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "tradehive enterprises Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 192000.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6936638",
+    "bid_status": "Active",
+    "quantity": "8",
+    "bid_start_datetime": "17-12-2025 12:09:17",
+    "bid_end_datetime": "29-12-2025 21:00:00",
+    "bid_opening_datetime": "29-12-2025 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** JAIPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : Apple Model  : APPLE Title : M4 CHIPSET LAPTOP",
+      "participated_on": "28-12-2025 11:55:56",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : Apple Model  : APPLE MACBOOk Title : M4 CHIPSET LAPTOP",
+      "participated_on": "28-12-2025 20:16:43",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : hp Model  : LAPTOP Title : M4 CHIPSET LAPTOP",
+      "participated_on": "28-12-2025 08:12:55",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : Apple Model  : M4 CHIPSET LAPTOP Title : M4 CHIPSET LAPTOP",
+      "participated_on": "21-12-2025 08:14:21",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : Aahana Model  : M4 CHIPSET LAPTOP Title : M4 CHIPSET LAPTOP",
+      "participated_on": "25-12-2025 21:09:43",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : CLaptop Model  : LAPTOP M4 Title : M4 CHIPSET LAPTOP",
+      "participated_on": "25-12-2025 19:04:33",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : CLaptop Model  : M4 Title : M4 CHIPSET LAPTOP",
+      "participated_on": "25-12-2025 12:47:30",
+      "mse_mii_status": "WDO",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

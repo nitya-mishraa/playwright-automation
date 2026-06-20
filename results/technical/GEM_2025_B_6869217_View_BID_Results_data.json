@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6869217",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "08-11-2025 13:25:02",
+    "bid_end_datetime": "29-11-2025 14:00:00",
+    "bid_opening_datetime": "29-11-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Mohit Kumar",
+    "department": "Medical Education Department Uttar Pradesh",
+    "organisation": "Dr. Ram Manohar Lohia Institute Of Medical Sciences",
+    "office": "Lucknow"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : CMS Model  : Psychological Intelligence Battery for the Departm Title : Psychological Intelligence Battery for the Department of Psychiatry",
+      "participated_on": "29-11-2025 13:27:27",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : SURVIVE PHARMA Model  : Psychological Intelligence Battery Title : Psychological Intelligence Battery for the Department of Psychiatry",
+      "participated_on": "27-11-2025 23:33:22",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : National Psychological Corporation Model  : Psychological Intelligence Scale Title : Psychological Intelligence Battery for the Department of Psychiatry",
+      "participated_on": "29-11-2025 12:42:12",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "********** Under PMA",
+      "offered_item": "Make  : Other Model  : Psychological Intelligence Battery for the Departm Title : Psychological Intelligence Battery for the Department of Psychiatry",
+      "participated_on": "28-11-2025 23:21:19",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": []
+}

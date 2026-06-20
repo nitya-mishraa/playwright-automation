@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "5",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Bhuvnesh",
+    "address": "Bhuvnesh,buycon12.nfsu.gj@gembuyer.in,Campus Admin, Room No: 007, ITC building Gujarat Campus National Forensic Sciences University Sector 9, Gandhinagar-382007, Gujarat - India.,Gandhi Nagar,GUJARAT,382007,India",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Na",
+    "organisation": "National Forensic Sciences University",
+    "office": "382007"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big Data and Analytics",
+      "total_price": "` 31030000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DELTA IT NETWORK PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big Data and Analytics",
+      "total_price": "` 31080000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "VISITANT TECHNOLOGIES PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big Data and Analytics",
+      "total_price": "` 31112500.00",
+      "rank": "L3"
+    }
+  ]
+}

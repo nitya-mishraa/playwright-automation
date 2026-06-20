@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "6",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Aritro Sengupta",
+    "address": "Aritro Sengupta,aritro.sengupta@meity.gov.in,6 CGO Complex Lodhi Road,SOUTH EAST DELHI,DELHI,110003,India,011-24368572-305",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Indian Computer Emergency Response Team (cert-in)",
+    "office": "6 Cgo Complex Lodhi Road New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "STARLIGHT DATA SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution Module1,Digital Intelligence Solution Module2,Digital Intelligence So",
+      "total_price": "` 229501740.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MOUNTEDGE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution Module1,Digital Intelligence Solution Module2,Digital Intelligence So",
+      "total_price": "` 233044402.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "RAH INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution Module1,Digital Intelligence Solution Module2,Digital Intelligence So",
+      "total_price": "` 246495721.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6833178",
+    "bid_status": "Active",
+    "quantity": "30",
+    "bid_start_datetime": "15-12-2025 13:54:55",
+    "bid_end_datetime": "26-12-2025 14:00:00",
+    "bid_opening_datetime": "26-12-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** JAIPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "A R INFOTECH Under PMA",
+      "offered_item": "-",
+      "participated_on": "20-12-2025 17:13:56",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BEE PRINT MEDIA Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-12-2025 16:05:23",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DWARKA SOLUTION Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-12-2025 23:48:21",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "HAZZALE BLUE TRADING PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "22-12-2025 08:02:03",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "MINAS STORES Under PMA",
+      "offered_item": "-",
+      "participated_on": "25-12-2025 13:20:44",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "NITIN TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "23-12-2025 23:14:42",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "SHAKTI SALES CORPORATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "24-12-2025 23:45:11",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "STATION-E -INFO SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-12-2025 16:49:32",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "ZENPAQ COMPUTERS & PERIPHERALS Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-12-2025 13:16:16",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MSE"
+    }
+  ],
+  "financial_evaluation": []
+}

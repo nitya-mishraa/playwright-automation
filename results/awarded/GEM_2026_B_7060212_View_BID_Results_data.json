@@ -1,0 +1,77 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7060212",
+    "bid_status": "Active",
+    "bid_start_datetime": "19-01-2026 12:54:19",
+    "bid_end_datetime": "09-02-2026 13:00:00",
+    "bid_opening_datetime": "09-02-2026 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Ashutosh Pandey",
+    "address": "Ashutosh Pandey,ad.mm-nca@gov.in,National Telecommunications Institute for Policy Research, Innovation and Training Admin Building, ALTTC Campus Govt of India Enclave, Ghaziabad-201002,GHAZIABAD,UTTAR PRADESH,201002,India,941-5008990-",
+    "ministry": "Ministry Of Communications",
+    "department": "Department Of Telecommunications (dot)",
+    "organisation": "Ntiprit",
+    "office": "National Telecommunications Institute Ghaziabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DEVISHREE SOLUTIONS Under PMA",
+      "offered_item": "06-02-2026 12:29:35",
+      "participated_on": "Offline upload",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DIGITOAD TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "30-01-2026 15:10:24",
+      "participated_on": "Offline upload",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "INNOVATIVE ENGINEERS Under PMA",
+      "offered_item": "07-02-2026 17:48:50",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MONARCH SALES Under PMA",
+      "offered_item": "09-02-2026 10:04:52",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "PLUMULE RESEARCH LLP Under PMA",
+      "offered_item": "09-02-2026 12:24:07",
+      "participated_on": "Start-up",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DIGITOAD TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; As per Sco",
+      "total_price": "` 765940.31",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MONARCH SALES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; As per Sco",
+      "total_price": "` 919129.14",
+      "rank": "L2"
+    }
+  ]
+}

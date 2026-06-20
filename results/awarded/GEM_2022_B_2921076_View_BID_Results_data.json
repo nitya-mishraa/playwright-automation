@@ -1,0 +1,97 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2921076",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "02-01-2023 20:54:27",
+    "bid_end_datetime": "16-01-2023 21:00:00",
+    "bid_opening_datetime": "16-01-2023 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Zunjar Sahebrao Bhamre",
+    "department": "Higher And Technical Education Department Maharashtra",
+    "organisation": "University Of Pune",
+    "office": "Sppu"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DYNALAB SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2023 20:44:39",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EDUPEDIA TECHNOLOGIES Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2023 16:26:39",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PROTOTECH ENGINEERING SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2023 11:05:01",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "Span One engineering Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-01-2023 15:20:06",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "TECHSKULL INSTRUMENTS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2023 19:27:43",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Span One engineering (MSE,MII) ( MSE Social Category:SC ) Under PMA",
+      "offered_item": "Item Categories : Machine Intelligence Framework Cloud Computing Research System",
+      "total_price": "` 19881555.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PROTOTECH ENGINEERING SERVICES (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Machine Intelligence Framework Cloud Computing Research System",
+      "total_price": "` 19990000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DYNALAB SOLUTIONS PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Machine Intelligence Framework Cloud Computing Research System",
+      "total_price": "` 20550000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TECHSKULL INSTRUMENTS PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Machine Intelligence Framework Cloud Computing Research System",
+      "total_price": "` 31950000.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "EDUPEDIA TECHNOLOGIES (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Machine Intelligence Framework Cloud Computing Research System",
+      "total_price": "` 32750000.00",
+      "rank": "L5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7217928",
+    "bid_status": "Active",
+    "bid_start_datetime": "10-02-2026 15:23:10",
+    "bid_end_datetime": "13-02-2026 16:00:00",
+    "bid_opening_datetime": "13-02-2026 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Gitesh Gangadhar Borde",
+    "address": "Gitesh Gangadhar Borde,buycon1.bpcl.mumbai@gembuyer.in,CAFFE PARADE, 12TH FLOOR, MAKER TOWER, BPCL OFFICE,Mumbai,MAHARASHTRA,400005,India",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Bharat Petroleum Corporation Ltd",
+    "organisation": "Bharat Petroleum Corporation Ltd",
+    "office": "North"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "LIFO TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; Customer I",
+      "participated_on": "` 906240.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "LIFO TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; Customer I",
+      "total_price": "` 906240.00",
+      "rank": "L1"
+    }
+  ]
+}

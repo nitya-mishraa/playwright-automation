@@ -1,0 +1,71 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5744231",
+    "bid_status": "Active",
+    "quantity": "212",
+    "bid_start_datetime": "23-12-2024 17:14:02",
+    "bid_end_datetime": "23-01-2025 09:00:00",
+    "bid_opening_datetime": "23-01-2025 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** ERNAKULAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Navy",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S KUBE HEALTHCARE AND MEDICAL SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "13-01-2025 14:05:42",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S SHREE TRADERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "08-01-2025 20:18:13",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "mexim enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "13-01-2025 10:29:28",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "smart pages Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-01-2025 17:48:35",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "TECH SPARK SOLUTIONS Under PMA",
+      "offered_item": "-",
+      "participated_on": "22-01-2025 12:18:44",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "THE BOOKLINE Under PMA",
+      "offered_item": "-",
+      "participated_on": "08-01-2025 12:53:36",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

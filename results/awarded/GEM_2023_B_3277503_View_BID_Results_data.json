@@ -1,0 +1,37 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3277503",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "16-03-2023 20:28:51",
+    "bid_end_datetime": "27-03-2023 21:00:00",
+    "bid_opening_datetime": "27-03-2023 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "Veena Rani",
+    "department": "Higher Education Department Haryana",
+    "organisation": "N/a",
+    "office": "Higher Education Department"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "participated_on": "` 89000.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 89000.00",
+      "rank": "L1"
+    }
+  ]
+}

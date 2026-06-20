@@ -1,0 +1,92 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2795040",
+    "bid_status": "Active",
+    "quantity": "512",
+    "bid_start_datetime": "29-11-2022 15:26:59",
+    "bid_end_datetime": "20-12-2022 15:00:00",
+    "bid_opening_datetime": "20-12-2022 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Deepak Sharma",
+    "address": "dgar-cso@gov.in,793010,Deepak Sharma,-7476806-,India,HQ Directorate General Assam Rifles, Laitkor Shillong,EAST KHASI HILLS,MEGHALAYA",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "Assam Rifles",
+    "office": "Hq Dgar"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BHUMI ENTECH EQUIPMENTS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "20-12-2022 13:29:42",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ESDS SOFTWARE SOLUTION LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-12-2022 17:33:34",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "LOGIX NET SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-12-2022 17:17:07",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "NICE INFOTECH Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-12-2022 20:24:58",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SOURCE DOT COM PRIVATE LIMTED Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-12-2022 18:49:58",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SOURCE DOT COM PRIVATE LIMTED Under PMA",
+      "offered_item": "Item Categories : Security Information and Event Management,Log Collector for SIEM,Log Consolidator for SIEM,Log Corr",
+      "total_price": "` 196434608.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "LOGIX NET SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Security Information and Event Management,Log Collector for SIEM,Log Consolidator for SIEM,Log Corr",
+      "total_price": "` 197361834.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NICE INFOTECH Under PMA",
+      "offered_item": "Item Categories : Security Information and Event Management,Log Collector for SIEM,Log Consolidator for SIEM,Log Corr",
+      "total_price": "` 198837524.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ESDS SOFTWARE SOLUTION LIMITED Under PMA",
+      "offered_item": "Item Categories : Security Information and Event Management,Log Collector for SIEM,Log Consolidator for SIEM,Log Corr",
+      "total_price": "` 200144150.00",
+      "rank": "L4"
+    }
+  ]
+}

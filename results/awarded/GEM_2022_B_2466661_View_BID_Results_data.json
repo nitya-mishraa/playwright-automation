@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2466661",
+    "bid_status": "Active",
+    "quantity": "39",
+    "bid_start_datetime": "26-08-2022 11:46:42",
+    "bid_end_datetime": "29-08-2022 19:00:00",
+    "bid_opening_datetime": "29-08-2022 19:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** SOUTH EAST DELHI",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NARENDRA ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-08-2022 22:44:42",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PURVANSHU ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-08-2022 22:32:34",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Ram enterprises Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-08-2022 22:48:19",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Ram enterprises (MII) Under PMA",
+      "offered_item": "Item Categories : Robotic World War,How it Would Happen The Fog of Hybrid War,Integration of the Indian Armed Forces,",
+      "total_price": "` 45865.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Entire GeM Solutions (MII) Under PMA",
+      "offered_item": "Item Categories : Robotic World War,How it Would Happen The Fog of Hybrid War,Integration of the Indian Armed Forces,",
+      "total_price": "` 49765.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NARENDRA ENTERPRISES (MII) Under PMA",
+      "offered_item": "Item Categories : Robotic World War,How it Would Happen The Fog of Hybrid War,Integration of the Indian Armed Forces,",
+      "total_price": "` 57965.00",
+      "rank": "L3"
+    }
+  ]
+}

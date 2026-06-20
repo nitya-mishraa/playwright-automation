@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4957418",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "05-06-2024 13:31:17",
+    "bid_end_datetime": "26-06-2024 14:00:00",
+    "bid_opening_datetime": "26-06-2024 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** KANCHIPURAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Air Force",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "A.V TECHNO SOFT INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : AVTECH Model  : AVT-100 Title : X- RAY BAGGAGE SYSTEM",
+      "participated_on": "26-06-2024 13:49:15",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MAGTECH SECURITY SYSTEMS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : MAGTECH Model  : Cargy 1010 Title : X- RAY BAGGAGE SCANNER",
+      "participated_on": "26-06-2024 10:26:39",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "THE MOTWANE MANUFACTURING COMPANY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Motwane Model  : MBS-100100B Title : Supply and Installation of X-ray Baggage Inspection System (Large Size)",
+      "participated_on": "26-06-2024 13:00:03",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "VEHANT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Vehant Technologies Pvt Ltd Model  : KritiScan 100100H Title : X ray baggage inspection system",
+      "participated_on": "24-06-2024 13:02:20",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

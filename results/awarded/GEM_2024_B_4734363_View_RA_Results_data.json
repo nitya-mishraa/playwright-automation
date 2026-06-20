@@ -1,0 +1,43 @@
+{
+  "bid_details": {
+    "quantity": "228",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Rajesh Verma",
+    "department": "Higher Education Department Haryana",
+    "organisation": "N/a",
+    "office": "Gc Adampur Hisar"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARCTIC (MSE) Under PMA",
+      "offered_item": "Item Categories : Personality test Software computer based,Aptitude test software computer based,SPSS software latest",
+      "total_price": "` 2366420.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CONSCIOUS MIND SOLUTIONS PRIVATE LIMITED (MSE) Under PMA",
+      "offered_item": "Item Categories : Personality test Software computer based,Aptitude test software computer based,SPSS software latest",
+      "total_price": "` 2389673.00 (Bid Price)",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Unicorn venture (MSE) Under PMA",
+      "offered_item": "Item Categories : Personality test Software computer based,Aptitude test software computer based,SPSS software latest",
+      "total_price": "` 2525330.00 (Bid Price)",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "PRASAD PSYCHO PRIVATE LIMITED (MSE) Under PMA",
+      "offered_item": "Item Categories : Personality test Software computer based,Aptitude test software computer based,SPSS software latest",
+      "total_price": "` 2994460.20 (Bid Price)",
+      "rank": "L4"
+    }
+  ]
+}

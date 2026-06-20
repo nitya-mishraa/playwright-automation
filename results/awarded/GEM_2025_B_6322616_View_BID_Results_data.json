@@ -1,0 +1,61 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6322616",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "10-06-2025 14:38:31",
+    "bid_end_datetime": "30-06-2025 09:00:00",
+    "bid_opening_datetime": "30-06-2025 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "46"
+  },
+  "buyer_details": {
+    "name": "Naresh Kumar Sahoo",
+    "department": "Forest And Environment Department Odisha",
+    "organisation": "P.c.c.f.,orissa,bhubaneswar",
+    "office": "Divisional Forest Officer Hirakud Wl Division"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BHAVI COMMTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : awiros Model  : Artifical-Intelligence(based Video AnalyticsSoftw Title : Artifical-Intelligence(based Video AnalyticsSoftware)",
+      "participated_on": "29-06-2025 19:42:46",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BINOMIAL SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Binomial Solutions Model  : AI based Video Analytics Software Title : Artifical-Intelligence(based Video AnalyticsSoftware)",
+      "participated_on": "26-06-2025 00:23:00",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "G.P. ASSOCIATES Under PMA",
+      "offered_item": "Make  : NA Model  : Artifical-Intelligence(based Video Title : Artifical-Intelligence(based Video AnalyticsSoftware)",
+      "participated_on": "26-06-2025 02:34:06",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MEET SERVICES Under PMA",
+      "offered_item": "Make  : NA Model  : Artifical-Intelligence(based Video Title : Artifical-Intelligence(based Video AnalyticsSoftware)",
+      "participated_on": "26-06-2025 02:06:12",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "OM TRADERS Under PMA",
+      "offered_item": "Make  : NA Model  : Artifical-Intelligence based Video Title : Artifical-Intelligence(based Video AnalyticsSoftware)",
+      "participated_on": "26-06-2025 01:14:48",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": []
+}

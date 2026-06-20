@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/823527",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "08-10-2020 15:53:41",
+    "bid_end_datetime": "21-10-2020 14:00:00",
+    "bid_opening_datetime": "21-10-2020 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Yashpal Singh Bhadouria",
+    "address": "India,Harish-Chandra Research Institute Chhatnag Road, Jhunsi,Yashpal Singh Bhadouria,UTTAR PRADESH,ALLAHABAD,buycon2.hri.prygrj@gembuyer.in,211019,0532-2274363-4363",
+    "ministry": "Pmo",
+    "department": "Department Of Atomic Energy",
+    "organisation": "N/a",
+    "office": "Harish Chandra Research Institute Allahabad"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : PCL999LFAR05ZZZ",
+      "participated_on": "20-10-2020 13:37:57",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EMBEDDED SYSTEMS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Intel Model  : PCL999LFAR05ZZZ",
+      "participated_on": "12-10-2020 17:14:18",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADITECH ICT PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 2680293.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EMBEDDED SYSTEMS SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 2696988.00",
+      "rank": "L2"
+    }
+  ]
+}

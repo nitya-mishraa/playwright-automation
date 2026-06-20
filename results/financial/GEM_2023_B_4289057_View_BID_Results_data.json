@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4289057",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "04-01-2024 17:17:59",
+    "bid_end_datetime": "15-01-2024 18:00:00",
+    "bid_opening_datetime": "15-01-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "95"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** RAJAURI",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ESEC SECURITY CONSULTANTS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-01-2024 10:13:15",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MAGNUM TELESYSTEM PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-01-2024 15:34:03",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TACON SECURITY SYSTEM PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-01-2024 13:06:07",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

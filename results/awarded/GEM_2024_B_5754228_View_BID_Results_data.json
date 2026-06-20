@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5754228",
+    "bid_status": "Active",
+    "bid_start_datetime": "26-12-2024 16:44:51",
+    "bid_end_datetime": "26-02-2025 18:00:00",
+    "bid_opening_datetime": "26-02-2025 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "276"
+  },
+  "buyer_details": {
+    "name": "Sudhir Kumar Rawat",
+    "address": "Sudhir Kumar Rawat,buycon96.igr.as@gembuyer.in,GUWAHATI REFINERY,NOONMATI,GUWAHATI,Kamrup,ASSAM,781020,India",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Indian Oil Corporation Limited",
+    "organisation": "Indian Oil Corporation Limited",
+    "office": "Iocl- Guwahati Refinery"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DETECT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "18-01-2025 17:34:33",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "GARUDA AEROSPACE LIMITED Under PMA",
+      "offered_item": "11-02-2025 18:35:28",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DETECT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Artificial intelligence based Camera and Drone safety monitoring system i",
+      "total_price": "` 4675030.53",
+      "rank": "L1"
+    }
+  ]
+}

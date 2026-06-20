@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2325253",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "07-07-2022 10:16:42",
+    "bid_end_datetime": "18-07-2022 20:00:00",
+    "bid_opening_datetime": "18-07-2022 20:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** BANGALORE",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (ecs)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Bronco Systems Under PMA",
+      "offered_item": "Make  : BROSIS Model  : Integrated Security System Title : Integrated Security System",
+      "participated_on": "17-07-2022 15:50:41",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED Under PMA",
+      "offered_item": "Make  : GODREJ SECURITY SOLUTION Model  : GSCAN 9Z Title : GODREJ DFMD",
+      "participated_on": "18-07-2022 16:58:07",
+      "mse_mii_status": "Turnover >= 500 Cr.",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "QUANTUM TECHNO SOLUTIONS Under PMA",
+      "offered_item": "Make  : Virdi Brosis Model  : Thermal IR and Optical Imaging Camera with accessories Title : Multiple Security System Integrated Solution",
+      "participated_on": "18-07-2022 11:35:11",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

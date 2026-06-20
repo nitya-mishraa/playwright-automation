@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/623107",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "15-04-2020 17:07:16",
+    "bid_end_datetime": "25-04-2020 18:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Anup Prakashrao Urewar",
+    "department": "Medical Education And Drugs Department Maharashtra",
+    "organisation": "Directorate Of Medical Education And Research",
+    "office": "Grant Government Medical College Mumbai"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Pearson India Education services Private Limited Model  : 2013",
+      "participated_on": "23-04-2020 13:34:21",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PEARSON INDIA EDUCATION SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Wechsler Adult Intelligence Scale",
+      "total_price": "` 106326.00",
+      "rank": "L1"
+    }
+  ]
+}

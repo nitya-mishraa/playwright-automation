@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "quantity": "23",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Ishit Vinodbhai Khakhkhar",
+    "department": "Science And Technology Department Gujarat",
+    "organisation": "Gujarat Informatics Limited (gil)",
+    "office": "Western Zone"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "COFORGE LIMITED Under PMA",
+      "offered_item": "Item Categories : SIEM & SOAR Platform,SIEM & SOAR Platform CAMC & Warranty Support 5 Year,Threat Intelligence Feed,T",
+      "total_price": "` 240765853.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SISL INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : SIEM & SOAR Platform,SIEM & SOAR Platform CAMC & Warranty Support 5 Year,Threat Intelligence Feed,T",
+      "total_price": "` 241093124.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "Item Categories : SIEM & SOAR Platform,SIEM & SOAR Platform CAMC & Warranty Support 5 Year,Threat Intelligence Feed,T",
+      "total_price": "` 470570342.78 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

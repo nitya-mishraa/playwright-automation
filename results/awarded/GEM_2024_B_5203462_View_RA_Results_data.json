@@ -1,0 +1,51 @@
+{
+  "bid_details": {
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Ajay Babu S",
+    "address": "Ajay Babu S,buyer110.ongcl.mh@gembuyer.in,Central Digital and IT Procurement Group (CDIG), CPD, ONGC, 8th Floor, Scope Minar, Laxmi Nagar, Delhi,EAST DELHI,DELHI,110092,India",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Na",
+    "organisation": "Oil And Natural Gas Corporation Limited",
+    "office": "Central Procurement Department"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ORBIT TECHSOL INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Procurement of Threat Intel Feed Brand  Identity Monitoring Attack surfac",
+      "total_price": "` 4660400.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SISL INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Procurement of Threat Intel Feed Brand  Identity Monitoring Attack surfac",
+      "total_price": "` 5871000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "BAY DATACOM SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Procurement of Threat Intel Feed Brand  Identity Monitoring Attack surfac",
+      "total_price": "` 11880000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ARSENAL INFOSOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Procurement of Threat Intel Feed Brand  Identity Monitoring Attack surfac",
+      "total_price": "` 13185000.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "HITACHI SYSTEMS INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Procurement of Threat Intel Feed Brand  Identity Monitoring Attack surfac",
+      "total_price": "` 15867718.00",
+      "rank": "L5"
+    }
+  ]
+}

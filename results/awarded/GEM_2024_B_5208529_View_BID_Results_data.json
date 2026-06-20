@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5208529",
+    "bid_status": "Active",
+    "bid_start_datetime": "25-07-2024 20:33:00",
+    "bid_end_datetime": "16-08-2024 14:00:00",
+    "bid_opening_datetime": "16-08-2024 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Hemandra Kumar",
+    "address": "Hemandra Kumar,buycon12.cpcl.tn@gembuyer.in,Chennai Petroleum Corporation Limited, Manai, Chennai,TIRUVALLUR,TAMIL NADU,600068,India,044-25944222-",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Chennai Petroleum Corporation Limited",
+    "organisation": "Chennai Petroleum Corporation Limited",
+    "office": "Chennai"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CHAUHAN & CHAUHAN SERVICES Under PMA",
+      "offered_item": "02-08-2024 11:28:01",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "DETECT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "07-08-2024 10:38:36",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DETECT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : INTEGRATED SECURITY SURVEILLANCE SYSTEM SERVICE - CPCLH24290 Artificial Intelligence based safety m",
+      "total_price": "` 13535383.48",
+      "rank": "L1"
+    }
+  ]
+}

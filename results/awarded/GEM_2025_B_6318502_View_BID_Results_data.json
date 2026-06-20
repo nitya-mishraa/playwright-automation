@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6318502",
+    "bid_status": "Active",
+    "quantity": "58",
+    "bid_start_datetime": "27-06-2025 13:43:32",
+    "bid_end_datetime": "18-07-2025 11:00:00",
+    "bid_opening_datetime": "18-07-2025 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "Ravi Bahmnia",
+    "address": "Ravi Bahmnia,buycon76.pfcl.dl@gembuyer.in,Power Finance Corporation Limited, Urjanidhi, 1, Barakhamba Lane, Connaught Place, New Delhi -110001,CENTRAL DELHI,DELHI,110001,India,011-23456000-338",
+    "ministry": "Ministry Of Power",
+    "department": "Power Finance Corporation Limited",
+    "organisation": "Power Finance Corporation Limited",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "18-07-2025 10:29:12",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "VDOIT TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "17-07-2025 16:25:16",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2),Business Intelligence and Data Analysis Softw",
+      "total_price": "` 1343500.00",
+      "rank": "L1"
+    }
+  ]
+}

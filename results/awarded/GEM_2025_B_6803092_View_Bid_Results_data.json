@@ -1,0 +1,52 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6803092",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "17-10-2025 13:51:16",
+    "bid_end_datetime": "27-10-2025 14:00:00",
+    "bid_opening_datetime": "27-10-2025 14:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Prasanta Kumar Swain",
+    "department": "Forest And Environment Department Odisha",
+    "organisation": "P.c.c.f.,orissa,bhubaneswar",
+    "office": "Divisional Forest Officer Karanjia"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BHAVI COMMTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : awiros Model  : AWI-PS-FRS-AD",
+      "participated_on": "26-10-2025 21:11:21",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S M.ENGINEERING WORKS Under PMA",
+      "offered_item": "Make  : Intozi Model  : VIN-AI2.02",
+      "participated_on": "27-10-2025 12:39:09",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SPACEMETRIKS Under PMA",
+      "offered_item": "Make  : Intozi Model  : VIN-AI2.02",
+      "participated_on": "27-10-2025 13:31:15",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TANGENT SOLUTIONS Under PMA",
+      "offered_item": "Make  : Intozi Model  : VIN-AI2.02",
+      "participated_on": "27-10-2025 12:37:39",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

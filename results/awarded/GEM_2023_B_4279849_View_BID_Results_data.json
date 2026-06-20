@@ -1,0 +1,63 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4279849",
+    "bid_status": "Active",
+    "quantity": "7",
+    "bid_start_datetime": "02-12-2023 14:05:11",
+    "bid_end_datetime": "06-01-2024 21:00:00",
+    "bid_opening_datetime": "06-01-2024 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "74"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** MATHURA",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NEEMUS SOFTWARE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-01-2024 17:00:36",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "NEXACTLY AI SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-12-2023 16:44:12",
+      "mse_mii_status": "Start-up",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "TECHINTACT PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-12-2023 16:34:28",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "UPTAKE INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-12-2023 13:21:49",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NEEMUS SOFTWARE SOLUTIONS PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : High end PCs,Software with features,warranty period 1 year,Additional Upgradation and Technical sup",
+      "total_price": "` 2180000.00",
+      "rank": "L1"
+    }
+  ]
+}

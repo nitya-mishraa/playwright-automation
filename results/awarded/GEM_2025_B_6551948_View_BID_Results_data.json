@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6551948",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "01-10-2025 13:13:51",
+    "bid_end_datetime": "11-10-2025 14:00:00",
+    "bid_opening_datetime": "11-10-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Vijay Kumar",
+    "address": "Vijay Kumar,sc.lgs.trgcen@nsg.gov.in,National Security Guards, Manesar,GURGAON,HARYANA,122051,India,0124-2864800-",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "National Security Guard (nsg)",
+    "office": "Directorate General"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SRIJANAI INNOVATIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SrijanAI Innovations--SRIJANAI INNOVATIONS PRIVATE LIMITED Model  : ArchiveAI-001",
+      "participated_on": "01-10-2025 15:06:50",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SRIJANAI INNOVATIONS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big Data and Analytics",
+      "total_price": "` 708000.00",
+      "rank": "L1"
+    }
+  ]
+}

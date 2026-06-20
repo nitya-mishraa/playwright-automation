@@ -1,0 +1,52 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6992397",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "11-12-2025 20:48:56",
+    "bid_end_datetime": "30-12-2025 09:00:00",
+    "bid_opening_datetime": "30-12-2025 09:30:00",
+    "bid_validity_days": "105"
+  },
+  "buyer_details": {
+    "name": "Chiranjibi Pattanayak",
+    "department": "Forest And Environment Department Odisha",
+    "organisation": "P.c.c.f.,orissa,bhubaneswar",
+    "office": "Divisional Forest Officer Khordha Forest Division"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BHAVI COMMTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : awiros Model  : AWI-PS-FRS-AD",
+      "participated_on": "22-12-2025 19:11:42",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BINOMIAL SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Binomial Solutions Model  : e-Eye\u00ae",
+      "participated_on": "24-12-2025 18:32:08",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M/S M.ENGINEERING WORKS Under PMA",
+      "offered_item": "Make  : awiros Model  : AWI-PS-AIN-ST",
+      "participated_on": "22-12-2025 19:10:06",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TANGENT SOLUTIONS Under PMA",
+      "offered_item": "Make  : awiros Model  : AWI-PS-AIN-ST",
+      "participated_on": "22-12-2025 20:07:53",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

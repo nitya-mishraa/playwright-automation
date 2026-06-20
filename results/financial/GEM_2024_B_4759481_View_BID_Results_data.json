@@ -1,0 +1,53 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4759481",
+    "bid_status": "Active",
+    "quantity": "10",
+    "bid_start_datetime": "11-03-2024 17:19:33",
+    "bid_end_datetime": "17-04-2024 18:00:00",
+    "bid_opening_datetime": "17-04-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Vahida Zakirhusen Attar",
+    "department": "Higher And Technical Education Department Maharashtra",
+    "organisation": "Coep Technological University Pune",
+    "office": "Pune"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Artemisia Medical product Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-04-2024 12:24:41",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "B R MARKETING Under PMA",
+      "offered_item": "-",
+      "participated_on": "15-04-2024 15:36:51",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "GLOBAL MEDICAL DEVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "17-04-2024 14:58:13",
+      "mse_mii_status": "Offline upload",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "PUKHYA PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-04-2024 11:34:37",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "quantity": "5",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Vishal Vikram Singh",
+    "department": "Home Department Uttar Pradesh",
+    "organisation": "Uttar Pradesh Police",
+    "office": "Ats"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S SAHYOG CONSULTANTS AND SERVICES Under PMA",
+      "offered_item": "Item Categories : Open Source Intelligence Gathering Tool software,Open Source Intelligence Gathering Tool Disk Recov",
+      "total_price": "` 4082701.00",
+      "rank": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PELORUS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Open Source Intelligence Gathering Tool software,Open Source Intelligence Gathering Tool Disk Recov",
+      "total_price": "` 4101701.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "LAB SYSTEMS (INDIA)PVT LTD Under PMA",
+      "offered_item": "Item Categories : Open Source Intelligence Gathering Tool software,Open Source Intelligence Gathering Tool Disk Recov",
+      "total_price": "` 4122301.00",
+      "rank": "L2"
+    }
+  ]
+}

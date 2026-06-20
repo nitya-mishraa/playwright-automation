@@ -1,0 +1,43 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4712312",
+    "bid_status": "Active",
+    "bid_start_datetime": "29-02-2024 16:26:14",
+    "bid_end_datetime": "05-06-2024 16:00:00",
+    "bid_opening_datetime": "05-06-2024 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Devesh Lamba",
+    "address": "Devesh Lamba,scale-dpiit@gov.in,room no. 21 Udyog Bhawan New Delhi,New Delhi,DELHI,110011,India",
+    "ministry": "Ministry Of Commerce And Industry",
+    "department": "Department For Promotion Of Industry & Internal Trade",
+    "organisation": "Dpiit Admin",
+    "office": "Room No 21 Udyog Bhawan New Delhi 110011"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KPMG Advisory Service Pvt Ltd Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - APPOINTMENT OF CONSULTING AGENCY FOR SCALE RAPiD UNIT Steering Committee",
+      "total_price": "` 111356543.00",
+      "rank": "H1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PRICEWATERHOUSECOOPERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - APPOINTMENT OF CONSULTING AGENCY FOR SCALE RAPiD UNIT Steering Committee",
+      "total_price": "` 120000000.00",
+      "rank": "H2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Deloitte Touche Tohmatsu India LLP Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - APPOINTMENT OF CONSULTING AGENCY FOR SCALE RAPiD UNIT Steering Committee",
+      "total_price": "` 129800000.00",
+      "rank": "H3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1682934",
+    "bid_status": "Active",
+    "quantity": "3",
+    "bid_start_datetime": "18-11-2021 13:49:36",
+    "bid_end_datetime": "10-01-2022 17:00:00",
+    "bid_opening_datetime": "10-01-2022 17:30:00",
+    "bid_validity_days": "65"
+  },
+  "buyer_details": {
+    "name": "Tapan Kumar Samantaray",
+    "address": "751013,India,NALCO BHAWAN, P-1, NAYAPALLI, BHUBANESWAR,buyer2.nacl.bbs@gembuyer.in,Tapan Kumar Samantaray,KHORDA,ODISHA",
+    "ministry": "Ministry Of Mines",
+    "department": "Materials",
+    "organisation": "National Aluminium Company Limited, Bhubaneswar",
+    "office": "National Aluminium Company Limited"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Microsoft Model  : Power BI Pro with 1 Year Subscription( Pack of Five License )",
+      "participated_on": "17-12-2021 15:18:33",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CLOUDSTRATS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 113400.00",
+      "rank": "L1"
+    }
+  ]
+}

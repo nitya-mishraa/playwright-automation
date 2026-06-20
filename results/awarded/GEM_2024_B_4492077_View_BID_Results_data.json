@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4492077",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "22-01-2024 14:53:08",
+    "bid_end_datetime": "03-02-2024 15:00:00",
+    "bid_opening_datetime": "03-02-2024 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Manoranjan",
+    "address": "Manoranjan,ssa@cbi.gov.in,SYSTEM DIVISION, B WING, 6TH FLOOR, CBI HEAD OFFICE, LODHI ROAD, CGO COMPLEX, NEW DELHI-110003,SOUTH EAST DELHI,DELHI,110003,India",
+    "ministry": "Ministry Of Personnel Public Grievances And Pensions",
+    "department": "Department Of Personnel And Training",
+    "organisation": "Central Bureau Of Investigation (cbi)",
+    "office": "Head Office"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : FT 1 Year Subscription (1 User, 3 Active Cases)",
+      "participated_on": "24-01-2024 15:19:59",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big Data and Analytics",
+      "total_price": "` 1400000.00",
+      "rank": "L1"
+    }
+  ]
+}

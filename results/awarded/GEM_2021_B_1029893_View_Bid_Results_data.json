@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1029893",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "11-02-2021 14:54:21",
+    "bid_end_datetime": "05-03-2021 13:00:00",
+    "bid_opening_datetime": "05-03-2021 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "467"
+  },
+  "buyer_details": {
+    "name": "Virendra Bajpai",
+    "address": "SOUTH EAST DELHI,011-24366012-,3RD FLOOR, \"G\" DTE FHQ, 10th BLOCK, CGO COMPLEX, LODHI ROAD,DELHI,comdttechint.g@bsf.nic.in,India,Virendra Bajpai,110003",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "Border Security Force (bsf)",
+    "office": "Force Head Quarter Bsf New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PROPHECY ARGUS Model  : PROPHECY/ARGUS/2.0",
+      "participated_on": "05-03-2021 11:26:58",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PELORUS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PROPHECY ARGUS Model  : PROPHECY/ARGUS/2.0",
+      "participated_on": "04-03-2021 18:57:32",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SKAN NETCOMMUNICATIONS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : PROPHECY ARGUS Model  : PROPHECY/ARGUS/2.0",
+      "participated_on": "05-03-2021 10:09:41",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "TNS NETWORKING SOLUTIONS PRIVATE LIMITED. Under PMA",
+      "offered_item": "Make  : SAMYAG Model  : SAMYAG/V2",
+      "participated_on": "05-03-2021 11:59:10",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

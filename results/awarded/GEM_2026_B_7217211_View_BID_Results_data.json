@@ -1,0 +1,85 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2026/B/7217211",
+    "bid_status": "Active",
+    "quantity": "38",
+    "bid_start_datetime": "10-02-2026 13:53:48",
+    "bid_end_datetime": "20-02-2026 14:00:00",
+    "bid_opening_datetime": "20-02-2026 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "40"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** NORTH SIKKIM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Army Trade Link Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-02-2026 18:17:37",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CENTURY ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "20-02-2026 00:47:31",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Durga InfraProjects Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-02-2026 18:26:18",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "GRASP CORPORATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-02-2026 10:54:42",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "GTAC SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "20-02-2026 12:05:18",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Army Trade Link (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Diffusion of Military Power Causes Consequences,The End of History The Last Man,How India Sees",
+      "total_price": "` 24980.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Durga InfraProjects (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Diffusion of Military Power Causes Consequences,The End of History The Last Man,How India Sees",
+      "total_price": "` 25760.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "CENTURY ENTERPRISES (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : The Diffusion of Military Power Causes Consequences,The End of History The Last Man,How India Sees",
+      "total_price": "` 26710.00",
+      "rank": "L3"
+    }
+  ]
+}

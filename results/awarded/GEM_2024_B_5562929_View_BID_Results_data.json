@@ -1,0 +1,123 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5562929",
+    "bid_status": "Active",
+    "quantity": "30000",
+    "bid_start_datetime": "30-10-2024 14:51:57",
+    "bid_end_datetime": "09-11-2024 15:00:00",
+    "bid_opening_datetime": "09-11-2024 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Sanjeev Kumar Saxena",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dm Office Shahjahanpur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BUNDELKHAND GRAMODHOG SANSTHAN Under PMA",
+      "offered_item": "Make  : UPHDMC Model  : UPHDMC BLANKET",
+      "participated_on": "08-11-2024 23:27:09",
+      "mse_mii_status": "KVIC",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S PRECIOUS COMPUTER Under PMA",
+      "offered_item": "Make  : NA Model  : KHADI BLANKET",
+      "participated_on": "07-11-2024 15:16:00",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PASCHIMANCHAL TEXTILE PRODUCERS CO-OPERATIVE FEDERATION LIMITED Under PMA",
+      "offered_item": "Make  : PTPCFL Model  : HANDLOOM BLANKET RELIEF POLY",
+      "participated_on": "09-11-2024 11:13:18",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SHIV ENTERPRISES Under PMA",
+      "offered_item": "Make  : NA Model  : KHADI BLANKET",
+      "participated_on": "09-11-2024 13:37:10",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SKAP SOLUTION PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NA Model  : SKAP20",
+      "participated_on": "02-11-2024 18:33:12",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "TITLE PRODUCTS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : TPPL Model  : TPPL",
+      "participated_on": "09-11-2024 12:35:49",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "U P INDUSTRIAL COOPERATIVE ASSOCIATION LIMITED Under PMA",
+      "offered_item": "Make  : UPICA Model  : UPICA RELIEF BLANKET",
+      "participated_on": "07-11-2024 15:10:44",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "U.P HANDICRAFTS DEVELOPMENT AND MARKETING CORPORATION LIMITED Under PMA",
+      "offered_item": "Make  : UPHDMC Model  : HANDLOOM BLANKET RELIEF",
+      "participated_on": "08-11-2024 14:31:03",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "U.P TEXTILES HANDLOOMS Under PMA",
+      "offered_item": "Make  : NA Model  : VPB",
+      "participated_on": "09-11-2024 13:54:59",
+      "mse_mii_status": "Vendor Assessed",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "UTTAR PRADESH STATE HANDLOOM CORPORATION LIMITED Under PMA",
+      "offered_item": "Make  : UP HANDLOOMS Model  : UP HANDLOOMS Handloom Blanket- Relief",
+      "participated_on": "07-11-2024 15:12:10",
+      "mse_mii_status": "Central / State PSUs",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "U.P HANDICRAFTS DEVELOPMENT AND MARKETING CORPORATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 13950000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "U P INDUSTRIAL COOPERATIVE ASSOCIATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 14250000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "UTTAR PRADESH STATE HANDLOOM CORPORATION LIMITED Under PMA",
+      "offered_item": "Item Categories : Handloom Blanket - Relief",
+      "total_price": "` 14400000.00",
+      "rank": "L3"
+    }
+  ]
+}

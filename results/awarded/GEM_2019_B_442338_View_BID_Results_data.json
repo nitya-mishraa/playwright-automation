@@ -1,0 +1,76 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/442338",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "28-11-2019 13:01:15",
+    "bid_end_datetime": "16-12-2019 13:00:00",
+    "experience_with_gov_required": "3",
+    "bid_validity_days": "70"
+  },
+  "buyer_details": {
+    "name": "Piyush Sharma N",
+    "address": "Piyush Sharma N,SOUTH DELHI,India,110047,NTRO, Near 25 Bn SSB, AYANAGAR,DELHI,peeyush24x7@nic.in",
+    "ministry": "Pmo",
+    "department": "Na",
+    "organisation": "Ntro",
+    "office": "Ntro, New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ADVANTAGE Under PMA",
+      "offered_item": "Make  : IBM Model  : OEM-IBM &  Part No.- D0EJNLL",
+      "participated_on": "30-11-2019 17:24:10",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : Prophecy Big Data Analytics v 3.2",
+      "participated_on": "16-12-2019 12:12:56",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PELORUS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "14-12-2019 18:34:30",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SKAN NETCOMMUNICATIONS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "16-12-2019 12:21:24",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SKAN NETCOMMUNICATIONS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 40735200.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "PELORUS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 41800000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 43600000.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/207253",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "19-03-2019 15:27:26",
+    "bid_end_datetime": "29-03-2019 17:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Venkatesan Dhattareyan",
+    "address": "Ministry of Tourism Government of India Transport Bhawan 1, Parliament Street New Delhi - 110 001.,NEW DELHI,India,adit-tour@nic.in,Venkatesan Dhattareyan,DELHI,110001",
+    "ministry": "Ministry Of Tourism",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "19-03-2019 19:10:10",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SPSS SOUTH ASIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : IBM Model  : MAKE:- IBM ; Model/Part Code:- D0EJNLL",
+      "participated_on": "29-03-2019 15:38:13",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SYSTOOLS SOFTWARE PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SysTools Model  : SYS275",
+      "participated_on": "29-03-2019 16:14:58",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SPSS SOUTH ASIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 164610.00",
+      "rank": "L1"
+    }
+  ]
+}

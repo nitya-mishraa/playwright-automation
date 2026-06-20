@@ -1,0 +1,45 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4052490",
+    "bid_status": "Active",
+    "quantity": "9",
+    "bid_start_datetime": "07-10-2023 21:25:10",
+    "bid_end_datetime": "06-11-2023 10:00:00",
+    "bid_opening_datetime": "06-11-2023 10:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "115"
+  },
+  "buyer_details": {
+    "name": "Daljit Singh",
+    "department": "Home Affairs And Justice Department Punjab",
+    "organisation": "Punjab Police",
+    "office": "Bureau Of Investigation"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ALLIANZ CYBER SECURITY INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Shadow Dragon Model  : Social Net Title : Social Net",
+      "participated_on": "26-10-2023 15:21:08",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "FORENSIC CARE TECHNOLOGIES Under PMA",
+      "offered_item": "Make  : X1 Discovery Model  : X1 Social Discovery Title : X1 Social Discovery",
+      "participated_on": "27-10-2023 13:53:39",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Krypton Systems Under PMA",
+      "offered_item": "Make  : X1 Social Discovery Model  : X1 Social Discovery Title : X1 Social Discovery",
+      "participated_on": "26-10-2023 13:09:19",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,29 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Pravin Barot",
+    "department": "Home Department Gujarat",
+    "organisation": "N/a",
+    "office": "Office Of The Director General Of Police, Intelligence, G.s., Gandhinagar"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AMIX CORPORATION Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence system (Including Dark Web)",
+      "total_price": "` 17400000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "KWICK SOFT SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence system (Including Dark Web)",
+      "total_price": "` 38900000.00 (Bid Price)",
+      "rank": "L2"
+    }
+  ]
+}

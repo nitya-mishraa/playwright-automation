@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/980529",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "18-01-2021 16:15:35",
+    "bid_end_datetime": "28-01-2021 17:00:00",
+    "bid_opening_datetime": "28-01-2021 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Anup Ghosh",
+    "address": "India,Anup Ghosh,CHANDIGARH,CHANDIGARH,160012,kumarghosh.anup.pmr@nic.in,POST GRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH, sector 12 CHANDIGARH",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "organisation": "Post Graduate Institute Of Medical Education And Research Chandigarh",
+    "office": "Pgimer"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NUMERICAL ANALYTICS INSTRUMENTS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : NVivo Model  : New NVivo",
+      "participated_on": "18-01-2021 18:01:14",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NUMERICAL ANALYTICS INSTRUMENTS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 69990.00",
+      "rank": "L1"
+    }
+  ]
+}

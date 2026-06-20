@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3724705",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "10-08-2023 10:55:02",
+    "bid_end_datetime": "21-08-2023 11:00:00",
+    "bid_opening_datetime": "21-08-2023 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Ravinder Kumar",
+    "address": "University Grants Commission, Bahadur Shah Zafar Marg, New Delhi,DELHI,India,ravinderkumar.ugc@nic.in,Ravinder Kumar,110002,CENTRAL DELHI,011-23604207-207",
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "organisation": "University Grants Commission (ugc)",
+    "office": "University Grants Commission"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "participated_on": "` 855000.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 855000.00",
+      "rank": "L1"
+    }
+  ]
+}

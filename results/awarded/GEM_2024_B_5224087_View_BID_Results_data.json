@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5224087",
+    "bid_status": "Active",
+    "quantity": "6",
+    "bid_start_datetime": "30-07-2024 11:02:17",
+    "bid_end_datetime": "20-08-2024 11:00:00",
+    "bid_opening_datetime": "20-08-2024 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Rana Rahul",
+    "address": "Rana Rahul,rana.rahul34@gov.in,Room No 549 G wing Krishi Bhawan,NEW DELHI,DELHI,110001,India,011-23383697-",
+    "ministry": "Ministry Of Rural Development",
+    "department": "Department Of Rural Development (drd)",
+    "organisation": "N/a",
+    "office": "O/o Chief Controller Of Accounts/new Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SILVER TOUCH TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Make  : TABLEAU SOFTWARE Model  : Tableau Creator",
+      "participated_on": "20-08-2024 10:44:35",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SILVER TOUCH TECHNOLOGIES LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 498000.00",
+      "rank": "L1"
+    }
+  ]
+}

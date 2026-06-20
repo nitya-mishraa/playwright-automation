@@ -1,0 +1,84 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5169129",
+    "bid_status": "Active",
+    "quantity": "20",
+    "bid_start_datetime": "16-07-2024 18:57:34",
+    "bid_end_datetime": "06-08-2024 19:00:00",
+    "bid_opening_datetime": "06-08-2024 19:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** North Goa",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "GTAC SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "06-08-2024 16:37:50",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "GUPTA BROTHERS BOOKS (W) Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-08-2024 18:29:25",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HI-TECH BOOK SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-08-2024 16:32:21",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "riddhi book enterprise Under PMA",
+      "offered_item": "-",
+      "participated_on": "05-08-2024 16:10:25",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "riddhi book enterprise (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : ACC Guide,SSB Interview The complete Guide,Sports Medicine and Health Management,The shades of Mora",
+      "total_price": "` 14480.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "HI-TECH BOOK SERVICES (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : ACC Guide,SSB Interview The complete Guide,Sports Medicine and Health Management,The shades of Mora",
+      "total_price": "` 14960.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "GTAC SOLUTIONS PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : ACC Guide,SSB Interview The complete Guide,Sports Medicine and Health Management,The shades of Mora",
+      "total_price": "` 16695.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "GUPTA BROTHERS BOOKS (W) (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : ACC Guide,SSB Interview The complete Guide,Sports Medicine and Health Management,The shades of Mora",
+      "total_price": "` 16801.20",
+      "rank": "L4"
+    }
+  ]
+}

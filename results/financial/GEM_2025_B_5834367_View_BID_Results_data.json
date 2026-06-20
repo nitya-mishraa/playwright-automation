@@ -1,0 +1,69 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/5834367",
+    "bid_status": "Active",
+    "quantity": "820",
+    "bid_start_datetime": "23-01-2025 13:28:43",
+    "bid_end_datetime": "13-02-2025 14:00:00",
+    "bid_opening_datetime": "13-02-2025 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "72"
+  },
+  "buyer_details": {
+    "name": "Veer Vikram Singh",
+    "department": "Higher Education Department Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Dr. Apj Abdul Kalam Technical University Lucknow Uttar Pradesh"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MACHINE TOOLS TRADERS (MADRAS) Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-02-2025 15:17:50",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MANAV ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-02-2025 18:12:39",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "OUTPUT TECH AND INFRA Under PMA",
+      "offered_item": "-",
+      "participated_on": "13-02-2025 13:53:19",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "RR ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-02-2025 15:59:14",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "TIF LABS PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "13-02-2025 13:19:37",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "VIDHAN ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "13-02-2025 13:23:57",
+      "mse_mii_status": "Offline upload",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

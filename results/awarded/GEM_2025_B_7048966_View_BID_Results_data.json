@@ -1,0 +1,83 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/7048966",
+    "bid_status": "Active",
+    "quantity": "6",
+    "bid_start_datetime": "01-01-2026 17:12:26",
+    "bid_end_datetime": "16-01-2026 18:00:00",
+    "bid_opening_datetime": "16-01-2026 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Prakash Kumar Verma",
+    "department": "Forest Department Madhya Pradesh",
+    "organisation": "N/a",
+    "office": "Mpfdit"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ANIL ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2026 12:34:04",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "JADIYA & SONS CREATION PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2026 16:17:47",
+      "mse_mii_status": "Start-up",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KRUSHI STORE ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2026 11:16:05",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MNP OFFICE ESSENTIAL PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2026 16:41:43",
+      "mse_mii_status": "Start-up",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "NABH CORPORATION PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-01-2026 16:00:12",
+      "mse_mii_status": "Start-up",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "NABH CORPORATION PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Solar Fence System,Solar Tentacles Elephant-Specific Deterrent Units,Spring-Loaded Auto-Restoring I",
+      "total_price": "` 6511900.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "MNP OFFICE ESSENTIAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Solar Fence System,Solar Tentacles Elephant-Specific Deterrent Units,Spring-Loaded Auto-Restoring I",
+      "total_price": "` 7532245.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "JADIYA & SONS CREATION PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Solar Fence System,Solar Tentacles Elephant-Specific Deterrent Units,Spring-Loaded Auto-Restoring I",
+      "total_price": "` 11563900.00",
+      "rank": "L3"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4488475",
+    "bid_status": "Active",
+    "bid_start_datetime": "16-01-2024 10:39:15",
+    "bid_end_datetime": "20-02-2024 21:00:00",
+    "bid_opening_datetime": "20-02-2024 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** DEHRADUN",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Research & Development",
+    "organisation": "Office Of Dg (ecs)",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AEROVANIA PRIVATE LIMITED Under PMA",
+      "offered_item": "06-02-2024 01:12:50",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "BIG BANG BOOM SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "16-02-2024 18:06:06",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "EDGEFORCE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "06-02-2024 10:53:13",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "EVIGWAY TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "14-02-2024 09:54:36",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "GAZELLE INFORMATION TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "06-02-2024 09:14:29",
+      "participated_on": "Vendor Assessed",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "HC ROBOTICS PRIVATE LIMITED Under PMA",
+      "offered_item": "05-02-2024 15:40:00",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "NEEMUS SOFTWARE SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "06-02-2024 09:21:30",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "OXYGEN 2 INNOVATION PRIVATE LIMITED Under PMA",
+      "offered_item": "06-02-2024 10:27:03",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "SOULPAGE IT SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "20-02-2024 10:52:31",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

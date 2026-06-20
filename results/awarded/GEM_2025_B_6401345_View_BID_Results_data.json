@@ -1,0 +1,62 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6401345",
+    "bid_status": "Active",
+    "bid_start_datetime": "03-07-2025 11:52:56",
+    "bid_end_datetime": "14-07-2025 12:00:00",
+    "bid_opening_datetime": "14-07-2025 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Pramod Kumar Mishra",
+    "department": "Higher Education Department Uttar Pradesh",
+    "organisation": "Chhatrapati Shahu Ji Maharaj University Kanpur",
+    "office": "Kanpur"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KALAM S P S RESEARCH CENTRE PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Vocational Training Services  - Version 2 - hybrid; 2; Buyers Location; Artificial Intelligence",
+      "total_price": "` 20000000.00",
+      "rank": "H1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SHRI MAHAKAL ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Vocational Training Services  - Version 2 - hybrid; 2; Buyers Location; Artificial Intelligence",
+      "total_price": "` 20000000.00",
+      "rank": "H2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SEVENTH SENSE PEOPLE DEVELOPMENT SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Vocational Training Services  - Version 2 - hybrid; 2; Buyers Location; Artificial Intelligence",
+      "total_price": "` 20000000.00",
+      "rank": "H3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "PRA ENERGY SOLUTION ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Vocational Training Services  - Version 2 - hybrid; 2; Buyers Location; Artificial Intelligence",
+      "total_price": "` 20000000.00",
+      "rank": "H4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SKILL-UP TECH INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Vocational Training Services  - Version 2 - hybrid; 2; Buyers Location; Artificial Intelligence",
+      "total_price": "` 67900000.00",
+      "rank": "H5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "TALENTSPRINT PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Vocational Training Services  - Version 2 - hybrid; 2; Buyers Location; Artificial Intelligence",
+      "total_price": "` 280000000.00",
+      "rank": "H6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4292395",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "11-12-2023 14:59:07",
+    "bid_end_datetime": "25-12-2023 21:00:00",
+    "bid_opening_datetime": "25-12-2023 21:30:00",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** PUNE",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SECURITY AND SCIENTIFIC TECHNICAL RESEARCH ASSOCIATION Under PMA",
+      "offered_item": "Make  : NOSTRA--IDEA FOUNDATION Model  : SASTRA INTELLIGENCE FUSION SYSTEM",
+      "participated_on": "25-12-2023 19:04:50",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SECURITY AND SCIENTIFIC TECHNICAL RESEARCH ASSOCIATION (MII) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 99120000.00",
+      "rank": "L1"
+    }
+  ]
+}

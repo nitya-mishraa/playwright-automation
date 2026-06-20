@@ -1,0 +1,63 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6957715",
+    "bid_status": "Active",
+    "quantity": "23",
+    "bid_start_datetime": "02-12-2025 18:21:07",
+    "bid_end_datetime": "12-12-2025 19:00:00",
+    "bid_opening_datetime": "12-12-2025 19:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** DARJEELING",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Army",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BALAJI SUPPLIERS SILIGURI Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-12-2025 10:13:17",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "FACT FINDER INVESTIGATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-12-2025 00:51:31",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "GALAXY STAR ELECTRONICS Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-12-2025 20:26:35",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "MNK INFOWAY PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-12-2025 17:40:38",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SHREE SHYAM ASSOCIATE Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-12-2025 10:57:31",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

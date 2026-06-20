@@ -1,0 +1,21 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3598884",
+    "bid_status": "Active",
+    "bid_start_datetime": "23-06-2023 11:23:07",
+    "bid_end_datetime": "08-07-2023 12:00:00",
+    "bid_opening_datetime": "08-07-2023 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** ERNAKULAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Navy",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

@@ -1,0 +1,43 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5346382",
+    "bid_status": "Active",
+    "bid_start_datetime": "04-09-2024 12:54:36",
+    "bid_end_datetime": "25-09-2024 18:00:00",
+    "bid_opening_datetime": "25-09-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "97"
+  },
+  "buyer_details": {
+    "name": "Kundan Singh",
+    "address": "Kundan Singh,examstore@aiims.gov.in,AIIMS, New Delhi, Ansari Nagar,SOUTH DELHI,DELHI,110029,India",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "organisation": "All India Institute Of Medical Sciences (aiims)",
+    "office": "Aiims, New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INNOVATIVIEW INDIA LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - ADigital Fingerprint verification using Aadhaar data and Facial recogniti",
+      "total_price": "` 537.00",
+      "rank": "H1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EDUQUITY CAREER TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - ADigital Fingerprint verification using Aadhaar data and Facial recogniti",
+      "total_price": "` 639.00",
+      "rank": "H2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "VENSYSCO INFRA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - ADigital Fingerprint verification using Aadhaar data and Facial recogniti",
+      "total_price": "` 786.00",
+      "rank": "H3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3572387",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "15-06-2023 11:54:49",
+    "bid_end_datetime": "26-06-2023 12:00:00",
+    "bid_opening_datetime": "26-06-2023 12:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Prem Singh Meena",
+    "address": "New Delhi,addlzoi11-ed@gov.in,India,110011,DELHI,Prem Singh Meena,1st & 2nd Floor, Pravartan Bhawan, C-Block, Dr. A.P.J. Abdul Kalam Road, New Delhi, 110011.",
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Revenue",
+    "organisation": "Directorate Of Enforcement",
+    "office": "Delhi Zonal Office-1"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : FundTrail Annual Subscription 1 User 3 Active Case",
+      "participated_on": "20-06-2023 09:55:05",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big Data and Analytics",
+      "total_price": "` 767000.00",
+      "rank": "L1"
+    }
+  ]
+}

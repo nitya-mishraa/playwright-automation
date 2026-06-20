@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "quantity": "3565",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Ashish Saraf",
+    "address": "buycon24.aiimsa.up@gembuyer.in,0551-2205501-,GORAKHPUR,ASHISH SARAF,273008,AIIMS, KUNRAGHAT, GORAKHPUR,UTTAR PRADESH,India",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "organisation": "All India Institute Of Medical Sciences (aiims)",
+    "office": "Gorakhpur"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "I-View Technologies (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Video Conferencing Camera,Electronic Lectern,computer kiosk,Artifical Intelligence (AI) based Video",
+      "total_price": "` 20942456.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ACE BUSINESS SOLUTION (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Video Conferencing Camera,Electronic Lectern,computer kiosk,Artifical Intelligence (AI) based Video",
+      "total_price": "` 20963423.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HEAMONS SYSTEMS (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Video Conferencing Camera,Electronic Lectern,computer kiosk,Artifical Intelligence (AI) based Video",
+      "total_price": "` 20984419.00",
+      "rank": "L3"
+    }
+  ]
+}

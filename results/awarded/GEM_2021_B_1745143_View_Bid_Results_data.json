@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1745143",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "13-12-2021 16:36:50",
+    "bid_end_datetime": "03-01-2022 18:00:00",
+    "bid_opening_datetime": "03-01-2022 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "117"
+  },
+  "buyer_details": {
+    "name": "Sunitha R",
+    "address": "560034,BANGALORE,India,Sunitha R,sunitha.r.kiocl@nic.in,080-25531461-466,KARNATAKA,KIOCL LIMITED, II Block, Koramangala, Sarjapura Road,Bangalore",
+    "ministry": "Ministry Of Steel",
+    "department": "Kiocl Limited",
+    "organisation": "Kiocl Limited",
+    "office": "Kiocl Limited/ Bangalore"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "EXULTSOFT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Herta Model  : Bio Surveillance Title : Face recognition System",
+      "participated_on": "01-01-2022 14:01:03",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "HC ROBOTICS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : HC Robotics Private Limited Model  : AI-FRS Title : ARTIFICIAL INTELLIGENCE BASED FACE RECOGNITION ATTENDANCE SYSTEM",
+      "participated_on": "03-01-2022 15:43:29",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Veer Telecom Under PMA",
+      "offered_item": "Make  : Veer Telecom Model  : VT-01 Title : CAPTURE",
+      "participated_on": "03-01-2022 11:31:23",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,90 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4159820",
+    "bid_status": "Active",
+    "quantity": "22",
+    "bid_start_datetime": "01-11-2023 19:02:03",
+    "bid_end_datetime": "22-11-2023 18:00:00",
+    "bid_opening_datetime": "22-11-2023 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Mahadev Tatyaram Upare",
+    "department": "Rural Development And Panchayat Raj Department Maharashtra",
+    "organisation": "Latur Zilla Parishad",
+    "office": "Education Officer Primary Zp Latur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AGILO RESEARCH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : STEMpedia Model  : solar lab Title : Solar Robotic Lab",
+      "participated_on": "22-11-2023 12:57:03",
+      "mse_mii_status": "Start-up",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AVM INFOTECH (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : AVM121 Model  : AVM AI121 Title : Solar Operated AI Lab",
+      "participated_on": "21-11-2023 15:25:20",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "DIGITECH CONTROL AND SYSTEMS Under PMA",
+      "offered_item": "Make  : AI DigiLT1 Model  : AI DigiLT1 Title : Solar Operated AI Lab",
+      "participated_on": "21-11-2023 17:36:45",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "LIFE SPEAKS Under PMA",
+      "offered_item": "Make  : LS AILAB Model  : LS AILAB Title : Solar Operated Artificial Intelligence Lab",
+      "participated_on": "21-11-2023 16:27:19",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "ROBOSTORMS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Robo SOAIL Model  : Robo SOAIL Title : Solar Operated Artificial Intelligence Lab",
+      "participated_on": "21-11-2023 17:08:09",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "LIFE SPEAKS Under PMA",
+      "offered_item": "Item Categories : SOLAR OPERATED ARTIFICIAL INTELLIGENCE LAB",
+      "total_price": "` 9794532.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ROBOSTORMS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : SOLAR OPERATED ARTIFICIAL INTELLIGENCE LAB",
+      "total_price": "` 9849400.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "AVM INFOTECH (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : SOLAR OPERATED ARTIFICIAL INTELLIGENCE LAB",
+      "total_price": "` 9971060.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "DIGITECH CONTROL AND SYSTEMS Under PMA",
+      "offered_item": "Item Categories : SOLAR OPERATED ARTIFICIAL INTELLIGENCE LAB",
+      "total_price": "` 10110100.00",
+      "rank": "L4"
+    }
+  ]
+}

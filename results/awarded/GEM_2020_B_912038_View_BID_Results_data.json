@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/912038",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "11-12-2020 10:02:31",
+    "bid_end_datetime": "31-12-2020 15:00:00",
+    "bid_opening_datetime": "31-12-2020 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "151"
+  },
+  "buyer_details": {
+    "name": "Anil Kumar Uniyal",
+    "address": "buyer2.npcil.rj@gembuyer.in,Anil Kumar Uniyal,RAJASTHAN,323303,Contracts & Material Management, Rawatbhata Rajasthan Site, Anushakti Via-Kota (Rajasthan) Phone No. 01475-242002, 242048 Which is about 60 Kms. away from Kota.,CHITTORGARH,094-13356883-,India",
+    "ministry": "Pmo",
+    "department": "Department Of Atomic Energy",
+    "organisation": "Nuclear Power Corporation Of India Limited",
+    "office": "Rajasthan"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VISHTAR ADVANCED SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Club Infotech Model  : Adobe Coldfusion Builder 2016 Edition",
+      "participated_on": "28-12-2020 12:15:36",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VISHTAR ADVANCED SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Software Intelligence System for Application Development and Maintenance",
+      "total_price": "` 90000.00",
+      "rank": "L1"
+    }
+  ]
+}

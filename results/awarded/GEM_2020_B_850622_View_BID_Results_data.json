@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/850622",
+    "bid_status": "Active",
+    "quantity": "4",
+    "bid_start_datetime": "02-11-2020 14:50:52",
+    "bid_end_datetime": "18-11-2020 15:00:00",
+    "bid_opening_datetime": "18-11-2020 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Manu Garg",
+    "address": "110066,1st Floor, NBCC Tower 15, Bhikaji Cama Place, New Delhi,DELHI,India,NEW DELHI,Manu Garg,gm-mudhmu@nic.in,011-22900579-",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Explorer (5 User Pack)",
+      "participated_on": "17-11-2020 16:39:47",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Software Re-Seller Sole Propreitorship Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Explorer (5 User Pack)",
+      "participated_on": "03-11-2020 03:01:34",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 696000.00",
+      "rank": "L1"
+    }
+  ]
+}

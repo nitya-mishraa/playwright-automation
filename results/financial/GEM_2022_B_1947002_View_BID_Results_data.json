@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/1947002",
+    "bid_status": "Active",
+    "quantity": "13",
+    "bid_start_datetime": "14-02-2022 17:59:03",
+    "bid_end_datetime": "08-03-2022 14:00:00",
+    "bid_opening_datetime": "08-03-2022 14:30:00",
+    "bid_validity_days": "75"
+  },
+  "buyer_details": {
+    "name": "Umakanta Jena",
+    "address": "DELHI,110066,Umakanta Jena,ukjena@nic.in,NEW DELHI,India,1st Floor, NBCC Tower, Bhikaji Cama Place, New Delhi-66",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "24-02-2022 11:09:39",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "UNEECOPS BUSINESS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "04-03-2022 17:50:58",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,67 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3509094",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "30-05-2023 19:58:48",
+    "bid_end_datetime": "22-06-2023 21:00:00",
+    "bid_opening_datetime": "22-06-2023 21:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Apurva Abhijit Salvi",
+    "department": "Home Department Maharashtra",
+    "organisation": "Anti Terrorism Squad Mumbai Maharashtra",
+    "office": "Mumbai Maharashtra"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ARIHANT TRADING CORPORATION Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Fund Trail One User One Active Case",
+      "participated_on": "15-06-2023 14:45:53",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "LIFE LINE SECURITY AND SYSTEM Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Fund Trail One User One Active Case",
+      "participated_on": "21-06-2023 11:19:22",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M I M Technicians Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Fund Trail One User One Active Case",
+      "participated_on": "17-06-2023 14:17:07",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "LIFE LINE SECURITY AND SYSTEM Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 350000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ARIHANT TRADING CORPORATION Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 379000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M I M Technicians Under PMA",
+      "offered_item": "Item Categories : Artificial Intelligence, Big data & Analytics",
+      "total_price": "` 389000.00",
+      "rank": "L3"
+    }
+  ]
+}

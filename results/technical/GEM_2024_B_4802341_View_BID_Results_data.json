@@ -1,0 +1,20 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4802341",
+    "bid_status": "Active",
+    "quantity": "11",
+    "bid_start_datetime": "19-03-2024 18:11:55",
+    "bid_end_datetime": "09-04-2024 19:00:00",
+    "bid_opening_datetime": "09-04-2024 19:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Abhay Verma",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

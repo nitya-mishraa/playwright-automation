@@ -1,0 +1,19 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4252047",
+    "bid_status": "Active",
+    "bid_start_datetime": "28-11-2023 16:43:57",
+    "bid_end_datetime": "01-02-2024 11:00:00",
+    "bid_opening_datetime": "01-02-2024 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Prasanta Kumar Nayak",
+    "department": "Home Department Odisha",
+    "organisation": "Odisha Police",
+    "office": "State Police Headquarters"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6547698",
+    "bid_status": "Active",
+    "bid_start_datetime": "07-08-2025 17:10:14",
+    "bid_end_datetime": "21-08-2025 18:00:00",
+    "bid_opening_datetime": "21-08-2025 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Jagvir Ramjilal Chouhan",
+    "address": "Jagvir Ramjilal Chouhan,buycon719.bpcl.mh@gembuyer.in,BPCL - CHAIRMANS OFFICE, BHARAT BHAVAN, 4 & 6 CURRIMBHOY ROAD, BALLARD ESTATE, MUMBAI,Mumbai,MAHARASHTRA,400001,India",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Bharat Petroleum Corporation Ltd",
+    "organisation": "Bharat Petroleum Corporation Ltd",
+    "office": "Lpg Western Region"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VOICEOWL BOT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; Chatbots/C",
+      "participated_on": "` 5542908.00",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VOICEOWL BOT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Artificial intelligence, Machine Learning, and Deep Learning as a Service - Development; Chatbots/C",
+      "total_price": "` 5542908.00",
+      "rank": "L1"
+    }
+  ]
+}

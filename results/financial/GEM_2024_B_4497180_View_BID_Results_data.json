@@ -1,0 +1,92 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4497180",
+    "bid_status": "Active",
+    "quantity": "14",
+    "bid_start_datetime": "17-01-2024 16:15:15",
+    "bid_end_datetime": "27-01-2024 17:00:00",
+    "bid_opening_datetime": "27-01-2024 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Abhay Verma",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "FOUNTAIN STATIONERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 16:53:32",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "JALARAM TREDARS Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 15:16:01",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "M S CORPORATION Under PMA",
+      "offered_item": "-",
+      "participated_on": "19-01-2024 17:02:52",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "M/S SASTA UPBHOKTA BHANDAR Under PMA",
+      "offered_item": "-",
+      "participated_on": "26-01-2024 19:42:20",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "M/S VAISHNAVI ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "27-01-2024 09:56:39",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "MAHAKALI COMPUTER & STATIONERS Under PMA",
+      "offered_item": "-",
+      "participated_on": "20-01-2024 14:38:08",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "ROYAL PRINT TECHNOLOGY Under PMA",
+      "offered_item": "-",
+      "participated_on": "22-01-2024 12:48:00",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "M/S SASTA UPBHOKTA BHANDAR ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Toner Cartridge HP LaserJet 12A,Toner Cartridge HP LaserJet 45A,Toner Cartridge HP LaserJet 53A,Ton",
+      "total_price": "` 14498.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S VAISHNAVI ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Toner Cartridge HP LaserJet 12A,Toner Cartridge HP LaserJet 45A,Toner Cartridge HP LaserJet 53A,Ton",
+      "total_price": "` 32993.00",
+      "rank": "L2"
+    }
+  ]
+}

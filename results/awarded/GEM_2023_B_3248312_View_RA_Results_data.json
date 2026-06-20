@@ -1,0 +1,36 @@
+{
+  "bid_details": {
+    "quantity": "1475",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Indra Mani Kant Baiswar",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AGARWAL HANDLOOM INDUSTRIES Under PMA",
+      "offered_item": "Item Categories : Life Jacket,Life Buoy,Rope,Torch,First Aid Kit,Patwar,Bamboo Long",
+      "total_price": "` 2232429.15",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Tushar enterprises Under PMA",
+      "offered_item": "Item Categories : Life Jacket,Life Buoy,Rope,Torch,First Aid Kit,Patwar,Bamboo Long",
+      "total_price": "` 2235025.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "GUPTA SUPPLYING CORPORATION Under PMA",
+      "offered_item": "Item Categories : Life Jacket,Life Buoy,Rope,Torch,First Aid Kit,Patwar,Bamboo Long",
+      "total_price": "` 2595110.00 (Bid Price)",
+      "rank": "L3"
+    }
+  ]
+}

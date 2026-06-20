@@ -1,0 +1,68 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4575333",
+    "bid_status": "Active",
+    "quantity": "57",
+    "bid_start_datetime": "03-02-2024 12:14:32",
+    "bid_end_datetime": "13-02-2024 13:00:00",
+    "bid_opening_datetime": "13-02-2024 13:30:00",
+    "bid_validity_days": "15"
+  },
+  "buyer_details": {
+    "name": "Pushkar Singh",
+    "address": "Pushkar Singh,pushkarsingh.dgsnd@gov.in,MSMEDI,Kham Bangla Campus, Kaladungi Road Haldwani,NAINITAL,UTTARAKHAND,263139,India",
+    "ministry": "Ministry Of Micro Small And Medium Enterprises",
+    "department": "Ministry Of Micro Small And Medium Enterprises",
+    "organisation": "Development Commissioner (micro Small & Medium Enterprises)",
+    "office": "All Over India"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "RK PRAKASHAN Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-02-2024 16:58:47",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "S R GROUP Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-02-2024 11:15:01",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAROJ ENTERPRISES Under PMA",
+      "offered_item": "-",
+      "participated_on": "12-02-2024 15:39:16",
+      "mse_mii_status": "MII MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "RK PRAKASHAN (MSE,MII) ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : E-Commerce Digital Future of India -Sudhir Dawara,Enterprise Resource Planning -Sudhir Dawra,Entrep",
+      "total_price": "` 40100.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "S R GROUP (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : E-Commerce Digital Future of India -Sudhir Dawara,Enterprise Resource Planning -Sudhir Dawra,Entrep",
+      "total_price": "` 42343.30",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SAROJ ENTERPRISES (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : E-Commerce Digital Future of India -Sudhir Dawara,Enterprise Resource Planning -Sudhir Dawra,Entrep",
+      "total_price": "` 44110.00",
+      "rank": "L3"
+    }
+  ]
+}

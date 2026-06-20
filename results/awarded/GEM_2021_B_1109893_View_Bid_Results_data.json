@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1109893",
+    "bid_status": "Active",
+    "quantity": "585",
+    "bid_start_datetime": "10-03-2021 20:33:30",
+    "bid_end_datetime": "07-04-2021 17:00:00",
+    "bid_opening_datetime": "07-04-2021 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "80"
+  },
+  "buyer_details": {
+    "name": "Mahesham Kumaram Dwivedi",
+    "address": "India,buycon91.md.mh@gembuyer.in,Mahesham Kumaram Dwivedi,INDIANOIL BHAVAN, G-9,ALI YAVAR JUNG MARG, BANDRA(EAST),MUMBAI-400051,022-26447645-,MUMBAI,MAHARASHTRA,400051",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Indian Oil Corporation Limited",
+    "organisation": "Marketing Division",
+    "office": "Marketing Division Head Office"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DIGITAL TRACK SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Informatica Model  : Application Integration",
+      "participated_on": "03-04-2021 10:41:56",
+      "mse_mii_status": "MII MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "HTC GLOBAL SERVICES (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Informatica Model  : Application Integration",
+      "participated_on": "31-03-2021 09:56:37",
+      "mse_mii_status": "MII",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "PATH INFOTECH LIMITED Under PMA",
+      "offered_item": "Make  : Informatica Model  : Application Integration",
+      "participated_on": "01-04-2021 11:46:31",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SONATA INFORMATION TECHNOLOGY LIMITED Under PMA",
+      "offered_item": "Make  : Informatica Model  : applicationintegration",
+      "participated_on": "02-04-2021 17:01:44",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,60 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3199706",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "28-02-2023 14:08:09",
+    "bid_end_datetime": "10-03-2023 15:00:00",
+    "bid_opening_datetime": "10-03-2023 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "K Rajkumar",
+    "department": "Animal Husbandry And Animal Welfare Department Puducherry",
+    "organisation": "Rajiv Gandhi College Of Veterinary & Animal Sciences (ragacovas) Kurumbapet",
+    "office": "Kurumbapet"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "dataentry Under PMA",
+      "offered_item": "-",
+      "participated_on": "08-03-2023 10:14:08",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "NEOTEL SYSTEMS & SERVICES Under PMA",
+      "offered_item": "-",
+      "participated_on": "10-03-2023 11:28:40",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SPSS SOUTH ASIA PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "09-03-2023 19:28:42",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SPSS SOUTH ASIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis",
+      "total_price": "` 277560.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Neotel Systems & Services Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis",
+      "total_price": "` 296386.00",
+      "rank": "L2"
+    }
+  ]
+}

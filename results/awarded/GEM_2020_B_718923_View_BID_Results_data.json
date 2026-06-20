@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/718923",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "21-07-2020 13:00:29",
+    "bid_end_datetime": "31-07-2020 13:00:00",
+    "bid_opening_datetime": "31-07-2020 13:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "61"
+  },
+  "buyer_details": {
+    "name": "Shyam Babu",
+    "address": "kr.shyam@gov.in,Ministry of Tourism Government of India Transport Bhawan 1, Parliament Street New Delhi - 110 001.,NEW DELHI,DELHI,110001,011-23311237-,India,Shyam Babu",
+    "ministry": "Ministry Of Tourism",
+    "department": "Na",
+    "organisation": "N/a",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau Creator",
+      "participated_on": "23-07-2020 18:19:04",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 129880.00",
+      "rank": "L1"
+    }
+  ]
+}

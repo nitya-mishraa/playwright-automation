@@ -1,0 +1,118 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6743194",
+    "bid_status": "Active",
+    "bid_start_datetime": "22-10-2025 11:14:48",
+    "bid_end_datetime": "12-11-2025 15:00:00",
+    "bid_opening_datetime": "12-11-2025 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Prabin Kumar Jha",
+    "address": "Prabin Kumar Jha,prabinjha.ofb@gov.in,4 Aaadhaar, Bangla Sahib Road, Gole Market, New Delhi,NEW DELHI,DELHI,110001,India,011-23478410-410",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Department Of Electronics And Information Technology",
+    "organisation": "Unique Identification Authority Of India (uidai)",
+    "office": "Hq, New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BITSTREAM SOLUTIONS Under PMA",
+      "offered_item": "11-11-2025 19:09:37",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "FELIDAE INDIA SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "11-11-2025 23:57:59",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HITACHI SYSTEMS INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "12-11-2025 13:09:05",
+      "participated_on": "Offline upload",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "12-11-2025 12:35:34",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "MAXIMALERT INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "12-11-2025 13:17:07",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "MIKROZ INFOSECURITY PRIVATE LIMITED Under PMA",
+      "offered_item": "12-11-2025 11:47:31",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "POWER FORENSICS & DIGITAL INTELLIGENCE Under PMA",
+      "offered_item": "12-11-2025 13:21:48",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "SAPTANG LABS PRIVATE LIMITED Under PMA",
+      "offered_item": "12-11-2025 12:12:42",
+      "participated_on": "Start-up",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "SISL INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "12-11-2025 13:06:23",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "TEVEL TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "12-11-2025 14:26:58",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "TNS NETWORKING SOLUTIONS PRIVATE LIMITED. Under PMA",
+      "offered_item": "11-11-2025 17:26:35",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "X9 CYBER SECURITY & IT SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "11-11-2025 23:06:17",
+      "participated_on": "Registered with designated Agency / Authority",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2500422",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "08-09-2022 16:12:58",
+    "bid_end_datetime": "21-12-2022 14:00:00",
+    "bid_opening_datetime": "21-12-2022 14:30:00",
+    "bid_validity_days": "150"
+  },
+  "buyer_details": {
+    "name": "Bontha Hemanth Siva Kumar",
+    "address": "-6309777766-,Bontha Hemanth Siva Kumar,763008,buyer11.mm.or@gembuyer.in,India,Alumina Refinery Nalco, Damanjodi,KORAPUT,ODISHA",
+    "ministry": "Ministry Of Mines",
+    "department": "Materials",
+    "organisation": "National Aluminium Company Limited, Bhubaneswar",
+    "office": "Alumina Refinery Nalco Damanjodi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BHARAT HEAVY ELECTRICALS LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "11-10-2022 15:53:21",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CEREBULB (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "21-12-2022 08:49:20",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "HONEYWELL AUTOMATION INDIA LIMITED Under PMA",
+      "offered_item": "-",
+      "participated_on": "28-11-2022 13:10:09",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

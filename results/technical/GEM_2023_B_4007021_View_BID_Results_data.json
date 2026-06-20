@@ -1,0 +1,21 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4007021",
+    "bid_status": "Active",
+    "bid_start_datetime": "27-09-2023 10:01:41",
+    "bid_end_datetime": "05-01-2024 18:00:00",
+    "bid_opening_datetime": "05-01-2024 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "170"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** JABALPUR",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence Production",
+    "organisation": "Munitions India Limited",
+    "office": "***********"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": []
+}

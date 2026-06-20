@@ -1,0 +1,99 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2021/B/1360457",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "15-07-2021 16:44:38",
+    "bid_end_datetime": "12-08-2021 16:00:00",
+    "bid_opening_datetime": "12-08-2021 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Aritro Sengupta",
+    "address": "Aritro Sengupta,India,6 CGO Complex Lodhi Road,DELHI,aritro.sengupta@meity.gov.in,SOUTH EAST DELHI,110003,011-24368572-305",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "Indian Computer Emergency Response Team (cert-in)",
+    "office": "6 Cgo Complex Lodhi Road New Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ENINJA TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Cellebrite Model  : Cellebrite_ Premium ES Title : Cellebrite_ Premium ES",
+      "participated_on": "11-08-2021 16:03:40",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "KRISHNA COMPUTER Under PMA",
+      "offered_item": "Make  : Cellebrite Model  : Cellebrite Premium ES Title : Cellebrite Premium ES",
+      "participated_on": "11-08-2021 21:39:39",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "Manomay IT Consulting Under PMA",
+      "offered_item": "Make  : Cellebrite Model  : Cellebrite_ Premium ES Title : Cellebrite_ Premium ES",
+      "participated_on": "12-08-2021 08:52:06",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "RAH INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Cellebrite Model  : Cellebrite_Premium ES Title : Cellebrite_ Premium ES",
+      "participated_on": "11-08-2021 14:10:12",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SEAMLESS INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : CELLEBRITE Model  : Cellebrite_Premium ES Title : Cellebrite_ Premium ES",
+      "participated_on": "11-08-2021 15:09:07",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "RAH INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution",
+      "total_price": "` 95000000.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "SEAMLESS INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution",
+      "total_price": "` 96200000.00",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "KRISHNA COMPUTER Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution",
+      "total_price": "` 97500000.00",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ENINJA TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution",
+      "total_price": "` 98000000.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "Manomay IT Consulting Under PMA",
+      "offered_item": "Item Categories : Digital Intelligence Solution",
+      "total_price": "` 98700000.00",
+      "rank": "L5"
+    }
+  ]
+}

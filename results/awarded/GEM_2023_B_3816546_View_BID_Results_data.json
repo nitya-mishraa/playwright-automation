@@ -1,0 +1,82 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/3816546",
+    "bid_status": "Active",
+    "quantity": "112",
+    "bid_start_datetime": "11-08-2023 11:39:50",
+    "bid_end_datetime": "01-09-2023 17:00:00",
+    "bid_opening_datetime": "01-09-2023 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Savita Sidgonda Birge",
+    "department": "Rural Development And Panchayat Raj Department Maharashtra",
+    "organisation": "Nanded Zilla Parishad",
+    "office": "Finance Department"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "AGILO RESEARCH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : STEMpedia Model  : STEMpedia Title : IOT HOUSE",
+      "participated_on": "01-09-2023 11:53:56",
+      "mse_mii_status": "Start-up",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "AVM INFOTECH (INDIA) PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : AVM INFOTECH INDIA PVT LTD Model  : EUG0831 Title : Solar Operated Artificial Intelligence Lab",
+      "participated_on": "31-08-2023 17:59:43",
+      "mse_mii_status": "MSE",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "LIFE SPEAKS Under PMA",
+      "offered_item": "Make  : LYF SPKS Model  : LS ND1 Title : Solar Operated Artificial Intelligence Lab",
+      "participated_on": "01-09-2023 11:00:46",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII N/A"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ROBOSTORMS TECHNOLOGY PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : RTPL 1N Model  : Robo 1N Title : Solar Operated Artificial intelligence Lab",
+      "participated_on": "31-08-2023 17:56:52",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "LIFE SPEAKS (MII) Under PMA",
+      "offered_item": "Item Categories : Solar Operated Artificial Intelligence Lab",
+      "total_price": "` 48542312.95",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "ROBOSTORMS TECHNOLOGY PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Solar Operated Artificial Intelligence Lab",
+      "total_price": "` 48754716.20",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "AGILO RESEARCH PRIVATE LIMITED (MSE,MII) Under PMA",
+      "offered_item": "Item Categories : Solar Operated Artificial Intelligence Lab",
+      "total_price": "` 48896318.37",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "AVM INFOTECH (INDIA) PRIVATE LIMITED (MSE,MII) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Solar Operated Artificial Intelligence Lab",
+      "total_price": "` 49506296.95",
+      "rank": "L4"
+    }
+  ]
+}

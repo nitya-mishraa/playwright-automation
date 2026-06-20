@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/212562",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "02-04-2019 17:36:17",
+    "bid_end_datetime": "09-04-2019 20:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "45"
+  },
+  "buyer_details": {
+    "name": "Sanjay Mehandru N",
+    "address": "110066,NEW DELHI,DELHI,India,1st Floor, NBCC Tower 15, Bhikaji Cama Place, New Delhi,sanjay.mahendru@nic.in,Sanjay Mehandru N",
+    "ministry": "Ministry Of Electronics And Information Technology",
+    "department": "Na",
+    "organisation": "National Informatics Centre Services Incorporated (nicsi)",
+    "office": "Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji Cama Place, New Delhi-110066"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CRG SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "05-04-2019 18:32:44",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "08-04-2019 15:06:35",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software",
+      "total_price": "` 174994.00",
+      "rank": "L1"
+    }
+  ]
+}

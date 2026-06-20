@@ -1,0 +1,55 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6033409",
+    "bid_status": "Active",
+    "quantity": "5",
+    "bid_start_datetime": "10-03-2025 16:50:10",
+    "bid_end_datetime": "19-04-2025 09:00:00",
+    "bid_opening_datetime": "19-04-2025 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Bhuvnesh",
+    "address": "Bhuvnesh,buycon12.nfsu.gj@gembuyer.in,Campus Admin, Room No: 007, ITC building Gujarat Campus National Forensic Sciences University Sector 9, Gandhinagar-382007, Gujarat - India.,Gandhi Nagar,GUJARAT,382007,India",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Na",
+    "organisation": "National Forensic Sciences University",
+    "office": "382007"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "DELTA IT NETWORK PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Fund Trail Sentinel Appliance Subscription",
+      "participated_on": "20-03-2025 12:42:12",
+      "mse_mii_status": "Offline upload",
+      "status": "MII"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "IACUITY FINTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Fund Trail Sentinel Appliance Subscription",
+      "participated_on": "19-03-2025 21:19:32",
+      "mse_mii_status": "Start-up",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SSB DIGITAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : SSB DIGITAL--SSB DIGITAL PRIVATE LIMITED Model  : SSBD Banking",
+      "participated_on": "29-03-2025 13:27:12",
+      "mse_mii_status": "Registered with designated Agency / Authority",
+      "status": "MII MSE"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "VISITANT TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Fund Trail Sentinel Appliance Subscription",
+      "participated_on": "21-03-2025 12:09:42",
+      "mse_mii_status": "Start-up",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": []
+}

@@ -1,0 +1,25 @@
+{
+  "bid_details": {
+    "quantity": "1",
+    "experience_with_gov_required": "Years"
+  },
+  "buyer_details": {
+    "name": "Debashish Bhadra",
+    "address": "RAIPUR,CHHATTISGARH,492001,AIIMS Raipur Tatibandh,buycon21.aiimsa.cg@gembuyer.in,India,0771-2971307-,Debashish Bhadra",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "organisation": "All India Institute Of Medical Sciences (aiims)",
+    "office": "Raipur"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PREDICTIVE ANALYTICS SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : STATCRAFT Model  : STATCRAFT",
+      "participated_on": "21-08-2020 16:07:10 (Financial)",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

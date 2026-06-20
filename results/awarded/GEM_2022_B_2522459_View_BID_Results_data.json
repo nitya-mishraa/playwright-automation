@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2522459",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "10-09-2022 10:33:37",
+    "bid_end_datetime": "21-09-2022 10:00:00",
+    "bid_opening_datetime": "21-09-2022 10:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "101"
+  },
+  "buyer_details": {
+    "name": "Dr.sankar Sengupta",
+    "address": "Dr.Sankar Sengupta,700156,buyer4.dhfw.wb@gembuyer.in,WEST BENGAL,NORTH 24 PARGANAS,India,Plot No- DJ-01 Action Area 1D, New Town, Rajarhat,-9830146888-",
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "organisation": "N/a",
+    "office": "Chittaranjan National Cancer Institute"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SCIENCE & SURGICAL Under PMA",
+      "offered_item": "-",
+      "participated_on": "16-09-2022 16:34:35",
+      "mse_mii_status": "Offline upload",
+      "status": "N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "SCIENCE & SURGICAL Under PMA",
+      "offered_item": "Item Categories : Cardic Output Monitoring System",
+      "total_price": "` 3800000.00",
+      "rank": "L1"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6591325",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "22-09-2025 19:27:40",
+    "bid_end_datetime": "28-10-2025 17:00:00",
+    "bid_opening_datetime": "27-10-2025 09:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "45"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** JAMMU",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Defence",
+    "organisation": "Armed Forces Tribunal",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BHAWANI SALES CORPORATION Under PMA",
+      "offered_item": "Make  : NA Model  : INTELLIGENCE SURVILLANCE AND RECONNAISSANCE (ISR) Title : INTELLIGENCE SURVILLANCE AND RECONNAISSANCE (ISR) SARVNETRA-IA-200",
+      "participated_on": "03-10-2025 15:51:38",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S RR ENTERPRISES Under PMA",
+      "offered_item": "Make  : NA Model  : INTELLIGENCE SURVILLANCE AND RECONNAISSANCE (ISR) Title : INTELLIGENCE SURVILLANCE AND RECONNAISSANCE (ISR) SARVNETRA-IA-200",
+      "participated_on": "03-10-2025 15:44:35",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "R.J. ENTERPRISES Under PMA",
+      "offered_item": "Make  : NA Model  : INTELLIGENCE SURVILLANCE AND RECONNAISSANCE (ISR) Title : INTELLIGENCE SURVILLANCE AND RECONNAISSANCE (ISR) SARVNETRA-IA-200",
+      "participated_on": "03-10-2025 14:37:21",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

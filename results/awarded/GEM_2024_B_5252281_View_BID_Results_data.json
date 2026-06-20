@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/5252281",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "05-08-2024 16:45:14",
+    "bid_end_datetime": "16-08-2024 17:00:00",
+    "bid_opening_datetime": "16-08-2024 17:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Ajay Poonia",
+    "address": "Ajay Poonia,delhi.ddo.inv1@gov.in,Room No. 201, Second Floor, C-Block, Civic Centre, New Delhi-110002,CENTRAL DELHI,DELHI,110002,India,011-23221216-",
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Revenue",
+    "organisation": "N/a",
+    "office": "Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Provakil Model  : Provakil Court Case Management Up to 1000 Cases",
+      "participated_on": "06-08-2024 13:01:14",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "PVKL TECH SERVICES PRIVATE LIMITED (MSE) ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 400000.00",
+      "rank": "L1"
+    }
+  ]
+}

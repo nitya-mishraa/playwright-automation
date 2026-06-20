@@ -1,0 +1,50 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2024/B/4871445",
+    "bid_status": "Active",
+    "bid_start_datetime": "19-04-2024 14:05:21",
+    "bid_end_datetime": "10-05-2024 15:00:00",
+    "bid_opening_datetime": "10-05-2024 15:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Rameshwar Dhariwal",
+    "address": "Rameshwar Dhariwal,r.dhariwal@gov.in,Room No. 1213, Sanchar Bhawan, 20 Ahoka Road, New Delhi,NEW DELHI,DELHI,110001,India",
+    "ministry": "Ministry Of Communications",
+    "department": "Department Of Telecommunications (dot)",
+    "organisation": "Universal Service Obligation Fund (usof)",
+    "office": "New Delhi"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "MAZARS ADVISORY LLP ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Proposals Invited for the Implementation of Artificial Intelligencedriven",
+      "total_price": "` 14160000.00",
+      "rank": "H1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "Ernst & Young LLP Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Proposals Invited for the Implementation of Artificial Intelligencedriven",
+      "total_price": "` 25554375.00",
+      "rank": "H2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "NAYAN INDIA SCIENCE AND TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Proposals Invited for the Implementation of Artificial Intelligencedriven",
+      "total_price": "` 28320000.00",
+      "rank": "H3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SAI COMPUTERS LIMITED Under PMA",
+      "offered_item": "Item Categories : Custom Bid for Services - Proposals Invited for the Implementation of Artificial Intelligencedriven",
+      "total_price": "` 23010000.00",
+      "rank": "H4"
+    }
+  ]
+}

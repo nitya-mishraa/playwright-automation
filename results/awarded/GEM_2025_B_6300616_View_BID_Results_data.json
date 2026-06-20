@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6300616",
+    "bid_status": "Active",
+    "quantity": "6",
+    "bid_start_datetime": "02-06-2025 16:35:35",
+    "bid_end_datetime": "12-06-2025 15:00:00",
+    "bid_opening_datetime": "12-06-2025 15:30:00",
+    "bid_validity_days": "90"
+  },
+  "buyer_details": {
+    "name": "Nivedita",
+    "address": "Nivedita,con75.bhelb.up@gembuyer.in,BHARAT HEAVY ELECTRICALS LIMITED, PLOT NO - 25, HRDI BUILDING, CDT, 2ND FLOOR HALL SEC - 16A, NOIDA - 201301,Gautam Buddha nagar,UTTAR PRADESH,201301,India",
+    "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+    "department": "Department Of Heavy Industry",
+    "organisation": "Bharat Heavy Electricals Limited (bhel)",
+    "office": "10050019-corporate Office"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VSN INTERNATIONAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "participated_on": "` 116461.02",
+      "mse_mii_status": "L1",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "VSN INTERNATIONAL PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business Intelligence and Data Analysis Software (V2)",
+      "total_price": "` 116461.02",
+      "rank": "L1"
+    }
+  ]
+}

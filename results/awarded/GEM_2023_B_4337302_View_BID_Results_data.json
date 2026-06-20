@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2023/B/4337302",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "13-12-2023 13:49:31",
+    "bid_end_datetime": "23-12-2023 18:00:00",
+    "bid_opening_datetime": "23-12-2023 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "Maninder Singh",
+    "address": "Maninder Singh,maninder.27150009@delhipolice.gov.in,PS COMPLEX MANDIR MARG,NEW DELHI,DELHI,110001,India,011-23362405-",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Police Organisation",
+    "organisation": "Delhi Police",
+    "office": "Delhi Police Headquarters"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KWICK FORENSIC SOLUTIONS LIMITED Under PMA",
+      "offered_item": "Make  : iAcuity Model  : iAcuity Artificial Intelligence Title : iAcuity Artificial Intelligence",
+      "participated_on": "21-12-2023 11:36:11",
+      "mse_mii_status": "MII",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "KWICK SOFT SOLUTIONS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : iAcuity Artificial Intelligence",
+      "total_price": "` 882050.00",
+      "rank": "L1"
+    }
+  ]
+}

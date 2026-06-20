@@ -1,0 +1,104 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2066264",
+    "bid_status": "Active",
+    "bid_start_datetime": "24-03-2022 18:18:42",
+    "bid_end_datetime": "04-04-2022 18:00:00",
+    "bid_opening_datetime": "04-04-2022 18:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "30"
+  },
+  "buyer_details": {
+    "name": "Shiv Kumar",
+    "department": "Revenue And Special Intelligence Department Government Of Uttar Pradesh",
+    "organisation": "N/a",
+    "office": "Barabanki"
+  },
+  "technical_evaluation": [],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "Avadh travels avdhesh ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 2517104.61",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "M/S ASHUTOSH ENTERPRISES Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 2557561.50",
+      "rank": "L2"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ODION TRAVELS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 2672475.21",
+      "rank": "L3"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "ASTHA TOUR AND TRAVELS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 2855187.00",
+      "rank": "L4"
+    },
+    {
+      "sr_no": "5",
+      "seller_name": "SHAHEEM TRADERS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 3025691.10",
+      "rank": "L5"
+    },
+    {
+      "sr_no": "6",
+      "seller_name": "AVANI TOUR AND TRAVELS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 3026700.00",
+      "rank": "L6"
+    },
+    {
+      "sr_no": "7",
+      "seller_name": "BABA HARDEV TRAVEL ( MSE Social Category:OBC ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 3632040.00",
+      "rank": "L7"
+    },
+    {
+      "sr_no": "8",
+      "seller_name": "Dhanraj Enterprises ( MSE Social Category: ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 3913523.10",
+      "rank": "L8"
+    },
+    {
+      "sr_no": "9",
+      "seller_name": "DELIGHT COMPUTER SERVICES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 4025511.00",
+      "rank": "L9"
+    },
+    {
+      "sr_no": "10",
+      "seller_name": "HIGHWAY TRAVELS ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 5022909.54",
+      "rank": "L10"
+    },
+    {
+      "sr_no": "11",
+      "seller_name": "M/S ROYAL ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 5132778.75",
+      "rank": "L11"
+    },
+    {
+      "sr_no": "12",
+      "seller_name": "KANHA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+      "offered_item": "Item Categories : Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local 24*7",
+      "total_price": "` 5145390.00",
+      "rank": "L12"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2025/B/6405775",
+    "bid_status": "Active",
+    "quantity": "21",
+    "bid_start_datetime": "24-07-2025 17:34:42",
+    "bid_end_datetime": "04-08-2025 17:00:00",
+    "bid_opening_datetime": "04-08-2025 17:30:00",
+    "bid_validity_days": "120"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** PUNE",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Navy",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ERULEARNING SOLUTIONS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : INDIAN INSTITUTE OF SKILL DEVELOPMENT PRIVATE LIMITED--INDIAN INSTITUTE OF SKILL DEVELOPMENT PRIVATE LIMITED Model  : Advanced Certificate Programme in Applied Artifici Title : Advanced Certificate Programme in Applied Artificial Intelligence and Machine Learning",
+      "participated_on": "01-08-2025 09:20:44",
+      "mse_mii_status": "Turnover >= 500 Cr.",
+      "status": "MII N/A"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "ERULEARNING SOLUTIONS PRIVATE LIMITED (MII) Under PMA",
+      "offered_item": "Item Categories : Advanced Certificate Programme in Applied Artificial Intelligence and Machine Learning",
+      "total_price": "` 3704610.00",
+      "rank": "L1"
+    }
+  ]
+}

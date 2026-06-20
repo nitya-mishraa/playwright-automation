@@ -1,0 +1,39 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/767337",
+    "bid_status": "Active",
+    "quantity": "2",
+    "bid_start_datetime": "27-08-2020 22:43:18",
+    "bid_end_datetime": "07-09-2020 14:00:00",
+    "bid_opening_datetime": "07-09-2020 14:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Manish Negi",
+    "address": "India,CENTRAL DELHI,DELHI,sroga@trai.gov.in,011-23664141-,Mahanagar Doorsanchar Bhawan, Jawahar Lal Nehru Marg, (Near Dr. Zakir Husain College) New Delhi - 110002,Manish Negi,110002",
+    "ministry": "Ministry Of Communications",
+    "department": "Department Of Telecommunications (dot)",
+    "organisation": "Telecom Regulatory Authority Of India (trai)",
+    "office": "Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Tableau Model  : Tableau",
+      "participated_on": "03-09-2020 12:29:44",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "OMNI INFOWORD PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Business intelligence and data analysis software (Version 2.0)",
+      "total_price": "` 152800.00",
+      "rank": "L1"
+    }
+  ]
+}

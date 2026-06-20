@@ -1,0 +1,62 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2020/B/946865",
+    "bid_status": "Active",
+    "quantity": "761",
+    "bid_start_datetime": "01-01-2021 21:16:25",
+    "bid_end_datetime": "09-03-2021 16:00:00",
+    "bid_opening_datetime": "09-03-2021 16:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "113"
+  },
+  "buyer_details": {
+    "name": "Rajesh Kumar Meena",
+    "address": "110092,011-22406274-,12th FLOOR ONGC SCOPE MINAR CORE-IV LAXMI NAGAR DELHI-110092,India,Rajesh Kumar Meena,buyer9.ongc.delhi@gembuyer.in,DELHI,EAST DELHI",
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": "Na",
+    "organisation": "Oil And Natural Gas Corporation Limited",
+    "office": "Corp Infocom Mm Delhi"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "COFORGE LIMITED Under PMA",
+      "offered_item": "Make  : vertiv Model  : Vertiv Rack Title : VR3350 (Intelligent Rack with intelligent PDU with 7 Years Warranty)",
+      "participated_on": "09-03-2021 11:04:36",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "INSPIRA ENTERPRISE INDIA LIMITED Under PMA",
+      "offered_item": "Make  : vertiv Model  : Intelligent Rack with intelligent PDU Title : Intelligent Rack with intelligent PDU 7 Years Warranty",
+      "participated_on": "09-03-2021 13:35:15",
+      "mse_mii_status": "N/A",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "ORBIT TECHSOL INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : RITTAL Model  : Rittal Network/Server Rack Title : Rittal DKPS",
+      "participated_on": "09-03-2021 15:57:45",
+      "mse_mii_status": "N/A",
+      "status": "Disqualified"
+    }
+  ],
+  "financial_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "INSPIRA ENTERPRISE INDIA PRIVATE LIMITED Under PMA",
+      "offered_item": "Item Categories : Networking/Server Rack,Operating System Software (Version 2.0),Chassis For Blade Server-1,Blade Serv",
+      "total_price": "` 767241270.00",
+      "rank": "L1"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "COFORGE LIMITED Under PMA",
+      "offered_item": "Item Categories : Networking/Server Rack,Operating System Software (Version 2.0),Chassis For Blade Server-1,Blade Serv",
+      "total_price": "` 942753538.00",
+      "rank": "L2"
+    }
+  ]
+}

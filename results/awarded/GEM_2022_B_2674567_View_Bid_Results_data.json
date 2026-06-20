@@ -1,0 +1,46 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2022/B/2674567",
+    "bid_status": "Active",
+    "bid_start_datetime": "26-10-2022 10:55:48",
+    "bid_end_datetime": "05-11-2022 11:00:00",
+    "bid_opening_datetime": "05-11-2022 11:30:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "180"
+  },
+  "buyer_details": {
+    "name": "***********",
+    "address": "*********** ERNAKULAM",
+    "ministry": "Ministry Of Defence",
+    "department": "Department Of Military Affairs",
+    "organisation": "Indian Navy",
+    "office": "***********"
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "BREADNBUTTER TECH PRIVATE LIMITED Under PMA",
+      "offered_item": "27-10-2022 20:40:01",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "CRIMSON ENERGY EXPERTS PRIVATE LIMITED Under PMA",
+      "offered_item": "05-11-2022 10:42:03",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "SRIVISIFAI TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "04-11-2022 17:52:38",
+      "participated_on": "MSE",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}

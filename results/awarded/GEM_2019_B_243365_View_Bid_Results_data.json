@@ -1,0 +1,54 @@
+{
+  "bid_details": {
+    "bid_number": "GEM/2019/B/243365",
+    "bid_status": "Active",
+    "quantity": "1",
+    "bid_start_datetime": "28-05-2019 15:52:03",
+    "bid_end_datetime": "05-06-2019 10:00:00",
+    "experience_with_gov_required": "Years",
+    "bid_validity_days": "60"
+  },
+  "buyer_details": {
+    "name": "Vijay Kumar",
+    "address": "India,DIRECTORATE GENERAL, CRPF, CGO COMPLEX, BLOCK NO.1, 3RD FLOOR, LODHI ROAD, NEW DELHI,vijay@crpf.gov.in,110003,SOUTH EAST DELHI,vijay kumar,DELHI",
+    "ministry": "Ministry Of Home Affairs",
+    "department": "Central Armed Police Forces",
+    "organisation": "Central Reserve Police Force (crpf)",
+    "office": "Dte. Genl."
+  },
+  "technical_evaluation": [
+    {
+      "sr_no": "1",
+      "seller_name": "CCS COMPUTERS PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "04-06-2019 21:33:11",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "2",
+      "seller_name": "EUNITE TECHNOLOGIES PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "04-06-2019 16:07:22",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "3",
+      "seller_name": "INTEC INFONET PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "04-06-2019 15:21:49",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    },
+    {
+      "sr_no": "4",
+      "seller_name": "SISL INFOTECH PRIVATE LIMITED Under PMA",
+      "offered_item": "Make  : Prophecy Model  : INNEFU & INF3",
+      "participated_on": "04-06-2019 16:11:05",
+      "mse_mii_status": "MSE",
+      "status": "Qualified"
+    }
+  ],
+  "financial_evaluation": []
+}
