@@ -1,0 +1,1264 @@
+[
+  {
+    "bid_no": "GEM/2026/B/7435260",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Procurement of Satellite Imagery Data",
+    "listing": [
+      "Items: Custom Bid for Services - Proc...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power NA",
+      "Start Date: 20-04-2026 4:06 PM",
+      "End Date: 05-05-2026 5:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7302305",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - High-resolution Satellite Mapping and change detection within the propose",
+    "listing": [
+      "Items: Custom Bid for Services - High...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power THDC INDIA Limited",
+      "Start Date: 05-03-2026 6:23 PM",
+      "End Date: 06-04-2026 4:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7200132",
+    "status": "Bid Award",
+    "items": "Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - ICG AUX BARGES URJ",
+    "listing": [
+      "Items: Repair, Maintenance, and Insta...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 12-03-2026 4:55 PM",
+      "End Date: 26-03-2026 10:00 AM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7210614",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Iridium satellite services for transmission of GMDSS Bulletin",
+    "listing": [
+      "Items: Custom Bid for Services - Irid...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Earth Sciences India Meteorological Department (IMD)",
+      "Start Date: 18-02-2026 6:19 PM",
+      "End Date: 20-03-2026 8:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2025/B/6908713",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - RENEWAL OF ANNUAL SUBSCRIPTION CHARGES OF 12 IN NUMBER SATELLITE PHONES F",
+    "listing": [
+      "Items: Custom Bid for Services - RENE...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 05-01-2026 6:07 PM",
+      "End Date: 30-01-2026 7:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2025/B/7025735",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Hiring of Tractor for various tanker services in Township and its satelli",
+    "listing": [
+      "Items: Custom Bid for Services - Hiri...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Heavy Industries and Public Enterprises Department of Heavy Industry",
+      "Start Date: 24-01-2026 9:00 AM",
+      "End Date: 27-01-2026 9:20 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8741433",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7025735",
+            "bid_status": "Active",
+            "bid_start_datetime": "20-12-2025 09:41:50",
+            "bid_end_datetime": "30-12-2025 10:00:00",
+            "bid_opening_datetime": "30-12-2025 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Mul Chand Sharma",
+            "address": "Mul Chand Sharma,buycon2069.bhelb.mp@gembuyer.in,BHARAT HEAVY ELECTRICAL LTD, PIPLANI,Bhopal,MADHYA PRADESH,462022,India",
+            "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+            "department": "Department Of Heavy Industry",
+            "organisation": "Bharat Heavy Electricals Limited (bhel)",
+            "office": "Hep Bhopal"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ANSARI ENTERPRISES Under PMA",
+              "offered_item": "26-12-2025 20:49:46",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "FARHAN ENTERPRISES Under PMA",
+              "offered_item": "29-12-2025 13:28:55",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "S.R. ENGINEERING WORK Under PMA",
+              "offered_item": "29-12-2025 21:00:35",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ]
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8874990",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Mul Chand Sharma",
+            "address": "Mul Chand Sharma,buycon2069.bhelb.mp@gembuyer.in,BHARAT HEAVY ELECTRICAL LTD, PIPLANI,Bhopal,MADHYA PRADESH,462022,India",
+            "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+            "department": "Department Of Heavy Industry",
+            "organisation": "Bharat Heavy Electricals Limited (bhel)",
+            "office": "Hep Bhopal"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "S.R. ENGINEERING WORK Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Hiring of Tractor for various tanker services in Township and its satelli",
+              "total_price": "` 2278400.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ANSARI ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Hiring of Tractor for various tanker services in Township and its satelli",
+              "total_price": "` 2280786.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7095775",
+    "status": "Bid Award",
+    "items": "Survey or Market Research Services/ Program evaluation or assessment survey services/Feedback Surve",
+    "listing": [
+      "Items: Survey or Market Research Serv...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Science and Technology Department Haryana",
+      "Start Date: 09-01-2026 5:55 PM",
+      "End Date: 19-01-2026 7:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8821981",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7042417",
+    "status": "Bid Award",
+    "items": "GIS related Survey Services - Sq. Kilometer; as per TOR; as per TOR; PROCUREMENT OF SATELLITE IMAGE",
+    "listing": [
+      "Items: GIS related Survey Services - ...",
+      "Quantity: 200",
+      "Department Name And Address:",
+      "Ministry of Jal Shakti Department of Water Resources River Development and Ganga Rejuvenation",
+      "Start Date: 24-12-2025 8:02 PM",
+      "End Date: 14-01-2026 8:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8760562",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7042417",
+            "bid_status": "Active",
+            "bid_start_datetime": "24-12-2025 20:02:21",
+            "bid_end_datetime": "14-01-2026 20:00:00",
+            "bid_opening_datetime": "14-01-2026 20:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Psumana",
+            "address": "Psumana,buycon29.wl.hr@gembuyer.in,Plot No 76-C, Institutional Area, Sector 18, Gurugram,GURGAON,HARYANA,122015,India",
+            "ministry": "Ministry Of Jal Shakti",
+            "department": "Department Of Water Resources River Development And Ganga Rejuvenation",
+            "organisation": "Wapcos Limited",
+            "office": "Wapcos Limited"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "D.S.M.SOFT PRIVATE LIMITED Under PMA",
+              "offered_item": "07-01-2026 19:18:09",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "RAYNAS INFRA AND GEOMATICS SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "12-01-2026 13:26:01",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SATPALDA TRADING PRIVATE LIMITED Under PMA",
+              "offered_item": "31-12-2025 13:31:09",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "D.S.M.SOFT PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Kilometer; as per TOR; as per TOR; PROCUREMENT OF SATELLITE IMAGE",
+              "total_price": "` 1691376.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SATPALDA TRADING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Kilometer; as per TOR; as per TOR; PROCUREMENT OF SATELLITE IMAGE",
+              "total_price": "` 1925760.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7029725",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Renewal of airtime and software subscription plan for Qty-01 Helicopter s",
+    "listing": [
+      "Items: Custom Bid for Services - Rene...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 22-12-2025 11:01 AM",
+      "End Date: 01-01-2026 12:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8746008",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7029725",
+            "bid_status": "Active",
+            "bid_start_datetime": "22-12-2025 11:01:42",
+            "bid_end_datetime": "01-01-2026 12:00:00",
+            "bid_opening_datetime": "01-01-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** JAMNAGAR",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Air Force",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ELEKTRONIK LAB INDIA PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Renewal of airtime and software subscription plan for Qty-01 Helicopter s",
+              "total_price": "` 159999.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6930581",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Providing Services for Cutting & Removal of grasses, bushes, shifting of ",
+    "listing": [
+      "Items: Custom Bid for Services - Prov...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel Steel Authority of India Limited",
+      "Start Date: 27-11-2025 4:32 PM",
+      "End Date: 18-12-2025 5:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8633527",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6864870",
+    "status": "Bid Award",
+    "items": "DTH/Cable Service - Channel Based - New Pack/ Renewal of Pack per connection for cable Service; Vis",
+    "listing": [
+      "Items: DTH/Cable Service - Channel Ba...",
+      "Quantity: 32",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 25-11-2025 6:51 PM",
+      "End Date: 10-12-2025 9:00 AM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2025/B/6534584",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Improvisation of DEAL SATCOM Hub for Future satellite",
+    "listing": [
+      "Items: Custom Bid for Services - Impr...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Research & Development",
+      "Start Date: 18-11-2025 5:00 PM",
+      "End Date: 19-11-2025 5:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8599174",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** DEHRADUN",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence Research & Development",
+            "organisation": "Office Of Dg (ecs)",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "Decibel Systems Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Improvisation of DEAL SATCOM Hub for Future satellite",
+              "total_price": "` 38318734.07",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "LOGICSPECTRA TECHNOLOGIES LLP Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Improvisation of DEAL SATCOM Hub for Future satellite",
+              "total_price": "` 38414771.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "ADSAT ENGINEERS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Improvisation of DEAL SATCOM Hub for Future satellite",
+              "total_price": "` 43821437.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6797203",
+    "status": "Bid Award",
+    "items": "Customized AMC/CMC for Pre-owned Products - Comprehensive Annual maintenance of Centralized Air Con",
+    "listing": [
+      "Items: Customized AMC/CMC for Pre-own...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel Steel Authority of India Limited",
+      "Start Date: 21-10-2025 4:00 PM",
+      "End Date: 11-11-2025 2:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8481093",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6797203",
+            "bid_status": "Active",
+            "bid_start_datetime": "21-10-2025 16:00:43",
+            "bid_end_datetime": "11-11-2025 14:00:00",
+            "bid_opening_datetime": "11-11-2025 14:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "170"
+          },
+          "buyer_details": {
+            "name": "Sarvesh Kumar Shrivastava",
+            "address": "Sarvesh Kumar Shrivastava,sk.shrivastava.sail@nic.in,Ispat Bhawan, RDCIS, SAIL, Doranda ,Ranchi,Ranchi,JHARKHAND,834002,India",
+            "ministry": "Ministry Of Steel",
+            "department": "Steel Authority Of India Limited",
+            "organisation": "Research & Development Centre For Iron & Steel",
+            "office": "Rdcis Ranchi"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "Star refrigeration systems Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - Comprehensive Annual maintenance of Centralized Air Con",
+              "total_price": "` 896800.00",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "M/S LUCKY VANIJYA ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - Comprehensive Annual maintenance of Centralized Air Con",
+              "total_price": "` 1888000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "VOLTAS LIMITED Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - Comprehensive Annual maintenance of Centralized Air Con",
+              "total_price": "` 1895670.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "A.K. REFRIGERATION ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - Comprehensive Annual maintenance of Centralized Air Con",
+              "total_price": "` 2323420.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "VIVEK ENTERPRISES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - Comprehensive Annual maintenance of Centralized Air Con",
+              "total_price": "` 3548024.00",
+              "rank": "L4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6774090",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - JOB CONTRACT FOR PROVIDING SECURITY, SURVEILLANCE AND FIRE FIGHTING SERVI",
+    "listing": [
+      "Items: Custom Bid for Services - JOB ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel Steel Authority of India Limited",
+      "Start Date: 15-10-2025 12:04 PM",
+      "End Date: 05-11-2025 1:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8454790",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6771707",
+    "status": "Bid Award",
+    "items": "Survey or Market Research Services/ Program evaluation or assessment survey services/Feedback Surve",
+    "listing": [
+      "Items: Survey or Market Research Serv...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Science and Technology Department Haryana",
+      "Start Date: 04-11-2025 11:00 AM",
+      "End Date: 05-11-2025 11:09 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8452074",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6771707",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-10-2025 15:05:15",
+            "bid_end_datetime": "20-10-2025 17:00:00",
+            "bid_opening_datetime": "20-10-2025 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Kapil Rohilla",
+            "department": "Science And Technology Department Haryana",
+            "organisation": "Haryana Space Applications Centre Hisar",
+            "office": "Harsac Department, Ccs Hau Campus, Hisar-125004"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6534584",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Improvisation of DEAL SATCOM Hub for Future satellite",
+    "listing": [
+      "Items: Custom Bid for Services - Impr...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Research & Development",
+      "Start Date: 26-08-2025 11:25 AM",
+      "End Date: 19-09-2025 9:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8181967",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6551684",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Carrying out Satellite Image Processing and GIS Map Preparation including",
+    "listing": [
+      "Items: Custom Bid for Services - Carr...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel MECON Limited",
+      "Start Date: 11-09-2025 6:00 PM",
+      "End Date: 12-09-2025 6:22 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2025/B/6609660",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Opn Filling at Satellite MS,Custom Bid for Services - Operations team for",
+    "listing": [
+      "Items: Custom Bid for Services - Opn ...",
+      "Quantity: 2",
+      "Department Name And Address:",
+      "Ministry of Petroleum and Natural Gas NA",
+      "Start Date: 26-08-2025 5:29 AM",
+      "End Date: 05-09-2025 3:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8267219",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6609660",
+            "bid_status": "Active",
+            "bid_start_datetime": "26-08-2025 05:29:20",
+            "bid_end_datetime": "05-09-2025 15:00:00",
+            "bid_opening_datetime": "05-09-2025 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Harendra Kishore",
+            "address": "Harendra Kishore,harendrak@hpcl.in,HPCL NWZ, 1ST FLOOR, ALFA BAZAAR, OPP THAKORBHAI DESAI HALL, LAW GARDEN, AHMEDABAD 380006,Ahmedabad,GUJARAT,380006,India,091-79264840-50",
+            "ministry": "Ministry Of Petroleum And Natural Gas",
+            "department": "Na",
+            "organisation": "Hindustan Petroleum Corporation Ltd",
+            "office": "Petroleum House"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "BAIRA ENTERPRISES ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Opn Filling at Satellite MS,Custom Bid for Services - Operations team for",
+              "total_price": "` 1450000.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6543566",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Outsourcing of Cleaning and sanitization services including supply of con",
+    "listing": [
+      "Items: Custom Bid for Services - Outs...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Railways Indian Railways",
+      "Start Date: 06-08-2025 7:19 PM",
+      "End Date: 28-08-2025 3:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2025/B/6519980",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Wiring of Newly constructed Environmental Spot Lab in Satellite Building ",
+    "listing": [
+      "Items: Custom Bid for Services - Wiri...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Coal COAL INDIA LIMITED",
+      "Start Date: 01-08-2025 10:25 AM",
+      "End Date: 18-08-2025 6:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/8165381",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6519980",
+            "bid_status": "Active",
+            "bid_start_datetime": "01-08-2025 10:25:12",
+            "bid_end_datetime": "18-08-2025 18:00:00",
+            "bid_opening_datetime": "18-08-2025 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Subramanian Thirukumaran",
+            "address": "Subramanian Thirukumaran,sthiru.kumaran@coalindia.in,SECL MM KORBA AREA,KORBA,CHHATTISGARH,495677,India,07759-249029-",
+            "ministry": "Ministry Of Coal",
+            "department": "Coal India Limited",
+            "organisation": "South Eastern Coalfields Limited",
+            "office": "Secl Bilaspur Chhattisgarh"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "A.A. ZILKAR ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Wiring of Newly constructed Environmental Spot Lab in Satellite Building",
+              "participated_on": "` 95331.00",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "A.A. ZILKAR ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Wiring of Newly constructed Environmental Spot Lab in Satellite Building",
+              "total_price": "` 95331.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6508595",
+    "status": "Bid Award",
+    "items": "Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+    "listing": [
+      "Items: Facility Management Services -...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Coal COAL INDIA LIMITED",
+      "Start Date: 29-07-2025 7:44 PM",
+      "End Date: 13-08-2025 8:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8152682",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6508595",
+            "bid_status": "Active",
+            "bid_start_datetime": "29-07-2025 19:44:01",
+            "bid_end_datetime": "13-08-2025 20:00:00",
+            "bid_opening_datetime": "13-08-2025 20:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "187"
+          },
+          "buyer_details": {
+            "name": "Nilgiri Prasad Patel",
+            "address": "Nilgiri Prasad Patel,np.patel2775@coalindia.in,SECL MM KORBA AREA,KORBA,CHHATTISGARH,495677,India",
+            "ministry": "Ministry Of Coal",
+            "department": "Coal India Limited",
+            "organisation": "South Eastern Coalfields Limited",
+            "office": "Secl Bilaspur Chhattisgarh"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AHILYA ASSOCIATES Under PMA",
+              "offered_item": "13-08-2025 08:40:27",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AWADH SECURITY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "13-08-2025 15:40:40",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "B. B. RAI & CONSTRUCTION Under PMA",
+              "offered_item": "11-08-2025 10:45:11",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "JAISHANKAR PANDEY Under PMA",
+              "offered_item": "06-08-2025 14:24:29",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "M/S ASMITA ENTERPRISES Under PMA",
+              "offered_item": "11-08-2025 13:22:40",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "MANOJ KUMAR PANDEY Under PMA",
+              "offered_item": "13-08-2025 19:32:36",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "SHUBHI AND POORNIMA MANAGEMENT PRIVATE LIMITED Under PMA",
+              "offered_item": "13-08-2025 19:32:00",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "SR GLOBAL FACILITY MANAGEMENT PRIVATE LIMITED Under PMA",
+              "offered_item": "01-08-2025 10:52:09",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "VIJAY KUMAR YADAV Under PMA",
+              "offered_item": "13-08-2025 17:38:22",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "WEBORNET PRIVATE LIMITED Under PMA",
+              "offered_item": "31-07-2025 15:10:45",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "B. B. RAI & CONSTRUCTION ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+              "total_price": "` 3078301.99",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "JAISHANKAR PANDEY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+              "total_price": "` 3081647.56",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "VIJAY KUMAR YADAV ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+              "total_price": "` 3957978.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "MANOJ KUMAR PANDEY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+              "total_price": "` 4410000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "ASMITA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+              "total_price": "` 4811111.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "AHILYA ASSOCIATES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - Non residential buildings at Korba Area SECL; Cleani",
+              "total_price": "` 6246707.00",
+              "rank": "L6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6283927",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - ACTIVATION OF 09 SATELLITE GLOBAL SIM CARD WITH 500 UNITS TALK TIME",
+    "listing": [
+      "Items: Custom Bid for Services - ACTI...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 11-07-2025 2:49 PM",
+      "End Date: 01-08-2025 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7899082",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6283927",
+            "bid_status": "Active",
+            "bid_start_datetime": "11-07-2025 14:49:13",
+            "bid_end_datetime": "01-08-2025 15:00:00",
+            "bid_opening_datetime": "01-08-2025 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** VISAKHAPATNAM",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Controller General Of Defence Accounts",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "STATION SATCOM PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - ACTIVATION OF 09 SATELLITE GLOBAL SIM CARD WITH 500 UNITS TALK TIME",
+              "total_price": "` 539937.90",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6431813",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - RPNC253027 Annual Maintenance contract of Pest & Rodent Control Treatment",
+    "listing": [
+      "Items: Custom Bid for Services - RPNC...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Petroleum and Natural Gas INDIAN OIL CORPORATION LIMITED",
+      "Start Date: 09-07-2025 10:42 AM",
+      "End Date: 23-07-2025 11:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8065478",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6431813",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-07-2025 10:42:35",
+            "bid_end_datetime": "23-07-2025 11:00:00",
+            "bid_opening_datetime": "23-07-2025 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Sthitapragnya Behera",
+            "address": "Sthitapragnya Behera,beherasp@indianoil.in,INDIANOIL CORPORATION LTD. PANIPAT REFINERY , PO. BOHALI , PANIPAT,PANIPAT,HARYANA,132140,India,180-2526619-",
+            "ministry": "Ministry Of Petroleum And Natural Gas",
+            "department": "Indian Oil Corporation Limited",
+            "organisation": "Iocl- Panipat Refinery",
+            "office": "Iocl- Panipat Refinery"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ROHTASH SINGH RANA ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - RPNC253027 Annual Maintenance contract of Pest & Rodent Control Treatment",
+              "total_price": "` 462863.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "DYNAMIC PEST & RODENT CONTROL ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - RPNC253027 Annual Maintenance contract of Pest & Rodent Control Treatment",
+              "total_price": "` 477900.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "TRULY PEST SOLUTION PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - RPNC253027 Annual Maintenance contract of Pest & Rodent Control Treatment",
+              "total_price": "` 534275.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6289599",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Renewal of Airtime and software subcription for Helicopter satellite trac",
+    "listing": [
+      "Items: Custom Bid for Services - Rene...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 20-06-2025 2:31 PM",
+      "End Date: 11-07-2025 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7905335",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6289599",
+            "bid_status": "Active",
+            "bid_start_datetime": "20-06-2025 14:31:08",
+            "bid_end_datetime": "11-07-2025 15:00:00",
+            "bid_opening_datetime": "11-07-2025 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** JAMNAGAR",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Air Force",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ELEKTRONIK LAB INDIA PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Renewal of Airtime and software subcription for Helicopter satellite trac",
+              "total_price": "` 485762.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6314239",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - SELECTION OF VENDOR FOR CAMC (COMPREHENSIVE ANNUAL MAINTENANCE) OF WATER ",
+    "listing": [
+      "Items: Custom Bid for Services - SELE...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Finance Department of Financial Services",
+      "Start Date: 05-06-2025 6:28 PM",
+      "End Date: 23-06-2025 9:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7932930",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6314239",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-06-2025 18:28:42",
+            "bid_end_datetime": "23-06-2025 09:00:00",
+            "bid_opening_datetime": "23-06-2025 09:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Shridhar Rushi Saraf",
+            "address": "Shridhar Rushi Saraf,buycon636.llici.mh@gembuyer.in,SV Patel Marg,PO Box No.63,Nagpur,Nagpur,MAHARASHTRA,440001,India,0712-2546444-",
+            "ministry": "Ministry Of Finance",
+            "department": "Department Of Financial Services",
+            "organisation": "Lic - Life Insurance Corporation Of India",
+            "office": "Nagpur"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ALASKA INDUSTRIES Under PMA",
+              "offered_item": "16-06-2025 16:07:49",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SWITCH ON SERVICE Under PMA",
+              "offered_item": "16-06-2025 16:52:14",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SWITCH ON SERVICE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - SELECTION OF VENDOR FOR CAMC (COMPREHENSIVE ANNUAL MAINTENANCE) OF WATER",
+              "total_price": "` 1115100.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ALASKA INDUSTRIES ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - SELECTION OF VENDOR FOR CAMC (COMPREHENSIVE ANNUAL MAINTENANCE) OF WATER",
+              "total_price": "` 3435000.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6262883",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Carrying out Satellite Image Processing and GIS Map Preparation including",
+    "listing": [
+      "Items: Custom Bid for Services - Carr...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel MECON Limited",
+      "Start Date: 12-06-2025 5:00 PM",
+      "End Date: 13-06-2025 5:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7875593",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6262883",
+            "bid_status": "Active",
+            "bid_start_datetime": "22-05-2025 16:46:42",
+            "bid_end_datetime": "02-06-2025 15:00:00",
+            "bid_opening_datetime": "02-06-2025 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Gunasekaran Loganathan",
+            "address": "Gunasekaran Loganathan,lgunasekaran.mecon@nic.in,89, South End Road, Basavanagudi,Bangalore,KARNATAKA,560004,India",
+            "ministry": "Ministry Of Steel",
+            "department": "Mecon Limited",
+            "organisation": "Mecon Limited",
+            "office": "Mecon Limited"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6163968",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Job Contract for Upkeep and Garbage Disposal at SAIL Satellite Township f",
+    "listing": [
+      "Items: Custom Bid for Services - Job ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel Steel Authority of India Limited",
+      "Start Date: 10-06-2025 11:00 AM",
+      "End Date: 11-06-2025 12:52 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7766118",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7942524",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Sudha",
+            "address": "Sudha,buyer6.sail.ranchi@gembuyer.in,Ispat Bhawan, RDCIS, SAIL, Doranda ,Ranchi,Ranchi,JHARKHAND,834002,India,0651-2411086-",
+            "ministry": "Ministry Of Steel",
+            "department": "Steel Authority Of India Limited",
+            "organisation": "Research & Development Centre For Iron & Steel",
+            "office": "Rdcis Ranchi"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/S SINGH CONSTRUCTION Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Job Contract for Upkeep and Garbage Disposal at SAIL Satellite Township f",
+              "total_price": "` 7435500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "MAA CONSTRUCTION Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Job Contract for Upkeep and Garbage Disposal at SAIL Satellite Township f",
+              "total_price": "` 7445500.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "M/S VIKASH CONSTRUCTION Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Job Contract for Upkeep and Garbage Disposal at SAIL Satellite Township f",
+              "total_price": "` 8224060.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "M/S REDDY ERECTORS Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Job Contract for Upkeep and Garbage Disposal at SAIL Satellite Township f",
+              "total_price": "` 8260925.12 (Bid Price)",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "B.K HI-TECH CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Job Contract for Upkeep and Garbage Disposal at SAIL Satellite Township f",
+              "total_price": "` 8930729.28 (Bid Price)",
+              "rank": "L5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/5833512",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Periodic measurements of air and water quality parameters at RDCIS office",
+    "listing": [
+      "Items: Custom Bid for Services - Peri...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Steel Steel Authority of India Limited",
+      "Start Date: 31-05-2025 5:00 PM",
+      "End Date: 04-06-2025 5:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7391735",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/7909811",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/5940840",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - TRAINING PROGRAMME ON MOBILE SATELLITE SYSTEM MSS",
+    "listing": [
+      "Items: Custom Bid for Services - TRAI...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 29-03-2025 5:06 PM",
+      "End Date: 25-04-2025 2:00 PM"
+    ],
+    "source_page": 3
+  },
+  {
+    "bid_no": "GEM/2025/B/6111369",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - iNDIGINISATION OF EQUIPMENT/ TECHNOLOGY INSERTION FOR LEGACY/ IMPORTED IT",
+    "listing": [
+      "Items: Custom Bid for Services - iNDI...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 04-04-2025 10:29 AM",
+      "End Date: 25-04-2025 1:00 PM"
+    ],
+    "source_page": 3
+  }
+]

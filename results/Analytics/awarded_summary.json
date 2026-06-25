@@ -1,0 +1,1834 @@
+[
+  {
+    "bid_no": "GEM/2026/B/7520690",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Chief Data Analytics and AI Officer",
+    "listing": [
+      "Items: Custom Bid for Services - Chie...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 21-05-2026 1:40 PM",
+      "End Date: 05-06-2026 2:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7525876",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content response and content moderation, Campaign Management, Respo",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Micro Small and Medium Enterprises Ministry of Micro Small and Medium Enterprises",
+      "Start Date: 04-06-2026 10:00 AM",
+      "End Date: 05-06-2026 10:30 AM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7582984",
+    "status": "Bid Award",
+    "items": "Data Analytics Service (Version 2) - Operations, Maintenance, Data Analytics Of Outcome of Various ",
+    "listing": [
+      "Items: Data Analytics Service (Versio...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Uttar Pradesh Cooperative Sugar Factories Federation Limited",
+      "Start Date: 25-05-2026 3:44 PM",
+      "End Date: 04-06-2026 6:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9377283",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7582984",
+            "bid_status": "Active",
+            "bid_start_datetime": "25-05-2026 15:44:08",
+            "bid_end_datetime": "04-06-2026 18:00:00",
+            "bid_opening_datetime": "04-06-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "45"
+          },
+          "buyer_details": {
+            "name": "Lavanshu Yadav",
+            "department": "Uttar Pradesh Cooperative Sugar Factories Federation Limited",
+            "organisation": "N/a",
+            "office": "Lucknow"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "XPLOCC TECHNOLOGIES LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Operations, Maintenance, Data Analytics Of Outcome of Various",
+              "total_price": "` 645460.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "VENTUREIT ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Operations, Maintenance, Data Analytics Of Outcome of Various",
+              "total_price": "` 1211000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "AXION TECHNICAL SERVICES PRIVATE LIMITED ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Operations, Maintenance, Data Analytics Of Outcome of Various",
+              "total_price": "` 4286447.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7377994",
+    "status": "Bid Award",
+    "items": "Data Analytics Service (Version 2) - Implementation; Buyer Premise (On Shore); Data Security, Infra",
+    "listing": [
+      "Items: Data Analytics Service (Versio...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 21-05-2026 12:00 PM",
+      "End Date: 22-05-2026 12:29 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9146909",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7377994",
+            "bid_status": "Active",
+            "bid_start_datetime": "20-04-2026 16:45:01",
+            "bid_end_datetime": "30-04-2026 17:00:00",
+            "bid_opening_datetime": "30-04-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** NEW DELHI",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Director General Of National Cadet Corps (dgncc)",
+            "office": "***********"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AXION TECHNICAL SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "29-04-2026 18:33:48",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "IZS TECHOCRATS PRIVATE LIMITED Under PMA",
+              "offered_item": "28-04-2026 11:42:37",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "rkt enterprises Under PMA",
+              "offered_item": "29-04-2026 10:48:12",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "SIRAJ ENGINEERS Under PMA",
+              "offered_item": "30-04-2026 10:30:21",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "VentureIT Under PMA",
+              "offered_item": "26-04-2026 13:12:40",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ]
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9354334",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** NEW DELHI",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Director General Of National Cadet Corps (dgncc)",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SIRAJ ENGINEERS Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Implementation; Buyer Premise (On Shore); Data Security, Infra",
+              "total_price": "` 1080000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AXION TECHNICAL SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Implementation; Buyer Premise (On Shore); Data Security, Infra",
+              "total_price": "` 1090000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "VentureIT Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Implementation; Buyer Premise (On Shore); Data Security, Infra",
+              "total_price": "` 1700000.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7508784",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "DEPARTMENT OF HEALTH AND FAMILY WELFARE",
+      "Start Date: 06-05-2026 2:50 PM",
+      "End Date: 21-05-2026 3:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9294778",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7508784",
+            "bid_status": "Active",
+            "bid_start_datetime": "06-05-2026 14:50:41",
+            "bid_end_datetime": "21-05-2026 15:00:00",
+            "bid_opening_datetime": "21-05-2026 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Komal Saini",
+            "department": "Department Of Health And Family Welfare",
+            "organisation": "Gmsh16",
+            "office": "Chandigarh State Aids Control Society"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ADD24 SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 3.21",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "KINOKROWN ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 11540.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "MULTIVISION WIZARDS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 29900.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "360 BYTES TECH VENTURE PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 30000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "FRIEND MEDIA ADD CO. ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 46700.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "BUIMB RESEARCH LLP Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 48300.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "TECHCURATORS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 53000.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "AVEDNEX PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 57000.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "MARKETONIC ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 61000.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "CODFTY PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 70000.00",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "AROOSHA TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 78000.00",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "CKG Enterprises ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 81600.00",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "DIPOLE TECH INNOVATIONS (OPC) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 100000.00",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "UNIQUE IDEAS ADVERTISING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 105679.00",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "N D TECHLAND PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 170000.00",
+              "rank": "L15"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "Hitesh Ravindra Bansode Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 210000.00",
+              "rank": "L16"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "Brand Innovation Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 232386.00",
+              "rank": "L17"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "PRACXIS COMMUNICATIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 252700.00",
+              "rank": "L18"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "Mindmine Unlimited ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 253700.00",
+              "rank": "L19"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "UPROI DIGITAL PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 270000.00",
+              "rank": "L20"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "SWICONS CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 299000.00",
+              "rank": "L21"
+            },
+            {
+              "sr_no": "22",
+              "seller_name": "ALPHEN STORE PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 323680.00",
+              "rank": "L22"
+            },
+            {
+              "sr_no": "23",
+              "seller_name": "Mitosia ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 363000.00",
+              "rank": "L23"
+            },
+            {
+              "sr_no": "24",
+              "seller_name": "ISEARCH SOLUTION PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 390000.00",
+              "rank": "L24"
+            },
+            {
+              "sr_no": "25",
+              "seller_name": "LEXCIS SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 418900.00",
+              "rank": "L25"
+            },
+            {
+              "sr_no": "26",
+              "seller_name": "MOUNT TALENT CONSULTING PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 470000.00",
+              "rank": "L26"
+            },
+            {
+              "sr_no": "27",
+              "seller_name": "INFOGENTECH SOFTWARES LLP Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 507200.00",
+              "rank": "L27"
+            },
+            {
+              "sr_no": "28",
+              "seller_name": "VA Prime ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 513300.00",
+              "rank": "L28"
+            },
+            {
+              "sr_no": "29",
+              "seller_name": "KRONOVATION LLP ( MSE Social Category:ST ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 715000.00",
+              "rank": "L29"
+            },
+            {
+              "sr_no": "30",
+              "seller_name": "APPENTUS TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 720000.00",
+              "rank": "L30"
+            },
+            {
+              "sr_no": "31",
+              "seller_name": "MILDAIN SOLUTIONS LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 750000.00",
+              "rank": "L31"
+            },
+            {
+              "sr_no": "32",
+              "seller_name": "ADG ONLINE SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1000002.00",
+              "rank": "L32"
+            },
+            {
+              "sr_no": "33",
+              "seller_name": "Get E Ideas Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1056100.00",
+              "rank": "L33"
+            },
+            {
+              "sr_no": "34",
+              "seller_name": "NEXARA SOFT PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 4300000.00",
+              "rank": "L34"
+            },
+            {
+              "sr_no": "35",
+              "seller_name": "INVICTA MEDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 13216200.00",
+              "rank": "L35"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7486047",
+    "status": "Bid Award",
+    "items": "Customized AMC/CMC for Pre-owned Products - Maintenance of Video Analytics; --; Annual Maintenance ",
+    "listing": [
+      "Items: Customized AMC/CMC for Pre-own...",
+      "Quantity: 4",
+      "Department Name And Address:",
+      "Ministry of Petroleum and Natural Gas NA",
+      "Start Date: 29-04-2026 3:37 PM",
+      "End Date: 20-05-2026 4:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7481281",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 6",
+      "Department Name And Address:",
+      "Sports Department Uttar Pradesh",
+      "Start Date: 27-04-2026 5:38 PM",
+      "End Date: 16-05-2026 2:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9264158",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7481281",
+            "bid_status": "Active",
+            "bid_start_datetime": "27-04-2026 17:38:32",
+            "bid_end_datetime": "16-05-2026 14:00:00",
+            "bid_opening_datetime": "16-05-2026 14:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Sunil Kumar Jha",
+            "department": "Sports Department Uttar Pradesh",
+            "organisation": "N/a",
+            "office": "Major Dhyan Chand Sports University Meerut"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "EDGEFX TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 599666.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "INDIA NEWS COMMUNICATIONS LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 695840.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "FUEL COMMUNICATIONS & MARKETING SOLUTIONS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 700940.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "DOT COMMUNICATIONS AND MARKETING PRIVATELIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 2495598.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "N D TECHLAND PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 3580000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "ADHOOK MEDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 4163800.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "MILDAIN SOLUTIONS LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 4200000.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "GARAGE PRODUCTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 7270000.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "ADSROLE PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 12300000.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "GLOBAL MEDIA MARKETING & COMMUNICATIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 61243396.00",
+              "rank": "L10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7082499",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Enterprise Analytics Platform Services",
+    "listing": [
+      "Items: Custom Bid for Services - Ente...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Electronics and Information Technology Department of Electronics and Information Technology",
+      "Start Date: 16-04-2026 1:00 PM",
+      "End Date: 17-04-2026 1:23 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7377979",
+    "status": "Bid Award",
+    "items": "E-Learning Content Development - Non-iGOT; Restructure & rewrite content, storyboarding with produc",
+    "listing": [
+      "Items: E-Learning Content Development...",
+      "Quantity: 36000",
+      "Department Name And Address:",
+      "Higher Education Department Odisha",
+      "Start Date: 20-03-2026 2:07 PM",
+      "End Date: 30-03-2026 6:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9146894",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7377979",
+            "bid_status": "Active",
+            "bid_start_datetime": "20-03-2026 14:07:50",
+            "bid_end_datetime": "30-03-2026 18:00:00",
+            "bid_opening_datetime": "30-03-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Sridhara Patnaik",
+            "department": "Higher Education Department Odisha",
+            "organisation": "Odisha State Open University Sambalpur",
+            "office": "Odisha State Open University Sambalpur"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SAURYA EDUNEXT GEN PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : E-Learning Content Development - Non-iGOT; Restructure & rewrite content, storyboarding with produc",
+              "total_price": "` 34999920.00",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "KNOWE DIGITECH PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : E-Learning Content Development - Non-iGOT; Restructure & rewrite content, storyboarding with produc",
+              "total_price": "` 34999920.00",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "EDXL LEARNING AND INNOVATIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : E-Learning Content Development - Non-iGOT; Restructure & rewrite content, storyboarding with produc",
+              "total_price": "` 34999920.00",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "Vidzai Digital Inc ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : E-Learning Content Development - Non-iGOT; Restructure & rewrite content, storyboarding with produc",
+              "total_price": "` 34999920.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7378672",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Basic re",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 12",
+      "Department Name And Address:",
+      "Ministry of Textiles NA",
+      "Start Date: 20-03-2026 3:55 PM",
+      "End Date: 27-03-2026 4:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7321007",
+    "status": "Bid Award",
+    "items": "E-Learning Content Development - Non-iGOT; Storyboarding and conversion of content to multimedia fo",
+    "listing": [
+      "Items: E-Learning Content Development...",
+      "Quantity: 70000",
+      "Department Name And Address:",
+      "Agriculture Department Maharashtra",
+      "Start Date: 05-03-2026 4:10 PM",
+      "End Date: 16-03-2026 5:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9079987",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7321007",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-03-2026 16:10:49",
+            "bid_end_datetime": "16-03-2026 17:00:00",
+            "bid_opening_datetime": "16-03-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Devidas Bhagvan Bhosale",
+            "department": "Agriculture Department Maharashtra",
+            "organisation": "Mahatma Phule Krishi College Of Agriculture Pune",
+            "office": "Comptroller Mpkv Rahuri"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DAMASO DIGITAL SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : E-Learning Content Development - Non-iGOT; Storyboarding and conversion of content to multimedia fo",
+              "total_price": "` 12985000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "VIPA TECHNOLOGIES Under PMA",
+              "offered_item": "Item Categories : E-Learning Content Development - Non-iGOT; Storyboarding and conversion of content to multimedia fo",
+              "total_price": "` 14840000.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7252113",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Campaign Management, Content creation, Content response and content",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 24",
+      "Department Name And Address:",
+      "Ministry of Coal Administration Section MoC",
+      "Start Date: 19-02-2026 6:38 PM",
+      "End Date: 10-03-2026 2:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7304238",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 3",
+      "Department Name And Address:",
+      "Department of Culture Uttar Pradesh",
+      "Start Date: 28-02-2026 10:36 AM",
+      "End Date: 10-03-2026 11:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9060090",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7304238",
+            "bid_status": "Active",
+            "bid_start_datetime": "28-02-2026 10:36:33",
+            "bid_end_datetime": "10-03-2026 11:00:00",
+            "bid_opening_datetime": "10-03-2026 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Balihari Seth",
+            "department": "Department Of Culture Uttar Pradesh",
+            "organisation": "Directorate Of Archaeology",
+            "office": "Directorate Of Archaeology"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SETUNITI VENTURES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 53091.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "Fox Publicize Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 53403.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "BRAND BUILDER MEDIA ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 135000.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "MARKETONIC ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 213000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "QASOLVERS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 283200.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "MULTIVISION WIZARDS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 823500.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "INFONEO TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1321998.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "WEST CORE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1707000.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "SW CYBERNETICS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 2400000.00",
+              "rank": "L9"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7247813",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - supply, installation & commissioning of customized High-Performance (Make",
+    "listing": [
+      "Items: Custom Bid for Services - supp...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Agriculture and Farmers Welfare Department of Agricultural Research and Education (DARE)",
+      "Start Date: 16-02-2026 7:08 PM",
+      "End Date: 09-03-2026 8:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7296744",
+    "status": "Bid Award",
+    "items": "Facility Management Services - LumpSum Based - INTEGRATED TRIBLE DEVELOEMENT PROJECT CHANDRAPUR DIS",
+    "listing": [
+      "Items: Facility Management Services -...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Tribal Development Department Maharashtra",
+      "Start Date: 26-02-2026 4:44 PM",
+      "End Date: 09-03-2026 5:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7163734",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - UNIFIED CAFETERIA AUTOMATION, MEAL ACCESS & ANALYTICS PLATFORM AT  II",
+    "listing": [
+      "Items: Custom Bid for Services - UNIF...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Education Department of Higher Education",
+      "Start Date: 05-02-2026 11:23 AM",
+      "End Date: 09-03-2026 12:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7270869",
+    "status": "Bid Award",
+    "items": "Hiring of Professionals for Application Development and Maintenance - Data Science and Analytics Ro",
+    "listing": [
+      "Items: Hiring of Professionals for Ap...",
+      "Quantity: 9",
+      "Department Name And Address:",
+      "Health and Family Welfare Department Chhattisgarh",
+      "Start Date: 20-02-2026 9:14 PM",
+      "End Date: 06-03-2026 3:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7279316",
+    "status": "Bid Award",
+    "items": "Data Analytics Service (Version 2) - Testing; Buyer Premise (On Shore); Tools & Softwares; Self Ser",
+    "listing": [
+      "Items: Data Analytics Service (Versio...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Department of Agriculture and Bio Technology",
+      "Start Date: 23-02-2026 3:55 PM",
+      "End Date: 05-03-2026 5:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9031779",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7279316",
+            "bid_status": "Active",
+            "bid_start_datetime": "23-02-2026 15:55:32",
+            "bid_end_datetime": "05-03-2026 17:00:00",
+            "bid_opening_datetime": "05-03-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Saurabh Mishra",
+            "department": "Department Of Agriculture And Bio Technology",
+            "organisation": "N/a",
+            "office": "Indira Gandhi Krishi Vishwavidyalaya, Raipur 492012"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "NOVELGENE TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Testing; Buyer Premise (On Shore); Tools & Softwares; Self Ser",
+              "total_price": "` 99946.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "HKP SCIENTIFIC Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Testing; Buyer Premise (On Shore); Tools & Softwares; Self Ser",
+              "total_price": "` 106200.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "AVIRAJ ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Data Analytics Service (Version 2) - Testing; Buyer Premise (On Shore); Tools & Softwares; Self Ser",
+              "total_price": "` 116820.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7263021",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Procurement of Patent Search and Analytics Database Software for IP  Cell",
+    "listing": [
+      "Items: Custom Bid for Services - Proc...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Petroleum and Natural Gas INDIAN OIL CORPORATION LIMITED",
+      "Start Date: 19-02-2026 4:03 PM",
+      "End Date: 05-03-2026 5:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9013012",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7263021",
+            "bid_status": "Active",
+            "bid_start_datetime": "19-02-2026 16:03:59",
+            "bid_end_datetime": "05-03-2026 17:00:00",
+            "bid_opening_datetime": "05-03-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Nitin Shrivastava",
+            "address": "Nitin Shrivastava,nitins@indianoil.in,INDIAN OIL CORPORATION LTD R&D CENTRE, SECTOR-13, FARIDABAD,FARIDABAD,HARYANA,121007,India,0129-2294625-",
+            "ministry": "Ministry Of Petroleum And Natural Gas",
+            "department": "Indian Oil Corporation Limited",
+            "organisation": "Research & Development Centre (materials Department)",
+            "office": "Faridabad"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "PATSEER TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Procurement of Patent Search and Analytics Database Software for IP  Cell",
+              "total_price": "` 651360.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "XLSCOUT XLPAT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Procurement of Patent Search and Analytics Database Software for IP  Cell",
+              "total_price": "` 1000000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "QUESTEL IP SERVICES INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Procurement of Patent Search and Analytics Database Software for IP  Cell",
+              "total_price": "` 1327498.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7082499",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Enterprise Analytics Platform Services",
+    "listing": [
+      "Items: Custom Bid for Services - Ente...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Electronics and Information Technology Department of Electronics and Information Technology",
+      "Start Date: 03-02-2026 6:29 PM",
+      "End Date: 04-03-2026 7:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7178369",
+    "status": "Bid Award",
+    "items": "Customized AMC/CMC for Pre-owned Products - Auto-titrator; SI Analytics Titroline 7000; Annual Main",
+    "listing": [
+      "Items: Customized AMC/CMC for Pre-own...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "PMO Department of Atomic Energy",
+      "Start Date: 03-02-2026 9:06 PM",
+      "End Date: 04-03-2026 12:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8916905",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7178369",
+            "bid_status": "Active",
+            "bid_start_datetime": "03-02-2026 21:06:42",
+            "bid_end_datetime": "04-03-2026 12:00:00",
+            "bid_opening_datetime": "04-03-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Dayamoy Banerjee",
+            "address": "Dayamoy Banerjee,daya@barc.gov.in,BHABHA ATOMIC RESEARCH CENTRE (BARC), CENTRAL COMPLEX, TROMBAY, MUMBAI 400085,Mumbai,MAHARASHTRA,400085,India,022-25591073-",
+            "ministry": "Pmo",
+            "department": "Department Of Atomic Energy",
+            "organisation": "Bhabha Atomic Research Centre",
+            "office": "Mumbai"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "TRITON TECHNOLOGIES Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - Auto-titrator; SI Analytics Titroline 7000; Annual Main",
+              "total_price": "` 253892.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7046756",
+    "status": "Bid Award",
+    "items": "Customized AMC/CMC for Pre-owned Products - AMC for Infrared Signature Analysis Software; ThermoAna",
+    "listing": [
+      "Items: Customized AMC/CMC for Pre-own...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Research & Development",
+      "Start Date: 09-02-2026 3:18 PM",
+      "End Date: 02-03-2026 10:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8765565",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7046756",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-02-2026 15:18:45",
+            "bid_end_datetime": "02-03-2026 10:00:00",
+            "bid_opening_datetime": "02-03-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** BANGALORE",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence Research & Development",
+            "organisation": "Office Of Dg (aero)",
+            "office": "***********"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "XITADEL CAE TECHNOLOGIES INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "21-02-2026 10:28:32",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "XITADEL CAE TECHNOLOGIES INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Customized AMC/CMC for Pre-owned Products - AMC for Infrared Signature Analysis Software; ThermoAna",
+              "total_price": "` 7500000.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7245691",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 12",
+      "Department Name And Address:",
+      "Ministry of Corporate Affairs NA",
+      "Start Date: 17-02-2026 5:20 PM",
+      "End Date: 28-02-2026 4:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8993393",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7245691",
+            "bid_status": "Active",
+            "bid_start_datetime": "17-02-2026 17:20:19",
+            "bid_end_datetime": "28-02-2026 16:00:00",
+            "bid_opening_datetime": "28-02-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Vipul Jain",
+            "address": "Vipul Jain,vipul.jain85@iepf.gov.in,IEPF Authority, Jeevan Vihar Building, Sansad Marg, New Delhi-110001,CENTRAL DELHI,DELHI,110001,India",
+            "ministry": "Ministry Of Corporate Affairs",
+            "department": "Na",
+            "organisation": "Investor Education And Protection Fund Authority (iepf Authority)",
+            "office": "Delhi"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "INDIA NEWS COMMUNICATIONS LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 3922420.00",
+              "rank": "H1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "NETWORK18 MEDIA & INVESTMENTS LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 68667440.00",
+              "rank": "H2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7204427",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Response",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Social Justice and Special Assistance Department Maharashtra",
+      "Start Date: 06-02-2026 6:32 PM",
+      "End Date: 21-02-2026 7:00 PM"
+    ],
+    "source_page": 3
+  },
+  {
+    "bid_no": "GEM/2026/B/7117414",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Training on Data analytics and conditional  formatting for unit personnel",
+    "listing": [
+      "Items: Custom Bid for Services - Trai...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 16-01-2026 3:23 PM",
+      "End Date: 20-02-2026 9:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8846878",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7117414",
+            "bid_status": "Active",
+            "bid_start_datetime": "16-01-2026 15:23:29",
+            "bid_end_datetime": "20-02-2026 09:00:00",
+            "bid_opening_datetime": "20-02-2026 09:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** KOLKATA",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Indian Coast Guard",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "OM SAI RAM ENTERPRISE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Training on Data analytics and conditional  formatting for unit personnel",
+              "total_price": "` 19490.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "S. S. TRADING CO. ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Training on Data analytics and conditional  formatting for unit personnel",
+              "total_price": "` 20000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "A.K.ENTERPRISE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Training on Data analytics and conditional  formatting for unit personnel",
+              "total_price": "` 21870.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7011796",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 12",
+      "Department Name And Address:",
+      "Agriculture and Co-operation Department Gujarat",
+      "Start Date: 01-02-2026 1:00 PM",
+      "End Date: 02-02-2026 2:36 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8725849",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7011796",
+            "bid_status": "Active",
+            "bid_start_datetime": "24-12-2025 10:46:21",
+            "bid_end_datetime": "03-01-2026 11:00:00",
+            "bid_opening_datetime": "03-01-2026 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Himanshukumar Kalubhai Mahida",
+            "department": "Agriculture And Co-operation Department Gujarat",
+            "organisation": "Directorate Of Animal Husbandry",
+            "office": "Krishi Bhavan"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "HSP MEDIA NETWORK PRIVATE LIMITED Under PMA",
+              "offered_item": "29-12-2025 11:17:10",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "N D TECHLAND PRIVATE LIMITED Under PMA",
+              "offered_item": "29-12-2025 11:32:14",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "NEXARA SOFT PRIVATE LIMITED Under PMA",
+              "offered_item": "03-01-2026 08:35:03",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "NOT OUT MARKETING LLP Under PMA",
+              "offered_item": "02-01-2026 18:43:21",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "PEAKGROWTH CONSULTANTS PRIVATE LIMITED Under PMA",
+              "offered_item": "03-01-2026 10:04:53",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "RIVEYRA INFOTECH PRIVATE LIMITED Under PMA",
+              "offered_item": "02-01-2026 18:13:25",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "SBS DIGITAL INFOTECH Under PMA",
+              "offered_item": "30-12-2025 17:20:58",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "TEERTH TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "02-01-2026 11:33:25",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "TOPCLUES SOLUTIONS Under PMA",
+              "offered_item": "02-01-2026 19:08:29",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            }
+          ]
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8912348",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Himanshukumar Kalubhai Mahida",
+            "department": "Agriculture And Co-operation Department Gujarat",
+            "organisation": "Directorate Of Animal Husbandry",
+            "office": "Krishi Bhavan"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "TOPCLUES SOLUTIONS Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1009572.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "TEERTH TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1052240.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "NOT OUT MARKETING LLP Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 1966788.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6937773",
+    "status": "Bid Award",
+    "items": "Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+    "listing": [
+      "Items: Hiring of Professionals for Ap...",
+      "Quantity: 3",
+      "Department Name And Address:",
+      "Ministry of Personnel Public Grievances and Pensions Department of Personnel and Training",
+      "Start Date: 19-01-2026 3:00 PM",
+      "End Date: 29-01-2026 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8641676",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6937773",
+            "bid_status": "Active",
+            "bid_start_datetime": "19-01-2026 15:00:17",
+            "bid_end_datetime": "29-01-2026 15:00:00",
+            "bid_opening_datetime": "29-01-2026 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Amit Kumar",
+            "address": "Amit Kumar,amit.jangra@gov.in,BLOCK-14, PE BHAWAN, CGO COMPLEX, LODHI ROAD,CENTRAL DELHI,DELHI,110003,India,011-24366378-128",
+            "ministry": "Ministry Of Personnel Public Grievances And Pensions",
+            "department": "Department Of Personnel And Training",
+            "organisation": "Public Enterprises Selection Board (pesb)",
+            "office": "Cgo Complex, New Delhi-110003"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "RAJENDRA MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1486800.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "BENO SUPPORT TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1544041.80",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SKILLMINE TECHNOLOGY CONSULTING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1734600.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "PEYMAGEN INFORMATICS & AUTOMATION PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1758000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "KEYPOINT TECHNOLOGIES (INDIA) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1776000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "AKM GLOBAL HR TECH PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1799622.72",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "NETCREATIVEMIND SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1920000.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "TECHCURATORS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1980000.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "OMNISPHERE SOLUTIONS LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 1998972.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "PLANET E-COM SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2053200.00",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "PRAKHAR SOFTWARE SOLUTIONS LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2067000.00",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "SHIVANSH SERVICES & DEVELOPMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2100000.00",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "SOLARMAN TECHNOLOGY PROJECT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2161800.00",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "ORNATE TECHNOSERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2191189.20",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "ARSENAL INFOSOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2196000.00",
+              "rank": "L15"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "CARE ZEST SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2199900.00",
+              "rank": "L16"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "AEOLOGIC TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2200008.00",
+              "rank": "L17"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "S.M SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2220000.00",
+              "rank": "L18"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "INFONEO TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2223984.00",
+              "rank": "L19"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "ADVANCE CAREER SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 2520000.00",
+              "rank": "L20"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "BHARUWA SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 3227064.00",
+              "rank": "L21"
+            },
+            {
+              "sr_no": "22",
+              "seller_name": "PEAKGROWTH CONSULTANTS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Professionals for Application Development and Maintenance - Development and related roles",
+              "total_price": "` 11333895.60",
+              "rank": "L22"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7020085",
+    "status": "Bid Award",
+    "items": "Hiring of Consultants - Milestone/Deliverable Based - Technology Consultants, Subject Matter Expert",
+    "listing": [
+      "Items: Hiring of Consultants - Milest...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Railways Indian Railways",
+      "Start Date: 19-12-2025 8:07 PM",
+      "End Date: 22-01-2026 4:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8735077",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7020085",
+            "bid_status": "Active",
+            "bid_start_datetime": "19-12-2025 20:07:59",
+            "bid_end_datetime": "22-01-2026 16:00:00",
+            "bid_opening_datetime": "22-01-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Sanjay Kumar Jha",
+            "address": "Sanjay Kumar Jha,jha.sanjay0067@gov.in,Rail Bhawan, Ministry of Railways, Rafi Marg, New Delhi 110001,Central Delhi,DELHI,110001,India,011-23047373-",
+            "ministry": "Ministry Of Railways",
+            "department": "Indian Railways",
+            "organisation": "Railway Board",
+            "office": "Railway Board, Rail Bhawan"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "Ernst & Young LLP Under PMA",
+              "offered_item": "Item Categories : Hiring of Consultants - Milestone/Deliverable Based - Technology Consultants, Subject Matter Expert",
+              "total_price": "` 33333333.00",
+              "rank": "H1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "KPMG Advisory Service Pvt Ltd Under PMA",
+              "offered_item": "Item Categories : Hiring of Consultants - Milestone/Deliverable Based - Technology Consultants, Subject Matter Expert",
+              "total_price": "` 38350000.00",
+              "rank": "H2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "MAZARS ADVISORY LLP Under PMA",
+              "offered_item": "Item Categories : Hiring of Consultants - Milestone/Deliverable Based - Technology Consultants, Subject Matter Expert",
+              "total_price": "` 56640000.00",
+              "rank": "H3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7056237",
+    "status": "Bid Award",
+    "items": "Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+    "listing": [
+      "Items: Hiring of Social Media Agency ...",
+      "Quantity: 11",
+      "Department Name And Address:",
+      "Ministry of External Affairs NA",
+      "Start Date: 30-12-2025 6:34 PM",
+      "End Date: 20-01-2026 11:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8776846",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7056237",
+            "bid_status": "Active",
+            "bid_start_datetime": "30-12-2025 18:34:35",
+            "bid_end_datetime": "20-01-2026 11:00:00",
+            "bid_opening_datetime": "20-01-2026 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Deepak",
+            "address": "Deepak,poxps@mea.gov.in,Shastri Bhawan, Dr Rajendra Prasad Road, Central Secretariat, New Delhi, Delhi 110001,NEW DELHI,DELHI,110001,India,011-23389351-",
+            "ministry": "Ministry Of External Affairs",
+            "department": "Na",
+            "organisation": "N/a",
+            "office": "Shastri Bhawan"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "VISUAL HOUSE INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 12207690.00",
+              "rank": "H1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AAKHYA MEDIA SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 19989200.00",
+              "rank": "H2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "MAXPOSURE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 20350000.00",
+              "rank": "H3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "AVIAN MEDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Hiring of Social Media Agency - Content creation, Content response and content moderation, Campaign",
+              "total_price": "` 254373350.00",
+              "rank": "H4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7027174",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Field hardware for Camera Based Digital Safety Management System,Custom B",
+    "listing": [
+      "Items: Custom Bid for Services - Fiel...",
+      "Quantity: 9",
+      "Department Name And Address:",
+      "Ministry of Petroleum and Natural Gas Bharat Petroleum Corporation Ltd",
+      "Start Date: 23-12-2025 11:38 AM",
+      "End Date: 09-01-2026 2:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8743078",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/7027174",
+            "bid_status": "Active",
+            "bid_start_datetime": "23-12-2025 11:38:43",
+            "bid_end_datetime": "09-01-2026 14:00:00",
+            "bid_opening_datetime": "09-01-2026 14:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Sushant Kumar Behera",
+            "address": "Sushant Kumar Behera,buycon6.eil.hr@gembuyer.in,Administrative Building, Bharat Petroleum Corporation Limited, Bina,Sagar,MADHYA PRADESH,470113,India",
+            "ministry": "Ministry Of Petroleum And Natural Gas",
+            "department": "Bharat Petroleum Corporation Ltd",
+            "organisation": "Bharat Petroleum Corporation Ltd",
+            "office": "Bina Petchem And Refinery Expansion Project"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "TRANS VIRTUAL PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Field hardware for Camera Based Digital Safety Management System,Custom B",
+              "total_price": "` 334926714.10",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1871 @@
+[
+  {
+    "bid_no": "GEM/2026/B/7628484",
+    "status": "Bid Award",
+    "items": "GIS related Survey Services - Sq. Kilometer; Irrigation Project command area; 1:10,000, 1:100,000, ",
+    "listing": [
+      "Items: GIS related Survey Services - ...",
+      "Quantity: 9634",
+      "Department Name And Address:",
+      "Narmada Water Resources Water Supply and Kalpsar Department Gujarat",
+      "Start Date: 05-06-2026 4:48 PM",
+      "End Date: 20-06-2026 5:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9428128",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7628484",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-06-2026 16:48:27",
+            "bid_end_datetime": "20-06-2026 17:00:00",
+            "bid_opening_datetime": "20-06-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Rajeshkumar Ishvarbhai Lad",
+            "department": "Narmada Water Resources Water Supply And Kalpsar Department Gujarat",
+            "organisation": "N/a",
+            "office": "Soil Drainage And Reclamation Circle"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "LGEOM PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Kilometer; Irrigation Project command area; 1:10,000, 1:100,000,",
+              "total_price": "` 346827.60",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ANSHUL A PATEL ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Kilometer; Irrigation Project command area; 1:10,000, 1:100,000,",
+              "total_price": "` 491334.40",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "GAYTREE SURVEYS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Kilometer; Irrigation Project command area; 1:10,000, 1:100,000,",
+              "total_price": "` 905605.40",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7637409",
+    "status": "Bid Award",
+    "items": "Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+    "listing": [
+      "Items: Repair, Maintenance, and Insta...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Energy Department Uttar Pradesh",
+      "Start Date: 09-06-2026 3:01 PM",
+      "End Date: 19-06-2026 6:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9438239",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7637409",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-06-2026 15:01:38",
+            "bid_end_datetime": "19-06-2026 18:00:00",
+            "bid_opening_datetime": "19-06-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Jai Jadam",
+            "department": "Energy Department Uttar Pradesh",
+            "organisation": "Uttar Pradesh Power Corporation Limited (uppcl)",
+            "office": "Electricity Civil Transmission Circle 132 Kv S/s Martinpurwa Lucknow"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/S VIDHU ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+              "participated_on": "` 9950.00",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "M/S TANISKA SALES AND SERVICES Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+              "participated_on": "` 9960.00",
+              "mse_mii_status": "L2",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DAYAL CONSTRUCTION AND SUPPLIERS Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+              "participated_on": "` 9970.00",
+              "mse_mii_status": "L3",
+              "status": "Not Evaluated"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/S VIDHU ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+              "total_price": "` 9950.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "M/S TANISKA SALES AND SERVICES Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+              "total_price": "` 9960.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DAYAL CONSTRUCTION AND SUPPLIERS Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 132KV GIS SS Fateh",
+              "total_price": "` 9970.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7637100",
+    "status": "Bid Award",
+    "items": "Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - 400KV GIS SS Agra ",
+    "listing": [
+      "Items: Repair, Maintenance, and Insta...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Energy Department Uttar Pradesh",
+      "Start Date: 08-06-2026 4:22 PM",
+      "End Date: 19-06-2026 3:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7621458",
+    "status": "Bid Award",
+    "items": "Tentage Service Lumpsum Based - Outdoor Gatherings; Tent Rentals, Theme Based Installation, Decorat",
+    "listing": [
+      "Items: Tentage Service Lumpsum Based ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 16-06-2026 5:00 PM",
+      "End Date: 18-06-2026 11:22 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9470796",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** CHENNAI",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Indian Coast Guard",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "CENTER PODIUM EVENTS Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Outdoor Gatherings; Tent Rentals, Theme Based Installation, Decorat",
+              "total_price": "` 849000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SANDHIYA ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Outdoor Gatherings; Tent Rentals, Theme Based Installation, Decorat",
+              "total_price": "` 850000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "INTEGRITY ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Outdoor Gatherings; Tent Rentals, Theme Based Installation, Decorat",
+              "total_price": "` 1338680.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7654221",
+    "status": "Bid Award",
+    "items": "GIS related Survey Services - Sq. Meter; Agricultural; 1:1000; Ground penetrating radar with GPS/GN",
+    "listing": [
+      "Items: GIS related Survey Services - ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Culture NA",
+      "Start Date: 12-06-2026 5:52 PM",
+      "End Date: 15-06-2026 6:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9456777",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7654221",
+            "bid_status": "Active",
+            "bid_start_datetime": "12-06-2026 17:52:12",
+            "bid_end_datetime": "15-06-2026 18:00:00",
+            "bid_opening_datetime": "15-06-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "37"
+          },
+          "buyer_details": {
+            "name": "Dipesh Singh",
+            "address": "Dipesh Singh,dipeshsingh.asi@gov.in,O/o. Superintending Archaeologist,ASI, Rajkot Circle, Old Collector Office, Rajkot,Rajkot,GUJARAT,360001,India",
+            "ministry": "Ministry Of Culture",
+            "department": "Na",
+            "organisation": "Archaeological Survey Of India (asi)",
+            "office": "Rajkot Circle"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "FIBROX 3D TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Meter; Agricultural; 1:1000; Ground penetrating radar with GPS/GN",
+              "total_price": "` 199500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "LAND MARK SURVEYORS AND ENGINEERS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Sq. Meter; Agricultural; 1:1000; Ground penetrating radar with GPS/GN",
+              "total_price": "` 208500.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7623639",
+    "status": "Bid Award",
+    "items": "Paper-based Printing Services - Printing without Material; Register; Digital",
+    "listing": [
+      "Items: Paper-based Printing Services ...",
+      "Quantity: 50",
+      "Department Name And Address:",
+      "Energy Department Uttar Pradesh",
+      "Start Date: 04-06-2026 5:08 PM",
+      "End Date: 15-06-2026 5:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9422683",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7623639",
+            "bid_status": "Active",
+            "bid_start_datetime": "04-06-2026 17:08:48",
+            "bid_end_datetime": "15-06-2026 17:00:00",
+            "bid_opening_datetime": "15-06-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Alok Anand",
+            "department": "Energy Department Uttar Pradesh",
+            "organisation": "Uttar Pradesh Power Corporation Limited (uppcl)",
+            "office": "Electricity Civil Transmission Circle 132 Kv S/s Martinpurwa Lucknow"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/S AVADH PRINTERS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing without Material; Register; Digital",
+              "total_price": "` 63450.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "DESIGN XPERTZ ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing without Material; Register; Digital",
+              "total_price": "` 70550.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7612039",
+    "status": "Bid Award",
+    "items": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+    "listing": [
+      "Items: Annual Maintenance Service - D...",
+      "Quantity: 183",
+      "Department Name And Address:",
+      "UP LEGISLATIVE COUNCIL SECRETARIAT, VIDHAN BHAWAN LUCKNOW",
+      "Start Date: 04-06-2026 3:38 PM",
+      "End Date: 15-06-2026 4:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9409994",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7612039",
+            "bid_status": "Active",
+            "bid_start_datetime": "04-06-2026 15:38:07",
+            "bid_end_datetime": "15-06-2026 16:00:00",
+            "bid_opening_datetime": "15-06-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "45"
+          },
+          "buyer_details": {
+            "name": "Dharmendra Kumar Mishra",
+            "department": "Up Legislative Council Secretariat, Vidhan Bhawan Lucknow",
+            "organisation": "Up Legislative Council Secretariat, Lucknow",
+            "office": "Up Vidhan Parishad Sachivalaya Vidhan Bhawan Lko"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AGRAY INFOSOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 996300.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "IMPULSE MICROELECTRONICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 1046550.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "BIPS SYSTEMS LIMITED Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 1072000.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7052841",
+    "status": "Bid Award",
+    "items": "Paper-based Printing Services - Printing with Material; Screening Register; Offset,Non Paper Printi",
+    "listing": [
+      "Items: Paper-based Printing Services ...",
+      "Quantity: 25536",
+      "Department Name And Address:",
+      "Health & Family Welfare Department Gujarat",
+      "Start Date: 13-06-2026 3:00 PM",
+      "End Date: 15-06-2026 3:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9460382",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Gamit Madhubhai Kantubhai",
+            "department": "Health & Family Welfare Department Gujarat",
+            "organisation": "National Rural Health Mission (nrhm) State Health Society",
+            "office": "Dhs Surat"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "MANOHAR PRINTERS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Screening Register; Offset,Non Paper Printi",
+              "total_price": "` 233170.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "VINAY OFSET Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Screening Register; Offset,Non Paper Printi",
+              "total_price": "` 233944.00 (Bid Price)",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "STAR ENTERPRISE Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Screening Register; Offset,Non Paper Printi",
+              "total_price": "` 234117.84 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7620072",
+    "status": "Bid Award",
+    "items": "International Air Logistics Service (Weight based) - Import; Air; FCA | Free to Carrier",
+    "listing": [
+      "Items: International Air Logistics Se...",
+      "Quantity: 191",
+      "Department Name And Address:",
+      "Ministry of Civil Aviation Airports Authority of India (AAI)",
+      "Start Date: 05-06-2026 10:48 PM",
+      "End Date: 15-06-2026 11:00 AM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7537343",
+    "status": "Bid Award",
+    "items": "Marine and Transit Insurance Service - burglary and theft; Land, Air,Marine and Transit Insurance S",
+    "listing": [
+      "Items: Marine and Transit Insurance S...",
+      "Quantity: 4",
+      "Department Name And Address:",
+      "Ministry of Civil Aviation AAI Cargo Logistics and Allied Services Co Ltd",
+      "Start Date: 14-05-2026 3:53 PM",
+      "End Date: 13-06-2026 4:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9326306",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7537343",
+            "bid_status": "Active",
+            "bid_start_datetime": "14-05-2026 15:53:14",
+            "bid_end_datetime": "13-06-2026 16:00:00",
+            "bid_opening_datetime": "13-06-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Sudeesh T S",
+            "address": "Sudeesh T S,rijitha.rajan@aaiclas.aero,Integrated Air Cargo Complex, Chennai International Airport, Great Southern Trunk Road, Meenambakkam, Chennai,Kanchipuram,TAMIL NADU,600027,India,044-22569710-",
+            "ministry": "Ministry Of Civil Aviation",
+            "department": "Aai Cargo Logistics And Allied Services Co Ltd",
+            "organisation": "Aaiclas",
+            "office": "Chq"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "THE ORIENTAL INSURANCE COMPANY LIMITED Under PMA",
+              "offered_item": "Item Categories : Marine and Transit Insurance Service - burglary and theft; Land, Air,Marine and Transit Insurance S",
+              "total_price": "` 912140.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "THE NEW INDIA ASSURANCE COMPANY LIMITED Under PMA",
+              "offered_item": "Item Categories : Marine and Transit Insurance Service - burglary and theft; Land, Air,Marine and Transit Insurance S",
+              "total_price": "` 933380.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "NATIONAL INSURANCE COMPANY LIMITED Under PMA",
+              "offered_item": "Item Categories : Marine and Transit Insurance Service - burglary and theft; Land, Air,Marine and Transit Insurance S",
+              "total_price": "` 1577896.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7626816",
+    "status": "Bid Award",
+    "items": "Tentage Service Lumpsum Based - Outdoor Gatherings; Floorings, Lighting, Air Conditioning, Tent Ren",
+    "listing": [
+      "Items: Tentage Service Lumpsum Based ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 11-06-2026 6:00 PM",
+      "End Date: 12-06-2026 6:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9426273",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7626816",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-06-2026 13:25:39",
+            "bid_end_datetime": "08-06-2026 09:00:00",
+            "bid_opening_datetime": "08-06-2026 09:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** GANDHI NAGAR",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Indian Coast Guard",
+            "office": "***********"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9450839",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** GANDHI NAGAR",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Indian Coast Guard",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "THE DIAMOND GROUP Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Outdoor Gatherings; Floorings, Lighting, Air Conditioning, Tent Ren",
+              "total_price": "` 1300000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AMAZE CREATION Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Outdoor Gatherings; Floorings, Lighting, Air Conditioning, Tent Ren",
+              "total_price": "` 1330000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "Jpg marine Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Outdoor Gatherings; Floorings, Lighting, Air Conditioning, Tent Ren",
+              "total_price": "` 1455680.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7640554",
+    "status": "Bid Award",
+    "items": "International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+    "listing": [
+      "Items: International Logistics Servic...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Mines Materials",
+      "Start Date: 09-06-2026 4:26 PM",
+      "End Date: 12-06-2026 5:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9441764",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7640554",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-06-2026 16:26:11",
+            "bid_end_datetime": "12-06-2026 17:00:00",
+            "bid_opening_datetime": "12-06-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Nakka Aruna Raju",
+            "address": "Nakka Aruna Raju,aruna.nakka@nalcoindia.co.in,PORT AREA,NEAR ORE HANDLING COMPLEX,VISHAKHAPATANAM,Visakhapatnam,ANDHRA PRADESH,530035,India,0891-2878204-",
+            "ministry": "Ministry Of Mines",
+            "department": "Materials",
+            "organisation": "National Aluminium Company Limited, Bhubaneswar",
+            "office": "Corporate Office"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "FOCUS TRANS-TECH SHIPPING PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+              "participated_on": "` 1028520.00",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AUSTERE LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+              "participated_on": "` 1255910.00",
+              "mse_mii_status": "L2",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "TRANSWORLD GLOBAL LOGISTICS SOLUTIONS (INDIA) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+              "participated_on": "` 1420280.00",
+              "mse_mii_status": "L3",
+              "status": "Not Evaluated"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "FOCUS TRANS-TECH SHIPPING PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+              "total_price": "` 1028520.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AUSTERE LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+              "total_price": "` 1255910.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "TRANSWORLD GLOBAL LOGISTICS SOLUTIONS (INDIA) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service- Container based - Export; CIF | Cost, Insurance and Freight; Refer",
+              "total_price": "` 1420280.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7535724",
+    "status": "Bid Award",
+    "items": "Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Office Space; Repa",
+    "listing": [
+      "Items: Repair, Maintenance, and Insta...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Delhi Transco Limited (DTL)",
+      "Start Date: 13-05-2026 3:27 PM",
+      "End Date: 12-06-2026 3:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9324563",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7535724",
+            "bid_status": "Active",
+            "bid_start_datetime": "13-05-2026 15:27:57",
+            "bid_end_datetime": "12-06-2026 15:00:00",
+            "bid_opening_datetime": "12-06-2026 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Praveen Kumar Jayant",
+            "department": "Delhi Transco Limited (dtl)",
+            "organisation": "Delhi Transco Limited (dtl)",
+            "office": "Delhi Transco Limited"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "GURU KIRPA TRADERS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Office Space; Repa",
+              "participated_on": "` 47011.20",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "VS SOLANKI ENTERPRISES ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Office Space; Repa",
+              "participated_on": "` 85726.00",
+              "mse_mii_status": "L2",
+              "status": "Not Evaluated"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "GURU KIRPA TRADERS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Office Space; Repa",
+              "total_price": "` 47011.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "VS SOLANKI ENTERPRISES ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Office Space; Repa",
+              "total_price": "` 85726.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7626280",
+    "status": "Bid Award",
+    "items": "GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+    "listing": [
+      "Items: GIS related Survey Services - ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 08-06-2026 1:50 PM",
+      "End Date: 11-06-2026 2:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9425653",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7626280",
+            "bid_status": "Active",
+            "bid_start_datetime": "08-06-2026 13:50:33",
+            "bid_end_datetime": "11-06-2026 14:00:00",
+            "bid_opening_datetime": "11-06-2026 14:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** INDORE",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Dg Of Defence Estate",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "CIVILX SURVEYING AND ENGINEERING CONSULTANTS Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 274000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "GEOWINGS SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 279000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SIMULTANEOUS GEOGRAPHICAL REALITY LABS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 284350.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "J Sharp Technology ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 285750.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "UNICORN VENTURES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 303000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "Trojan Horse Projects Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 328000.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "J.D. ENTERPRISE Under PMA",
+              "offered_item": "Item Categories : GIS related Survey Services - Hectares; DEFENCE LAND; 1:4000; CORS ENABLED DGPS SURVEY; SHP, DWG, C",
+              "total_price": "` 330000.00",
+              "rank": "L7"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7558959",
+    "status": "Bid Award",
+    "items": "GIS related Survey Services - Sq. Kilometer; Forest; 1:4000, 1:2000; Topographic survey and contour",
+    "listing": [
+      "Items: GIS related Survey Services - ...",
+      "Quantity: 10",
+      "Department Name And Address:",
+      "Ministry of Mines NA",
+      "Start Date: 01-06-2026 10:55 AM",
+      "End Date: 11-06-2026 11:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9350417",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7576062",
+    "status": "Bid Award",
+    "items": "Examination Service - Offline; Question Paper Design, Candidate Registration, Admit Card Proccesing",
+    "listing": [
+      "Items: Examination Service - Offline;...",
+      "Quantity: 3000",
+      "Department Name And Address:",
+      "Higher Education Department Uttar Pradesh",
+      "Start Date: 30-05-2026 8:04 PM",
+      "End Date: 10-06-2026 8:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9369418",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7576062",
+            "bid_status": "Active",
+            "bid_start_datetime": "30-05-2026 20:04:05",
+            "bid_end_datetime": "10-06-2026 20:00:00",
+            "bid_opening_datetime": "10-06-2026 20:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Bhoopal Singh",
+            "department": "Higher Education Department Uttar Pradesh",
+            "organisation": "N/a",
+            "office": "Allahabad"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "IPSD PUBLICATIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Examination Service - Offline; Question Paper Design, Candidate Registration, Admit Card Proccesing",
+              "total_price": "` 697500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "MD Enterprises ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Examination Service - Offline; Question Paper Design, Candidate Registration, Admit Card Proccesing",
+              "total_price": "` 699000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "Mega Traders ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Examination Service - Offline; Question Paper Design, Candidate Registration, Admit Card Proccesing",
+              "total_price": "` 700500.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7541470",
+    "status": "Bid Award",
+    "items": "Paper-based Printing Services - Printing with Material; Register; Offset,Paper-based Printing Servi",
+    "listing": [
+      "Items: Paper-based Printing Services ...",
+      "Quantity: 550",
+      "Department Name And Address:",
+      "Ministry of Finance Department of Financial Services",
+      "Start Date: 09-06-2026 4:00 PM",
+      "End Date: 10-06-2026 4:55 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9330803",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7541470",
+            "bid_status": "Active",
+            "bid_start_datetime": "14-05-2026 16:49:26",
+            "bid_end_datetime": "25-05-2026 10:00:00",
+            "bid_opening_datetime": "25-05-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Rajesh Upadhyaya",
+            "address": "Rajesh Upadhyaya,rajesh.upadhyay@licindia.com,LICOF INDIA, JEEVAN PRAKASH BUILDING, DIVISIONAL OFFICE, SANJAY PALCE, MG ROAD, AGRA,Agra,UTTAR PRADESH,282002,India,0562-2527265-",
+            "ministry": "Ministry Of Finance",
+            "department": "Department Of Financial Services",
+            "organisation": "Lic - Life Insurance Corporation Of India",
+            "office": "Doagra"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9437289",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Rajesh Upadhyaya",
+            "address": "Rajesh Upadhyaya,rajesh.upadhyay@licindia.com,LICOF INDIA, JEEVAN PRAKASH BUILDING, DIVISIONAL OFFICE, SANJAY PALCE, MG ROAD, AGRA,Agra,UTTAR PRADESH,282002,India,0562-2527265-",
+            "ministry": "Ministry Of Finance",
+            "department": "Department Of Financial Services",
+            "organisation": "Lic - Life Insurance Corporation Of India",
+            "office": "Doagra"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ARJUN PRINTERS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Register; Offset,Paper-based Printing Servi",
+              "total_price": "` 52930.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "LORD KRISHNA PRINTERS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Register; Offset,Paper-based Printing Servi",
+              "total_price": "` 53055.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "NP ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Register; Offset,Paper-based Printing Servi",
+              "total_price": "` 57405.00 (Bid Price)",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "apgraphic enterprises Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Register; Offset,Paper-based Printing Servi",
+              "total_price": "` 70800.00 (Bid Price)",
+              "rank": "L4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7501727",
+    "status": "Bid Award",
+    "items": "Facility Management Services - LumpSum Based - As per Scope of Work; Pilgrim and Tourist Logistics ",
+    "listing": [
+      "Items: Facility Management Services -...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Sports Youth and Cultural Activities Department Gujarat",
+      "Start Date: 09-06-2026 1:00 PM",
+      "End Date: 10-06-2026 1:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9287042",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7501727",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-05-2026 12:55:24",
+            "bid_end_datetime": "29-05-2026 09:00:00",
+            "bid_opening_datetime": "29-05-2026 09:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Patoliya Hiren Mansukhbhai",
+            "department": "Sports Youth And Cultural Activities Department Gujarat",
+            "organisation": "N/a",
+            "office": "Gandhinagar Head Office"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DREAM PATH CREATION Under PMA",
+              "offered_item": "15-05-2026 15:00:14",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "EMAGINATION DESIGNS Under PMA",
+              "offered_item": "15-05-2026 12:51:26",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "FAME CREATIONS Under PMA",
+              "offered_item": "14-05-2026 22:22:56",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "STAYVEL HOSPITALITY MANAGEMENT Under PMA",
+              "offered_item": "15-05-2026 14:32:23",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ]
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9435863",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Patoliya Hiren Mansukhbhai",
+            "department": "Sports Youth And Cultural Activities Department Gujarat",
+            "organisation": "N/a",
+            "office": "Gandhinagar Head Office"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DREAM PATH CREATION Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - As per Scope of Work; Pilgrim and Tourist Logistics",
+              "total_price": "` 97298500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "STAYVEL HOSPITALITY MANAGEMENT Under PMA",
+              "offered_item": "Item Categories : Facility Management Services - LumpSum Based - As per Scope of Work; Pilgrim and Tourist Logistics",
+              "total_price": "` 97396000.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7603240",
+    "status": "Bid Award",
+    "items": "International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+    "listing": [
+      "Items: International Air Logistics Se...",
+      "Quantity: 5",
+      "Department Name And Address:",
+      "Ministry of Civil Aviation AI ENGINEERING SERVICES LIMITED",
+      "Start Date: 30-05-2026 4:31 PM",
+      "End Date: 09-06-2026 5:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9399982",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7603240",
+            "bid_status": "Active",
+            "bid_start_datetime": "30-05-2026 16:31:35",
+            "bid_end_datetime": "09-06-2026 17:00:00",
+            "bid_opening_datetime": "09-06-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Manish Kumar Harit",
+            "address": "Manish Kumar Harit,manish.harit@aiesl.in,AI Engineering Services Limited (AIESL), NR AVIONICS I G I Airport, Terminal- 2,South West delhi,DELHI,110037,India",
+            "ministry": "Ministry Of Civil Aviation",
+            "department": "Ai Engineering Services Limited",
+            "organisation": "Ai Engineering Services Limited",
+            "office": "Ai Engineering Services Limited"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "KARGO-LEAGUE LOGISTICS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "participated_on": "` 110002.00",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "INTER FREIGHT (FORWARDERS) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "participated_on": "` 114000.00",
+              "mse_mii_status": "L2",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "COMMITTED CARGO CARE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "participated_on": "` 127065.00",
+              "mse_mii_status": "L3",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "LOGITRUST XPRESS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "participated_on": "` 157000.00",
+              "mse_mii_status": "L4",
+              "status": "Not Evaluated"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "KARGO-LEAGUE LOGISTICS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "total_price": "` 110002.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "INTER FREIGHT (FORWARDERS) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "total_price": "` 114000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "COMMITTED CARGO CARE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "total_price": "` 127065.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "LOGITRUST XPRESS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Air Logistics Service (Weight based) - Import; Air; DAP | Delivered at Place",
+              "total_price": "` 157000.00",
+              "rank": "L4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7578845",
+    "status": "Bid Award",
+    "items": "International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+    "listing": [
+      "Items: International Logistics Servic...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Heavy Industries and Public Enterprises Department of Heavy Industry",
+      "Start Date: 07-06-2026 6:00 PM",
+      "End Date: 09-06-2026 12:20 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9432783",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Pankaj Champati Paikrao",
+            "address": "Pankaj Champati Paikrao,pankaj.paikrao@bhel.in,BHEL, Regional Operations Division ( ROD Mumbai) 15th Floor, Centre-1, World Trade Centre (WTC) , Cuffe Parade, Colaba, Mumbai – 400 005,Mumbai,MAHARASHTRA,400005,India",
+            "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+            "department": "Department Of Heavy Industry",
+            "organisation": "Bharat Heavy Electricals Limited (bhel)",
+            "office": "10310019-rod-new Delhi"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "TIGER LOGISTICS (INDIA) LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 33700000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ISSGF INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 33759440.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DEXPRO LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 36260000.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "INDEV INFRA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 36400000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "TOTAL MOVEMENTS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 38380000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "FLYJAC LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 38579654.65",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "PGS GLOBAL FORWARDING (INDIA) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 41599133.00 (Bid Price)",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "UNIWORLD LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 50000000.00 (Bid Price)",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "CJ DARCL LOGISTICS LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Import; Sea; FOB | Free on Board",
+              "total_price": "` 56400000.00 (Bid Price)",
+              "rank": "L9"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7556554",
+    "status": "Bid Award",
+    "items": "International Logistics Service - Lumpsum based - Export; Sea; CIF | Cost, Insurance and Freight",
+    "listing": [
+      "Items: International Logistics Servic...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Heavy Industries and Public Enterprises Department of Heavy Industry",
+      "Start Date: 07-06-2026 10:00 AM",
+      "End Date: 08-06-2026 3:51 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9347736",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7571499",
+    "status": "Bid Award",
+    "items": "DGR Empanelled ESM Security Services",
+    "listing": [
+      "Items: DGR Empanelled ESM Security Se...",
+      "Quantity: 4386",
+      "Department Name And Address:",
+      "Ministry of Civil Aviation AAI Cargo Logistics and Allied Services Co Ltd",
+      "Start Date: 22-05-2026 11:02 AM",
+      "End Date: 08-06-2026 11:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9364370",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7575987",
+    "status": "Bid Award",
+    "items": "Professional Training Services (Version 2) - offline; As per DGCA Approved Slot,Professional Traini",
+    "listing": [
+      "Items: Professional Training Services...",
+      "Quantity: 115",
+      "Department Name And Address:",
+      "Ministry of Civil Aviation AAI Cargo Logistics and Allied Services Co Ltd",
+      "Start Date: 26-05-2026 8:26 PM",
+      "End Date: 05-06-2026 8:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9369332",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7575987",
+            "bid_status": "Active",
+            "bid_start_datetime": "26-05-2026 20:26:06",
+            "bid_end_datetime": "05-06-2026 20:00:00",
+            "bid_opening_datetime": "05-06-2026 20:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Sree Harsha Pakalapati",
+            "address": "Sree Harsha Pakalapati,buycon1.a.tn@gembuyer.in,New International Cargo Terminal, Kolkata Airport, Kolkata,Bankura,WEST BENGAL,700052,India,033-39874424-",
+            "ministry": "Ministry Of Civil Aviation",
+            "department": "Aai Cargo Logistics And Allied Services Co Ltd",
+            "organisation": "Aaiclas",
+            "office": "Chq"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DANGEROUS GOODS MANAGEMENT INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Professional Training Services (Version 2) - offline; As per DGCA Approved Slot,Professional Traini",
+              "total_price": "` 616067.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "TENTACLE AEROLOGISTIX PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Professional Training Services (Version 2) - offline; As per DGCA Approved Slot,Professional Traini",
+              "total_price": "` 785880.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7554268",
+    "status": "Bid Award",
+    "items": "International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+    "listing": [
+      "Items: International Logistics Servic...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Heavy Industries and Public Enterprises Department of Heavy Industry",
+      "Start Date: 04-06-2026 5:00 PM",
+      "End Date: 05-06-2026 6:31 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9345156",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7554268",
+            "bid_status": "Active",
+            "bid_start_datetime": "18-05-2026 16:47:47",
+            "bid_end_datetime": "28-05-2026 16:00:00",
+            "bid_opening_datetime": "28-05-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "36"
+          },
+          "buyer_details": {
+            "name": "Amit Kumar",
+            "address": "Amit Kumar,buycon1351.bhelb.mh@gembuyer.in,BHEL, Regional Operations Division ( ROD Mumbai) 15th Floor, Centre-1, World Trade Centre (WTC) , Cuffe Parade, Colaba, Mumbai – 400 005,Mumbai,MAHARASHTRA,400005,India,-9884657089-",
+            "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+            "department": "Department Of Heavy Industry",
+            "organisation": "Bharat Heavy Electricals Limited (bhel)",
+            "office": "10310019-rod-new Delhi"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9416460",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Amit Kumar",
+            "address": "Amit Kumar,buycon1351.bhelb.mh@gembuyer.in,BHEL, Regional Operations Division ( ROD Mumbai) 15th Floor, Centre-1, World Trade Centre (WTC) , Cuffe Parade, Colaba, Mumbai – 400 005,Mumbai,MAHARASHTRA,400005,India,-9884657089-",
+            "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+            "department": "Department Of Heavy Industry",
+            "organisation": "Bharat Heavy Electricals Limited (bhel)",
+            "office": "10310019-rod-new Delhi"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "INTER FREIGHT (FORWARDERS) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+              "total_price": "` 189000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "FLOMIC GLOBAL LOGISTICS LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+              "total_price": "` 189750.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "COMMITTED CARGO CARE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+              "total_price": "` 197851.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "LOGITRUST XPRESS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+              "total_price": "` 205650.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "KARGO-LEAGUE LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+              "total_price": "` 266864.00 (Bid Price)",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "ISA LOGISTICS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : International Logistics Service - Lumpsum based - Export; Air; DDP | Delivered Duty Paid",
+              "total_price": "` 271186.44 (Bid Price)",
+              "rank": "L6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7552591",
+    "status": "Bid Award",
+    "items": "International Logistics Service - Lumpsum based - Import; Air; FCA | Free to Carrier",
+    "listing": [
+      "Items: International Logistics Servic...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 26-05-2026 5:56 PM",
+      "End Date: 05-06-2026 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9343257",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7429214",
+    "status": "Bid Award",
+    "items": "Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+    "listing": [
+      "Items: Paper-based Printing Services ...",
+      "Quantity: 71810",
+      "Department Name And Address:",
+      "Ministry of Labour and Employment NA",
+      "Start Date: 04-06-2026 1:00 PM",
+      "End Date: 05-06-2026 1:09 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9206014",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7429214",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-04-2026 16:25:55",
+            "bid_end_datetime": "20-04-2026 18:00:00",
+            "bid_opening_datetime": "20-04-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Pritam Saha",
+            "address": "Pritam Saha,pritam.saha@esic.nic.in,Regional Office, ESIC, Panchdeep Bhawan, 5/1 Grant Lane,CALCUTTA CENTRAL DIVISION,WEST BENGAL,700012,India,033-22364451-",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Employees State Insurance Corporation (esic)",
+            "office": "Regional Office Kolkata"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9414333",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Pritam Saha",
+            "address": "Pritam Saha,pritam.saha@esic.nic.in,Regional Office, ESIC, Panchdeep Bhawan, 5/1 Grant Lane,CALCUTTA CENTRAL DIVISION,WEST BENGAL,700012,India,033-22364451-",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Employees State Insurance Corporation (esic)",
+            "office": "Regional Office Kolkata"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "MAX COMMUNICATION Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+              "total_price": "` 193732.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "M/S LASER COMMUNICATION CENTRE Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+              "total_price": "` 194722.50",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "souparna uddyog Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+              "total_price": "` 233180.00 (Bid Price)",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "SUBHO CREATIONS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+              "total_price": "` 320070.00 (Bid Price)",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "RUPA PRINTING WORKS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+              "total_price": "` 349900.00 (Bid Price)",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "SARVASHRESTH INC. Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Certificate; Offset,Paper-based Printing Se",
+              "total_price": "` 360370.00 (Bid Price)",
+              "rank": "L6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7535937",
+    "status": "Bid Award",
+    "items": "Monthly Basis Cab & Taxi Hiring Services - MUV; 2000 km x 320 hours; Local 24*7",
+    "listing": [
+      "Items: Monthly Basis Cab & Taxi Hirin...",
+      "Quantity: 3",
+      "Department Name And Address:",
+      "Stamps and Registartion Department Uttar Pradesh",
+      "Start Date: 25-05-2026 6:10 PM",
+      "End Date: 04-06-2026 7:00 PM"
+    ],
+    "source_page": 3
+  },
+  {
+    "bid_no": "GEM/2026/B/7138971",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Supply of Spare O-Rings and Spacer Parts for HYOSUNG GIS at 765 kV Varana",
+    "listing": [
+      "Items: Custom Bid for Services - Supp...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power POWER GRID Corporation OF INDIA Limited",
+      "Start Date: 27-01-2026 4:46 PM",
+      "End Date: 04-06-2026 4:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/8872040",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7138971",
+            "bid_status": "Active",
+            "bid_start_datetime": "27-01-2026 16:46:41",
+            "bid_end_datetime": "04-06-2026 16:00:00",
+            "bid_opening_datetime": "04-06-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Sumit Solanki",
+            "address": "Sumit Solanki,sumit.solanki@powergrid.in,Power Grid Corporation of India Limited, Northern Region – III, Regional Head Quarter, Plot No. 2A/INS 02, Awadh Vihar Yojana, Amar Shaheed Path, Lucknow – 226002 Uttar Pradesh,LUCKNOW,UTTAR PRADESH,226001,India,-9653044643-",
+            "ministry": "Ministry Of Power",
+            "department": "Power Grid Corporation Of India Limited",
+            "organisation": "Power Grid Corporation Of India Limited",
+            "office": "Corporate Office Gurgaon"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "HYOSUNG T & D INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Supply of Spare O-Rings and Spacer Parts for HYOSUNG GIS at 765 kV Varana",
+              "participated_on": "` 10935165.11",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "HYOSUNG T & D INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Supply of Spare O-Rings and Spacer Parts for HYOSUNG GIS at 765 kV Varana",
+              "total_price": "` 10935165.11",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7475828",
+    "status": "Bid Award",
+    "items": "Paper-based Printing Services - Printing with Material; Forms; as per ATC,Paper-based Printing Serv",
+    "listing": [
+      "Items: Paper-based Printing Services ...",
+      "Quantity: 97408",
+      "Department Name And Address:",
+      "Ministry of Labour and Employment NA",
+      "Start Date: 03-06-2026 11:00 AM",
+      "End Date: 04-06-2026 2:59 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9257894",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7475828",
+            "bid_status": "Active",
+            "bid_start_datetime": "06-05-2026 15:15:10",
+            "bid_end_datetime": "21-05-2026 12:00:00",
+            "bid_opening_datetime": "21-05-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Govind Bhardwaj",
+            "address": "Govind Bhardwaj,govind.bhardwaj@esic.gov.in,ESIC Model Hospital Bharat Nagar,LUDHIANA CITY,PUNJAB,141001,India,0161-2775539-",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Employees State Insurance Corporation (esic)",
+            "office": "Esic Model Hospital Ludhiana  Punajb"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "A B TRADERS Under PMA",
+              "offered_item": "20-05-2026 15:57:18",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AGGARWAL COMPUTER & STATIONERY MART Under PMA",
+              "offered_item": "19-05-2026 18:58:36",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "AZAD TRADERS Under PMA",
+              "offered_item": "21-05-2026 11:01:51",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "FLORID PRINT & PACK PRIVATE LIMITED Under PMA",
+              "offered_item": "20-05-2026 16:56:01",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "MODERN STATIONERS Under PMA",
+              "offered_item": "20-05-2026 19:26:08",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "S H Y D ENTERPRISES Under PMA",
+              "offered_item": "21-05-2026 11:55:05",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "SAMRIDHI GREEN FORCE PRIVATE LIMITED Under PMA",
+              "offered_item": "07-05-2026 12:31:42",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "TIRTHYA SALES AGENCY Under PMA",
+              "offered_item": "21-05-2026 11:39:53",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "TOMAR SALES AND SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "11-05-2026 16:11:50",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            }
+          ]
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9407488",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Govind Bhardwaj",
+            "address": "Govind Bhardwaj,govind.bhardwaj@esic.gov.in,ESIC Model Hospital Bharat Nagar,LUDHIANA CITY,PUNJAB,141001,India,0161-2775539-",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Employees State Insurance Corporation (esic)",
+            "office": "Esic Model Hospital Ludhiana  Punajb"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "A B TRADERS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Forms; as per ATC,Paper-based Printing Serv",
+              "total_price": "` 2144942.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AGGARWAL COMPUTER & STATIONERY MART Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Forms; as per ATC,Paper-based Printing Serv",
+              "total_price": "` 2148320.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "AZAD TRADERS Under PMA",
+              "offered_item": "Item Categories : Paper-based Printing Services - Printing with Material; Forms; as per ATC,Paper-based Printing Serv",
+              "total_price": "` 4395726.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7518735",
+    "status": "Bid Award",
+    "items": "Group Term Insurance Service - Permanent Employees, GISLOH; As per RfP",
+    "listing": [
+      "Items: Group Term Insurance Service -...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Finance Department of Financial Services",
+      "Start Date: 08-05-2026 3:44 PM",
+      "End Date: 03-06-2026 4:00 PM"
+    ],
+    "source_page": 3
+  }
+]

@@ -1,0 +1,2015 @@
+[
+  {
+    "bid_no": "GEM/2026/B/7563279",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, Secu",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Central Armed Police Forces",
+      "Start Date: 19-06-2026 9:00 PM",
+      "End Date: 22-06-2026 11:04 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9355179",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7563279",
+            "bid_status": "Active",
+            "bid_start_datetime": "20-05-2026 13:31:30",
+            "bid_end_datetime": "30-05-2026 18:00:00",
+            "bid_opening_datetime": "30-05-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Dev Darshan Belwal",
+            "address": "Dev Darshan Belwal,dev.13ndrf@gov.in,13 BN NDRF, LADHOWAL, LUDHIANA, PUNJAB,Ludhiana,PUNJAB,141008,India,011-24363260-",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "Central Armed Police Forces",
+            "organisation": "National Disaster Response Force (ndrf)",
+            "office": "13 Bn Ndrf"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9489798",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Dev Darshan Belwal",
+            "address": "Dev Darshan Belwal,dev.13ndrf@gov.in,13 BN NDRF, LADHOWAL, LUDHIANA, PUNJAB,Ludhiana,PUNJAB,141008,India,011-24363260-",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "Central Armed Police Forces",
+            "organisation": "National Disaster Response Force (ndrf)",
+            "office": "13 Bn Ndrf"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, Secu",
+              "total_price": "` 45200.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, Secu",
+              "total_price": "` 45250.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, Secu",
+              "total_price": "` 45850.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7615875",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 16-06-2026 5:00 PM",
+      "End Date: 17-06-2026 5:30 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9414147",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7615875",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-06-2026 10:09:19",
+            "bid_end_datetime": "15-06-2026 11:00:00",
+            "bid_opening_datetime": "15-06-2026 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** BANGALORE",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence Production",
+            "organisation": "Directorate General Of Quality Assurance ( Dgqa)",
+            "office": "***********"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9471058",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7625864",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Cyber Security cum Information System Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Cyber S...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Mau",
+      "Start Date: 05-06-2026 11:40 AM",
+      "End Date: 16-06-2026 5:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9425184",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7625864",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-06-2026 11:40:48",
+            "bid_end_datetime": "16-06-2026 17:00:00",
+            "bid_opening_datetime": "16-06-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Pawan Kumar Kharwar",
+            "department": "Mau",
+            "organisation": "Zilla Sahakari Bank Ltd., Mau",
+            "office": "204 Dev Complex Bhiti Mau 275101"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "CYBERTRYZUB INFOSEC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Cyber Security cum Information System Audit",
+              "total_price": "` 472000.00",
+              "rank": "H1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "TECHOWL INFOSEC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Cyber Security cum Information System Audit",
+              "total_price": "` 273000.00",
+              "rank": "H2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "CYBERSIGMA CONSULTING SERVICES LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Cyber Security cum Information System Audit",
+              "total_price": "` 310000.00",
+              "rank": "H3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7647643",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Cybersecurity and Cyber Resilience Framework (CSCRF)",
+    "listing": [
+      "Items: Cyber Security Audit - Cyberse...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Finance Department of Financial Services",
+      "Start Date: 10-06-2026 5:42 PM",
+      "End Date: 13-06-2026 6:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7599197",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 29-05-2026 4:28 PM",
+      "End Date: 09-06-2026 10:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9395422",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7599197",
+            "bid_status": "Active",
+            "bid_start_datetime": "29-05-2026 16:28:09",
+            "bid_end_datetime": "09-06-2026 10:00:00",
+            "bid_opening_datetime": "09-06-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** KANCHIPURAM",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence Production",
+            "organisation": "Directorate General Of Quality Assurance ( Dgqa)",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SOFTWARE TECHNOLOGY PARKS OF INDIA Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 15859.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 28000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "PYRAMID CYBER SECURITY & FORENSIC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 29500.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED ( MSE Social Category:ST ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 32900.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 33480.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "CERTCUBE LABS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 35000.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "CYPROS TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 35400.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "DIGITAL AGE STRATEGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 39648.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "INFOCUSIT CONSULTING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 42480.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "SECURIUM SOLUTIONS PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 47200.00",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "INNOVADOR INFOTECH PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 95800.00",
+              "rank": "L11"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7593087",
+    "status": "Bid Award",
+    "items": "Manpower Outsourcing Services - Minimum wage - Unskilled; High School; Others",
+    "listing": [
+      "Items: Manpower Outsourcing Services ...",
+      "Quantity: 5",
+      "Department Name And Address:",
+      "Ministry of Labour and Employment NA",
+      "Start Date: 27-05-2026 4:25 PM",
+      "End Date: 06-06-2026 5:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7591830",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Housing & Urban Affairs (MoHUA) LAND AND DEVELOPMENT OFFICE",
+      "Start Date: 27-05-2026 10:12 PM",
+      "End Date: 06-06-2026 4:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9387077",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7591830",
+            "bid_status": "Active",
+            "bid_start_datetime": "27-05-2026 22:12:43",
+            "bid_end_datetime": "06-06-2026 16:00:00",
+            "bid_opening_datetime": "06-06-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "90"
+          },
+          "buyer_details": {
+            "name": "Parvesh Kumar",
+            "address": "Parvesh Kumar,parvesh.kumar35@nic.in,Land and Development Office Room no 611 A, Nirman Bhawan New Delhi,NEW DELHI,DELHI,110011,India,011-23062871-",
+            "ministry": "Ministry Of Housing & Urban Affairs (mohua)",
+            "department": "Land And Development Office",
+            "organisation": "Ldo(mohua)",
+            "office": "Land And Development Office"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "LORCAM SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 8000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SECURIUM SOLUTIONS PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 14160.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "PYRAMID CYBER SECURITY & FORENSIC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 33040.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "LEVITHAN TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 55460.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "CERTCUBE LABS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 80000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "CYBERSIGMA CONSULTING SERVICES LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 80000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "WST TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 89999.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "MAPLECLOUD TECHNOLOGIES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 106200.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "STAQO SOFTWARE PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 106200.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "CODEC NETWORKS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 108796.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "G-INFO TECHNOLOGY SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 118000.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "AKS INFORMATION TECHNOLOGY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 165200.00",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "HITRUST INFOTECH SOLUTION PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 354000.00",
+              "rank": "L11"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7470219",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Central Armed Police Forces",
+      "Start Date: 02-06-2026 7:00 PM",
+      "End Date: 05-06-2026 12:17 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9251728",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7470219",
+            "bid_status": "Active",
+            "bid_start_datetime": "30-04-2026 09:37:19",
+            "bid_end_datetime": "15-05-2026 10:00:00",
+            "bid_opening_datetime": "15-05-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "50"
+          },
+          "buyer_details": {
+            "name": "Devinder Kumar",
+            "address": "Devinder Kumar,devinder.ku71@ssb.gov.in,O/O The Commandant, 2nd Bn SSB Pattan, Baramulla, Near SDPO Office, Pattan, PO - Pattan,BARAMULLA,JAMMU & KASHMIR,193121,India,01954-231162-",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "Central Armed Police Forces",
+            "organisation": "Sashastra Seema Bal (ssb)",
+            "office": "Fhq Ssb New Delhi"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7322075",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Communications Department of Telecommunications (DOT)",
+      "Start Date: 03-06-2026 10:00 AM",
+      "End Date: 04-06-2026 12:07 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9081224",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7322075",
+            "bid_status": "Active",
+            "bid_start_datetime": "27-03-2026 16:13:22",
+            "bid_end_datetime": "09-04-2026 17:00:00",
+            "bid_opening_datetime": "09-04-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Yogesh Goyal",
+            "address": "Yogesh Goyal,adga2.tec@gov.in,Gate No.5, Khurshid lal Bhawan, Janpath, New Delhi 110001,CENTRAL DELHI,DELHI,110001,India",
+            "ministry": "Ministry Of Communications",
+            "department": "Department Of Telecommunications (dot)",
+            "organisation": "Telecommunication Engineering Centre",
+            "office": "Telecom Engineering Centre"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9407017",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Yogesh Goyal",
+            "address": "Yogesh Goyal,adga2.tec@gov.in,Gate No.5, Khurshid lal Bhawan, Janpath, New Delhi 110001,CENTRAL DELHI,DELHI,110001,India",
+            "ministry": "Ministry Of Communications",
+            "department": "Department Of Telecommunications (dot)",
+            "organisation": "Telecommunication Engineering Centre",
+            "office": "Telecom Engineering Centre"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 49000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "G-INFO TECHNOLOGY SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 50000.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7394028",
+    "status": "Bid Award",
+    "items": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; Acer,Annual Maintenan",
+    "listing": [
+      "Items: Annual Maintenance Service - D...",
+      "Quantity: 58",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 02-06-2026 5:00 PM",
+      "End Date: 03-06-2026 5:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7509787",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Central Armed Police Forces",
+      "Start Date: 30-05-2026 12:00 PM",
+      "End Date: 01-06-2026 4:22 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9393736",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7563279",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, Secu",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Central Armed Police Forces",
+      "Start Date: 20-05-2026 1:31 PM",
+      "End Date: 30-05-2026 6:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7559459",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power NA",
+      "Start Date: 20-05-2026 4:51 PM",
+      "End Date: 30-05-2026 1:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7482464",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Central Armed Police Forces",
+      "Start Date: 28-05-2026 4:00 PM",
+      "End Date: 29-05-2026 5:49 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9388862",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Sanjeev Kumar",
+            "address": "SANJEEV KUMAR,sanjeev.kr84@gov.in,Office of the Commandant 26th Bn SSB, Camp at Angara Police Station,Ranchi,JHARKHAND,835103,India",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "Central Armed Police Forces",
+            "organisation": "Sashastra Seema Bal (ssb)",
+            "office": "Fhq Ssb New Delhi"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 19900.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "G-INFO TECHNOLOGY SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 20000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 22000.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 39000.00 (Bid Price)",
+              "rank": "L4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7541305",
+    "status": "Bid Award",
+    "items": "Annual Maintenance service-AIR CONDITIONER",
+    "listing": [
+      "Items: Annual Maintenance service-AIR...",
+      "Quantity: 53",
+      "Department Name And Address:",
+      "Ministry of Ports, Shipping and Waterways NA",
+      "Start Date: 19-05-2026 3:57 PM",
+      "End Date: 29-05-2026 4:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7507588",
+    "status": "Bid Award",
+    "items": "Repair and Overhauling Service - Restructuring of internet connection as per cyber security policy;",
+    "listing": [
+      "Items: Repair and Overhauling Service...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 28-05-2026 11:00 AM",
+      "End Date: 29-05-2026 11:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9293469",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7507588",
+            "bid_status": "Active",
+            "bid_start_datetime": "16-05-2026 11:29:37",
+            "bid_end_datetime": "26-05-2026 10:00:00",
+            "bid_opening_datetime": "26-05-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "31"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** BANGALORE",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9385647",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** BANGALORE",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SRI LAXMI ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Restructuring of internet connection as per cyber security policy;",
+              "total_price": "` 48233.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SV WEB AND INFORMATICS Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Restructuring of internet connection as per cyber security policy;",
+              "total_price": "` 55000.00 (Bid Price)",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "VAGS ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Restructuring of internet connection as per cyber security policy;",
+              "total_price": "` 58900.00 (Bid Price)",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7556496",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Cybersecurity Audit at Khavda RE Park",
+    "listing": [
+      "Items: Custom Bid for Services - Cybe...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power NA",
+      "Start Date: 19-05-2026 9:28 AM",
+      "End Date: 29-05-2026 10:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9347675",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7556496",
+            "bid_status": "Active",
+            "bid_start_datetime": "19-05-2026 09:28:49",
+            "bid_end_datetime": "29-05-2026 10:00:00",
+            "bid_opening_datetime": "29-05-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Prishant Pathik",
+            "address": "Prishant Pathik,buyer1.ntpc.ddn@gembuyer.in,NTPC NETRA, E-3, Udyog Vihar, Phase-II Greater Noida (UP),Gautam Buddha nagar,UTTAR PRADESH,201306,India",
+            "ministry": "Ministry Of Power",
+            "department": "Na",
+            "organisation": "Ntpc Renewable Energy Limited",
+            "office": "Corporate Office Noida"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ROOTNIK LABS CYBER SECURITY PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Cybersecurity Audit at Khavda RE Park",
+              "total_price": "` 153400.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Cybersecurity Audit at Khavda RE Park",
+              "total_price": "` 187740.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Cybersecurity Audit at Khavda RE Park",
+              "total_price": "` 188000.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Cybersecurity Audit at Khavda RE Park",
+              "total_price": "` 198000.00",
+              "rank": "L4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7553870",
+    "status": "Bid Award",
+    "items": "Assets Insurance Service - fire and allied perils Earthquake STF; Standard Fire & Special Perils Co",
+    "listing": [
+      "Items: Assets Insurance Service - fir...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Coal COAL INDIA LIMITED",
+      "Start Date: 18-05-2026 2:39 PM",
+      "End Date: 28-05-2026 3:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7513721",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Printing and Stationery Department Jammu and Kashmir",
+      "Start Date: 27-05-2026 11:00 AM",
+      "End Date: 28-05-2026 12:18 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9300160",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7513721",
+            "bid_status": "Active",
+            "bid_start_datetime": "07-05-2026 16:27:35",
+            "bid_end_datetime": "18-05-2026 16:00:00",
+            "bid_opening_datetime": "18-05-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Dheeraj Kumar Razdan",
+            "department": "Printing And Stationery Department Jammu And Kashmir",
+            "organisation": "Office Of The Genaral Manager Govt Ranbir Press",
+            "office": "Jammu"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9380298",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Dheeraj Kumar Razdan",
+            "department": "Printing And Stationery Department Jammu And Kashmir",
+            "organisation": "Office Of The Genaral Manager Govt Ranbir Press",
+            "office": "Jammu"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ARM INNOVATIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 5080.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "CYPROS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 5100.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 5150.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "ROOTNIK LABS CYBER SECURITY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 6000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "TRIBASTION TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 6391.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "PYRAMID CYBER SECURITY & FORENSIC PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 6950.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "LORCAM SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 7670.00 (Bid Price)",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "SECURIUM SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 8260.00 (Bid Price)",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "CERTCUBE LABS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 13080.00 (Bid Price)",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "SECURENEXGEN LLP Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 17700.00 (Bid Price)",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 18500.00 (Bid Price)",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "DIGITAL AGE STRATEGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 26550.00 (Bid Price)",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "ISECURION TECHNOLOGY & CONSULTING PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 29500.00 (Bid Price)",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "TECHOWL INFOSEC PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 29500.00 (Bid Price)",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "ALLIED BOSTON CONSULTANTS INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 34220.00 (Bid Price)",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 35100.00 (Bid Price)",
+              "rank": "L15"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "CYBERTRYZUB INFOSEC PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 37000.00 (Bid Price)",
+              "rank": "L16"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "MAPLECLOUD TECHNOLOGIES Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 40000.00 (Bid Price)",
+              "rank": "L17"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "G-INFO TECHNOLOGY SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 47200.00 (Bid Price)",
+              "rank": "L18"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "DIGIFORTEX TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 55000.00 (Bid Price)",
+              "rank": "L19"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7451282",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit, Cyber Security Audit, I",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Chandigarh",
+      "Start Date: 26-05-2026 6:00 PM",
+      "End Date: 28-05-2026 10:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9230648",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7451282",
+            "bid_status": "Active",
+            "bid_start_datetime": "17-04-2026 17:04:03",
+            "bid_end_datetime": "02-05-2026 17:00:00",
+            "bid_opening_datetime": "02-05-2026 17:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Gurinder Singh",
+            "department": "Chandigarh",
+            "organisation": "The Chandigarh State Cooperative Bank Ltd",
+            "office": "Sco 1088 89 Sector 22 B Chandigarh"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9378682",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7507392",
+    "status": "Bid Award",
+    "items": "Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+    "listing": [
+      "Items: Financial Audit Services - Aud...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Science and Technology Department of Science and Technology (DST)",
+      "Start Date: 06-05-2026 12:14 PM",
+      "End Date: 27-05-2026 1:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9293249",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7507392",
+            "bid_status": "Active",
+            "bid_start_datetime": "06-05-2026 12:14:50",
+            "bid_end_datetime": "27-05-2026 13:00:00",
+            "bid_opening_datetime": "27-05-2026 13:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Sirsendu Ghosh",
+            "address": "Sirsendu Ghosh,buyer1.most.wb@gembuyer.in,S N BOSE NATIONAL CENTRE FOR BASIC SCIENCES, BLOCK-JD, SECTOR-III, SALT LAKE, KOLKATA-700106,NORTH 24 PARAGANAS,WEST BENGAL,700106,India,033-23351313-505",
+            "ministry": "Ministry Of Science And Technology",
+            "department": "Department Of Science And Technology (dst)",
+            "organisation": "S N Bose National Centre For Basic Sciences (snbncbs)",
+            "office": "Block Jd Salt Lake Sector Iii Kolkata 700106 Wb"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SARKAR GURUMURTHY AND ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 70800.00",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ROY & BAGCHI Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 141600.00",
+              "rank": "H1"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "MOOKHERJEE BISWAS & PATHAK Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 141600.00",
+              "rank": "H2"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "SATENDRA GUPTA & ASSOCIATES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 70800.00",
+              "rank": "H3"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "G R A N D M A R K & ASSOCIATES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 141600.00",
+              "rank": "H4"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "AVSS & ASSOCIATES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 121000.00",
+              "rank": "H5"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "NGRM & ASSOCIATES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 120000.00",
+              "rank": "H6"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "MUKUL GARG & ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 120000.00",
+              "rank": "H7"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "A ARORA & CO ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 177000.00",
+              "rank": "H8"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "D.GARODIA & CO. ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 141600.00",
+              "rank": "H9"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "VINAY BHUSHAN & ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 120000.00",
+              "rank": "H10"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "CHAUDHURI DEBNATH & ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 91000.00",
+              "rank": "H11"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "S H A P Y & ASSOCIATES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 106200.00",
+              "rank": "H12"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "JOSHI SHARMA & COMPANY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 79999.00",
+              "rank": "H13"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "GUPTA SUBHASH KUMAR & CO ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Financial Audit Services - Audit report, Financial Reporting Framework, Review of Financial Stateme",
+              "total_price": "` 76459.00",
+              "rank": "H14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7547089",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Labour and Employment NA",
+      "Start Date: 15-05-2026 5:39 PM",
+      "End Date: 25-05-2026 6:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9337015",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7547089",
+            "bid_status": "Active",
+            "bid_start_datetime": "15-05-2026 17:39:30",
+            "bid_end_datetime": "25-05-2026 18:00:00",
+            "bid_opening_datetime": "25-05-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "60"
+          },
+          "buyer_details": {
+            "name": "Nitin Babanrao Paradkar",
+            "address": "Nitin Babanrao Paradkar,nitin.sohm@dgms.gov.in,DGMS Office, Hirapur,DHANBAD,JHARKHAND,826001,India",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Directorate General Of Mines Safety (dgms)",
+            "office": "Head Office Dhanbad"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED ( MSE Social Category:ST ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 14042.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7536696",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Labour and Employment NA",
+      "Start Date: 13-05-2026 4:57 PM",
+      "End Date: 25-05-2026 4:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9325612",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7536696",
+            "bid_status": "Active",
+            "bid_start_datetime": "13-05-2026 16:57:30",
+            "bid_end_datetime": "25-05-2026 16:00:00",
+            "bid_opening_datetime": "25-05-2026 16:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "60"
+          },
+          "buyer_details": {
+            "name": "Ankit Rao",
+            "address": "Ankit Rao,ankit.rao@epfindia.gov.in,Employees Provident Fund Organisation Civil Lines,GORAKHPUR,UTTAR PRADESH,273009,India,0551-2336126-",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Employees Provident Fund Organisation (epfo)",
+            "office": "Ro Gorakhpur"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 23500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 34740.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED ( MSE Social Category:ST ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 40000.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 43000.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "DIGITAL AGE STRATEGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Security and Compliance Audit",
+              "total_price": "` 59800.00",
+              "rank": "L5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7535795",
+    "status": "Bid Award",
+    "items": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+    "listing": [
+      "Items: Annual Maintenance Service - D...",
+      "Quantity: 69",
+      "Department Name And Address:",
+      "Comptroller and Auditor General (CAG) of India NA",
+      "Start Date: 14-05-2026 4:49 PM",
+      "End Date: 25-05-2026 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9324640",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7535795",
+            "bid_status": "Active",
+            "bid_start_datetime": "14-05-2026 16:49:31",
+            "bid_end_datetime": "25-05-2026 15:00:00",
+            "bid_opening_datetime": "25-05-2026 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "15"
+          },
+          "buyer_details": {
+            "name": "Prince Kumar",
+            "address": "Prince Kumar,princek.def@cag.gov.in,10 A S. K. Bose Road, 8th Floor,East Wing Kolkata-700001,KOLKATA POLICE CYBER HQ,WEST BENGAL,700001,India,033-22481134-",
+            "ministry": "Comptroller And Auditor General (cag) Of India",
+            "department": "Na",
+            "organisation": "N/a",
+            "office": "Principal Director Of Audit (ordnance Factory), Kolkata"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ADVANCED COMPUTER SOLUTIONS Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 28556.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "Eastern System ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 53250.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "I SERVER INFOTECH ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 54450.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "GENERIC SOLUTIONS ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 60888.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "SKYTEL TELE - SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 86200.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "PECON SOFTWARE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance Service - Desktops,  Laptops and Peripherals - Desktop PC; hp,Annual Maintenance",
+              "total_price": "` 188800.00",
+              "rank": "L6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7534137",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Physica...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Labour and Employment NA",
+      "Start Date: 13-05-2026 12:59 PM",
+      "End Date: 25-05-2026 1:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9322845",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7534137",
+            "bid_status": "Active",
+            "bid_start_datetime": "13-05-2026 12:59:34",
+            "bid_end_datetime": "25-05-2026 13:00:00",
+            "bid_opening_datetime": "25-05-2026 13:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Rajan Chhabra",
+            "address": "Rajan Chhabra,regionalofficemrt@gmail.com,NDHI BHAWAN, SECTOR-5, JAGRITI VIHAR, OPPOSITE MEDICAL COLLEGE, MEERUT,MEERUT,UTTAR PRADESH,250004,India,0121-2604637-",
+            "ministry": "Ministry Of Labour And Employment",
+            "department": "Na",
+            "organisation": "Employees Provident Fund Organisation (epfo)",
+            "office": "Meerut Uttar Pradesh"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 22500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 34840.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED ( MSE Social Category:ST ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 35365.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "SECURENEXGEN LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 35400.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "TRIBASTION TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 40000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "MIROX CYBER SECURITY AND TECHNOLOGY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 44840.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 48500.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "DIGITAL AGE STRATEGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Physical Network Audit, Security Audit & Asset Audit",
+              "total_price": "` 49800.00",
+              "rank": "L8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7529818",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security Audit for website and applications",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power RURAL ELECTRIFICATION Corporation Limited",
+      "Start Date: 14-05-2026 3:13 PM",
+      "End Date: 25-05-2026 11:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9318198",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7529818",
+            "bid_status": "Active",
+            "bid_start_datetime": "14-05-2026 15:13:07",
+            "bid_end_datetime": "25-05-2026 11:00:00",
+            "bid_opening_datetime": "25-05-2026 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Sameer Kumar Jha",
+            "address": "Sameer Kumar Jha,sameer@recl.in,REC Limited (Formerly Rural Electrification Corporation Limited) I-4, Sector-29, Gurugram, Haryana, INDIA,GURGAON,HARYANA,122007,India",
+            "ministry": "Ministry Of Power",
+            "department": "Rural Electrification Corporation Limited",
+            "organisation": "Rural Electrification Corporation Limited",
+            "office": "Rec Limited Gurugram"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "LEVITHAN TECHNOLOGIES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 42480.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "PYRAMID CYBER SECURITY & FORENSIC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 70800.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "XIARCH SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 76700.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "ARM INNOVATIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 89975.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 90000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "CYBERTRYZUB INFOSEC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 91000.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "ROOTNIK LABS CYBER SECURITY PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 100300.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "MAPLECLOUD TECHNOLOGIES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 102660.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 108740.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "G-INFO TECHNOLOGY SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 118000.00",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "STAQO SOFTWARE PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 123000.00",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "CERTCUBE LABS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 125000.00",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "AKS INFORMATION TECHNOLOGY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 139240.00",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "CYBERSIGMA CONSULTING SERVICES LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 149860.00",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "GLOBALTECH & INFOSEC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 153400.00",
+              "rank": "L15"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "TATA ADVANCED SYSTEMS LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security Audit for website and applications",
+              "total_price": "` 188800.00",
+              "rank": "L16"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7484220",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Revenue and Relief Department Jammu and Kashmir",
+      "Start Date: 21-05-2026 11:00 AM",
+      "End Date: 22-05-2026 1:08 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9267427",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7498593",
+    "status": "Bid Award",
+    "items": "Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Security Sup",
+    "listing": [
+      "Items: Security Manpower Service (Ver...",
+      "Quantity: 3",
+      "Department Name And Address:",
+      "Ministry of Ports, Shipping and Waterways NA",
+      "Start Date: 04-05-2026 11:42 AM",
+      "End Date: 19-05-2026 12:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9283488",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7489613",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA ",
+    "listing": [
+      "Items: Cyber Security Audit - Infrast...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 04-05-2026 9:14 AM",
+      "End Date: 19-05-2026 10:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9273401",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7489613",
+            "bid_status": "Active",
+            "bid_start_datetime": "04-05-2026 09:14:10",
+            "bid_end_datetime": "19-05-2026 10:00:00",
+            "bid_opening_datetime": "19-05-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** PUNE",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence Production",
+            "organisation": "Directorate General Of Quality Assurance ( Dgqa)",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 13500.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "PYRAMID CYBER SECURITY & FORENSIC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 35400.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 68780.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "ALLIED BOSTON CONSULTANTS INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 70800.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "DIGITAL AGE STRATEGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 97704.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "SECURIUM SOLUTIONS PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 112100.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "TECHOWL INFOSEC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 118000.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "CYBERSIGMA CONSULTING SERVICES LLP ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Infrastructure Audit, Operations, Management Process and Control Audit, SLA",
+              "total_price": "` 354000.00",
+              "rank": "L8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7098033",
+    "status": "Bid Award",
+    "items": "Cyber Security Audit - Security and Compliance Audit",
+    "listing": [
+      "Items: Cyber Security Audit - Securit...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs Central Armed Police Forces",
+      "Start Date: 15-05-2026 6:00 PM",
+      "End Date: 18-05-2026 2:31 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9331431",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Sudhir Kumar",
+            "address": "Sudhir Kumar,aigaps@cisf.gov.in,CISF APS HQ GBS MAHIPALPUR NEW DELHI-110037,NEW DELHI,DELHI,110037,India,011-26782159-",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "Central Armed Police Forces",
+            "organisation": "Central Industrial Security Force (cisf)",
+            "office": "Cisf Hq 13 Block Cgo Complex Lodhi Road  Delhi 03"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "TRIBASTION TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 12420.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "PYRAMID CYBER SECURITY & FORENSIC PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 14400.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SECNIC CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 19970.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "ROOTNIK LABS CYBER SECURITY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 22500.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "G-INFO TECHNOLOGY SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 25000.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "DREAMWORKS INFOTECH PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 29000.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "CYPROS TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 32000.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "ANB SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 34350.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "CYBERSIGMA CONSULTING SERVICES LLP Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 35300.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "LEVITHAN TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 74340.00 (Bid Price)",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "SECURENEXGEN LLP Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 94400.00 (Bid Price)",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "CERTCUBE LABS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 94400.00 (Bid Price)",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "DR cbs cyber security services llp Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 95000.00 (Bid Price)",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "SVELTETECH TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 95000.00 (Bid Price)",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "AKS INFORMATION TECHNOLOGY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 106200.00 (Bid Price)",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "ALLIED BOSTON CONSULTANTS INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 106200.00 (Bid Price)",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "DIGITAL AGE STRATEGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 117000.00 (Bid Price)",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "WST TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Cyber Security Audit - Security and Compliance Audit",
+              "total_price": "` 118000.00 (Bid Price)",
+              "rank": "L15"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

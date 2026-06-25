@@ -1,0 +1,2989 @@
+[
+  {
+    "bid_no": "GEM/2026/B/7560590",
+    "status": "Financial Evaluation",
+    "items": "Custom Bid for Services - Hiring of one Truck at NBQ for disaster management work for a period of t",
+    "listing": [
+      "Items: Custom Bid for Services - Hiri...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Railways Indian Railways",
+      "Start Date: 29-05-2026 5:57 PM",
+      "End Date: 22-06-2026 11:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9352170",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7537219",
+    "status": "Financial Evaluation",
+    "items": "Annual Maintenance service-AIR CONDITIONER,Annual Maintenance service-AIR CONDITIONER,Annual Mainte",
+    "listing": [
+      "Items: Annual Maintenance service-AIR...",
+      "Quantity: 29",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 16-06-2026 7:00 PM",
+      "End Date: 18-06-2026 10:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9326175",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9471647",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "U Udhayaraj",
+            "department": "Revenue And Disaster Management Department Puducherry",
+            "organisation": "N/a",
+            "office": "District Collector"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SMART VHT CONSULTANTS Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance service-AIR CONDITIONER,Annual Maintenance service-AIR CONDITIONER,Annual Mainte",
+              "total_price": "` 255780.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "ETA ENGINEERING PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Annual Maintenance service-AIR CONDITIONER,Annual Maintenance service-AIR CONDITIONER,Annual Mainte",
+              "total_price": "` 258588.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7605533",
+    "status": "Financial Evaluation",
+    "items": "Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+    "listing": [
+      "Items: Cleaning, Sanitation and Disin...",
+      "Quantity: 3474",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 01-06-2026 12:25 PM",
+      "End Date: 11-06-2026 1:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7537219",
+    "status": "Financial Evaluation",
+    "items": "Annual Maintenance service-AIR CONDITIONER,Annual Maintenance service-AIR CONDITIONER,Annual Mainte",
+    "listing": [
+      "Items: Annual Maintenance service-AIR...",
+      "Quantity: 29",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 28-05-2026 10:42 AM",
+      "End Date: 08-06-2026 11:00 AM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7585662",
+    "status": "Financial Evaluation",
+    "items": "Short Term Cab & Taxi Hiring Services - Premium Sedan; Local 24*7; 80Kms x 10Hrs",
+    "listing": [
+      "Items: Short Term Cab & Taxi Hiring S...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Revenue and Disaster Department Chhattisgarh",
+      "Start Date: 26-05-2026 11:13 AM",
+      "End Date: 05-06-2026 12:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9380303",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7585662",
+            "bid_status": "Active",
+            "bid_start_datetime": "26-05-2026 11:13:49",
+            "bid_end_datetime": "05-06-2026 12:00:00",
+            "bid_opening_datetime": "05-06-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "70"
+          },
+          "buyer_details": {
+            "name": "Kishor Pandey",
+            "department": "Revenue And Disaster Department Chhattisgarh",
+            "organisation": "N/a",
+            "office": "Baster"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/S RAVI TRADERS Under PMA",
+              "offered_item": "Item Categories : Short Term Cab & Taxi Hiring Services - Premium Sedan; Local 24*7; 80Kms x 10Hrs",
+              "total_price": "` 894250.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "HEMANT TRADERS AND HARDWARE Under PMA",
+              "offered_item": "Item Categories : Short Term Cab & Taxi Hiring Services - Premium Sedan; Local 24*7; 80Kms x 10Hrs",
+              "total_price": "` 896075.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "ADVIK SALES Under PMA",
+              "offered_item": "Item Categories : Short Term Cab & Taxi Hiring Services - Premium Sedan; Local 24*7; 80Kms x 10Hrs",
+              "total_price": "` 897900.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7458814",
+    "status": "Financial Evaluation",
+    "items": "Custom Bid for Services - VM SNAPSHOT, INCREMENTAL BACKUP AND DISASTER RECOVERY TOOL",
+    "listing": [
+      "Items: Custom Bid for Services - VM S...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 28-04-2026 10:06 AM",
+      "End Date: 08-05-2026 11:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9239162",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7485467",
+    "status": "Financial Evaluation",
+    "items": "Repair and Overhauling Service - Electronic Weighing Systems as per IS 9281 (Part I, Part II, Part ",
+    "listing": [
+      "Items: Repair and Overhauling Service...",
+      "Quantity: 2",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 28-04-2026 5:55 PM",
+      "End Date: 07-05-2026 9:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9268778",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7429596",
+    "status": "Financial Evaluation",
+    "items": "Hiring of Sanitation Service - Manpower Based Model - Sweeper; 6; All Areas; All Areas; Daily; 1",
+    "listing": [
+      "Items: Hiring of Sanitation Service -...",
+      "Quantity: 7",
+      "Department Name And Address:",
+      "Revenue Rehabilitation and Disaster Management Department Punjab",
+      "Start Date: 09-04-2026 3:59 PM",
+      "End Date: 20-04-2026 4:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9206428",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7310272",
+    "status": "Financial Evaluation",
+    "items": "Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+    "listing": [
+      "Items: Security Manpower Service (Ver...",
+      "Quantity: 10",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Odisha",
+      "Start Date: 02-03-2026 3:00 PM",
+      "End Date: 02-04-2026 1:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9067272",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7310272",
+            "bid_status": "Active",
+            "bid_start_datetime": "02-03-2026 15:00:59",
+            "bid_end_datetime": "02-04-2026 13:00:00",
+            "bid_opening_datetime": "02-04-2026 13:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Naba Kishor Singh",
+            "department": "Revenue And Disaster Management Department Odisha",
+            "organisation": "Odisha State Disaster Management Authority (osdma)",
+            "office": "Bhubaneswar"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "RIS MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AADVITA INTEGRATED SOLUTIONS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "Warriors Security And Manpower Solution Services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "Care Security and Allied Service Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "AON Technology Services Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "SAMRAT SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "REAL SECURITY AND INTEGRATED SERVICES INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "active security and intelligence services Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "JAI DURGA SHAKTI SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "BISWESWAR ROUT SECURITY AGENCY Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "S1 SECURITY SERVICES (INDIA) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "MANOJ KUMAR PATRA Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "BDOT TECHMEC MANAGEMENT AND MULTISERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "OM SARALA SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "ROYAL INDIA SECURITAUS LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "POORV SAINIK SECURITY SERVICE ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "Ujjwal common service center ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "ALPHA MANPOWER SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "PREWAVE SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "BLACK DIAMOND SECURITY AND PLACEMENT SERVICE Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "PLUS 360 FAHRENHEIT SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "22",
+              "seller_name": "SUDHA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "23",
+              "seller_name": "GUARD FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "24",
+              "seller_name": "NEWMARK INDUSTRIAL SECURITY & SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "25",
+              "seller_name": "Right 4 Choice Manpower & Security Services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "26",
+              "seller_name": "GROUP 1 SECURITY FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "27",
+              "seller_name": "M/S. DEBABRATA MOHAPATRA SECURITY AGENCY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "28",
+              "seller_name": "SEVEN STARS INTELLIGENT SECURITY (I) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "29",
+              "seller_name": "JAYA DURGA SECURITY AND SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "30",
+              "seller_name": "MAGNOVA CONSULTING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "31",
+              "seller_name": "GISS SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "32",
+              "seller_name": "MARTIAN TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "33",
+              "seller_name": "BHARAT SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "34",
+              "seller_name": "KEDAR SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "35",
+              "seller_name": "M.M. EAGLES SECURITY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "36",
+              "seller_name": "ALAKA MANPOWER AND SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "37",
+              "seller_name": "VISWARAJ SECURE SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "38",
+              "seller_name": "LAVISH 365 PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "39",
+              "seller_name": "SINGH SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "40",
+              "seller_name": "CUSTODIAN CORPORATE SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "41",
+              "seller_name": "TIMES SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "42",
+              "seller_name": "MAHAVEER TECHNOCRATS PRIVATE LIMITED ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "43",
+              "seller_name": "INDUSTRIAL SECURITY & ALLIED SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "44",
+              "seller_name": "KAMAL SINGH AND SONS COMPANY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "45",
+              "seller_name": "MVSF MANAGEMENT SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "46",
+              "seller_name": "AWADH SECURITY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "47",
+              "seller_name": "S. S. V. ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "48",
+              "seller_name": "PRATYUSH Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "49",
+              "seller_name": "JAI HIND SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "50",
+              "seller_name": "INDUSTRIAL SECURITY FORCE Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "51",
+              "seller_name": "BLAZE SECURITIES & SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "52",
+              "seller_name": "RRR & ASSOCIATES ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "53",
+              "seller_name": "J B SECURITY SERVICE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "54",
+              "seller_name": "PRO SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "55",
+              "seller_name": "SSS SECURITY FORCE (OPC) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "56",
+              "seller_name": "YASHRAJ SECURITY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "57",
+              "seller_name": "GRAND AEON SECURITY MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "58",
+              "seller_name": "TANU SHREE MENPOWER SERVICE ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "59",
+              "seller_name": "ENSURE SECURE SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "60",
+              "seller_name": "MAA SUBARNAMUKHI MANPOWER SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "61",
+              "seller_name": "MAA CHARCHIKA MANPOWER SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "62",
+              "seller_name": "WORLDSTAR SAFETY MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "63",
+              "seller_name": "GROUP EX SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "64",
+              "seller_name": "mass advanced staffing services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "65",
+              "seller_name": "RAZ MENPOWER AND CONSULT ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "66",
+              "seller_name": "RAMACHANDI SECURITY SERVICE Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "67",
+              "seller_name": "UNIFIED MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "68",
+              "seller_name": "BEST GUARD FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "69",
+              "seller_name": "DRIVYA SECURITY AND INTEGRATED SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "70",
+              "seller_name": "RUDRA SECURITY & MANPOWER PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "71",
+              "seller_name": "JUST START CONSULTANCY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "72",
+              "seller_name": "HERALD MANPOWER AND PLACEMENT SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "73",
+              "seller_name": "IDEAL SECURITY & CONSULTANTS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "74",
+              "seller_name": "CENTRAL SECURITY AND PLACEMENT AGENCY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "75",
+              "seller_name": "DRONE SECURITY AGENCY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "76",
+              "seller_name": "M/s Infinity Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "77",
+              "seller_name": "SMARTNEX SECURITY AND ALLIED SERVICES (OPC) PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "78",
+              "seller_name": "DREAM POWER SECURITY SERVICE PRIVATE LIMITED ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "79",
+              "seller_name": "APLUSA SECURITY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "80",
+              "seller_name": "GANESH PLACEMENT SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "81",
+              "seller_name": "Tripathi Brothers Services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "82",
+              "seller_name": "FRIENDS SECURITY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "83",
+              "seller_name": "METRO GUARDS (INDIA) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "84",
+              "seller_name": "SIDHESHWAR SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "85",
+              "seller_name": "M/S ANIL SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "86",
+              "seller_name": "QPLUS SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "87",
+              "seller_name": "GRIPPED SERVICES INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "88",
+              "seller_name": "MAA TARINI SECURITY & SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "89",
+              "seller_name": "SAFELY PROTECTION SECURITY FORCE SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "90",
+              "seller_name": "Narayani Security Service ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "91",
+              "seller_name": "M/S SEKHAR SYNDICATE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "92",
+              "seller_name": "AARYA PROTECTION FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "93",
+              "seller_name": "KARAN SINGH SECURITY AGENCY PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "94",
+              "seller_name": "TOP GUARDING SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "95",
+              "seller_name": "ARYAN SECURITY SERVICE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2202073.20",
+              "mse_mii_status": "L1",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "96",
+              "seller_name": "YATRI CORPORATE SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "participated_on": "` 2403576.00",
+              "mse_mii_status": "L2",
+              "status": "Not Evaluated"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "RIS MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AADVITA INTEGRATED SOLUTIONS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "Warriors Security And Manpower Solution Services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "Care Security and Allied Service Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "AON Technology Services Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "SAMRAT SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "REAL SECURITY AND INTEGRATED SERVICES INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "active security and intelligence services Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "JAI DURGA SHAKTI SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "BISWESWAR ROUT SECURITY AGENCY Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "S1 SECURITY SERVICES (INDIA) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "MANOJ KUMAR PATRA Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "BDOT TECHMEC MANAGEMENT AND MULTISERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "OM SARALA SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "ROYAL INDIA SECURITAUS LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "POORV SAINIK SECURITY SERVICE ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "Ujjwal common service center ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "ALPHA MANPOWER SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "PREWAVE SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "BLACK DIAMOND SECURITY AND PLACEMENT SERVICE Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "PLUS 360 FAHRENHEIT SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "22",
+              "seller_name": "SUDHA ENTERPRISES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "23",
+              "seller_name": "GUARD FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "24",
+              "seller_name": "NEWMARK INDUSTRIAL SECURITY & SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "25",
+              "seller_name": "Right 4 Choice Manpower & Security Services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "26",
+              "seller_name": "GROUP 1 SECURITY FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "27",
+              "seller_name": "M/S. DEBABRATA MOHAPATRA SECURITY AGENCY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "28",
+              "seller_name": "SEVEN STARS INTELLIGENT SECURITY (I) PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "29",
+              "seller_name": "JAYA DURGA SECURITY AND SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "30",
+              "seller_name": "MAGNOVA CONSULTING PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "31",
+              "seller_name": "GISS SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "32",
+              "seller_name": "MARTIAN TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "33",
+              "seller_name": "BHARAT SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "34",
+              "seller_name": "KEDAR SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "35",
+              "seller_name": "M.M. EAGLES SECURITY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "36",
+              "seller_name": "ALAKA MANPOWER AND SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "37",
+              "seller_name": "VISWARAJ SECURE SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "38",
+              "seller_name": "LAVISH 365 PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "39",
+              "seller_name": "SINGH SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "40",
+              "seller_name": "CUSTODIAN CORPORATE SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "41",
+              "seller_name": "TIMES SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "42",
+              "seller_name": "MAHAVEER TECHNOCRATS PRIVATE LIMITED ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "43",
+              "seller_name": "INDUSTRIAL SECURITY & ALLIED SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "44",
+              "seller_name": "KAMAL SINGH AND SONS COMPANY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "45",
+              "seller_name": "MVSF MANAGEMENT SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "46",
+              "seller_name": "AWADH SECURITY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "47",
+              "seller_name": "S. S. V. ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "48",
+              "seller_name": "PRATYUSH Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "49",
+              "seller_name": "JAI HIND SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "50",
+              "seller_name": "INDUSTRIAL SECURITY FORCE Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "51",
+              "seller_name": "BLAZE SECURITIES & SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "52",
+              "seller_name": "RRR & ASSOCIATES ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "53",
+              "seller_name": "J B SECURITY SERVICE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "54",
+              "seller_name": "PRO SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "55",
+              "seller_name": "SSS SECURITY FORCE (OPC) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "56",
+              "seller_name": "YASHRAJ SECURITY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "57",
+              "seller_name": "GRAND AEON SECURITY MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "58",
+              "seller_name": "TANU SHREE MENPOWER SERVICE ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "59",
+              "seller_name": "ENSURE SECURE SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "60",
+              "seller_name": "MAA SUBARNAMUKHI MANPOWER SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "61",
+              "seller_name": "MAA CHARCHIKA MANPOWER SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "62",
+              "seller_name": "WORLDSTAR SAFETY MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "63",
+              "seller_name": "GROUP EX SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "64",
+              "seller_name": "mass advanced staffing services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "65",
+              "seller_name": "RAZ MENPOWER AND CONSULT ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "66",
+              "seller_name": "RAMACHANDI SECURITY SERVICE Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "67",
+              "seller_name": "UNIFIED MANAGEMENT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "68",
+              "seller_name": "BEST GUARD FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "69",
+              "seller_name": "DRIVYA SECURITY AND INTEGRATED SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "70",
+              "seller_name": "RUDRA SECURITY & MANPOWER PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "71",
+              "seller_name": "JUST START CONSULTANCY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "72",
+              "seller_name": "HERALD MANPOWER AND PLACEMENT SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "73",
+              "seller_name": "IDEAL SECURITY & CONSULTANTS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "74",
+              "seller_name": "CENTRAL SECURITY AND PLACEMENT AGENCY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "75",
+              "seller_name": "DRONE SECURITY AGENCY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "76",
+              "seller_name": "M/s Infinity Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "77",
+              "seller_name": "SMARTNEX SECURITY AND ALLIED SERVICES (OPC) PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "78",
+              "seller_name": "DREAM POWER SECURITY SERVICE PRIVATE LIMITED ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "79",
+              "seller_name": "APLUSA SECURITY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "80",
+              "seller_name": "GANESH PLACEMENT SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "81",
+              "seller_name": "Tripathi Brothers Services ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "82",
+              "seller_name": "FRIENDS SECURITY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "83",
+              "seller_name": "METRO GUARDS (INDIA) PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "84",
+              "seller_name": "SIDHESHWAR SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "85",
+              "seller_name": "M/S ANIL SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "86",
+              "seller_name": "QPLUS SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "87",
+              "seller_name": "GRIPPED SERVICES INDIA PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "88",
+              "seller_name": "MAA TARINI SECURITY & SERVICES Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "89",
+              "seller_name": "SAFELY PROTECTION SECURITY FORCE SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "90",
+              "seller_name": "Narayani Security Service ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "91",
+              "seller_name": "M/S SEKHAR SYNDICATE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "92",
+              "seller_name": "AARYA PROTECTION FORCE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "93",
+              "seller_name": "KARAN SINGH SECURITY AGENCY PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "94",
+              "seller_name": "TOP GUARDING SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "95",
+              "seller_name": "ARYAN SECURITY SERVICE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2202073.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "96",
+              "seller_name": "YATRI CORPORATE SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+              "total_price": "` 2403576.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7327499",
+    "status": "Financial Evaluation",
+    "items": "Manpower Outsourcing Services - Fixed Remuneration - Technical Assistant; Data Entry Operator; Dipl",
+    "listing": [
+      "Items: Manpower Outsourcing Services ...",
+      "Quantity: 19",
+      "Department Name And Address:",
+      "Revenue and Disaster Department Chhattisgarh",
+      "Start Date: 06-03-2026 6:28 PM",
+      "End Date: 25-03-2026 3:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9087460",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7354765",
+    "status": "Financial Evaluation",
+    "items": "Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+    "listing": [
+      "Items: Manpower Outsourcing Services ...",
+      "Quantity: 14",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Haryana",
+      "Start Date: 13-03-2026 5:20 PM",
+      "End Date: 23-03-2026 6:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9119629",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7354765",
+            "bid_status": "Active",
+            "bid_start_datetime": "13-03-2026 17:20:40",
+            "bid_end_datetime": "23-03-2026 18:00:00",
+            "bid_opening_datetime": "23-03-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "Naresh",
+            "department": "Revenue And Disaster Management Department Haryana",
+            "organisation": "N/a",
+            "office": "District Administration"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "FIVE FORCE SECURITY SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "LAKSHAY SECURITY & PLACEMENT SERVICE ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "HIGH TECH SECURITY SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "DAKSH SECURITY & SERVICES Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "SHIVANSHI SECURITY SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "B.R. & COMPANY ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "ARMY ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "SHINING STAR OUTSOURCE SERVICES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "Global Arrays Consultant ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "TOP MANPOWER MANAGMENT SERVICES PRIVATE LIMITED ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "K.P GROUP 9 SECURITY &HOUSEKEEPING SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "DELTA 300 ULTIMATE MANPOWER SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "SAFELY PROTECTION SECURITY FORCE SERVICES ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Manpower Outsourcing Services - Fixed Remuneration - Admin; Computer Operator; Graduate,Manpower Ou",
+              "total_price": "` 7538810.76",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7130358",
+    "status": "Financial Evaluation",
+    "items": "Manpower Outsourcing Services - Minimum wage - Skilled; Graduate; Admin",
+    "listing": [
+      "Items: Manpower Outsourcing Services ...",
+      "Quantity: 5",
+      "Department Name And Address:",
+      "Ministry of Home Affairs National Institute of Disaster Management",
+      "Start Date: 12-02-2026 12:36 PM",
+      "End Date: 16-03-2026 4:00 PM"
+    ],
+    "source_page": 2
+  },
+  {
+    "bid_no": "GEM/2026/B/7276123",
+    "status": "Financial Evaluation",
+    "items": "Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+    "listing": [
+      "Items: Cleaning, Sanitation and Disin...",
+      "Quantity: 11892",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 24-02-2026 10:08 PM",
+      "End Date: 12-03-2026 8:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9027932",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7276123",
+            "bid_status": "Active",
+            "bid_start_datetime": "24-02-2026 22:08:58",
+            "bid_end_datetime": "12-03-2026 20:00:00",
+            "bid_opening_datetime": "12-03-2026 20:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Rijumon P",
+            "department": "Revenue And Disaster Management Department Puducherry",
+            "organisation": "N/a",
+            "office": "Regional Administrator Mahe"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "T K T SECURITY SERVICE Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+              "total_price": "` 390652.20",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "tkt enterprises Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+              "total_price": "` 564275.40",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "KVN MANPOWER SERVICES ( MSE Social Category:SC ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+              "total_price": "` 1345579.80",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "GOVINDARAJ ENTERPRISES ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+              "total_price": "` 2257101.60",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "DEVI TRADERS ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+              "total_price": "` 2691159.60",
+              "rank": "L5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7276147",
+    "status": "Financial Evaluation",
+    "items": "Security Manpower Service (Version 2.0) - Office/Commercial/Institutions/ Residential; Unarmed Secu",
+    "listing": [
+      "Items: Security Manpower Service (Ver...",
+      "Quantity: 3",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 24-02-2026 10:05 PM",
+      "End Date: 07-03-2026 11:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9027956",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7198019",
+    "status": "Financial Evaluation",
+    "items": "Manpower Outsourcing Services - Fixed Remuneration - Technical Assistant; Data Entry Operator; Dipl",
+    "listing": [
+      "Items: Manpower Outsourcing Services ...",
+      "Quantity: 28",
+      "Department Name And Address:",
+      "Revenue and Disaster Department Chhattisgarh",
+      "Start Date: 05-02-2026 5:36 PM",
+      "End Date: 25-02-2026 6:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/8939181",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6913562",
+    "status": "Financial Evaluation",
+    "items": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+    "listing": [
+      "Items: Canteen Service - Best Price ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs National Institute of Disaster Management",
+      "Start Date: 18-02-2026 3:00 PM",
+      "End Date: 19-02-2026 6:37 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8613871",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6913562",
+            "bid_status": "Active",
+            "bid_start_datetime": "16-12-2025 11:13:29",
+            "bid_end_datetime": "09-01-2026 12:00:00",
+            "bid_opening_datetime": "09-01-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Jay Narayan Jha",
+            "address": "Jay Narayan Jha,jnjha.nidm@nic.in,NIDM, Plot no. 15, Pocket-3, Block-B, Sector-29, Rohini, Delhi,North West delhi,DELHI,110042,India",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "National Institute Of Disaster Management",
+            "organisation": "National Institute Of Disaster Management",
+            "office": "National Institute Of Disaster Management"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "A&A BROTHERS Under PMA",
+              "offered_item": "08-01-2026 22:51:03",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AGARWAL ENTERPRISES Under PMA",
+              "offered_item": "08-01-2026 13:22:37",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "APNA ZAIKA Under PMA",
+              "offered_item": "01-01-2026 11:48:23",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "ARVIND KUMAR PANDEY Under PMA",
+              "offered_item": "08-01-2026 21:21:54",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "chef hospitality services Under PMA",
+              "offered_item": "08-01-2026 14:19:49",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "DELICIOUS BHOJANAM Under PMA",
+              "offered_item": "06-01-2026 11:37:48",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "JAI MITHILA CATERING SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "05-01-2026 11:58:26",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "KANHAJI HOSPITALITY Under PMA",
+              "offered_item": "09-01-2026 11:52:04",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "KANISHKA CREATIONS & SERVICES Under PMA",
+              "offered_item": "03-01-2026 21:06:30",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "M/s SHRI DEVI CATERERS Under PMA",
+              "offered_item": "09-01-2026 10:53:22",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "MANNU ENTERPRISE Under PMA",
+              "offered_item": "05-01-2026 19:42:57",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "Modern Caterer Under PMA",
+              "offered_item": "09-01-2026 11:40:41",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "NEW PREM DHABA Under PMA",
+              "offered_item": "07-01-2026 20:46:51",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "OP ARORA & ASSOCIATES Under PMA",
+              "offered_item": "08-01-2026 21:24:57",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "PENTAGUN PLUS SECURITY SERVICES Under PMA",
+              "offered_item": "09-01-2026 11:34:38",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "PREMANAND CANTEEN CONTRACTOR Under PMA",
+              "offered_item": "09-01-2026 11:36:16",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "RINTU ASSOCIATES Under PMA",
+              "offered_item": "05-01-2026 23:02:23",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "SEVEN BROTHERS PROJECTS Under PMA",
+              "offered_item": "07-01-2026 23:26:18",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "SHIVAKSH ENTERPRISES Under PMA",
+              "offered_item": "05-01-2026 14:53:49",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "SUHANA EVENT SERVICE Under PMA",
+              "offered_item": "05-01-2026 14:55:05",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "TIWARI AND COMPANY Under PMA",
+              "offered_item": "09-01-2026 11:37:17",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "22",
+              "seller_name": "TOMAR CATERERS Under PMA",
+              "offered_item": "18-12-2025 20:01:33",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "23",
+              "seller_name": "TRANSFIELD SERVICES Under PMA",
+              "offered_item": "23-12-2025 22:29:14",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "24",
+              "seller_name": "V. K. ENTERPRISES Under PMA",
+              "offered_item": "06-01-2026 14:02:24",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ]
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8999835",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "Jay Narayan Jha",
+            "address": "Jay Narayan Jha,jnjha.nidm@nic.in,NIDM, Plot no. 15, Pocket-3, Block-B, Sector-29, Rohini, Delhi,North West delhi,DELHI,110042,India",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "National Institute Of Disaster Management",
+            "organisation": "National Institute Of Disaster Management",
+            "office": "National Institute Of Disaster Management"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "APNA ZAIKA Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 199.10",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "RINTU ASSOCIATES Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 209.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "TIWARI AND COMPANY Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 280.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "KANISHKA CREATIONS & SERVICES Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 440.00 (Bid Price)",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "ARVIND KUMAR PANDEY Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 927.00 (Bid Price)",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "MANNU ENTERPRISE Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 960.00 (Bid Price)",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "KANHAJI HOSPITALITY Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 1178.47 (Bid Price)",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "TRANSFIELD SERVICES Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 1325.00 (Bid Price)",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "Modern Caterer Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 1455.00 (Bid Price)",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "PENTAGUN PLUS SECURITY SERVICES Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 2268.00 (Bid Price)",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "M/s SHRI DEVI CATERERS Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 2916.00 (Bid Price)",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "DELICIOUS BHOJANAM Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 215904.00 (Bid Price)",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "V. K. ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 3985678.00 (Bid Price)",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "NEW PREM DHABA Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 4000000.00 (Bid Price)",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "A&A BROTHERS Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 4000000.00 (Bid Price)",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "SEVEN BROTHERS PROJECTS Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 4000000.00 (Bid Price)",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "chef hospitality services Under PMA",
+              "offered_item": "Item Categories : Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+              "total_price": "` 32136000.00 (Bid Price)",
+              "rank": "L15"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7192327",
+    "status": "Financial Evaluation",
+    "items": "Manpower Outsourcing Services - Fixed Remuneration - Admin; Administrative Operator or Office Assis",
+    "listing": [
+      "Items: Manpower Outsourcing Services ...",
+      "Quantity: 13",
+      "Department Name And Address:",
+      "Revenue and Disaster Department Chhattisgarh",
+      "Start Date: 04-02-2026 4:51 PM",
+      "End Date: 19-02-2026 4:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/8932741",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7108849",
+    "status": "Financial Evaluation",
+    "items": "Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi",
+    "listing": [
+      "Items: Cleaning, Sanitation and Disin...",
+      "Quantity: 2479",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 28-01-2026 11:05 AM",
+      "End Date: 09-02-2026 11:00 AM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8836997",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/7046146",
+    "status": "Financial Evaluation",
+    "items": "Custom Bid for Services - AMC FOR DATA CENTRE AND DISASTER RECOVERY SITE",
+    "listing": [
+      "Items: Custom Bid for Services - AMC ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 26-12-2025 3:58 PM",
+      "End Date: 16-01-2026 4:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8764882",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6913562",
+    "status": "Financial Evaluation",
+    "items": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+    "listing": [
+      "Items: Canteen Service - Best Price ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Home Affairs National Institute of Disaster Management",
+      "Start Date: 16-12-2025 11:13 AM",
+      "End Date: 09-01-2026 12:00 PM"
+    ],
+    "source_page": 2,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8613871",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6913562",
+            "bid_status": "Active",
+            "bid_start_datetime": "16-12-2025 11:13:29",
+            "bid_end_datetime": "09-01-2026 12:00:00",
+            "bid_opening_datetime": "09-01-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Jay Narayan Jha",
+            "address": "Jay Narayan Jha,jnjha.nidm@nic.in,NIDM, Plot no. 15, Pocket-3, Block-B, Sector-29, Rohini, Delhi,North West delhi,DELHI,110042,India",
+            "ministry": "Ministry Of Home Affairs",
+            "department": "National Institute Of Disaster Management",
+            "organisation": "National Institute Of Disaster Management",
+            "office": "National Institute Of Disaster Management"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "A&A BROTHERS Under PMA",
+              "offered_item": "08-01-2026 22:51:03",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AGARWAL ENTERPRISES Under PMA",
+              "offered_item": "08-01-2026 13:22:37",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "APNA ZAIKA Under PMA",
+              "offered_item": "01-01-2026 11:48:23",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "ARVIND KUMAR PANDEY Under PMA",
+              "offered_item": "08-01-2026 21:21:54",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "chef hospitality services Under PMA",
+              "offered_item": "08-01-2026 14:19:49",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "DELICIOUS BHOJANAM Under PMA",
+              "offered_item": "06-01-2026 11:37:48",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "JAI MITHILA CATERING SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "05-01-2026 11:58:26",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "KANHAJI HOSPITALITY Under PMA",
+              "offered_item": "09-01-2026 11:52:04",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "KANISHKA CREATIONS & SERVICES Under PMA",
+              "offered_item": "03-01-2026 21:06:30",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "M/s SHRI DEVI CATERERS Under PMA",
+              "offered_item": "09-01-2026 10:53:22",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "MANNU ENTERPRISE Under PMA",
+              "offered_item": "05-01-2026 19:42:57",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "Modern Caterer Under PMA",
+              "offered_item": "09-01-2026 11:40:41",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "NEW PREM DHABA Under PMA",
+              "offered_item": "07-01-2026 20:46:51",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "OP ARORA & ASSOCIATES Under PMA",
+              "offered_item": "08-01-2026 21:24:57",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "PENTAGUN PLUS SECURITY SERVICES Under PMA",
+              "offered_item": "09-01-2026 11:34:38",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "PREMANAND CANTEEN CONTRACTOR Under PMA",
+              "offered_item": "09-01-2026 11:36:16",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "RINTU ASSOCIATES Under PMA",
+              "offered_item": "05-01-2026 23:02:23",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "SEVEN BROTHERS PROJECTS Under PMA",
+              "offered_item": "07-01-2026 23:26:18",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "SHIVAKSH ENTERPRISES Under PMA",
+              "offered_item": "05-01-2026 14:53:49",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "SUHANA EVENT SERVICE Under PMA",
+              "offered_item": "05-01-2026 14:55:05",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "TIWARI AND COMPANY Under PMA",
+              "offered_item": "09-01-2026 11:37:17",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "22",
+              "seller_name": "TOMAR CATERERS Under PMA",
+              "offered_item": "18-12-2025 20:01:33",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "23",
+              "seller_name": "TRANSFIELD SERVICES Under PMA",
+              "offered_item": "23-12-2025 22:29:14",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "24",
+              "seller_name": "V. K. ENTERPRISES Under PMA",
+              "offered_item": "06-01-2026 14:02:24",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6954311",
+    "status": "Financial Evaluation",
+    "items": "Monthly Basis Cab and Taxi Hiring Service - Without Fuel - Sedan; Honda Amaze, Maruti Suzuki Dzire,",
+    "listing": [
+      "Items: Monthly Basis Cab and Taxi Hir...",
+      "Quantity: 14",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Odisha",
+      "Start Date: 02-12-2025 12:22 PM",
+      "End Date: 23-12-2025 12:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8660685",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6977586",
+    "status": "Financial Evaluation",
+    "items": "Custom Bid for Services - DESIGN SUPPLY INSTALLATION AND COMMISSIONING OF DR DISASTER RECOVERY CENT",
+    "listing": [
+      "Items: Custom Bid for Services - DESI...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence Production",
+      "Start Date: 09-12-2025 2:50 PM",
+      "End Date: 20-12-2025 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8687514",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6969501",
+    "status": "Financial Evaluation",
+    "items": "Facility Management Service- Manpower based (Version 2) - Commercial; DRIVER-LMV; Unskilled",
+    "listing": [
+      "Items: Facility Management Service- M...",
+      "Quantity: 2",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 05-12-2025 5:18 PM",
+      "End Date: 15-12-2025 6:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8677694",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6969501",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-12-2025 17:18:36",
+            "bid_end_datetime": "15-12-2025 18:00:00",
+            "bid_opening_datetime": "15-12-2025 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "45"
+          },
+          "buyer_details": {
+            "name": "S Palani Kumar",
+            "department": "Revenue And Disaster Management Department Puducherry",
+            "organisation": "N/a",
+            "office": "Excise Department"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "GOVINDARAJ ENTERPRISES ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Service- Manpower based (Version 2) - Commercial; DRIVER-LMV; Unskilled",
+              "total_price": "` 509942.25",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "DEVI TRADERS ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Service- Manpower based (Version 2) - Commercial; DRIVER-LMV; Unskilled",
+              "total_price": "` 509942.25",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6932436",
+    "status": "Financial Evaluation",
+    "items": "Hiring of Consultants - Milestone/Deliverable Based - Subject Matter Experts; Forest and Environmen",
+    "listing": [
+      "Items: Hiring of Consultants - Milest...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Urban Development URBAN DEVELOPMENT DEPARTMENT",
+      "Start Date: 25-11-2025 11:18 PM",
+      "End Date: 06-12-2025 3:00 PM"
+    ],
+    "source_page": 3
+  },
+  {
+    "bid_no": "GEM/2025/B/6888028",
+    "status": "Financial Evaluation",
+    "items": "Scanning and Digitisation Service (Version 2) - 300; A4 and legal",
+    "listing": [
+      "Items: Scanning and Digitisation Serv...",
+      "Quantity: 35000",
+      "Department Name And Address:",
+      "Revenue and Disaster Department Chhattisgarh",
+      "Start Date: 13-11-2025 3:48 PM",
+      "End Date: 04-12-2025 4:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/8585010",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6881128",
+    "status": "Financial Evaluation",
+    "items": "Custom Bid for Services - Comprehensive upgradation of the disaster management command post cum ope",
+    "listing": [
+      "Items: Custom Bid for Services - Comp...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 23-11-2025 12:57 PM",
+      "End Date: 03-12-2025 1:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8577205",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6846478",
+    "status": "Financial Evaluation",
+    "items": "ANNUAL MAINTENANCE SERVICE -DATA CENTER ASSETS - Disaster Recovery System on Cloud; Disaster Recove",
+    "listing": [
+      "Items: ANNUAL MAINTENANCE SERVICE -DA...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Information Technology and Electronics Department Uttar Pradesh",
+      "Start Date: 06-11-2025 12:21 PM",
+      "End Date: 20-11-2025 4:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8537433",
+        "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6531379",
+    "status": "Financial Evaluation",
+    "items": "Monthly Basis Cab & Taxi Hiring Services - MUV; NA; Local 24*7",
+    "listing": [
+      "Items: Monthly Basis Cab & Taxi Hirin...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Odisha",
+      "Start Date: 04-08-2025 1:45 PM",
+      "End Date: 26-08-2025 1:00 PM"
+    ],
+    "source_page": 3
+  },
+  {
+    "bid_no": "GEM/2025/B/6442214",
+    "status": "Financial Evaluation",
+    "items": "Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+    "listing": [
+      "Items: Cleaning, Sanitation and Disin...",
+      "Quantity: 18700",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 15-07-2025 10:32 AM",
+      "End Date: 25-07-2025 11:00 AM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8077128",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6442214",
+            "bid_status": "Active",
+            "bid_start_datetime": "15-07-2025 10:32:37",
+            "bid_end_datetime": "25-07-2025 11:00:00",
+            "bid_opening_datetime": "25-07-2025 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Rijumon P",
+            "department": "Revenue And Disaster Management Department Puducherry",
+            "organisation": "N/a",
+            "office": "Regional Administrator Mahe"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "Mahe Labour Contract Co-op Society Ltd Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 682550.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SANTHWANAM SOCIAL SERVICE EDUCATIONAL & CHARITABLE TRUST Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 955570.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "T K T SECURITY SERVICE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 955570.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "tkt enterprises ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 955570.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "EX MILITARY DETECTIVE AGE Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 955570.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "GOVINDARAJ ENTERPRISES ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 1228590.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "Reliable Securi Plans ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Cleaning, Sanitation and Disinfection Service - Outcome Based - Tourist spots - Riverside Walkway P",
+              "total_price": "` 1979395.00",
+              "rank": "L4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2025/B/6418550",
+    "status": "Financial Evaluation",
+    "items": "Facility Management Service - Outcome Based,Facility Management Service - Outcome Based,Facility Ma",
+    "listing": [
+      "Items: Facility Management Service - ...",
+      "Quantity: 1204630",
+      "Department Name And Address:",
+      "Revenue and Disaster Management Department Puducherry",
+      "Start Date: 05-07-2025 12:23 AM",
+      "End Date: 17-07-2025 3:00 PM"
+    ],
+    "source_page": 3,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8050354",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2025/B/6418550",
+            "bid_status": "Active",
+            "bid_start_datetime": "05-07-2025 00:23:21",
+            "bid_end_datetime": "17-07-2025 15:00:00",
+            "bid_opening_datetime": "17-07-2025 15:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "317"
+          },
+          "buyer_details": {
+            "name": "Kollu Lakshmi Vara Prasad",
+            "department": "Revenue And Disaster Management Department Puducherry",
+            "organisation": "N/a",
+            "office": "Regional Administrator Yanam"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "T K T SECURITY SERVICE (MSE) Under PMA",
+              "offered_item": "Item Categories : Facility Management Service - Outcome Based,Facility Management Service - Outcome Based,Facility Ma",
+              "total_price": "` 12988048.56",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "tkt enterprises (MSE) Under PMA",
+              "offered_item": "Item Categories : Facility Management Service - Outcome Based,Facility Management Service - Outcome Based,Facility Ma",
+              "total_price": "` 12988048.56",
+              "rank": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "PIMCARE TECHNOLOGIES ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Facility Management Service - Outcome Based,Facility Management Service - Outcome Based,Facility Ma",
+              "total_price": "` 17932212.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
