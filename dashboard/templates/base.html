@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}GeM Intelligence{% endblock %} — Tender Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+  <link href="{{ url_for('static', filename='css/custom.css') }}" rel="stylesheet">
+</head>
+<body>
+
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+<div class="app-shell">
+
+  <!-- ── Sidebar ─────────────────────────────────────────────────────── -->
+  <aside class="sidebar" id="appSidebar">
+    <a href="/" class="sidebar-brand">
+      <div class="brand-icon"><i class="bi bi-shield-check"></i></div>
+      <div>
+        <div class="brand-name">GeM Intelligence</div>
+        <div class="brand-sub">Tender Dashboard</div>
+      </div>
+    </a>
+
+    <div class="nav-section-label">Navigation</div>
+    <nav>
+      <ul class="nav flex-column gap-1">
+        <li class="nav-item">
+          <a href="/" class="nav-link {% if request.path == '/' %}active{% endif %}">
+            <i class="bi bi-speedometer2"></i> Overview
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="/awarded" class="nav-link {% if request.path == '/awarded' %}active{% endif %}">
+            <i class="bi bi-trophy"></i> Awarded Bids
+            <span class="nav-badge tag tag-awarded">Live</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="/technical" class="nav-link {% if request.path == '/technical' %}active{% endif %}">
+            <i class="bi bi-gear-wide-connected"></i> Technical Eval
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="/financial" class="nav-link {% if request.path == '/financial' %}active{% endif %}">
+            <i class="bi bi-cash-coin"></i> Financial Eval
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div><span class="live-dot"></span>GeM Portal · Live Data</div>
+      <div class="mt-1 text-muted" style="font-size:0.68rem">{{ now }}</div>
+    </div>
+  </aside>
+
+  <!-- ── Main ────────────────────────────────────────────────────────── -->
+  <div class="main-wrap">
+    <header class="topbar">
+      <div class="d-flex align-items-center gap-3">
+        <button class="btn btn-sm btn-outline-secondary d-md-none border-0" id="sidebarToggle">
+          <i class="bi bi-list fs-5"></i>
+        </button>
+        <h1 class="page-title mb-0">{% block page_title %}Dashboard{% endblock %}</h1>
+      </div>
+      <div class="topbar-right">
+        <span class="topbar-pill gem d-none d-sm-flex">
+          <i class="bi bi-database-fill"></i> GeM Scraper Output
+        </span>
+        <span class="topbar-date d-none d-md-block">{{ now }}</span>
+      </div>
+    </header>
+
+    <main class="content-area">
+      {% block content %}{% endblock %}
+    </main>
+  </div>
+</div>
+
+<!-- ── Bid Detail Modal ─────────────────────────────────────────────────── -->
+<div class="modal fade" id="bidModal" tabindex="-1" aria-labelledby="bidModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div>
+          <div class="modal-title" id="bidModalLabel">Bid Details</div>
+          <div class="bid-no mt-1" id="m-bid-no" style="font-size:0.82rem;color:#8fa4ff"></div>
+        </div>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-3">
+
+          <!-- Left col -->
+          <div class="col-lg-6">
+            <div class="detail-block">
+              <div class="detail-block-title"><i class="bi bi-info-circle"></i> Bid Overview</div>
+              <div class="detail-row"><span class="dl">Status</span><span class="dv" id="m-status"></span></div>
+              <div class="detail-row"><span class="dl">Start Date</span><span class="dv" id="m-bid-start"></span></div>
+              <div class="detail-row"><span class="dl">End Date</span><span class="dv" id="m-bid-end"></span></div>
+              <div class="detail-row"><span class="dl">Opening Date</span><span class="dv" id="m-bid-open"></span></div>
+              <div class="detail-row"><span class="dl">Validity</span><span class="dv" id="m-bid-validity"></span></div>
+              <div class="detail-row"><span class="dl">Quantity</span><span class="dv" id="m-quantity"></span></div>
+            </div>
+
+            <div class="detail-block">
+              <div class="detail-block-title"><i class="bi bi-building"></i> Buyer Details</div>
+              <div class="detail-row"><span class="dl">Buyer Name</span><span class="dv" id="m-buyer-name"></span></div>
+              <div class="detail-row"><span class="dl">Ministry</span><span class="dv" id="m-ministry"></span></div>
+              <div class="detail-row"><span class="dl">Department</span><span class="dv" id="m-department"></span></div>
+              <div class="detail-row"><span class="dl">Organisation</span><span class="dv" id="m-org"></span></div>
+              <div class="detail-row"><span class="dl">Office</span><span class="dv" id="m-office"></span></div>
+            </div>
+
+            <div class="detail-block">
+              <div class="detail-block-title"><i class="bi bi-box-seam"></i> Item Description</div>
+              <p class="mb-0" id="m-item" style="font-size:0.83rem;color:#c0c8e8;line-height:1.6"></p>
+            </div>
+          </div>
+
+          <!-- Right col -->
+          <div class="col-lg-6">
+            <div class="detail-block">
+              <div class="detail-block-title"><i class="bi bi-people"></i> Technical Evaluation</div>
+              <div class="table-responsive">
+                <table class="table table-sm eval-table">
+                  <thead>
+                    <tr>
+                      <th>#</th><th>Seller</th><th>Item</th>
+                      <th>Date</th><th>MSE/MII</th><th>Status</th>
+                    </tr>
+                  </thead>
+                  <tbody id="m-tech-tbody">
+                    <tr><td colspan="6" class="text-center text-secondary py-3">No data</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <div class="detail-block">
+              <div class="detail-block-title"><i class="bi bi-currency-rupee"></i> Financial Evaluation</div>
+              <div class="table-responsive">
+                <table class="table table-sm eval-table">
+                  <thead>
+                    <tr><th>#</th><th>Seller</th><th>Total Price</th><th>Rank</th></tr>
+                  </thead>
+                  <tbody id="m-fin-tbody">
+                    <tr><td colspan="4" class="text-center text-secondary py-3">No data</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

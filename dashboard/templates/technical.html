@@ -1,0 +1,208 @@
+{% extends "base.html" %}
+{% block title %}Technical Evaluation{% endblock %}
+{% block page_title %}Technical Evaluation{% endblock %}
+
+{% block content %}
+
+<!-- ── Summary Cards ───────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#ffd60a,#f3722c)">
+      <div class="icon-wrap" style="background:rgba(255,214,10,0.13);color:#ffd60a">
+        <i class="bi bi-gear-wide-connected"></i>
+      </div>
+      <div class="stat-value">{{ bids | length }}</div>
+      <div class="stat-label">Bids in Tech Eval</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#4cc9f0,#4361ee)">
+      <div class="icon-wrap" style="background:rgba(76,201,240,0.13);color:#4cc9f0">
+        <i class="bi bi-people"></i>
+      </div>
+      {% set tc = namespace(n=0) %}
+      {% for b in bids %}{% set tc.n = tc.n + b.tech_count %}{% endfor %}
+      <div class="stat-value">{{ tc.n }}</div>
+      <div class="stat-label">Total Participants</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#2dc653,#43aa8b)">
+      <div class="icon-wrap" style="background:rgba(45,198,83,0.15);color:#2dc653">
+        <i class="bi bi-patch-check"></i>
+      </div>
+      {% set qc = namespace(n=0) %}
+      {% for b in bids %}
+        {% for row in b.detail.technical_evaluation %}
+          {% if row.status and 'qualif' in row.status | lower %}{% set qc.n = qc.n + 1 %}{% endif %}
+        {% endfor %}
+      {% endfor %}
+      <div class="stat-value">{{ qc.n }}</div>
+      <div class="stat-label">Qualified Sellers</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#a370f7,#7209b7)">
+      <div class="icon-wrap" style="background:rgba(163,112,247,0.15);color:#a370f7">
+        <i class="bi bi-shield-check"></i>
+      </div>
+      {% set mse = namespace(n=0) %}
+      {% for b in bids %}
+        {% for row in b.detail.technical_evaluation %}
+          {% if row.mse_mii_status %}{% set mse.n = mse.n + 1 %}{% endif %}
+        {% endfor %}
+      {% endfor %}
+      <div class="stat-value">{{ mse.n }}</div>
+      <div class="stat-label">MSE/MII Sellers</div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Bids Table ──────────────────────────────────────────────────────── -->
+<div class="table-card">
+  <div class="table-card-header">
+    <div class="table-card-title">
+      <i class="bi bi-gear-wide-connected"></i> Technical Evaluation Bids
+      <span class="count-pill" id="techSearch-count">{{ bids | length }}</span>
+    </div>
+    <div class="search-wrap">
+      <i class="bi bi-search"></i>
+      <input type="text" id="techSearch" class="search-input" placeholder="Search bid, ministry, seller…">
+    </div>
+  </div>
+
+  <div style="overflow-x:auto">
+    <table class="table data-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Bid No.</th>
+          <th>Ministry</th>
+          <th>Department</th>
+          <th>Item Description</th>
+          <th>Participants</th>
+          <th>Qualified</th>
+          <th>MSE/MII</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="techTableBody">
+        {% for bid in bids %}
+        {% set qualified = [] %}
+        {% set mse_sellers = [] %}
+        {% for row in bid.detail.technical_evaluation %}
+          {% if row.status and 'qualif' in row.status | lower %}{% set _ = qualified.append(1) %}{% endif %}
+          {% if row.mse_mii_status %}{% set _ = mse_sellers.append(1) %}{% endif %}
+        {% endfor %}
+        <tr data-searchable>
+          <td style="color:#6c7293;font-size:0.78rem">{{ loop.index }}</td>
+          <td><span class="bid-no">{{ bid.bid_no }}</span></td>
+          <td>
+            <div class="ministry-cell text-truncate" style="max-width:140px" title="{{ bid.ministry }}">
+              {{ bid.ministry }}
+            </div>
+          </td>
+          <td>
+            <div class="text-truncate" style="max-width:130px;font-size:0.8rem;color:#8a90b8" title="{{ bid.department }}">
+              {{ bid.department }}
+            </div>
+          </td>
+          <td style="max-width:220px">
+            <div class="text-truncate" style="font-size:0.82rem;color:#c0c8e8"
+                 title="{{ bid.items_full or bid.items_short }}">
+              {{ bid.items_short or '—' }}
+            </div>
+          </td>
+          <td style="text-align:center">
+            <span class="count-pill" style="background:rgba(76,201,240,0.12);color:#4cc9f0;border-color:rgba(76,201,240,0.3)">
+              {{ bid.tech_count }}
+            </span>
+          </td>
+          <td style="text-align:center">
+            {% if qualified | length > 0 %}
+              <span class="count-pill" style="background:rgba(45,198,83,0.12);color:#2dc653;border-color:rgba(45,198,83,0.3)">
+                {{ qualified | length }}
+              </span>
+            {% else %}
+              <span style="color:#6c7293;font-size:0.78rem">—</span>
+            {% endif %}
+          </td>
+          <td style="text-align:center">
+            {% if mse_sellers | length > 0 %}
+              <span class="tag tag-mse">{{ mse_sellers | length }}</span>
+            {% else %}
+              <span style="color:#6c7293;font-size:0.78rem">—</span>
+            {% endif %}
+          </td>
+          <td>
+            <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
+                    data-bid-idx="{{ loop.index0 }}">
+              <i class="bi bi-eye me-1"></i>View
+            </button>
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="9" class="empty-state">
+            <i class="bi bi-inbox"></i>No technical evaluation bids found
+          </td>
+        </tr>
+        {% endfor %}
+        <tr class="empty-row" style="display:none">
+          <td colspan="9" class="empty-state">
+            <i class="bi bi-search"></i>No results match your search
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ── Participant Detail Cards ────────────────────────────────────────── -->
+{% if bids %}
+<div class="row g-3 mt-1">
+  {% for bid in bids %}
+  {% if bid.detail.technical_evaluation %}
+  <div class="col-md-6 col-lg-4">
+    <div class="chart-card" style="min-height:0">
+      <div class="chart-title">
+        <span class="bid-no" style="font-size:0.73rem">{{ bid.bid_no }}</span>
+        <span class="float-end" style="font-size:0.7rem;color:#6c7293;font-weight:400">{{ bid.tech_count }} sellers</span>
+      </div>
+      <div style="font-size:0.78rem;color:#7a80a4;margin-bottom:0.5rem" class="text-truncate" title="{{ bid.items_short }}">
+        {{ bid.items_short }}
+      </div>
+      {% for seller in bid.detail.technical_evaluation[:3] %}
+      <div class="d-flex align-items-center gap-2 mb-1">
+        <div style="width:24px;height:24px;border-radius:6px;background:rgba(67,97,238,0.15);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:0.7rem;color:#8fa4ff;font-weight:700">
+          {{ seller.sr_no }}
+        </div>
+        <div class="text-truncate" style="font-size:0.78rem;color:#c0c8e8;flex:1" title="{{ seller.seller_name }}">
+          {{ seller.seller_name }}
+        </div>
+        <span class="tag tag-qualified" style="flex-shrink:0">{{ seller.status or 'OK' }}</span>
+      </div>
+      {% endfor %}
+      {% if bid.tech_count > 3 %}
+      <div style="font-size:0.73rem;color:#6c7293;margin-top:0.35rem;padding-left:32px">
+        +{{ bid.tech_count - 3 }} more sellers…
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+window.BIDS_DATA = {{ bids | tojson }};
+initSearch('techSearch', 'techTableBody', 'techSearch-count');
+</script>
+{% endblock %}

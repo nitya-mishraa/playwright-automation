@@ -1,0 +1,257 @@
+{% extends "base.html" %}
+{% block title %}Financial Evaluation{% endblock %}
+{% block page_title %}Financial Evaluation{% endblock %}
+
+{% block content %}
+
+<!-- ── Summary Cards ───────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#4cc9f0,#4361ee)">
+      <div class="icon-wrap" style="background:rgba(76,201,240,0.13);color:#4cc9f0">
+        <i class="bi bi-cash-coin"></i>
+      </div>
+      <div class="stat-value">{{ bids | length }}</div>
+      <div class="stat-label">Bids in Financial Eval</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#b5179e,#f72585)">
+      <div class="icon-wrap" style="background:rgba(181,23,158,0.15);color:#f72585">
+        <i class="bi bi-currency-rupee"></i>
+      </div>
+      {% set total_val = namespace(v=0) %}
+      {% for b in bids %}{% if b.l1_price_raw %}{% set total_val.v = total_val.v + b.l1_price_raw %}{% endif %}{% endfor %}
+      <div class="stat-value" style="font-size:1.3rem">
+        {% if total_val.v >= 1e7 %}₹{{ "%.2f"|format(total_val.v/1e7) }} Cr
+        {% elif total_val.v >= 1e5 %}₹{{ "%.2f"|format(total_val.v/1e5) }} L
+        {% elif total_val.v > 0 %}₹{{ "{:,.0f}".format(total_val.v) }}
+        {% else %}N/A{% endif %}
+      </div>
+      <div class="stat-label">Total L1 Value</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#2dc653,#43aa8b)">
+      <div class="icon-wrap" style="background:rgba(45,198,83,0.15);color:#2dc653">
+        <i class="bi bi-people"></i>
+      </div>
+      {% set fc = namespace(n=0) %}
+      {% for b in bids %}{% set fc.n = fc.n + b.fin_count %}{% endfor %}
+      <div class="stat-value">{{ fc.n }}</div>
+      <div class="stat-label">Total Bidders</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#ffd60a,#f3722c)">
+      <div class="icon-wrap" style="background:rgba(255,214,10,0.13);color:#ffd60a">
+        <i class="bi bi-bar-chart-line"></i>
+      </div>
+      {% set avg = namespace(v=0, c=0) %}
+      {% for b in bids %}{% if b.l1_price_raw %}{% set avg.v = avg.v + b.l1_price_raw %}{% set avg.c = avg.c + 1 %}{% endif %}{% endfor %}
+      <div class="stat-value" style="font-size:1.3rem">
+        {% if avg.c > 0 %}
+          {% set av = avg.v / avg.c %}
+          {% if av >= 1e7 %}₹{{ "%.2f"|format(av/1e7) }} Cr
+          {% elif av >= 1e5 %}₹{{ "%.2f"|format(av/1e5) }} L
+          {% else %}₹{{ "{:,.0f}".format(av) }}{% endif %}
+        {% else %}N/A{% endif %}
+      </div>
+      <div class="stat-label">Avg L1 Price</div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Bids Table ──────────────────────────────────────────────────────── -->
+<div class="table-card mb-4">
+  <div class="table-card-header">
+    <div class="table-card-title">
+      <i class="bi bi-cash-coin"></i> Financial Evaluation Bids
+      <span class="count-pill" id="finSearch-count">{{ bids | length }}</span>
+    </div>
+    <div class="search-wrap">
+      <i class="bi bi-search"></i>
+      <input type="text" id="finSearch" class="search-input" placeholder="Search bid, ministry, seller…">
+    </div>
+  </div>
+
+  <div style="overflow-x:auto">
+    <table class="table data-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Bid No.</th>
+          <th>Ministry</th>
+          <th>Department</th>
+          <th>Item Description</th>
+          <th>L1 Price</th>
+          <th>L1 Seller</th>
+          <th>Total Bids</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="finTableBody">
+        {% for bid in bids %}
+        <tr data-searchable>
+          <td style="color:#6c7293;font-size:0.78rem">{{ loop.index }}</td>
+          <td><span class="bid-no">{{ bid.bid_no }}</span></td>
+          <td>
+            <div class="ministry-cell text-truncate" style="max-width:140px" title="{{ bid.ministry }}">
+              {{ bid.ministry }}
+            </div>
+          </td>
+          <td>
+            <div class="text-truncate" style="max-width:130px;font-size:0.8rem;color:#8a90b8" title="{{ bid.department }}">
+              {{ bid.department }}
+            </div>
+          </td>
+          <td style="max-width:200px">
+            <div class="text-truncate" style="font-size:0.82rem;color:#c0c8e8"
+                 title="{{ bid.items_full or bid.items_short }}">
+              {{ bid.items_short or '—' }}
+            </div>
+          </td>
+          <td style="white-space:nowrap;font-weight:700;{% if bid.l1_price != 'N/A' %}color:#4cc9f0{% else %}color:#6c7293{% endif %}">
+            {{ bid.l1_price }}
+          </td>
+          <td>
+            <div class="text-truncate" style="max-width:160px;font-size:0.8rem;color:#aab0d4"
+                 title="{{ bid.l1_seller_full }}">
+              {{ bid.l1_seller or '—' }}
+            </div>
+          </td>
+          <td style="text-align:center">
+            <span class="count-pill">{{ bid.fin_count }}</span>
+          </td>
+          <td>
+            <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
+                    data-bid-idx="{{ loop.index0 }}">
+              <i class="bi bi-eye me-1"></i>View
+            </button>
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="9" class="empty-state">
+            <i class="bi bi-inbox"></i>No financial evaluation bids found
+          </td>
+        </tr>
+        {% endfor %}
+        <tr class="empty-row" style="display:none">
+          <td colspan="9" class="empty-state">
+            <i class="bi bi-search"></i>No results match your search
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ── Price Comparison Chart ─────────────────────────────────────────── -->
+{% set chart_bids = [] %}
+{% for b in bids %}{% if b.l1_price_raw %}{% set _ = chart_bids.append(b) %}{% endif %}{% endfor %}
+
+{% if chart_bids %}
+<div class="chart-card mb-4">
+  <div class="chart-title"><i class="bi bi-bar-chart me-1"></i>L1 Price Comparison (Bids with Pricing)</div>
+  <div style="overflow-x:auto">
+    <div style="min-width:{{ [chart_bids|length * 80, 400]|max }}px">
+      <canvas id="priceChart" height="220"></canvas>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- ── Financial Ranking Detail Cards ────────────────────────────────── -->
+{% if bids %}
+<div class="row g-3">
+  {% for bid in bids %}
+  {% if bid.detail.financial_evaluation %}
+  <div class="col-md-6 col-lg-4">
+    <div class="chart-card" style="min-height:0">
+      <div class="d-flex justify-content-between align-items-start mb-2">
+        <span class="bid-no" style="font-size:0.73rem">{{ bid.bid_no }}</span>
+        <span class="tag tag-financial">₹ Fin Eval</span>
+      </div>
+      <div style="font-size:0.78rem;color:#7a80a4;margin-bottom:0.75rem" class="text-truncate" title="{{ bid.items_short }}">
+        {{ bid.items_short or '—' }}
+      </div>
+      {% for row in bid.detail.financial_evaluation %}
+      {% set rclass = 'rank-L1' if row.rank == 'L1' else ('rank-L2' if row.rank == 'L2' else ('rank-L3' if row.rank == 'L3' else 'rank-xx')) %}
+      <div class="d-flex align-items-center gap-2 mb-1">
+        <span class="rank-badge {{ rclass }}" style="flex-shrink:0;min-width:28px;text-align:center">{{ row.rank or '?' }}</span>
+        <div class="text-truncate" style="font-size:0.78rem;color:#c0c8e8;flex:1" title="{{ row.seller_name }}">
+          {{ row.seller_name }}
+        </div>
+        <span style="font-size:0.78rem;font-weight:600;color:{% if row.rank == 'L1' %}#4cc9f0{% else %}#8a90b8{% endif %};white-space:nowrap;flex-shrink:0">
+          {{ row.total_price.replace('`','₹') if row.total_price else '—' }}
+        </span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+window.BIDS_DATA = {{ bids | tojson }};
+initSearch('finSearch', 'finTableBody', 'finSearch-count');
+
+// Price comparison bar chart
+const chartBids = {{ chart_bids | tojson if chart_bids is defined else '[]' }};
+if (chartBids.length) {
+  const canvas = document.getElementById('priceChart');
+  if (canvas) {
+    new Chart(canvas, {
+      type: 'bar',
+      data: {
+        labels: chartBids.map(b => b.bid_no.split('/').pop()),
+        datasets: [{
+          label: 'L1 Price (₹)',
+          data: chartBids.map(b => b.l1_price_raw),
+          backgroundColor: chartBids.map(() => 'rgba(76,201,240,0.7)'),
+          borderColor: '#4cc9f0',
+          borderWidth: 1,
+          borderRadius: 5,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: ctx => {
+                const v = ctx.parsed.y;
+                if (v >= 1e7) return ' ₹' + (v/1e7).toFixed(2) + ' Cr';
+                if (v >= 1e5) return ' ₹' + (v/1e5).toFixed(2) + ' L';
+                return ' ₹' + v.toLocaleString('en-IN');
+              }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: '#6c7293', font: { size: 11 } } },
+          y: {
+            grid: { color: 'rgba(255,255,255,0.05)' },
+            ticks: {
+              color: '#6c7293',
+              callback: v => v >= 1e7 ? '₹'+(v/1e7).toFixed(1)+'Cr' : v >= 1e5 ? '₹'+(v/1e5).toFixed(0)+'L' : '₹'+v
+            }
+          }
+        }
+      }
+    });
+  }
+}
+</script>
+{% endblock %}

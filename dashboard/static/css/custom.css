@@ -1,0 +1,322 @@
+/* ── Variables ──────────────────────────────────────────────────────────── */
+:root {
+  --sidebar-w: 230px;
+  --bg-body:   #0b0d1a;
+  --bg-card:   #13152a;
+  --bg-input:  #1b1d30;
+  --bg-row-hover: rgba(67, 97, 238, 0.07);
+  --border:    rgba(255,255,255,0.07);
+  --muted:     #6c7293;
+  --accent:    #4361ee;
+}
+
+/* ── Base ───────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  background: var(--bg-body);
+  color: #d1d5ef;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  font-size: 0.9rem;
+}
+
+a { color: var(--accent); }
+
+/* ── Scrollbar ──────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #2e3155; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+/* ── Layout ─────────────────────────────────────────────────────────────── */
+.app-shell { display: flex; min-height: 100vh; }
+
+/* ── Sidebar ─────────────────────────────────────────────────────────────── */
+.sidebar {
+  width: var(--sidebar-w);
+  min-height: 100vh;
+  background: #0e1024;
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem 0.75rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  flex-shrink: 0;
+  z-index: 200;
+  transition: transform 0.25s ease;
+}
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.25rem 0.5rem 1rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1rem;
+}
+.sidebar-brand .brand-icon {
+  width: 36px; height: 36px;
+  background: linear-gradient(135deg, #4361ee, #7209b7);
+  border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.1rem; color: #fff; flex-shrink: 0;
+}
+.sidebar-brand .brand-name {
+  font-weight: 700; font-size: 0.95rem; color: #fff;
+  line-height: 1.2;
+}
+.sidebar-brand .brand-sub {
+  font-size: 0.7rem; color: var(--muted); letter-spacing: 0.05em;
+}
+
+.nav-section-label {
+  font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em;
+  color: var(--muted); padding: 0.5rem 0.5rem 0.25rem; margin-top: 0.5rem;
+}
+
+.sidebar .nav-link {
+  color: #9399b2; border-radius: 8px;
+  padding: 0.5rem 0.75rem; font-size: 0.85rem;
+  display: flex; align-items: center; gap: 0.6rem;
+  transition: all 0.18s; margin-bottom: 2px;
+}
+.sidebar .nav-link:hover { color: #fff; background: rgba(255,255,255,0.06); }
+.sidebar .nav-link.active {
+  color: #fff;
+  background: linear-gradient(90deg, #4361ee22 0%, #7209b711 100%);
+  border-left: 2px solid #4361ee;
+}
+.sidebar .nav-link .nav-badge {
+  margin-left: auto; font-size: 0.65rem;
+  padding: 0.1rem 0.4rem; border-radius: 4px;
+}
+
+.sidebar-footer {
+  margin-top: auto; padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.73rem; color: var(--muted);
+}
+.sidebar-footer .live-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: #2dc653; display: inline-block;
+  margin-right: 5px; vertical-align: middle;
+  box-shadow: 0 0 6px #2dc653;
+}
+
+/* ── Main ───────────────────────────────────────────────────────────────── */
+.main-wrap { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+
+.topbar {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(11, 13, 26, 0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 0.75rem 1.5rem;
+  display: flex; align-items: center; justify-content: space-between;
+  min-height: 58px;
+}
+.topbar .page-title { font-size: 1rem; font-weight: 600; color: #e4e8ff; }
+
+.topbar-right { display: flex; align-items: center; gap: 0.75rem; }
+.topbar-pill {
+  padding: 0.3rem 0.7rem; border-radius: 20px; font-size: 0.73rem;
+  border: 1px solid; display: flex; align-items: center; gap: 0.35rem;
+}
+.topbar-pill.gem { border-color: #4361ee44; background: #4361ee11; color: #8fa4ff; }
+.topbar-date { font-size: 0.75rem; color: var(--muted); }
+
+.content-area { padding: 1.5rem; flex: 1; }
+
+/* ── Stat Cards ─────────────────────────────────────────────────────────── */
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.25rem 1.5rem;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  height: 100%;
+}
+.stat-card::after {
+  content: '';
+  position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: var(--accent-line, linear-gradient(90deg, #4361ee, #4cc9f0));
+}
+.stat-card:hover { transform: translateY(-2px); box-shadow: 0 10px 40px rgba(0,0,0,0.35); }
+
+.stat-card .icon-wrap {
+  width: 44px; height: 44px; border-radius: 12px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.3rem; margin-bottom: 0.75rem;
+}
+.stat-card .stat-value {
+  font-size: 1.9rem; font-weight: 800; letter-spacing: -1.5px;
+  line-height: 1; margin-bottom: 0.2rem; color: #fff;
+}
+.stat-card .stat-label {
+  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted);
+}
+.stat-card .stat-delta {
+  font-size: 0.75rem; margin-top: 0.5rem; color: var(--muted);
+}
+
+/* ── Chart Cards ─────────────────────────────────────────────────────────── */
+.chart-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 14px; padding: 1.25rem 1.5rem; height: 100%;
+}
+.chart-card .chart-title {
+  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted); margin-bottom: 1rem; font-weight: 600;
+}
+
+/* ── Table Card ─────────────────────────────────────────────────────────── */
+.table-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 14px; overflow: hidden;
+}
+.table-card-header {
+  padding: 1rem 1.25rem; border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 0.75rem;
+}
+.table-card-title {
+  font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted); font-weight: 600; display: flex; align-items: center; gap: 0.5rem;
+}
+
+.search-wrap { position: relative; }
+.search-wrap .bi-search {
+  position: absolute; left: 0.7rem; top: 50%; transform: translateY(-50%);
+  color: var(--muted); font-size: 0.8rem; pointer-events: none;
+}
+.search-input {
+  background: var(--bg-input) !important;
+  border: 1px solid var(--border) !important;
+  color: #d1d5ef !important; border-radius: 8px !important;
+  padding: 0.45rem 0.75rem 0.45rem 2rem !important;
+  font-size: 0.83rem !important; width: 240px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.search-input::placeholder { color: var(--muted) !important; }
+.search-input:focus {
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 0 3px rgba(67,97,238,0.15) !important;
+  outline: none !important;
+}
+
+/* ── Data Table ─────────────────────────────────────────────────────────── */
+.data-table { margin: 0; width: 100%; }
+.data-table thead th {
+  background: #0f1122; color: var(--muted);
+  font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em;
+  font-weight: 600; border-bottom: 1px solid var(--border);
+  padding: 0.75rem 1rem; white-space: nowrap;
+}
+.data-table tbody td {
+  padding: 0.8rem 1rem; border-color: var(--border);
+  vertical-align: middle; color: #c0c8e8; font-size: 0.84rem;
+}
+.data-table tbody tr:hover td { background: var(--bg-row-hover); }
+.data-table tbody tr:last-child td { border-bottom: none; }
+.data-table .table-overflow { overflow-x: auto; }
+
+/* ── Badges ──────────────────────────────────────────────────────────────── */
+.tag {
+  display: inline-block; padding: 0.2rem 0.55rem;
+  border-radius: 5px; font-size: 0.72rem; font-weight: 600; white-space: nowrap;
+}
+.tag-awarded   { background: rgba(45,198,83,0.12);  color: #2dc653; border: 1px solid rgba(45,198,83,0.25); }
+.tag-technical { background: rgba(255,214,10,0.12); color: #ffd60a; border: 1px solid rgba(255,214,10,0.25); }
+.tag-financial { background: rgba(76,201,240,0.12); color: #4cc9f0; border: 1px solid rgba(76,201,240,0.25); }
+.tag-qualified { background: rgba(45,198,83,0.12);  color: #2dc653; border: 1px solid rgba(45,198,83,0.25); }
+.tag-mse       { background: rgba(130,80,255,0.12); color: #a370f7; border: 1px solid rgba(130,80,255,0.25); }
+
+.rank-badge {
+  display: inline-block; padding: 0.15rem 0.5rem; border-radius: 5px;
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em;
+}
+.rank-L1 { background: rgba(45,198,83,0.15);  color: #2dc653; border: 1px solid rgba(45,198,83,0.3); }
+.rank-L2 { background: rgba(255,214,10,0.13); color: #ffd60a; border: 1px solid rgba(255,214,10,0.3); }
+.rank-L3 { background: rgba(76,201,240,0.12); color: #4cc9f0; border: 1px solid rgba(76,201,240,0.3); }
+.rank-xx { background: rgba(150,150,170,0.12);color: #9399b2; border: 1px solid rgba(150,150,170,0.25); }
+
+/* ── Bid Number Cell ─────────────────────────────────────────────────────── */
+.bid-no {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 0.78rem; color: #8fa4ff; white-space: nowrap;
+}
+
+/* ── Ministry Cell ───────────────────────────────────────────────────────── */
+.ministry-cell { font-size: 0.8rem; color: #aab0d4; max-width: 180px; }
+
+/* ── Action Button ───────────────────────────────────────────────────────── */
+.btn-view {
+  background: rgba(67,97,238,0.12); border: 1px solid rgba(67,97,238,0.3);
+  color: #8fa4ff; border-radius: 7px; padding: 0.3rem 0.65rem;
+  font-size: 0.78rem; cursor: pointer; transition: all 0.18s; white-space: nowrap;
+}
+.btn-view:hover {
+  background: rgba(67,97,238,0.25); border-color: #4361ee; color: #fff;
+}
+
+/* ── Modal ──────────────────────────────────────────────────────────────── */
+.modal-content { background: #13152a !important; border: 1px solid var(--border); }
+.modal-header { border-bottom: 1px solid var(--border); padding: 1rem 1.25rem; }
+.modal-footer { border-top: 1px solid var(--border); }
+.modal-title { font-size: 0.9rem; font-weight: 700; }
+
+.detail-block {
+  background: #0f1122; border: 1px solid var(--border);
+  border-radius: 10px; padding: 0.9rem 1rem; margin-bottom: 0.75rem;
+}
+.detail-block-title {
+  font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.1em;
+  color: var(--muted); font-weight: 700; margin-bottom: 0.6rem;
+  display: flex; align-items: center; gap: 0.4rem;
+}
+.detail-row {
+  display: flex; gap: 0.5rem; margin-bottom: 0.3rem; font-size: 0.82rem;
+}
+.detail-row .dl { color: var(--muted); min-width: 130px; flex-shrink: 0; }
+.detail-row .dv { color: #c0c8e8; word-break: break-word; }
+
+.eval-table { font-size: 0.8rem; }
+.eval-table th { background: #0a0c1a; color: var(--muted); font-size: 0.68rem; text-transform: uppercase; }
+.eval-table td { color: #b8c0e0; border-color: var(--border); }
+
+/* ── Empty State ────────────────────────────────────────────────────────── */
+.empty-state { text-align: center; padding: 3rem; color: var(--muted); }
+.empty-state i { font-size: 2.5rem; display: block; margin-bottom: 0.75rem; opacity: 0.4; }
+
+/* ── Count Pill ─────────────────────────────────────────────────────────── */
+.count-pill {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 26px; height: 20px; padding: 0 6px;
+  border-radius: 10px; font-size: 0.7rem; font-weight: 700;
+  background: rgba(67,97,238,0.18); color: #8fa4ff; border: 1px solid rgba(67,97,238,0.3);
+}
+
+/* ── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .sidebar {
+    position: fixed; left: -100%; top: 0; bottom: 0;
+    transform: translateX(0); transition: left 0.25s ease;
+  }
+  .sidebar.open { left: 0; }
+  .sidebar-overlay {
+    display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,0.5); z-index: 199;
+  }
+  .sidebar-overlay.show { display: block; }
+  .stat-card .stat-value { font-size: 1.5rem; }
+  .content-area { padding: 1rem; }
+  .search-input { width: 180px; }
+}

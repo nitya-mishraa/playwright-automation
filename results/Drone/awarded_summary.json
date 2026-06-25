@@ -1,0 +1,875 @@
+[
+  {
+    "bid_no": "GEM/2026/B/7619643",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - REPAIR OF TRINETRA (RPAV) DRONE (REPLACEMENT OF GIMBAL MOUNT CF PLATE, OM",
+    "listing": [
+      "Items: Custom Bid for Services - REPA...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 04-06-2026 9:09 AM",
+      "End Date: 16-06-2026 10:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9418279",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7619643",
+            "bid_status": "Active",
+            "bid_start_datetime": "04-06-2026 09:09:00",
+            "bid_end_datetime": "16-06-2026 10:00:00",
+            "bid_opening_datetime": "16-06-2026 10:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** GANDHI NAGAR",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AEROARC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - REPAIR OF TRINETRA (RPAV) DRONE (REPLACEMENT OF GIMBAL MOUNT CF PLATE, OM",
+              "total_price": "` 22100.00",
+              "rank": "L1"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7591811",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and ",
+    "listing": [
+      "Items: Custom Bid for Services - Cons...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power Contracts and Materials",
+      "Start Date: 29-05-2026 11:22 AM",
+      "End Date: 08-06-2026 12:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9387056",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7591811",
+            "bid_status": "Active",
+            "bid_start_datetime": "29-05-2026 11:22:00",
+            "bid_end_datetime": "08-06-2026 12:00:00",
+            "bid_opening_datetime": "08-06-2026 12:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "Vishal Kumar",
+            "address": "Vishal Kumar,vkumar13@ntpc.co.in,NTPC MINING LTD ,Sikri Site Office, Pakri Barwadih CMP, Post: Barkagaon Sikri, Hazaribagh, Jharkhand,Hazaribag,JHARKHAND,825311,India",
+            "ministry": "Ministry Of Power",
+            "department": "Contracts And Materials",
+            "organisation": "Ntpc Mining Limited",
+            "office": "Ssc Coal Mining Ntpc"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AERODYNE INDIA VENTURES PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 138611.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "GEOSUR SOLUTIONS Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 165000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "HANTECH ENGINEERING AND TECHNOLOGY PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 177000.00",
+              "rank": "L3"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "NIRAJ BHARAT VANKUDRE ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 185800.00",
+              "rank": "L4"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "SATHI PLANNERS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 194700.00",
+              "rank": "L5"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "RCHOBBYTECH SOLUTIONS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 207000.00",
+              "rank": "L6"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "SUN GEO CIVIL ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 274000.00",
+              "rank": "L7"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "OXBOW INTELLECT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 299000.00",
+              "rank": "L8"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "MINE GATE INDIA LLP Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 351157.00",
+              "rank": "L9"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "NILETECH ENGINEERS PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 360000.00",
+              "rank": "L10"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "XPLORER CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 395300.00",
+              "rank": "L11"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "AAKASH AEROSPACE PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 495000.00",
+              "rank": "L12"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "LAND AND COAST(PROP.MR.JAMES K PHILIP) ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 516250.00",
+              "rank": "L13"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "GARUDA AEROSPACE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 523920.00",
+              "rank": "L14"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "DATAPKT PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Consultancy assignment for Photography, Videography, Geo referencing and",
+              "total_price": "` 590000.00",
+              "rank": "L15"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7517834",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Drone Flying Training and Drone Technician Course",
+    "listing": [
+      "Items: Custom Bid for Services - Dron...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 27-05-2026 6:00 PM",
+      "End Date: 28-05-2026 6:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9304717",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7517834",
+            "bid_status": "Active",
+            "bid_start_datetime": "08-05-2026 17:23:14",
+            "bid_end_datetime": "18-05-2026 18:00:00",
+            "bid_opening_datetime": "18-05-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** NASHIK",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          }
+        }
+      },
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9384288",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** NASHIK",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "NOVA AEROSPACE PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Drone Flying Training and Drone Technician Course",
+              "total_price": "` 396000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "FEMTONIX DEFENCE & AEROSPACE SYSTEMS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Drone Flying Training and Drone Technician Course",
+              "total_price": "` 407000.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7528530",
+    "status": "Bid Award",
+    "items": "Tentage Service Lumpsum Based - Social Gatherings; Floorings, Tent Rentals, Decoration, Furniture &",
+    "listing": [
+      "Items: Tentage Service Lumpsum Based ...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 15-05-2026 5:35 PM",
+      "End Date: 26-05-2026 9:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9316797",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7528530",
+            "bid_status": "Active",
+            "bid_start_datetime": "15-05-2026 17:35:51",
+            "bid_end_datetime": "26-05-2026 09:00:00",
+            "bid_opening_datetime": "26-05-2026 09:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** VISAKHAPATNAM",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Indian Coast Guard",
+            "office": "***********"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/s VIJAY EVENTS & ENTERTAINMENTS Under PMA",
+              "offered_item": "25-05-2026 23:11:40",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SUBHADRA ENTERPRISES Under PMA",
+              "offered_item": "25-05-2026 09:09:50",
+              "participated_on": "Central / State PSUs",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SURESH ENGINEERING WORKS Under PMA",
+              "offered_item": "25-05-2026 18:24:51",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "M/s VIJAY EVENTS & ENTERTAINMENTS ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Social Gatherings; Floorings, Tent Rentals, Decoration, Furniture &",
+              "total_price": "` 809000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "SUBHADRA ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Social Gatherings; Floorings, Tent Rentals, Decoration, Furniture &",
+              "total_price": "` 820000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "SURESH ENGINEERING WORKS ( MSE Social Category:OBC ) Under PMA",
+              "offered_item": "Item Categories : Tentage Service Lumpsum Based - Social Gatherings; Floorings, Tent Rentals, Decoration, Furniture &",
+              "total_price": "` 895000.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7517834",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Drone Flying Training and Drone Technician Course",
+    "listing": [
+      "Items: Custom Bid for Services - Dron...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 08-05-2026 5:23 PM",
+      "End Date: 18-05-2026 6:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9304717",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7517834",
+            "bid_status": "Active",
+            "bid_start_datetime": "08-05-2026 17:23:14",
+            "bid_end_datetime": "18-05-2026 18:00:00",
+            "bid_opening_datetime": "18-05-2026 18:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "180"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** NASHIK",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7419988",
+    "status": "Bid Award",
+    "items": "Repair and Overhauling Service - Repair of Bhramer Drone; Bhramer Drone; Yes; Buyer Premises",
+    "listing": [
+      "Items: Repair and Overhauling Service...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Defence",
+      "Start Date: 13-05-2026 1:00 PM",
+      "End Date: 14-05-2026 1:20 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View RA Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9317708",
+        "data": {
+          "bid_details": {
+            "experience_with_gov_required": "Years"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** JAMNAGAR",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Defence",
+            "organisation": "Indian Coast Guard",
+            "office": "***********"
+          },
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "DRONELAB TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Repair of Bhramer Drone; Bhramer Drone; Yes; Buyer Premises",
+              "total_price": "` 843000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "RNK GEO INFRAPROJECTS LLP Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Repair of Bhramer Drone; Bhramer Drone; Yes; Buyer Premises",
+              "total_price": "` 844000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "MV INFOCUS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Repair of Bhramer Drone; Bhramer Drone; Yes; Buyer Premises",
+              "total_price": "` 845000.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7471560",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Boiler Internal Inspection through Drone Technology at NTPC BARH",
+    "listing": [
+      "Items: Custom Bid for Services - Boil...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Power NA",
+      "Start Date: 24-04-2026 12:19 PM",
+      "End Date: 12-05-2026 1:00 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9253185",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7471560",
+            "bid_status": "Active",
+            "bid_start_datetime": "24-04-2026 12:19:48",
+            "bid_end_datetime": "12-05-2026 13:00:00",
+            "bid_opening_datetime": "12-05-2026 13:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Dhirendra Rai",
+            "address": "Dhirendra Rai,dkrai@ntpc.co.in,9th Floor Tower-C Commercial Complex Plot No. C-03, Central business District (CBD), Sector - 21, Atal Nagar, Naya Raipur,Raipur,Chhattisgarh,492018,India,07752-277148-",
+            "ministry": "Ministry Of Power",
+            "department": "Na",
+            "organisation": "Ntpc Limited",
+            "office": "Ussc Cpg2 Raipur"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "BIRDSEYE ASSET SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "02-05-2026 13:44:16",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "CORE-EHS SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "04-05-2026 12:33:48",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "DRONELAB TECHNOLOGIES PRIVATE LIMITED Under PMA",
+              "offered_item": "04-05-2026 12:12:04",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "HANTECH ENGINEERING AND TECHNOLOGY PRIVATE LIMITED Under PMA",
+              "offered_item": "28-04-2026 14:31:16",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "MCI WORLD INDIA PRIVATE LIMITED Under PMA",
+              "offered_item": "10-05-2026 21:02:07",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "NEVAR SYSTEMS PRIVATE LIMITED Under PMA",
+              "offered_item": "12-05-2026 12:54:29",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "SUN GEO CIVIL Under PMA",
+              "offered_item": "03-05-2026 17:56:17",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "SUN GEO CIVIL ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Boiler Internal Inspection through Drone Technology at NTPC BARH",
+              "total_price": "` 3300000.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "BIRDSEYE ASSET SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "Item Categories : Custom Bid for Services - Boiler Internal Inspection through Drone Technology at NTPC BARH",
+              "total_price": "` 15340000.00",
+              "rank": "L2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7520717",
+    "status": "Bid Award",
+    "items": "Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+    "listing": [
+      "Items: Repair and Overhauling Service...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 09-05-2026 10:34 AM",
+      "End Date: 12-05-2026 11:00 AM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View BID Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9307889",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7520717",
+            "bid_status": "Active",
+            "bid_start_datetime": "09-05-2026 10:34:53",
+            "bid_end_datetime": "12-05-2026 11:00:00",
+            "bid_opening_datetime": "12-05-2026 11:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "30"
+          },
+          "buyer_details": {
+            "name": "***********",
+            "address": "*********** Pathankot",
+            "ministry": "Ministry Of Defence",
+            "department": "Department Of Military Affairs",
+            "organisation": "Indian Army",
+            "office": "***********"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AEROARC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+              "participated_on": "` 79986.00",
+              "mse_mii_status": "L1",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "A.R ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+              "participated_on": "` 85000.00",
+              "mse_mii_status": "L2",
+              "status": "Not Evaluated"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "M-TECH ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+              "participated_on": "` 90000.00",
+              "mse_mii_status": "L3",
+              "status": "Not Evaluated"
+            }
+          ],
+          "financial_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AEROARC PRIVATE LIMITED ( MSE Social Category:General ) Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+              "total_price": "` 79986.00",
+              "rank": "L1"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "A.R ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+              "total_price": "` 85000.00",
+              "rank": "L2"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "M-TECH ENTERPRISES Under PMA",
+              "offered_item": "Item Categories : Repair and Overhauling Service - Trinetra Drone Repair and overhauling; Trinetra Drone repair and o",
+              "total_price": "` 90000.00",
+              "rank": "L3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "bid_no": "GEM/2026/B/7371394",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - Hiring of services for video coverage and drone videogaphy of POP ST-26",
+    "listing": [
+      "Items: Custom Bid for Services - Hiri...",
+      "Quantity: 1",
+      "Department Name And Address:",
+      "Ministry of Defence Department of Military Affairs",
+      "Start Date: 13-04-2026 1:16 PM",
+      "End Date: 23-04-2026 2:00 PM"
+    ],
+    "source_page": 1
+  },
+  {
+    "bid_no": "GEM/2026/B/7125560",
+    "status": "Bid Award",
+    "items": "Custom Bid for Services - DRONE SURVEY AT MOIL MINES FROM OUTSIDE AGENCY AS PER SOP OF IBM FOR 3 CO",
+    "listing": [
+      "Items: Custom Bid for Services - DRON...",
+      "Quantity: 10",
+      "Department Name And Address:",
+      "Ministry of Steel MOIL Limited",
+      "Start Date: 02-04-2026 12:00 PM",
+      "End Date: 06-04-2026 4:33 PM"
+    ],
+    "source_page": 1,
+    "results": [
+      {
+        "label": "View Bid Results",
+        "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8856697",
+        "data": {
+          "bid_details": {
+            "bid_number": "GEM/2026/B/7125560",
+            "bid_status": "Active",
+            "bid_start_datetime": "21-01-2026 15:39:10",
+            "bid_end_datetime": "11-02-2026 13:00:00",
+            "bid_opening_datetime": "11-02-2026 13:30:00",
+            "experience_with_gov_required": "Years",
+            "bid_validity_days": "120"
+          },
+          "buyer_details": {
+            "name": "Kumar Abhishek",
+            "address": "Kumar Abhishek,asingh@moil.nic.in,MOIL LIMITED, MOIL BHAWAN, 1-A, KATOL ROAD,NAGPUR-440013,NAGPUR CITY,MAHARASHTRA,440013,India,8007-839292-",
+            "ministry": "Ministry Of Steel",
+            "department": "Moil Limited",
+            "organisation": "Moil Limited",
+            "office": "Moil Limited"
+          },
+          "technical_evaluation": [
+            {
+              "sr_no": "1",
+              "seller_name": "AEROVANIA PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 12:58:50",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "2",
+              "seller_name": "AMITY ENGINEERS AND SURVEYORS Under PMA",
+              "offered_item": "11-02-2026 12:42:58",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "3",
+              "seller_name": "CDSP GLOBAL PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 11:59:31",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "4",
+              "seller_name": "DATAPKT PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 10:32:48",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "5",
+              "seller_name": "EDALL SYSTEMS AND SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "06-02-2026 17:38:33",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "6",
+              "seller_name": "ENVOLER INNOVATIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "10-02-2026 16:43:02",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "7",
+              "seller_name": "EVERAIN GLOBALSERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "10-02-2026 15:59:08",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "8",
+              "seller_name": "GARUD SURVEY PRIVATE LIMITED Under PMA",
+              "offered_item": "08-02-2026 20:33:06",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "9",
+              "seller_name": "GARUDA AEROSPACE LIMITED Under PMA",
+              "offered_item": "11-02-2026 12:50:56",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "10",
+              "seller_name": "GEOCLAD LLP Under PMA",
+              "offered_item": "29-01-2026 17:02:41",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "11",
+              "seller_name": "INDRONES SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 11:03:25",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "12",
+              "seller_name": "ONE FOR ALL CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "10-02-2026 19:14:05",
+              "participated_on": "Offline upload",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "13",
+              "seller_name": "PD CONSULTING ENGINEERS PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 11:59:11",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "14",
+              "seller_name": "PUSSHNEY INFRASTRUCTURE AND CONSULTANCY SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 12:57:53",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "15",
+              "seller_name": "RAYNAS INFRA AND GEOMATICS SERVICES PRIVATE LIMITED Under PMA",
+              "offered_item": "07-02-2026 11:36:33",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "16",
+              "seller_name": "RCHOBBYTECH SOLUTIONS PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 11:31:30",
+              "participated_on": "Start-up",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "17",
+              "seller_name": "SATHI PLANNERS PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 12:31:26",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "18",
+              "seller_name": "SG & ASSOCIATES Under PMA",
+              "offered_item": "30-01-2026 04:38:15",
+              "participated_on": "MSE",
+              "mse_mii_status": "MSE",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "19",
+              "seller_name": "SUN GEO CIVIL Under PMA",
+              "offered_item": "10-02-2026 19:17:30",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            },
+            {
+              "sr_no": "20",
+              "seller_name": "UNITOS TRADING PRIVATE LIMITED Under PMA",
+              "offered_item": "11-02-2026 12:56:47",
+              "participated_on": "Start-up",
+              "mse_mii_status": "MSE",
+              "status": "Qualified"
+            },
+            {
+              "sr_no": "21",
+              "seller_name": "WEST INDIA CONSULTANCY SERVICES Under PMA",
+              "offered_item": "10-02-2026 13:24:05",
+              "participated_on": "Registered with designated Agency / Authority",
+              "mse_mii_status": "N/A",
+              "status": "Disqualified"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

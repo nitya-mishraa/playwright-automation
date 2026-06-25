@@ -1,0 +1,228 @@
+{% extends "base.html" %}
+{% block title %}Overview{% endblock %}
+{% block page_title %}Overview{% endblock %}
+
+{% block content %}
+
+<!-- ── Stat Cards ──────────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#4361ee,#4cc9f0)">
+      <div class="icon-wrap" style="background:rgba(67,97,238,0.15);color:#8fa4ff">
+        <i class="bi bi-collection"></i>
+      </div>
+      <div class="stat-value">{{ total }}</div>
+      <div class="stat-label">Total Bids</div>
+      <div class="stat-delta">All categories</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#2dc653,#43aa8b)">
+      <div class="icon-wrap" style="background:rgba(45,198,83,0.15);color:#2dc653">
+        <i class="bi bi-trophy"></i>
+      </div>
+      <div class="stat-value">{{ awarded | length }}</div>
+      <div class="stat-label">Awarded</div>
+      <div class="stat-delta">Bid award complete</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#ffd60a,#f3722c)">
+      <div class="icon-wrap" style="background:rgba(255,214,10,0.13);color:#ffd60a">
+        <i class="bi bi-gear-wide-connected"></i>
+      </div>
+      <div class="stat-value">{{ technical | length }}</div>
+      <div class="stat-label">Technical Eval</div>
+      <div class="stat-delta">Under evaluation</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#4cc9f0,#560bad)">
+      <div class="icon-wrap" style="background:rgba(76,201,240,0.13);color:#4cc9f0">
+        <i class="bi bi-cash-coin"></i>
+      </div>
+      <div class="stat-value">{{ financial | length }}</div>
+      <div class="stat-label">Financial Eval</div>
+      <div class="stat-delta">Price comparison stage</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- ── Value + Ministry mini-stats ────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+  <div class="col-md-4">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#b5179e,#f72585)">
+      <div class="icon-wrap" style="background:rgba(181,23,158,0.15);color:#f72585">
+        <i class="bi bi-currency-rupee"></i>
+      </div>
+      <div class="stat-value" style="font-size:1.4rem">{{ total_value }}</div>
+      <div class="stat-label">Total Awarded Value</div>
+      <div class="stat-delta">Sum of L1 prices in awarded bids</div>
+    </div>
+  </div>
+
+  <div class="col-md-8">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-bar-chart me-1"></i>Top Ministries</div>
+      <div style="overflow-x:auto">
+        <div style="min-width:400px">
+          {% for name, count in min_counts %}
+          <div class="d-flex align-items-center gap-2 mb-2" style="font-size:0.8rem">
+            <div class="text-truncate" style="width:180px;color:#aab0d4;flex-shrink:0" title="{{ name }}">{{ name }}</div>
+            <div class="flex-grow-1" style="background:#1b1d30;border-radius:4px;height:10px;overflow:hidden">
+              <div style="width:{{ (count / (min_counts[0][1] if min_counts else 1)) * 100 }}%;height:100%;background:linear-gradient(90deg,#4361ee,#4cc9f0);border-radius:4px"></div>
+            </div>
+            <div style="width:24px;text-align:right;color:#8fa4ff;font-weight:700;flex-shrink:0">{{ count }}</div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Charts ─────────────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+  <div class="col-md-7">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-building me-1"></i>Bids by Ministry</div>
+      <canvas id="ministryChart" height="230"></canvas>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="chart-card d-flex flex-column">
+      <div class="chart-title"><i class="bi bi-pie-chart me-1"></i>Status Distribution</div>
+      <div class="d-flex align-items-center justify-content-center flex-grow-1" style="min-height:220px">
+        <canvas id="statusChart" style="max-height:220px"></canvas>
+      </div>
+      <div class="d-flex justify-content-center gap-3 mt-2">
+        <span style="font-size:0.75rem;color:#2dc653"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem"></i>Awarded</span>
+        <span style="font-size:0.75rem;color:#ffd60a"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem"></i>Technical</span>
+        <span style="font-size:0.75rem;color:#4cc9f0"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem"></i>Financial</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── All Bids Table ──────────────────────────────────────────────────── -->
+<div class="table-card">
+  <div class="table-card-header">
+    <div class="table-card-title">
+      <i class="bi bi-table"></i> All Bids
+      <span class="count-pill" id="allSearch-count">{{ all_bids | length }}</span>
+    </div>
+    <div class="search-wrap">
+      <i class="bi bi-search"></i>
+      <input type="text" id="allSearch" class="search-input" placeholder="Search bids…">
+    </div>
+  </div>
+  <div style="overflow-x:auto">
+    <table class="table data-table">
+      <thead>
+        <tr>
+          <th>Bid No.</th>
+          <th>Ministry</th>
+          <th>Item</th>
+          <th>Category</th>
+          <th>L1 Price</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="allTableBody">
+        {% for bid in all_bids %}
+        <tr data-searchable>
+          <td><span class="bid-no">{{ bid.bid_no }}</span></td>
+          <td><div class="ministry-cell text-truncate" title="{{ bid.ministry }}">{{ bid.ministry }}</div></td>
+          <td style="max-width:220px">
+            <div class="text-truncate" title="{{ bid.items_full or bid.items_short }}" style="font-size:0.82rem;color:#c0c8e8">
+              {{ bid.items_short or '—' }}
+            </div>
+          </td>
+          <td>
+            {% if bid.category == 'awarded' %}
+              <span class="tag tag-awarded">Awarded</span>
+            {% elif bid.category == 'technical' %}
+              <span class="tag tag-technical">Technical</span>
+            {% else %}
+              <span class="tag tag-financial">Financial</span>
+            {% endif %}
+          </td>
+          <td style="color:{% if bid.l1_price != 'N/A' %}#2dc653{% else %}#6c7293{% endif %};font-weight:600;white-space:nowrap">
+            {{ bid.l1_price }}
+          </td>
+          <td>
+            <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
+                    data-bid-idx="{{ loop.index0 }}">
+              <i class="bi bi-eye me-1"></i>View
+            </button>
+          </td>
+        </tr>
+        {% else %}
+        <tr><td colspan="6" class="empty-state"><i class="bi bi-inbox"></i>No bids found</td></tr>
+        {% endfor %}
+        <tr class="empty-row" style="display:none">
+          <td colspan="6" class="empty-state"><i class="bi bi-search"></i>No results match your search</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+window.BIDS_DATA = {{ all_bids | tojson }};
+
+// Search
+initSearch('allSearch', 'allTableBody', 'allSearch-count');
+
+// Ministry Bar Chart
+fetch('/api/ministry-chart')
+  .then(r => r.json())
+  .then(data => {
+    new Chart(document.getElementById('ministryChart'), {
+      type: 'bar',
+      data: data,
+      options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { display: false } },
+        scales: {
+          x: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#6c7293' } },
+          y: { grid: { display: false }, ticks: { color: '#aab0d4', font: { size: 11 } } }
+        }
+      }
+    });
+  });
+
+// Status Doughnut Chart
+fetch('/api/status-chart')
+  .then(r => r.json())
+  .then(data => {
+    new Chart(document.getElementById('statusChart'), {
+      type: 'doughnut',
+      data: data,
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        cutout: '68%',
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: ctx => ` ${ctx.label}: ${ctx.parsed} bids`
+            }
+          }
+        }
+      }
+    });
+  });
+</script>
+{% endblock %}

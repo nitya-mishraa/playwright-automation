@@ -1,0 +1,153 @@
+{% extends "base.html" %}
+{% block title %}Awarded Bids{% endblock %}
+{% block page_title %}Awarded Bids{% endblock %}
+
+{% block content %}
+
+<!-- ── Summary Cards ───────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#2dc653,#43aa8b)">
+      <div class="icon-wrap" style="background:rgba(45,198,83,0.15);color:#2dc653">
+        <i class="bi bi-trophy"></i>
+      </div>
+      <div class="stat-value">{{ bids | length }}</div>
+      <div class="stat-label">Total Awarded</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#b5179e,#f72585)">
+      <div class="icon-wrap" style="background:rgba(181,23,158,0.15);color:#f72585">
+        <i class="bi bi-currency-rupee"></i>
+      </div>
+      {% set total_val = namespace(v=0) %}
+      {% for b in bids %}{% if b.l1_price_raw %}{% set total_val.v = total_val.v + b.l1_price_raw %}{% endif %}{% endfor %}
+      <div class="stat-value" style="font-size:1.3rem">
+        {% if total_val.v >= 1e7 %}₹{{ "%.2f"|format(total_val.v/1e7) }} Cr
+        {% elif total_val.v >= 1e5 %}₹{{ "%.2f"|format(total_val.v/1e5) }} L
+        {% elif total_val.v > 0 %}₹{{ "{:,.0f}".format(total_val.v) }}
+        {% else %}N/A{% endif %}
+      </div>
+      <div class="stat-label">Total L1 Value</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#4cc9f0,#4361ee)">
+      <div class="icon-wrap" style="background:rgba(76,201,240,0.13);color:#4cc9f0">
+        <i class="bi bi-people"></i>
+      </div>
+      {% set tc = namespace(n=0) %}
+      {% for b in bids %}{% set tc.n = tc.n + b.tech_count %}{% endfor %}
+      <div class="stat-value">{{ tc.n }}</div>
+      <div class="stat-label">Total Participants</div>
+    </div>
+  </div>
+
+  <div class="col-6 col-md-3">
+    <div class="stat-card" style="--accent-line: linear-gradient(90deg,#ffd60a,#f3722c)">
+      <div class="icon-wrap" style="background:rgba(255,214,10,0.13);color:#ffd60a">
+        <i class="bi bi-building"></i>
+      </div>
+      {% set mins = [] %}
+      {% for b in bids %}{% if b.ministry not in mins %}{% set _ = mins.append(b.ministry) %}{% endif %}{% endfor %}
+      <div class="stat-value">{{ mins | length }}</div>
+      <div class="stat-label">Ministries</div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Bids Table ──────────────────────────────────────────────────────── -->
+<div class="table-card">
+  <div class="table-card-header">
+    <div class="table-card-title">
+      <i class="bi bi-trophy"></i> Awarded Bids
+      <span class="count-pill" id="awardedSearch-count">{{ bids | length }}</span>
+    </div>
+    <div class="search-wrap">
+      <i class="bi bi-search"></i>
+      <input type="text" id="awardedSearch" class="search-input" placeholder="Search by bid, ministry, seller…">
+    </div>
+  </div>
+
+  <div style="overflow-x:auto">
+    <table class="table data-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Bid No.</th>
+          <th>Ministry</th>
+          <th>Department</th>
+          <th>Item Description</th>
+          <th>L1 Price</th>
+          <th>L1 Seller</th>
+          <th>Bidders</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="awardedTableBody">
+        {% for bid in bids %}
+        <tr data-searchable>
+          <td style="color:#6c7293;font-size:0.78rem">{{ loop.index }}</td>
+          <td><span class="bid-no">{{ bid.bid_no }}</span></td>
+          <td>
+            <div class="ministry-cell text-truncate" style="max-width:140px" title="{{ bid.ministry }}">
+              {{ bid.ministry }}
+            </div>
+          </td>
+          <td>
+            <div class="text-truncate" style="max-width:130px;font-size:0.8rem;color:#8a90b8" title="{{ bid.department }}">
+              {{ bid.department }}
+            </div>
+          </td>
+          <td style="max-width:200px">
+            <div class="text-truncate" style="font-size:0.82rem;color:#c0c8e8"
+                 title="{{ bid.items_full or bid.items_short }}">
+              {{ bid.items_short or '—' }}
+            </div>
+          </td>
+          <td style="white-space:nowrap;font-weight:700;{% if bid.l1_price != 'N/A' %}color:#2dc653{% else %}color:#6c7293{% endif %}">
+            {{ bid.l1_price }}
+          </td>
+          <td>
+            <div class="text-truncate" style="max-width:160px;font-size:0.8rem;color:#aab0d4"
+                 title="{{ bid.l1_seller_full }}">
+              {{ bid.l1_seller or '—' }}
+            </div>
+          </td>
+          <td style="text-align:center">
+            <span class="count-pill">{{ bid.fin_count }}</span>
+          </td>
+          <td>
+            <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
+                    data-bid-idx="{{ loop.index0 }}">
+              <i class="bi bi-eye me-1"></i>View
+            </button>
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="9" class="empty-state">
+            <i class="bi bi-inbox"></i>No awarded bids found
+          </td>
+        </tr>
+        {% endfor %}
+        <tr class="empty-row" style="display:none">
+          <td colspan="9" class="empty-state">
+            <i class="bi bi-search"></i>No results match your search
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+window.BIDS_DATA = {{ bids | tojson }};
+initSearch('awardedSearch', 'awardedTableBody', 'awardedSearch-count');
+</script>
+{% endblock %}
