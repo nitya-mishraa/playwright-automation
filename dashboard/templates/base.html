@@ -53,6 +53,33 @@
       </ul>
     </nav>
 
+    {% if keywords %}
+    <div class="nav-section-label mt-3">Keywords</div>
+    <div class="px-1 mb-1">
+      <div class="search-wrap">
+        <i class="bi bi-search" style="font-size:0.7rem"></i>
+        <input type="text" id="kwSearch" class="search-input" placeholder="Search keywords…"
+               style="width:100%;font-size:0.78rem;padding:0.35rem 0.6rem 0.35rem 1.8rem">
+      </div>
+    </div>
+    <nav>
+      <ul class="nav flex-column gap-1" id="keywordNav">
+        <li class="nav-item">
+          <a href="#" class="nav-link kw-link" data-kw="__all__">
+            <i class="bi bi-grid-3x3-gap"></i> All Keywords
+          </a>
+        </li>
+        {% for kw in keywords %}
+        <li class="nav-item kw-nav-item" data-kwname="{{ kw | lower | replace('_', ' ') }}">
+          <a href="#" class="nav-link kw-link" data-kw="{{ kw }}">
+            <i class="bi bi-tag"></i> {{ kw | replace('_', ' ') | title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
+
     <div class="sidebar-footer">
       <div><span class="live-dot"></span>GeM Portal · Live Data</div>
       <div class="mt-1 text-muted" style="font-size:0.68rem">{{ now }}</div>
@@ -84,82 +111,108 @@
 
 <!-- ── Bid Detail Modal ─────────────────────────────────────────────────── -->
 <div class="modal fade" id="bidModal" tabindex="-1" aria-labelledby="bidModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-xl modal-dialog-scrollable">
+  <div class="modal-dialog modal-xl modal-dialog-scrollable" style="max-width:min(92vw,1100px)">
     <div class="modal-content">
-      <div class="modal-header">
-        <div>
-          <div class="modal-title" id="bidModalLabel">Bid Details</div>
-          <div class="bid-no mt-1" id="m-bid-no" style="font-size:0.82rem;color:#8fa4ff"></div>
+      <div class="modal-header py-2 px-3">
+        <div class="d-flex align-items-center gap-2 flex-wrap">
+          <div>
+            <div class="modal-title" id="bidModalLabel" style="font-size:0.88rem">Bid Details</div>
+            <div class="bid-no" id="m-bid-no" style="font-size:0.78rem;color:#8fa4ff;margin-top:2px"></div>
+          </div>
+          <span id="m-status-badge" class="tag" style="font-size:0.72rem"></span>
+          <span id="m-category-badge" class="tag" style="font-size:0.72rem"></span>
         </div>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
       </div>
-      <div class="modal-body">
-        <div class="row g-3">
 
-          <!-- Left col -->
-          <div class="col-lg-6">
-            <div class="detail-block">
-              <div class="detail-block-title"><i class="bi bi-info-circle"></i> Bid Overview</div>
-              <div class="detail-row"><span class="dl">Status</span><span class="dv" id="m-status"></span></div>
+      <div class="modal-body" style="padding:1rem 1.1rem">
+
+        <!-- Row 1: Bid Details + Buyer Details -->
+        <div class="row g-2 mb-2">
+          <div class="col-md-6">
+            <div class="detail-block h-100 mb-0">
+              <div class="detail-block-title"><i class="bi bi-info-circle"></i> Bid Details</div>
+              <div class="detail-row"><span class="dl">Bid Number</span><span class="dv bid-no" id="m-bid-number" style="font-size:0.78rem"></span></div>
+              <div class="detail-row"><span class="dl">Portal Status</span><span class="dv" id="m-bid-status"></span></div>
               <div class="detail-row"><span class="dl">Start Date</span><span class="dv" id="m-bid-start"></span></div>
               <div class="detail-row"><span class="dl">End Date</span><span class="dv" id="m-bid-end"></span></div>
               <div class="detail-row"><span class="dl">Opening Date</span><span class="dv" id="m-bid-open"></span></div>
               <div class="detail-row"><span class="dl">Validity</span><span class="dv" id="m-bid-validity"></span></div>
-              <div class="detail-row"><span class="dl">Quantity</span><span class="dv" id="m-quantity"></span></div>
+              <div class="detail-row"><span class="dl">Govt Experience</span><span class="dv" id="m-experience"></span></div>
             </div>
-
-            <div class="detail-block">
+          </div>
+          <div class="col-md-6">
+            <div class="detail-block h-100 mb-0">
               <div class="detail-block-title"><i class="bi bi-building"></i> Buyer Details</div>
               <div class="detail-row"><span class="dl">Buyer Name</span><span class="dv" id="m-buyer-name"></span></div>
               <div class="detail-row"><span class="dl">Ministry</span><span class="dv" id="m-ministry"></span></div>
               <div class="detail-row"><span class="dl">Department</span><span class="dv" id="m-department"></span></div>
               <div class="detail-row"><span class="dl">Organisation</span><span class="dv" id="m-org"></span></div>
               <div class="detail-row"><span class="dl">Office</span><span class="dv" id="m-office"></span></div>
-            </div>
-
-            <div class="detail-block">
-              <div class="detail-block-title"><i class="bi bi-box-seam"></i> Item Description</div>
-              <p class="mb-0" id="m-item" style="font-size:0.83rem;color:#c0c8e8;line-height:1.6"></p>
+              <div class="detail-row"><span class="dl">Address</span><span class="dv" id="m-address"></span></div>
             </div>
           </div>
-
-          <!-- Right col -->
-          <div class="col-lg-6">
-            <div class="detail-block">
-              <div class="detail-block-title"><i class="bi bi-people"></i> Technical Evaluation</div>
-              <div class="table-responsive">
-                <table class="table table-sm eval-table">
-                  <thead>
-                    <tr>
-                      <th>#</th><th>Seller</th><th>Item</th>
-                      <th>Date</th><th>MSE/MII</th><th>Status</th>
-                    </tr>
-                  </thead>
-                  <tbody id="m-tech-tbody">
-                    <tr><td colspan="6" class="text-center text-secondary py-3">No data</td></tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-
-            <div class="detail-block">
-              <div class="detail-block-title"><i class="bi bi-currency-rupee"></i> Financial Evaluation</div>
-              <div class="table-responsive">
-                <table class="table table-sm eval-table">
-                  <thead>
-                    <tr><th>#</th><th>Seller</th><th>Total Price</th><th>Rank</th></tr>
-                  </thead>
-                  <tbody id="m-fin-tbody">
-                    <tr><td colspan="4" class="text-center text-secondary py-3">No data</td></tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-
         </div>
+
+        <!-- Row 2: Item Description + L1 Award -->
+        <div class="row g-2 mb-2">
+          <div class="col-md-8">
+            <div class="detail-block mb-0">
+              <div class="detail-block-title"><i class="bi bi-box-seam"></i> Item Description</div>
+              <p class="mb-0" id="m-item" style="font-size:0.83rem;color:#c0c8e8;line-height:1.6;white-space:pre-wrap"></p>
+              <div id="m-listing-wrap" style="display:none;margin-top:0.5rem">
+                <span style="font-size:0.72rem;color:var(--muted)">Source: </span>
+                <span class="bid-no" id="m-listing" style="font-size:0.72rem"></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="detail-block mb-0 h-100">
+              <div class="detail-block-title"><i class="bi bi-trophy"></i> L1 Award</div>
+              <div class="detail-row"><span class="dl">L1 Price</span><span class="dv" id="m-l1-price" style="font-weight:600"></span></div>
+              <div class="detail-row"><span class="dl">L1 Seller</span><span class="dv" id="m-l1-seller" style="word-break:break-word"></span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Technical Evaluation -->
+        <div class="detail-block mb-2">
+          <div class="detail-block-title">
+            <i class="bi bi-people"></i> Technical Evaluation
+            <span class="count-pill ms-1" id="m-tech-count" style="font-size:0.63rem;min-width:20px;height:18px"></span>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-sm eval-table mb-0">
+              <thead>
+                <tr><th>#</th><th>Seller</th><th>Offered Item</th><th>Participated On</th><th>MSE/MII</th><th>Status</th></tr>
+              </thead>
+              <tbody id="m-tech-tbody">
+                <tr><td colspan="6" class="text-center text-secondary py-3">No data</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Financial Evaluation -->
+        <div class="detail-block mb-0">
+          <div class="detail-block-title">
+            <i class="bi bi-currency-rupee"></i> Financial Evaluation
+            <span class="count-pill ms-1" id="m-fin-count" style="font-size:0.63rem;min-width:20px;height:18px"></span>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-sm eval-table mb-0">
+              <thead>
+                <tr><th>#</th><th>Seller</th><th>Offered Item</th><th>Total Price</th><th>Rank</th></tr>
+              </thead>
+              <tbody id="m-fin-tbody">
+                <tr><td colspan="5" class="text-center text-secondary py-3">No data</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
       </div>
-      <div class="modal-footer">
+      <div class="modal-footer py-2 px-3">
         <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-dismiss="modal">Close</button>
       </div>
     </div>

@@ -12,7 +12,7 @@
       <div class="icon-wrap" style="background:rgba(67,97,238,0.15);color:#8fa4ff">
         <i class="bi bi-collection"></i>
       </div>
-      <div class="stat-value">{{ total }}</div>
+      <div class="stat-value" id="stat-total">{{ total }}</div>
       <div class="stat-label">Total Bids</div>
       <div class="stat-delta">All categories</div>
     </div>
@@ -23,7 +23,7 @@
       <div class="icon-wrap" style="background:rgba(45,198,83,0.15);color:#2dc653">
         <i class="bi bi-trophy"></i>
       </div>
-      <div class="stat-value">{{ awarded | length }}</div>
+      <div class="stat-value" id="stat-awarded">{{ awarded | length }}</div>
       <div class="stat-label">Awarded</div>
       <div class="stat-delta">Bid award complete</div>
     </div>
@@ -34,7 +34,7 @@
       <div class="icon-wrap" style="background:rgba(255,214,10,0.13);color:#ffd60a">
         <i class="bi bi-gear-wide-connected"></i>
       </div>
-      <div class="stat-value">{{ technical | length }}</div>
+      <div class="stat-value" id="stat-technical">{{ technical | length }}</div>
       <div class="stat-label">Technical Eval</div>
       <div class="stat-delta">Under evaluation</div>
     </div>
@@ -45,7 +45,7 @@
       <div class="icon-wrap" style="background:rgba(76,201,240,0.13);color:#4cc9f0">
         <i class="bi bi-cash-coin"></i>
       </div>
-      <div class="stat-value">{{ financial | length }}</div>
+      <div class="stat-value" id="stat-financial">{{ financial | length }}</div>
       <div class="stat-label">Financial Eval</div>
       <div class="stat-delta">Price comparison stage</div>
     </div>
@@ -53,57 +53,71 @@
 
 </div>
 
-<!-- ── Value + Ministry mini-stats ────────────────────────────────────── -->
+<!-- ── Value + Ministry + Status ──────────────────────────────────────── -->
 <div class="row g-3 mb-4">
-  <div class="col-md-4">
+  <div class="col-md-3">
     <div class="stat-card" style="--accent-line: linear-gradient(90deg,#b5179e,#f72585)">
       <div class="icon-wrap" style="background:rgba(181,23,158,0.15);color:#f72585">
         <i class="bi bi-currency-rupee"></i>
       </div>
-      <div class="stat-value" style="font-size:1.4rem">{{ total_value }}</div>
+      <div class="stat-value" id="stat-value" style="font-size:1.4rem">{{ total_value }}</div>
       <div class="stat-label">Total Awarded Value</div>
       <div class="stat-delta">Sum of L1 prices in awarded bids</div>
     </div>
   </div>
 
-  <div class="col-md-8">
+  <div class="col-md-6">
     <div class="chart-card">
       <div class="chart-title"><i class="bi bi-bar-chart me-1"></i>Top Ministries</div>
-      <div style="overflow-x:auto">
-        <div style="min-width:400px">
-          {% for name, count in min_counts %}
-          <div class="d-flex align-items-center gap-2 mb-2" style="font-size:0.8rem">
-            <div class="text-truncate" style="width:180px;color:#aab0d4;flex-shrink:0" title="{{ name }}">{{ name }}</div>
-            <div class="flex-grow-1" style="background:#1b1d30;border-radius:4px;height:10px;overflow:hidden">
-              <div style="width:{{ (count / (min_counts[0][1] if min_counts else 1)) * 100 }}%;height:100%;background:linear-gradient(90deg,#4361ee,#4cc9f0);border-radius:4px"></div>
-            </div>
-            <div style="width:24px;text-align:right;color:#8fa4ff;font-weight:700;flex-shrink:0">{{ count }}</div>
+      <div id="ministryBars">
+        {% for name, count in min_counts %}
+        <div class="d-flex align-items-center gap-2 mb-1" style="font-size:0.78rem">
+          <div class="text-truncate" style="width:190px;color:#aab0d4;flex-shrink:0" title="{{ name }}">{{ name }}</div>
+          <div class="flex-grow-1" style="background:#1b1d30;border-radius:4px;height:8px;overflow:hidden">
+            <div style="width:{{ (count / (min_counts[0][1] if min_counts else 1)) * 100 }}%;height:100%;background:linear-gradient(90deg,#4361ee,#4cc9f0);border-radius:4px"></div>
           </div>
-          {% endfor %}
+          <div style="width:24px;text-align:right;color:#8fa4ff;font-weight:700;flex-shrink:0">{{ count }}</div>
         </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <div class="chart-card d-flex flex-column">
+      <div class="chart-title"><i class="bi bi-pie-chart me-1"></i>Status Distribution</div>
+      <div class="d-flex align-items-center justify-content-center flex-grow-1" style="min-height:140px">
+        <canvas id="statusChart" style="max-height:150px"></canvas>
+      </div>
+      <div class="d-flex justify-content-center gap-2 mt-1 flex-wrap">
+        <span style="font-size:0.7rem;color:#2dc653"><i class="bi bi-circle-fill me-1" style="font-size:0.45rem"></i>Awarded</span>
+        <span style="font-size:0.7rem;color:#ffd60a"><i class="bi bi-circle-fill me-1" style="font-size:0.45rem"></i>Technical</span>
+        <span style="font-size:0.7rem;color:#4cc9f0"><i class="bi bi-circle-fill me-1" style="font-size:0.45rem"></i>Financial</span>
       </div>
     </div>
   </div>
 </div>
 
-<!-- ── Charts ─────────────────────────────────────────────────────────── -->
+<!-- ── Top Winning Vendors ──────────────────────────────────────────────── -->
 <div class="row g-3 mb-4">
-  <div class="col-md-7">
+  <div class="col-12">
     <div class="chart-card">
-      <div class="chart-title"><i class="bi bi-building me-1"></i>Bids by Ministry</div>
-      <canvas id="ministryChart" height="230"></canvas>
-    </div>
-  </div>
-  <div class="col-md-5">
-    <div class="chart-card d-flex flex-column">
-      <div class="chart-title"><i class="bi bi-pie-chart me-1"></i>Status Distribution</div>
-      <div class="d-flex align-items-center justify-content-center flex-grow-1" style="min-height:220px">
-        <canvas id="statusChart" style="max-height:220px"></canvas>
-      </div>
-      <div class="d-flex justify-content-center gap-3 mt-2">
-        <span style="font-size:0.75rem;color:#2dc653"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem"></i>Awarded</span>
-        <span style="font-size:0.75rem;color:#ffd60a"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem"></i>Technical</span>
-        <span style="font-size:0.75rem;color:#4cc9f0"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem"></i>Financial</span>
+      <div class="chart-title"><i class="bi bi-award me-1"></i>Top Winning Vendors (L1)</div>
+      <div id="vendorBars">
+        {% if top_vendors %}
+          {% set max_count = top_vendors[0][1] %}
+          {% for name, count in top_vendors %}
+          <div class="d-flex align-items-center gap-2 mb-2" style="font-size:0.8rem">
+            <div class="text-truncate" style="width:260px;color:#aab0d4;flex-shrink:0" title="{{ name }}">{{ name }}</div>
+            <div class="flex-grow-1" style="background:#1b1d30;border-radius:4px;height:10px;overflow:hidden">
+              <div style="width:{{ (count / max_count) * 100 }}%;height:100%;background:linear-gradient(90deg,#f72585,#7209b7);border-radius:4px"></div>
+            </div>
+            <div style="width:30px;text-align:right;color:#f72585;font-weight:700;flex-shrink:0">{{ count }}</div>
+          </div>
+          {% endfor %}
+        {% else %}
+          <div style="color:#6c7293;font-size:0.8rem;padding:8px 0">No vendor data available</div>
+        {% endif %}
       </div>
     </div>
   </div>
@@ -115,10 +129,25 @@
     <div class="table-card-title">
       <i class="bi bi-table"></i> All Bids
       <span class="count-pill" id="allSearch-count">{{ all_bids | length }}</span>
+      <span id="activeKeywordBadge" class="tag tag-technical ms-2" style="display:none;font-size:0.7rem"></span>
     </div>
-    <div class="search-wrap">
-      <i class="bi bi-search"></i>
-      <input type="text" id="allSearch" class="search-input" placeholder="Search bids…">
+    <div class="d-flex align-items-center gap-2 flex-wrap">
+      <select id="ministryFilter" class="filter-select">
+        <option value="">All Ministries</option>
+        {% for m in ministries %}
+        <option value="{{ m }}">{{ m }}</option>
+        {% endfor %}
+      </select>
+      <select id="departmentFilter" class="filter-select">
+        <option value="">All Departments</option>
+        {% for d in departments %}
+        <option value="{{ d }}">{{ d }}</option>
+        {% endfor %}
+      </select>
+      <div class="search-wrap">
+        <i class="bi bi-search"></i>
+        <input type="text" id="allSearch" class="search-input" placeholder="Search bids…">
+      </div>
     </div>
   </div>
   <div style="overflow-x:auto">
@@ -135,7 +164,7 @@
       </thead>
       <tbody id="allTableBody">
         {% for bid in all_bids %}
-        <tr data-searchable>
+        <tr data-searchable data-ministry="{{ bid.ministry }}" data-department="{{ bid.department }}">
           <td><span class="bid-no">{{ bid.bid_no }}</span></td>
           <td><div class="ministry-cell text-truncate" title="{{ bid.ministry }}">{{ bid.ministry }}</div></td>
           <td style="max-width:220px">
@@ -179,34 +208,64 @@
 <script>
 window.BIDS_DATA = {{ all_bids | tojson }};
 
-// Search
-initSearch('allSearch', 'allTableBody', 'allSearch-count');
-
-// Ministry Bar Chart
-fetch('/api/ministry-chart')
-  .then(r => r.json())
-  .then(data => {
-    new Chart(document.getElementById('ministryChart'), {
-      type: 'bar',
-      data: data,
-      options: {
-        indexAxis: 'y',
-        responsive: true,
-        maintainAspectRatio: false,
-        plugins: { legend: { display: false } },
-        scales: {
-          x: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#6c7293' } },
-          y: { grid: { display: false }, ticks: { color: '#aab0d4', font: { size: 11 } } }
-        }
-      }
-    });
+// Combined search + ministry/dept filter for the index page
+function applyTableFilters() {
+  const q  = (document.getElementById('allSearch')?.value  || '').toLowerCase().trim();
+  const mf = (document.getElementById('ministryFilter')?.value  || '');
+  const df = (document.getElementById('departmentFilter')?.value || '');
+  const tbody   = document.getElementById('allTableBody');
+  const countEl = document.getElementById('allSearch-count');
+  if (!tbody) return;
+  const rows     = tbody.querySelectorAll('tr[data-searchable]');
+  const emptyRow = tbody.querySelector('tr.empty-row');
+  let visible = 0;
+  rows.forEach(function(row) {
+    const tm = !q  || row.textContent.toLowerCase().includes(q);
+    const mm = !mf || row.dataset.ministry   === mf;
+    const dm = !df || row.dataset.department === df;
+    const match = tm && mm && dm;
+    row.style.display = match ? '' : 'none';
+    if (match) visible++;
   });
+  if (countEl) countEl.textContent = visible;
+  if (emptyRow) emptyRow.style.display = (visible === 0) ? '' : 'none';
+}
+
+document.getElementById('allSearch')?.addEventListener('input', applyTableFilters);
+document.getElementById('ministryFilter')?.addEventListener('change', applyTableFilters);
+document.getElementById('departmentFilter')?.addEventListener('change', applyTableFilters);
+applyTableFilters();
+
+// Called by selectKeyword after AJAX table rebuild
+window._afterKeywordUpdate = function(data) {
+  // Update vendor bars
+  if (typeof _updateVendorBars === 'function' && data.top_vendors !== undefined) {
+    _updateVendorBars(data.top_vendors);
+  }
+  // Repopulate ministry/dept dropdowns from new dataset
+  var allBids = data.all_bids || [];
+  var mfEl = document.getElementById('ministryFilter');
+  if (mfEl) {
+    var ms = [...new Set(allBids.map(function(b){ return b.ministry; }).filter(function(m){ return m && m !== '—'; }))].sort();
+    mfEl.innerHTML = '<option value="">All Ministries</option>' +
+      ms.map(function(m){ return '<option value="' + _esc(m) + '">' + _esc(m) + '</option>'; }).join('');
+  }
+  var dfEl = document.getElementById('departmentFilter');
+  if (dfEl) {
+    var ds = [...new Set(allBids.map(function(b){ return b.department; }).filter(function(d){ return d && d !== '—'; }))].sort();
+    dfEl.innerHTML = '<option value="">All Departments</option>' +
+      ds.map(function(d){ return '<option value="' + _esc(d) + '">' + _esc(d) + '</option>'; }).join('');
+  }
+  var si = document.getElementById('allSearch');
+  if (si) si.value = '';
+  applyTableFilters();
+};
 
 // Status Doughnut Chart
 fetch('/api/status-chart')
   .then(r => r.json())
   .then(data => {
-    new Chart(document.getElementById('statusChart'), {
+    window.statusChartInst = new Chart(document.getElementById('statusChart'), {
       type: 'doughnut',
       data: data,
       options: {

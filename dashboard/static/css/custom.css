@@ -269,28 +269,28 @@ a { color: var(--accent); }
 
 /* ── Modal ──────────────────────────────────────────────────────────────── */
 .modal-content { background: #13152a !important; border: 1px solid var(--border); }
-.modal-header { border-bottom: 1px solid var(--border); padding: 1rem 1.25rem; }
+.modal-header { border-bottom: 1px solid var(--border); }
 .modal-footer { border-top: 1px solid var(--border); }
 .modal-title { font-size: 0.9rem; font-weight: 700; }
 
 .detail-block {
   background: #0f1122; border: 1px solid var(--border);
-  border-radius: 10px; padding: 0.9rem 1rem; margin-bottom: 0.75rem;
+  border-radius: 10px; padding: 0.8rem 0.95rem; margin-bottom: 0.6rem;
 }
 .detail-block-title {
   font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.1em;
-  color: var(--muted); font-weight: 700; margin-bottom: 0.6rem;
+  color: var(--muted); font-weight: 700; margin-bottom: 0.55rem;
   display: flex; align-items: center; gap: 0.4rem;
 }
 .detail-row {
-  display: flex; gap: 0.5rem; margin-bottom: 0.3rem; font-size: 0.82rem;
+  display: flex; gap: 0.5rem; margin-bottom: 0.28rem; font-size: 0.81rem; align-items: baseline;
 }
-.detail-row .dl { color: var(--muted); min-width: 130px; flex-shrink: 0; }
-.detail-row .dv { color: #c0c8e8; word-break: break-word; }
+.detail-row .dl { color: var(--muted); min-width: 120px; flex-shrink: 0; font-size: 0.78rem; }
+.detail-row .dv { color: #c0c8e8; word-break: break-word; min-width: 0; flex: 1; }
 
-.eval-table { font-size: 0.8rem; }
-.eval-table th { background: #0a0c1a; color: var(--muted); font-size: 0.68rem; text-transform: uppercase; }
-.eval-table td { color: #b8c0e0; border-color: var(--border); }
+.eval-table { font-size: 0.79rem; }
+.eval-table th { background: #0a0c1a; color: var(--muted); font-size: 0.67rem; text-transform: uppercase; white-space: nowrap; }
+.eval-table td { color: #b8c0e0; border-color: var(--border); vertical-align: top; padding: 0.5rem 0.6rem; }
 
 /* ── Empty State ────────────────────────────────────────────────────────── */
 .empty-state { text-align: center; padding: 3rem; color: var(--muted); }
@@ -303,6 +303,25 @@ a { color: var(--accent); }
   border-radius: 10px; font-size: 0.7rem; font-weight: 700;
   background: rgba(67,97,238,0.18); color: #8fa4ff; border: 1px solid rgba(67,97,238,0.3);
 }
+
+/* ── Filter Select ──────────────────────────────────────────────────────── */
+.filter-select {
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  color: #d1d5ef;
+  border-radius: 8px;
+  padding: 0.4rem 0.65rem;
+  font-size: 0.83rem;
+  cursor: pointer;
+  max-width: 175px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.filter-select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(67,97,238,0.15);
+  outline: none;
+}
+.filter-select option { background: var(--bg-input); color: #d1d5ef; }
 
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
