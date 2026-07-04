@@ -51,7 +51,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 35,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7450433",
@@ -111,7 +117,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7425229",
@@ -159,7 +169,21 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 20,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7370636",
@@ -180,7 +204,13 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9138414",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 35,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7400983",
@@ -345,7 +375,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7365278",
@@ -465,7 +499,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7363008",
@@ -525,7 +563,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 35,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7383176",
@@ -5486,7 +5530,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7370515",
@@ -5507,7 +5555,11 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9138269",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7364898",
@@ -5521,7 +5573,20 @@
       "Start Date: 17-03-2026 11:24 AM",
       "End Date: 27-03-2026 12:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7348160",
@@ -5665,7 +5730,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7351540",
@@ -5751,7 +5820,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7277184",
@@ -5772,7 +5847,11 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9029290",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7315044",
@@ -5786,7 +5865,13 @@
       "Start Date: 03-03-2026 2:42 PM",
       "End Date: 16-03-2026 3:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with AI/ML for geospatial and earth observation data, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2025/B/7056220",
@@ -5867,7 +5952,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7200517",
@@ -5888,7 +5977,13 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8942007",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with AI/ML for geospatial and earth observation data, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7135371",
@@ -5909,7 +6004,13 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8867901",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with AI/ML for geospatial and earth observation data, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7217928",
@@ -5967,7 +6068,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7060801",
@@ -5981,7 +6088,13 @@
       "Start Date: 19-01-2026 4:01 PM",
       "End Date: 10-02-2026 4:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with AI/ML for geospatial and earth observation data, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7060212",
@@ -5995,7 +6108,13 @@
       "Start Date: 19-01-2026 12:54 PM",
       "End Date: 09-02-2026 1:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with AI/ML for geospatial and earth observation data, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2025/B/7059155",
@@ -6016,7 +6135,13 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8780328",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2025/B/6743194",
@@ -6098,7 +6223,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7119627",
@@ -6112,7 +6241,11 @@
       "Start Date: 16-01-2026 7:14 PM",
       "End Date: 27-01-2026 8:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2025/B/6860044",
@@ -6174,7 +6307,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2025/B/6916969",
@@ -9330,7 +9467,24 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2025/B/6875404",
@@ -9344,7 +9498,11 @@
       "Start Date: 18-11-2025 9:50 AM",
       "End Date: 09-12-2025 9:00 AM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2025/B/6708196",
@@ -9358,7 +9516,13 @@
       "Start Date: 31-10-2025 12:29 PM",
       "End Date: 22-11-2025 1:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with AI/ML for geospatial and earth observation data, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2025/B/6802416",
@@ -9372,7 +9536,13 @@
       "Start Date: 17-10-2025 4:38 PM",
       "End Date: 12-11-2025 5:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "AI/ML for geospatial and earth observation data"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2025/B/6795883",
@@ -9398,7 +9568,11 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/8542020",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2025/B/6599763",
@@ -9494,6 +9668,10 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   }
 ]

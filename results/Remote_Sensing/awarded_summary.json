@@ -34,7 +34,20 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7617231",
@@ -94,7 +107,19 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7617125",
@@ -108,7 +133,20 @@
       "Start Date: 03-06-2026 3:02 PM",
       "End Date: 13-06-2026 4:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7617029",
@@ -129,7 +167,20 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9415426",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7616740",
@@ -143,7 +194,19 @@
       "Start Date: 03-06-2026 2:13 PM",
       "End Date: 13-06-2026 3:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7616668",
@@ -157,7 +220,19 @@
       "Start Date: 03-06-2026 2:02 PM",
       "End Date: 13-06-2026 3:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7616586",
@@ -217,7 +292,20 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7609603",
@@ -277,7 +365,25 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7609549",
@@ -337,7 +443,17 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Flood detection and early warning systems"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7642216",
@@ -358,7 +474,11 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9443588",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7606358",
@@ -425,7 +545,25 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7606060",
@@ -492,7 +630,24 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7605915",
@@ -559,7 +714,20 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7406063",
@@ -648,7 +816,24 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7516032",
@@ -687,7 +872,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 35,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7614146",
@@ -970,7 +1161,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7598382",
@@ -1030,7 +1225,25 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598295",
@@ -1090,7 +1303,18 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Disaster management monitoring and response technology",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598233",
@@ -1111,7 +1335,20 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9394315",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598599",
@@ -1125,7 +1362,20 @@
       "Start Date: 29-05-2026 1:57 PM",
       "End Date: 08-06-2026 2:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598382",
@@ -1146,7 +1396,20 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9394482",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598295",
@@ -1167,7 +1430,19 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9394389",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598233",
@@ -1188,7 +1463,19 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9394315",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7598515",
@@ -1248,7 +1535,20 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7597965",
@@ -1269,7 +1569,20 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9394002",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7574768",
@@ -1283,7 +1596,25 @@
       "Start Date: 22-05-2026 4:22 PM",
       "End Date: 04-06-2026 9:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 0,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Satellite imagery analysis and remote sensing",
+      "AI/ML for geospatial and earth observation data",
+      "GIS mapping, analytics, and digital twin solutions",
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms",
+      "Computer vision for aerial and satellite imagery",
+      "Change detection and environmental monitoring"
+    ],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7552548",
@@ -1297,7 +1628,13 @@
       "Start Date: 19-05-2026 6:59 PM",
       "End Date: 04-06-2026 7:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7584181",
@@ -1345,7 +1682,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7128349",
@@ -1399,7 +1742,20 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 50,
+    "matching_capabilities": [
+      "Intelligence and surveillance system integration"
+    ],
+    "missing_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Consider — partial overlap with Intelligence and surveillance system integration, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7583085",
@@ -1454,6 +1810,10 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   }
 ]

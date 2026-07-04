@@ -194,7 +194,7 @@
         </div>
 
         <!-- Financial Evaluation -->
-        <div class="detail-block mb-0">
+        <div class="detail-block mb-2">
           <div class="detail-block-title">
             <i class="bi bi-currency-rupee"></i> Financial Evaluation
             <span class="count-pill ms-1" id="m-fin-count" style="font-size:0.63rem;min-width:20px;height:18px"></span>
@@ -208,6 +208,64 @@
                 <tr><td colspan="5" class="text-center text-secondary py-3">No data</td></tr>
               </tbody>
             </table>
+          </div>
+        </div>
+
+        <!-- AI Relevance Intelligence -->
+        <div class="detail-block mb-0" id="m-llm-section" style="display:none">
+          <div class="detail-block-title" style="display:flex;align-items:center;gap:0.4rem">
+            <i class="bi bi-cpu"></i> AI Relevance Intelligence
+            <span style="font-size:0.65rem;color:var(--muted);margin-left:auto;font-weight:400">Scored by Local LLM</span>
+          </div>
+          <div class="row g-2 mt-1">
+
+            <!-- Score Gauge -->
+            <div class="col-md-2 d-flex flex-column align-items-center justify-content-center py-1">
+              <div id="m-score-circle" style="
+                  width:72px;height:72px;border-radius:50%;
+                  display:flex;align-items:center;justify-content:center;
+                  background:conic-gradient(var(--score-color,#4361ee) var(--score-deg,0deg), #1b1d30 0deg);
+                  position:relative;margin:0 auto">
+                <div style="
+                    width:52px;height:52px;border-radius:50%;
+                    background:var(--bg-card);
+                    display:flex;align-items:center;justify-content:center;
+                    flex-direction:column">
+                  <span id="m-score-num" style="font-size:1.15rem;font-weight:800;line-height:1;color:#fff">—</span>
+                  <span style="font-size:0.55rem;color:var(--muted);line-height:1;margin-top:1px">/100</span>
+                </div>
+              </div>
+              <div id="m-score-label" style="font-size:0.68rem;font-weight:600;margin-top:6px;text-align:center">—</div>
+            </div>
+
+            <!-- Matching Capabilities -->
+            <div class="col-md-5">
+              <div style="font-size:0.72rem;color:#2dc653;font-weight:600;margin-bottom:5px">
+                <i class="bi bi-check-circle-fill me-1"></i>Matching Capabilities
+              </div>
+              <ul id="m-matching-caps" style="list-style:none;padding:0;margin:0;font-size:0.76rem;color:#c0c8e8;display:flex;flex-direction:column;gap:3px"></ul>
+            </div>
+
+            <!-- Missing Capabilities -->
+            <div class="col-md-5">
+              <div style="font-size:0.72rem;color:#f3722c;font-weight:600;margin-bottom:5px">
+                <i class="bi bi-x-circle-fill me-1"></i>Missing Capabilities
+              </div>
+              <ul id="m-missing-caps" style="list-style:none;padding:0;margin:0;font-size:0.76rem;color:#c0c8e8;display:flex;flex-direction:column;gap:3px"></ul>
+            </div>
+
+            <!-- Recommendation -->
+            <div class="col-12">
+              <div style="font-size:0.72rem;color:#8fa4ff;font-weight:600;margin-bottom:4px">
+                <i class="bi bi-lightbulb-fill me-1"></i>Recommendation
+              </div>
+              <p id="m-recommendation" style="
+                  font-size:0.82rem;color:#c0c8e8;margin:0;
+                  padding:8px 12px;line-height:1.5;
+                  background:rgba(67,97,238,0.08);
+                  border-radius:6px;border-left:3px solid #4361ee"></p>
+            </div>
+
           </div>
         </div>
 

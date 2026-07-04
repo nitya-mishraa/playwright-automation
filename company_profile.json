@@ -1,0 +1,36 @@
+{
+  "company_name": "EarthSense Labs",
+  "description": "A deep-tech company specialising in earth observation, geospatial intelligence, remote sensing, satellite data analytics, GIS solutions, AI-powered surveillance, and disaster management technology for defence and government clients.",
+  "core_capabilities": [
+    "Satellite imagery analysis and remote sensing",
+    "AI/ML for geospatial and earth observation data",
+    "GIS mapping, analytics, and digital twin solutions",
+    "Drone-based surveillance and aerial reconnaissance",
+    "Flood detection and early warning systems",
+    "Disaster management monitoring and response technology",
+    "Cybersecurity for critical and defence infrastructure",
+    "Intelligence and surveillance system integration",
+    "Analytics dashboards and decision support platforms",
+    "Computer vision for aerial and satellite imagery",
+    "Change detection and environmental monitoring",
+    "Hyperspectral and multispectral data processing"
+  ],
+  "target_sectors": [
+    "Defence and national security",
+    "Disaster management and emergency response",
+    "Urban planning and smart cities",
+    "Agriculture and crop monitoring",
+    "Environmental and forest monitoring",
+    "Border surveillance and perimeter security",
+    "Flood and water body management"
+  ],
+  "certifications": [],
+  "experience": "Government and defence sector technology projects in India",
+  "preferred_ministries": [
+    "Ministry of Defence",
+    "Ministry of Home Affairs",
+    "Ministry of Earth Sciences",
+    "Department of Space / ISRO",
+    "Ministry of Agriculture"
+  ]
+}

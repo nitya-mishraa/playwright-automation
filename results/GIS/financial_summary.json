@@ -36,7 +36,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7483664",
@@ -205,7 +209,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "GIS mapping, analytics, and digital twin solutions"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with GIS mapping, analytics, and digital twin solutions, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7523446",
@@ -259,7 +269,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7601585",
@@ -496,7 +510,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7608674",
@@ -569,7 +587,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7294911",
@@ -648,7 +670,19 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [
+      "GIS mapping, analytics, and digital twin solutions",
+      "Drone-based surveillance and aerial reconnaissance",
+      "Flood detection and early warning systems",
+      "Disaster management monitoring and response technology",
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Hyperspectral and multispectral data processing"
+    ],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7584266",
@@ -737,7 +771,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7648726",
@@ -945,7 +983,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7603630",
@@ -999,7 +1041,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7640125",
@@ -1103,7 +1149,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7599530",
@@ -1210,7 +1260,15 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [
+      "Cybersecurity for critical and defence infrastructure",
+      "Intelligence and surveillance system integration",
+      "Analytics dashboards and decision support platforms"
+    ],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7624323",
@@ -1358,7 +1416,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7657690",
@@ -1397,7 +1459,22 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [
+      "Transport",
+      "Logistics",
+      "Vehicle/Equipment Hiring",
+      "Equipment Repair",
+      "Maintenance",
+      "AMC/CMC",
+      "Housekeeping",
+      "Manpower Supply",
+      "Catering",
+      "Construction"
+    ],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7631653",
@@ -1411,7 +1488,11 @@
       "Start Date: 06-06-2026 2:41 PM",
       "End Date: 19-06-2026 3:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7491557",
@@ -1432,7 +1513,11 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9275540",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7605900",
@@ -2810,7 +2895,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7629030",
@@ -2847,7 +2936,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7635469",
@@ -2861,7 +2954,11 @@
       "Start Date: 08-06-2026 1:19 PM",
       "End Date: 18-06-2026 3:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7594046",
@@ -2979,7 +3076,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7619468",
@@ -3105,7 +3206,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7584266",
@@ -3216,7 +3321,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7601585",
@@ -3359,7 +3468,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7563469",
@@ -3373,7 +3486,11 @@
       "Start Date: 25-05-2026 5:11 PM",
       "End Date: 15-06-2026 6:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7476971",
@@ -7271,7 +7388,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7516876",
@@ -7329,7 +7450,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7582015",
@@ -7402,7 +7527,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7621458",
@@ -7441,7 +7570,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7621577",
@@ -7494,7 +7627,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7595116",
@@ -7552,7 +7689,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7558142",
@@ -7610,6 +7751,10 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   }
 ]

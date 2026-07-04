@@ -45,7 +45,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 35,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7591811",
@@ -191,7 +197,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "GIS mapping, analytics, and digital twin solutions"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7517834",
@@ -263,7 +275,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Drone-based surveillance and aerial reconnaissance, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7528530",
@@ -351,7 +369,11 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7517834",
@@ -390,7 +412,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Drone-based surveillance and aerial reconnaissance, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7419988",
@@ -446,7 +474,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7471560",
@@ -559,7 +593,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7520717",
@@ -647,7 +687,13 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7371394",
@@ -661,7 +707,13 @@
       "Start Date: 13-04-2026 1:16 PM",
       "End Date: 23-04-2026 2:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7125560",
@@ -870,6 +922,12 @@
           ]
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Drone-based surveillance and aerial reconnaissance"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Drone-based surveillance and aerial reconnaissance, but much of the scope is generic."
   }
 ]

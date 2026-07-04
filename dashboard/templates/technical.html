@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_macros.html" import relevance_cell, relevance_bucket, relevance_filter_bar, sortable_th %}
 {% block title %}Technical Evaluation{% endblock %}
 {% block page_title %}Technical Evaluation{% endblock %}
 
@@ -68,24 +69,28 @@
       <i class="bi bi-gear-wide-connected"></i> Technical Evaluation Bids
       <span class="count-pill" id="techSearch-count">{{ bids | length }}</span>
     </div>
-    <div class="search-wrap">
-      <i class="bi bi-search"></i>
-      <input type="text" id="techSearch" class="search-input" placeholder="Search bid, ministry, seller…">
+    <div class="d-flex align-items-center gap-2 flex-wrap">
+      {{ relevance_filter_bar('techRelFilter', bids) }}
+      <div class="search-wrap">
+        <i class="bi bi-search"></i>
+        <input type="text" id="techSearch" class="search-input" placeholder="Search bid, ministry, seller…">
+      </div>
     </div>
   </div>
 
   <div style="overflow-x:auto">
-    <table class="table data-table">
+    <table class="table data-table" id="techTable">
       <thead>
         <tr>
-          <th>#</th>
-          <th>Bid No.</th>
-          <th>Ministry</th>
-          <th>Department</th>
-          <th>Item Description</th>
-          <th>Participants</th>
-          <th>Qualified</th>
-          <th>MSE/MII</th>
+          {{ sortable_th('#', 'number') }}
+          {{ sortable_th('Bid No.') }}
+          {{ sortable_th('Ministry') }}
+          {{ sortable_th('Department') }}
+          {{ sortable_th('Item Description') }}
+          {{ sortable_th('Participants', 'number') }}
+          {{ sortable_th('Qualified', 'number') }}
+          {{ sortable_th('MSE/MII', 'number') }}
+          {{ sortable_th('Relevance', 'number', true) }}
           <th>Action</th>
         </tr>
       </thead>
@@ -97,7 +102,7 @@
           {% if row.status and 'qualif' in row.status | lower %}{% set _ = qualified.append(1) %}{% endif %}
           {% if row.mse_mii_status %}{% set _ = mse_sellers.append(1) %}{% endif %}
         {% endfor %}
-        <tr data-searchable>
+        <tr data-searchable data-relevance="{{ relevance_bucket(bid.relevance_score) }}">
           <td style="color:#6c7293;font-size:0.78rem">{{ loop.index }}</td>
           <td><span class="bid-no">{{ bid.bid_no }}</span></td>
           <td>
@@ -116,12 +121,12 @@
               {{ bid.items_short or '—' }}
             </div>
           </td>
-          <td style="text-align:center">
+          <td data-sort-value="{{ bid.tech_count }}" style="text-align:center">
             <span class="count-pill" style="background:rgba(76,201,240,0.12);color:#4cc9f0;border-color:rgba(76,201,240,0.3)">
               {{ bid.tech_count }}
             </span>
           </td>
-          <td style="text-align:center">
+          <td data-sort-value="{{ qualified | length }}" style="text-align:center">
             {% if qualified | length > 0 %}
               <span class="count-pill" style="background:rgba(45,198,83,0.12);color:#2dc653;border-color:rgba(45,198,83,0.3)">
                 {{ qualified | length }}
@@ -130,13 +135,14 @@
               <span style="color:#6c7293;font-size:0.78rem">—</span>
             {% endif %}
           </td>
-          <td style="text-align:center">
+          <td data-sort-value="{{ mse_sellers | length }}" style="text-align:center">
             {% if mse_sellers | length > 0 %}
               <span class="tag tag-mse">{{ mse_sellers | length }}</span>
             {% else %}
               <span style="color:#6c7293;font-size:0.78rem">—</span>
             {% endif %}
           </td>
+          <td data-sort-value="{{ bid.relevance_score if (bid.relevance_score is defined and bid.relevance_score is not none) else -1 }}" style="white-space:nowrap">{{ relevance_cell(bid.relevance_score) }}</td>
           <td>
             <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
                     data-bid-idx="{{ loop.index0 }}">
@@ -146,13 +152,13 @@
         </tr>
         {% else %}
         <tr>
-          <td colspan="9" class="empty-state">
+          <td colspan="10" class="empty-state">
             <i class="bi bi-inbox"></i>No technical evaluation bids found
           </td>
         </tr>
         {% endfor %}
         <tr class="empty-row" style="display:none">
-          <td colspan="9" class="empty-state">
+          <td colspan="10" class="empty-state">
             <i class="bi bi-search"></i>No results match your search
           </td>
         </tr>
@@ -203,6 +209,7 @@
 {% block scripts %}
 <script>
 window.BIDS_DATA = {{ bids | tojson }};
-initSearch('techSearch', 'techTableBody', 'techSearch-count');
+initSearchWithRelevance('techSearch', 'techTableBody', 'techSearch-count', 'techRelFilter');
+initColumnSort('techTable', 'techTableBody');
 </script>
 {% endblock %}

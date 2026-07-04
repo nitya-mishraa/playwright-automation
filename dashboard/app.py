@@ -53,6 +53,11 @@ def _shorten(text, n=60):
     return (text[:n] + '…') if text and len(text) > n else (text or '—')
 
 
+def _relevance_sort_key(b):
+    v = b.get('relevance_score')
+    return v if isinstance(v, (int, float)) else -1
+
+
 # ── Data Loading ──────────────────────────────────────────────────────────────
 
 def _bid_no_from_filename(fp):
@@ -212,6 +217,21 @@ def load_category(cat):
     return bids
 
 
+def load_category_bids(cat):
+    """Load bids for a top-level category page ('awarded'/'technical'/'financial'),
+    falling back to aggregating across keyword folders when no top-level
+    results/<cat>/ directory exists (the scraper currently only writes
+    results/<keyword>/<cat>_summary.json). Always sorted by relevance
+    descending (unscored bids last)."""
+    bids = load_category(cat)
+    if not bids:
+        bids = []
+        for kw in get_keywords():
+            bids += load_keyword_data(kw)[cat]
+    bids.sort(key=_relevance_sort_key, reverse=True)
+    return bids
+
+
 # ── Context Processor ─────────────────────────────────────────────────────────
 
 @app.context_processor
@@ -239,6 +259,7 @@ def index():
             financial += d['financial']
 
     all_bids    = awarded + technical + financial
+    all_bids.sort(key=_relevance_sort_key, reverse=True)
     total_value = sum(b['l1_price_raw'] for b in awarded)
 
     min_counts = {}
@@ -266,19 +287,19 @@ def index():
 
 @app.route('/awarded')
 def awarded_page():
-    bids = load_category('awarded')
+    bids = load_category_bids('awarded')
     return render_template('awarded.html', bids=bids)
 
 
 @app.route('/technical')
 def technical_page():
-    bids = load_category('technical')
+    bids = load_category_bids('technical')
     return render_template('technical.html', bids=bids)
 
 
 @app.route('/financial')
 def financial_page():
-    bids = load_category('financial')
+    bids = load_category_bids('financial')
     return render_template('financial.html', bids=bids)
 
 
@@ -352,6 +373,7 @@ def api_keyword_data(keyword):
         awarded, technical, financial = d['awarded'], d['technical'], d['financial']
 
     all_bids    = awarded + technical + financial
+    all_bids.sort(key=_relevance_sort_key, reverse=True)
     total_value = sum(b['l1_price_raw'] for b in awarded)
     top_vendors = get_top_vendors(awarded)
 
@@ -408,5 +430,5 @@ def api_keyword_data(keyword):
 
 if __name__ == '__main__':
     print('\n  GeM Tender Intelligence Dashboard')
-    print('  Running at  →  http://localhost:5000\n')
+    print('  Running at  ->  http://localhost:5000\n')
     app.run(debug=True, port=5000)

@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_macros.html" import relevance_cell, relevance_bucket, relevance_filter_bar, sortable_th %}
 {% block title %}Financial Evaluation{% endblock %}
 {% block page_title %}Financial Evaluation{% endblock %}
 
@@ -72,30 +73,34 @@
       <i class="bi bi-cash-coin"></i> Financial Evaluation Bids
       <span class="count-pill" id="finSearch-count">{{ bids | length }}</span>
     </div>
-    <div class="search-wrap">
-      <i class="bi bi-search"></i>
-      <input type="text" id="finSearch" class="search-input" placeholder="Search bid, ministry, seller…">
+    <div class="d-flex align-items-center gap-2 flex-wrap">
+      {{ relevance_filter_bar('finRelFilter', bids) }}
+      <div class="search-wrap">
+        <i class="bi bi-search"></i>
+        <input type="text" id="finSearch" class="search-input" placeholder="Search bid, ministry, seller…">
+      </div>
     </div>
   </div>
 
   <div style="overflow-x:auto">
-    <table class="table data-table">
+    <table class="table data-table" id="finTable">
       <thead>
         <tr>
-          <th>#</th>
-          <th>Bid No.</th>
-          <th>Ministry</th>
-          <th>Department</th>
-          <th>Item Description</th>
-          <th>L1 Price</th>
-          <th>L1 Seller</th>
-          <th>Total Bids</th>
+          {{ sortable_th('#', 'number') }}
+          {{ sortable_th('Bid No.') }}
+          {{ sortable_th('Ministry') }}
+          {{ sortable_th('Department') }}
+          {{ sortable_th('Item Description') }}
+          {{ sortable_th('L1 Price', 'number') }}
+          {{ sortable_th('L1 Seller') }}
+          {{ sortable_th('Total Bids', 'number') }}
+          {{ sortable_th('Relevance', 'number', true) }}
           <th>Action</th>
         </tr>
       </thead>
       <tbody id="finTableBody">
         {% for bid in bids %}
-        <tr data-searchable>
+        <tr data-searchable data-relevance="{{ relevance_bucket(bid.relevance_score) }}">
           <td style="color:#6c7293;font-size:0.78rem">{{ loop.index }}</td>
           <td><span class="bid-no">{{ bid.bid_no }}</span></td>
           <td>
@@ -114,18 +119,19 @@
               {{ bid.items_short or '—' }}
             </div>
           </td>
-          <td style="white-space:nowrap;font-weight:700;{% if bid.l1_price != 'N/A' %}color:#4cc9f0{% else %}color:#6c7293{% endif %}">
+          <td data-sort-value="{{ bid.l1_price_raw or 0 }}" style="white-space:nowrap;font-weight:700;{% if bid.l1_price != 'N/A' %}color:#4cc9f0{% else %}color:#6c7293{% endif %}">
             {{ bid.l1_price }}
           </td>
-          <td>
+          <td data-sort-value="{{ bid.l1_seller_full or '' }}">
             <div class="text-truncate" style="max-width:160px;font-size:0.8rem;color:#aab0d4"
                  title="{{ bid.l1_seller_full }}">
               {{ bid.l1_seller or '—' }}
             </div>
           </td>
-          <td style="text-align:center">
+          <td data-sort-value="{{ bid.fin_count }}" style="text-align:center">
             <span class="count-pill">{{ bid.fin_count }}</span>
           </td>
+          <td data-sort-value="{{ bid.relevance_score if (bid.relevance_score is defined and bid.relevance_score is not none) else -1 }}" style="white-space:nowrap">{{ relevance_cell(bid.relevance_score) }}</td>
           <td>
             <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
                     data-bid-idx="{{ loop.index0 }}">
@@ -135,13 +141,13 @@
         </tr>
         {% else %}
         <tr>
-          <td colspan="9" class="empty-state">
+          <td colspan="10" class="empty-state">
             <i class="bi bi-inbox"></i>No financial evaluation bids found
           </td>
         </tr>
         {% endfor %}
         <tr class="empty-row" style="display:none">
-          <td colspan="9" class="empty-state">
+          <td colspan="10" class="empty-state">
             <i class="bi bi-search"></i>No results match your search
           </td>
         </tr>
@@ -203,7 +209,8 @@
 {% block scripts %}
 <script>
 window.BIDS_DATA = {{ bids | tojson }};
-initSearch('finSearch', 'finTableBody', 'finSearch-count');
+initSearchWithRelevance('finSearch', 'finTableBody', 'finSearch-count', 'finRelFilter');
+initColumnSort('finTable', 'finTableBody');
 
 // Price comparison bar chart
 const chartBids = {{ chart_bids | tojson if chart_bids is defined else '[]' }};

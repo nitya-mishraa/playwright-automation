@@ -323,6 +323,35 @@ a { color: var(--accent); }
 }
 .filter-select option { background: var(--bg-input); color: #d1d5ef; }
 
+/* ── Relevance Filter Bar ───────────────────────────────────────────────── */
+.rel-filter-bar { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.rel-filter-btn {
+  background: var(--bg-input); border: 1px solid var(--border); color: var(--muted);
+  border-radius: 20px; padding: 0.35rem 0.75rem; font-size: 0.76rem; font-weight: 600;
+  cursor: pointer; transition: all 0.18s;
+}
+.rel-filter-btn:hover { color: #d1d5ef; border-color: rgba(255,255,255,0.2); }
+.rel-filter-btn.active { color: #fff; border-color: transparent; }
+.rel-filter-btn[data-bucket=""].active         { background: rgba(67,97,238,0.35); color: #8fa4ff; }
+.rel-filter-btn[data-bucket="pursue"].active   { background: rgba(45,198,83,0.3);  color: #2dc653; }
+.rel-filter-btn[data-bucket="relevant"].active { background: rgba(76,201,240,0.3); color: #4cc9f0; }
+.rel-filter-btn[data-bucket="consider"].active { background: rgba(255,214,10,0.3); color: #ffd60a; }
+.rel-filter-btn[data-bucket="skip"].active     { background: rgba(247,37,133,0.3); color: #f72585; }
+
+.rel-count {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 17px; height: 16px; padding: 0 5px; margin-left: 5px;
+  border-radius: 8px; font-size: 0.66rem; font-weight: 700;
+  background: rgba(255,255,255,0.1); color: inherit;
+}
+
+/* ── Sortable Table Headers ─────────────────────────────────────────────── */
+.th-sortable { cursor: pointer; user-select: none; transition: color 0.15s; }
+.th-sortable:hover { color: #d1d5ef; }
+.th-sortable.sort-active { color: #4cc9f0; }
+.th-sortable .sort-icon { margin-left: 3px; font-size: 0.75rem; vertical-align: middle; }
+.th-sortable .sort-icon.sort-icon-idle { opacity: 0.3; }
+
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .sidebar {

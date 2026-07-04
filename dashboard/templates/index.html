@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_macros.html" import relevance_cell, relevance_bucket, relevance_filter_bar, sortable_th %}
 {% block title %}Overview{% endblock %}
 {% block page_title %}Overview{% endblock %}
 
@@ -132,6 +133,7 @@
       <span id="activeKeywordBadge" class="tag tag-technical ms-2" style="display:none;font-size:0.7rem"></span>
     </div>
     <div class="d-flex align-items-center gap-2 flex-wrap">
+      {{ relevance_filter_bar('indexRelFilter', all_bids) }}
       <select id="ministryFilter" class="filter-select">
         <option value="">All Ministries</option>
         {% for m in ministries %}
@@ -151,20 +153,21 @@
     </div>
   </div>
   <div style="overflow-x:auto">
-    <table class="table data-table">
+    <table class="table data-table" id="allTable">
       <thead>
         <tr>
-          <th>Bid No.</th>
-          <th>Ministry</th>
-          <th>Item</th>
-          <th>Category</th>
-          <th>L1 Price</th>
+          {{ sortable_th('Bid No.') }}
+          {{ sortable_th('Ministry') }}
+          {{ sortable_th('Item') }}
+          {{ sortable_th('Category') }}
+          {{ sortable_th('L1 Price', 'number') }}
+          {{ sortable_th('Relevance', 'number', true) }}
           <th>Action</th>
         </tr>
       </thead>
       <tbody id="allTableBody">
         {% for bid in all_bids %}
-        <tr data-searchable data-ministry="{{ bid.ministry }}" data-department="{{ bid.department }}">
+        <tr data-searchable data-ministry="{{ bid.ministry }}" data-department="{{ bid.department }}" data-relevance="{{ relevance_bucket(bid.relevance_score) }}">
           <td><span class="bid-no">{{ bid.bid_no }}</span></td>
           <td><div class="ministry-cell text-truncate" title="{{ bid.ministry }}">{{ bid.ministry }}</div></td>
           <td style="max-width:220px">
@@ -181,9 +184,10 @@
               <span class="tag tag-financial">Financial</span>
             {% endif %}
           </td>
-          <td style="color:{% if bid.l1_price != 'N/A' %}#2dc653{% else %}#6c7293{% endif %};font-weight:600;white-space:nowrap">
+          <td data-sort-value="{{ bid.l1_price_raw or 0 }}" style="color:{% if bid.l1_price != 'N/A' %}#2dc653{% else %}#6c7293{% endif %};font-weight:600;white-space:nowrap">
             {{ bid.l1_price }}
           </td>
+          <td data-sort-value="{{ bid.relevance_score if (bid.relevance_score is defined and bid.relevance_score is not none) else -1 }}" style="white-space:nowrap">{{ relevance_cell(bid.relevance_score) }}</td>
           <td>
             <button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal"
                     data-bid-idx="{{ loop.index0 }}">
@@ -192,10 +196,10 @@
           </td>
         </tr>
         {% else %}
-        <tr><td colspan="6" class="empty-state"><i class="bi bi-inbox"></i>No bids found</td></tr>
+        <tr><td colspan="7" class="empty-state"><i class="bi bi-inbox"></i>No bids found</td></tr>
         {% endfor %}
         <tr class="empty-row" style="display:none">
-          <td colspan="6" class="empty-state"><i class="bi bi-search"></i>No results match your search</td>
+          <td colspan="7" class="empty-state"><i class="bi bi-search"></i>No results match your search</td>
         </tr>
       </tbody>
     </table>
@@ -208,7 +212,8 @@
 <script>
 window.BIDS_DATA = {{ all_bids | tojson }};
 
-// Combined search + ministry/dept filter for the index page
+// Combined search + relevance/ministry/dept filter for the index page
+let _activeRelBucket = '';
 function applyTableFilters() {
   const q  = (document.getElementById('allSearch')?.value  || '').toLowerCase().trim();
   const mf = (document.getElementById('ministryFilter')?.value  || '');
@@ -223,7 +228,8 @@ function applyTableFilters() {
     const tm = !q  || row.textContent.toLowerCase().includes(q);
     const mm = !mf || row.dataset.ministry   === mf;
     const dm = !df || row.dataset.department === df;
-    const match = tm && mm && dm;
+    const rm = _relevanceMatches(row.dataset.relevance || 'none', _activeRelBucket);
+    const match = tm && mm && dm && rm;
     row.style.display = match ? '' : 'none';
     if (match) visible++;
   });
@@ -234,6 +240,8 @@ function applyTableFilters() {
 document.getElementById('allSearch')?.addEventListener('input', applyTableFilters);
 document.getElementById('ministryFilter')?.addEventListener('change', applyTableFilters);
 document.getElementById('departmentFilter')?.addEventListener('change', applyTableFilters);
+initRelevanceFilterBar('indexRelFilter', function (bucket) { _activeRelBucket = bucket; applyTableFilters(); });
+initColumnSort('allTable', 'allTableBody');
 applyTableFilters();
 
 // Called by selectKeyword after AJAX table rebuild
@@ -258,6 +266,15 @@ window._afterKeywordUpdate = function(data) {
   }
   var si = document.getElementById('allSearch');
   if (si) si.value = '';
+  // Reset column sort + filter bar when keyword changes (new data arrives
+  // server-sorted by relevance descending, matching the default sort state)
+  resetColumnSort('allTable');
+  var relBar = document.getElementById('indexRelFilter');
+  if (relBar) {
+    relBar.querySelectorAll('.rel-filter-btn').forEach(function(b) { b.classList.toggle('active', !b.dataset.bucket); });
+    _activeRelBucket = '';
+  }
+  _updateRelevanceCounts('indexRelFilter', allBids);
   applyTableFilters();
 };
 

@@ -142,6 +142,56 @@ function populateBidModal(bid) {
   const finCount = document.getElementById('m-fin-count');
   if (finCount) finCount.textContent = fe.length || '';
 
+  // LLM Intelligence Section
+  const llmSection = document.getElementById('m-llm-section');
+  const scoreNum   = document.getElementById('m-score-num');
+  const scoreCirc  = document.getElementById('m-score-circle');
+  const scoreLabel = document.getElementById('m-score-label');
+  const matchEl    = document.getElementById('m-matching-caps');
+  const missEl     = document.getElementById('m-missing-caps');
+  const recEl      = document.getElementById('m-recommendation');
+
+  if (llmSection) {
+    const score = (bid.relevance_score != null) ? parseInt(bid.relevance_score, 10) : null;
+    if (score != null) {
+      llmSection.style.display = '';
+      // Colour coding
+      const color = score >= 85 ? '#2dc653' : (score >= 70 ? '#4cc9f0' : (score >= 40 ? '#ffd60a' : '#f72585'));
+      const label = score >= 85 ? 'Pursue'  : (score >= 70 ? 'Relevant' : (score >= 40 ? 'Consider' : 'Skip'));
+      const deg   = Math.round(score * 3.6);  // 0–100 → 0–360deg
+
+      if (scoreNum)  { scoreNum.textContent = score; scoreNum.style.color = color; }
+      if (scoreLabel) { scoreLabel.textContent = label; scoreLabel.style.color = color; }
+      if (scoreCirc) {
+        scoreCirc.style.setProperty('--score-color', color);
+        scoreCirc.style.setProperty('--score-deg', deg + 'deg');
+        scoreCirc.style.background =
+          `conic-gradient(${color} ${deg}deg, #1b1d30 0deg)`;
+      }
+
+      const caps = bid.matching_capabilities || [];
+      if (matchEl) {
+        matchEl.innerHTML = caps.length
+          ? caps.map(c => `<li style="display:flex;align-items:flex-start;gap:5px"><i class="bi bi-check2" style="color:#2dc653;flex-shrink:0;margin-top:2px"></i><span>${_esc(c)}</span></li>`).join('')
+          : '<li style="color:var(--muted)">None identified</li>';
+      }
+
+      const miss = bid.missing_capabilities || [];
+      if (missEl) {
+        missEl.innerHTML = miss.length
+          ? miss.map(c => `<li style="display:flex;align-items:flex-start;gap:5px"><i class="bi bi-x" style="color:#f3722c;flex-shrink:0;margin-top:2px"></i><span>${_esc(c)}</span></li>`).join('')
+          : '<li style="color:#2dc653"><i class="bi bi-check2-all me-1"></i>No gaps — full capability match</li>';
+      }
+
+      if (recEl) {
+        recEl.textContent = bid.recommendation || '—';
+        recEl.style.borderLeftColor = color;
+      }
+    } else {
+      llmSection.style.display = 'none';
+    }
+  }
+
   // Technical Evaluation Table
   const tBody = document.getElementById('m-tech-tbody');
   if (tBody) {
@@ -203,6 +253,182 @@ function _esc(s) {
   return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+/* ── Relevance bucket / filter bar (shared across all bid tables) ───────── */
+function _relevanceBucket(score) {
+  if (score == null) return 'none';
+  const s = parseInt(score, 10);
+  if (isNaN(s)) return 'none';
+  if (s >= 85) return 'pursue';
+  if (s >= 70) return 'relevant';
+  if (s >= 40) return 'consider';
+  return 'skip';
+}
+
+function _relevanceMatches(rowBucket, filterValue) {
+  if (!filterValue) return true;
+  return rowBucket === filterValue;
+}
+
+// Recomputes the count badges on a relevance_filter_bar() after its bid set changes.
+function _updateRelevanceCounts(barId, bids) {
+  const bar = document.getElementById(barId);
+  if (!bar) return;
+  const counts = { pursue: 0, relevant: 0, consider: 0, skip: 0 };
+  (bids || []).forEach(function (b) {
+    const bucket = _relevanceBucket(b.relevance_score != null ? b.relevance_score : null);
+    if (counts[bucket] !== undefined) counts[bucket]++;
+  });
+  const totalEl = bar.querySelector('.rel-filter-btn[data-bucket=""] .rel-count');
+  if (totalEl) totalEl.textContent = bids ? bids.length : 0;
+  Object.keys(counts).forEach(function (k) {
+    const el = bar.querySelector('.rel-filter-btn[data-bucket="' + k + '"] .rel-count');
+    if (el) el.textContent = counts[k];
+  });
+}
+
+// Wires a relevance_filter_bar()'s buttons; calls onChange(bucket) on every click.
+function initRelevanceFilterBar(barId, onChange) {
+  const bar = document.getElementById(barId);
+  if (!bar) return;
+  const btns = bar.querySelectorAll('.rel-filter-btn');
+  btns.forEach(btn => {
+    btn.addEventListener('click', function () {
+      btns.forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+      const bucket = this.dataset.bucket || '';
+      bar.dataset.active = bucket;
+      onChange(bucket);
+    });
+  });
+}
+
+// Generic click-to-sort for any data-table: wires every <th class="th-sortable">
+// in the table's header to reorder existing <tr> nodes in place (never rebuilds
+// row HTML), so search/filter state (row.style.display) and modal data-bid-idx
+// bindings survive sorting untouched. Reads each row's value for a column from
+// that <td>'s data-sort-value attribute, falling back to its text content.
+function initColumnSort(tableId, tbodyId) {
+  const table = document.getElementById(tableId);
+  const tbody = document.getElementById(tbodyId);
+  if (!table || !tbody) return;
+  const headerRow = table.querySelector('thead tr');
+  if (!headerRow) return;
+  const ths = Array.from(headerRow.children);
+
+  function setIcon(th, desc, idle) {
+    const icon = th.querySelector('.sort-icon');
+    if (!icon) return;
+    icon.className = 'bi ' + (desc ? 'bi-sort-down-alt' : 'bi-sort-up-alt') + ' sort-icon' + (idle ? ' sort-icon-idle' : '');
+  }
+
+  function clearOthers(exceptTh) {
+    ths.forEach(function (th) {
+      if (th === exceptTh || !th.classList.contains('th-sortable')) return;
+      th.classList.remove('sort-active');
+      delete th.dataset.sortDir;
+      setIcon(th, true, true);
+    });
+  }
+
+  function sortByColumn(th, desc) {
+    const idx  = ths.indexOf(th);
+    const type = th.dataset.sortType || 'text';
+    const emptyRow = tbody.querySelector('tr.empty-row');
+    const rows = Array.from(tbody.querySelectorAll('tr[data-searchable]'));
+    rows.sort(function (a, b) {
+      const ca = a.children[idx], cb = b.children[idx];
+      let va = ca ? (ca.dataset.sortValue !== undefined ? ca.dataset.sortValue : ca.textContent.trim()) : '';
+      let vb = cb ? (cb.dataset.sortValue !== undefined ? cb.dataset.sortValue : cb.textContent.trim()) : '';
+      if (type === 'number') {
+        va = parseFloat(va); if (isNaN(va)) va = -Infinity;
+        vb = parseFloat(vb); if (isNaN(vb)) vb = -Infinity;
+        return desc ? vb - va : va - vb;
+      }
+      va = String(va).toLowerCase(); vb = String(vb).toLowerCase();
+      if (va < vb) return desc ? 1 : -1;
+      if (va > vb) return desc ? -1 : 1;
+      return 0;
+    });
+    rows.forEach(function (r) { tbody.insertBefore(r, emptyRow || null); });
+    clearOthers(th);
+    th.classList.add('sort-active');
+    th.dataset.sortDir = desc ? 'desc' : 'asc';
+    setIcon(th, desc, false);
+  }
+
+  ths.forEach(function (th) {
+    if (!th.classList.contains('th-sortable')) return;
+    th.addEventListener('click', function () {
+      // Cycle: unsorted/desc -> ascending -> descending -> ascending ...
+      sortByColumn(th, th.dataset.sortDir === 'asc');
+    });
+  });
+
+  // Data arrives server-sorted to match the default column, so just mark it
+  // active rather than re-sorting (avoids a redundant DOM reorder on load).
+  const defaultTh = ths.find(function (th) { return th.dataset.sortDefault === 'desc'; });
+  if (defaultTh) {
+    defaultTh.classList.add('sort-active');
+    defaultTh.dataset.sortDir = 'desc';
+    setIcon(defaultTh, true, false);
+  }
+
+  // Exposed so callers can restore the default sort state after a table's
+  // rows are rebuilt from freshly (server-)sorted data, e.g. on keyword change.
+  table._resetColumnSort = function () {
+    clearOthers(null);
+    if (defaultTh) {
+      defaultTh.classList.add('sort-active');
+      defaultTh.dataset.sortDir = 'desc';
+      setIcon(defaultTh, true, false);
+    }
+  };
+}
+
+function resetColumnSort(tableId) {
+  const table = document.getElementById(tableId);
+  if (table && typeof table._resetColumnSort === 'function') table._resetColumnSort();
+}
+
+// Combined search + relevance-bucket filter for the simple bid-list pages
+// (awarded/technical/financial). Index page keeps its own applyTableFilters
+// since it also has ministry/department dropdowns.
+function initSearchWithRelevance(inputId, tableBodyId, countId, filterBarId) {
+  const input   = document.getElementById(inputId);
+  const tbody   = document.getElementById(tableBodyId);
+  const countEl = countId ? document.getElementById(countId) : null;
+  if (!tbody) return;
+  let activeBucket = '';
+
+  function apply() {
+    const q        = (input?.value || '').toLowerCase().trim();
+    const rows     = tbody.querySelectorAll('tr[data-searchable]');
+    const emptyRow = tbody.querySelector('tr.empty-row');
+    let visible = 0;
+    rows.forEach(row => {
+      const tm = !q || row.textContent.toLowerCase().includes(q);
+      const rm = _relevanceMatches(row.dataset.relevance || 'none', activeBucket);
+      const match = tm && rm;
+      row.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    if (countEl) countEl.textContent = visible;
+    if (emptyRow) emptyRow.style.display = visible === 0 ? '' : 'none';
+  }
+
+  input?.addEventListener('input', apply);
+  initRelevanceFilterBar(filterBarId, function (bucket) { activeBucket = bucket; apply(); });
+  apply();
+}
+
+function _scoreChip(score) {
+  if (score == null) return '<span style="color:var(--muted);font-size:0.8rem">—</span>';
+  const s = parseInt(score, 10);
+  const color  = s >= 85 ? '#2dc653' : (s >= 70 ? '#4cc9f0' : (s >= 40 ? '#ffd60a' : '#f72585'));
+  const label  = s >= 85 ? 'Pursue'  : (s >= 70 ? 'Relevant' : (s >= 40 ? 'Consider' : 'Skip'));
+  return `<span style="display:inline-flex;align-items:center;gap:4px;background:${color}22;border:1px solid ${color}55;color:${color};border-radius:20px;padding:2px 8px;font-size:0.72rem;font-weight:700">${s}<span style="font-weight:400;font-size:0.65rem;opacity:.85">${label}</span></span>`;
+}
+
 function _buildBidRow(bid, idx) {
   const catTag = bid.category === 'awarded'
     ? '<span class="tag tag-awarded">Awarded</span>'
@@ -216,12 +442,17 @@ function _buildBidRow(bid, idx) {
   const dept       = _esc(bid.department  || '—');
   const bidNo      = _esc(bid.bid_no      || '—');
   const price      = _esc(bid.l1_price    || 'N/A');
-  return `<tr data-searchable data-ministry="${ministry}" data-department="${dept}">
+  const priceRaw   = bid.l1_price_raw != null ? bid.l1_price_raw : 0;
+  const scoreVal   = bid.relevance_score != null ? bid.relevance_score : -1;
+  const scoreCell  = _scoreChip(bid.relevance_score != null ? bid.relevance_score : null);
+  const relBucket  = _relevanceBucket(bid.relevance_score != null ? bid.relevance_score : null);
+  return `<tr data-searchable data-ministry="${ministry}" data-department="${dept}" data-relevance="${relBucket}">
     <td><span class="bid-no">${bidNo}</span></td>
     <td><div class="ministry-cell text-truncate" title="${ministry}">${ministry}</div></td>
     <td style="max-width:220px"><div class="text-truncate" title="${itemFull}" style="font-size:0.82rem;color:#c0c8e8">${itemShort}</div></td>
     <td>${catTag}</td>
-    <td style="color:${priceColor};font-weight:600;white-space:nowrap">${price}</td>
+    <td data-sort-value="${priceRaw}" style="color:${priceColor};font-weight:600;white-space:nowrap">${price}</td>
+    <td data-sort-value="${scoreVal}" style="white-space:nowrap">${scoreCell}</td>
     <td><button class="btn-view" data-bs-toggle="modal" data-bs-target="#bidModal" data-bid-idx="${idx}"><i class="bi bi-eye me-1"></i>View</button></td>
   </tr>`;
 }
@@ -303,10 +534,10 @@ function selectKeyword(keyword) {
       window.BIDS_DATA = data.all_bids;
       const tbody = document.getElementById('allTableBody');
       if (tbody) {
-        const emptyFallback = '<tr class="empty-row" style="display:none"><td colspan="6" class="empty-state"><i class="bi bi-search"></i>No results match your search</td></tr>';
+        const emptyFallback = '<tr class="empty-row" style="display:none"><td colspan="7" class="empty-state"><i class="bi bi-search"></i>No results match your search</td></tr>';
         tbody.innerHTML = data.all_bids.length
           ? data.all_bids.map((b, i) => _buildBidRow(b, i)).join('') + emptyFallback
-          : '<tr><td colspan="6" class="empty-state"><i class="bi bi-inbox"></i>No bids found</td></tr>' + emptyFallback;
+          : '<tr><td colspan="7" class="empty-state"><i class="bi bi-inbox"></i>No bids found</td></tr>' + emptyFallback;
       }
 
       if (typeof window._afterKeywordUpdate === 'function') {

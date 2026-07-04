@@ -11,7 +11,11 @@
       "Start Date: 15-06-2026 5:34 PM",
       "End Date: 25-06-2026 6:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7664707",
@@ -48,7 +52,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7657939",
@@ -87,7 +97,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7524241",
@@ -126,7 +140,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7623936",
@@ -140,7 +160,11 @@
       "Start Date: 08-06-2026 10:10 AM",
       "End Date: 25-06-2026 9:00 AM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7611515",
@@ -179,7 +203,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7604682",
@@ -200,7 +230,13 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9401585",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7642762",
@@ -239,7 +275,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7661615",
@@ -253,7 +295,11 @@
       "Start Date: 13-06-2026 2:31 PM",
       "End Date: 23-06-2026 12:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7684380",
@@ -267,7 +313,13 @@
       "Start Date: 19-06-2026 2:06 PM",
       "End Date: 22-06-2026 3:00 PM"
     ],
-    "source_page": 1
+    "source_page": 1,
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7463016",
@@ -306,7 +358,22 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [
+      "Transport",
+      "Logistics",
+      "Vehicle/Equipment Hiring",
+      "Repair",
+      "Maintenance",
+      "AMC/CMC Contracts",
+      "Housekeeping",
+      "Manpower Supply",
+      "Catering",
+      "Construction"
+    ],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7649187",
@@ -327,7 +394,13 @@
         "url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9451220",
         "error": "Page.content: Unable to retrieve content because the page is navigating and changing the content."
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7374948",
@@ -341,7 +414,13 @@
       "Start Date: 05-05-2026 4:55 PM",
       "End Date: 19-06-2026 4:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7608260",
@@ -355,7 +434,15 @@
       "Start Date: 11-06-2026 6:31 PM",
       "End Date: 18-06-2026 7:00 PM"
     ],
-    "source_page": 2
+    "source_page": 2,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [
+      "None"
+    ],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7559020",
@@ -394,7 +481,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7611454",
@@ -433,7 +526,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7450239",
@@ -472,7 +571,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7568549",
@@ -511,7 +614,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7576087",
@@ -550,7 +657,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7572795",
@@ -589,7 +702,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7587055",
@@ -628,7 +747,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   },
   {
     "bid_no": "GEM/2026/B/7606841",
@@ -642,7 +765,13 @@
       "Start Date: 01-06-2026 3:14 PM",
       "End Date: 11-06-2026 5:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7553994",
@@ -656,7 +785,13 @@
       "Start Date: 29-05-2026 5:27 PM",
       "End Date: 08-06-2026 6:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7603181",
@@ -695,7 +830,13 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7462702",
@@ -734,7 +875,15 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [
+      ""
+    ],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7484378",
@@ -748,7 +897,13 @@
       "Start Date: 25-05-2026 1:29 PM",
       "End Date: 05-06-2026 5:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7559178",
@@ -762,7 +917,13 @@
       "Start Date: 19-05-2026 5:51 PM",
       "End Date: 03-06-2026 3:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 10,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7431894",
@@ -776,7 +937,13 @@
       "Start Date: 12-05-2026 10:54 PM",
       "End Date: 02-06-2026 6:00 PM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 60,
+    "matching_capabilities": [
+      "Cybersecurity for critical and defence infrastructure"
+    ],
+    "missing_capabilities": [],
+    "recommendation": "Consider — partial overlap with Cybersecurity for critical and defence infrastructure, but much of the scope is generic."
   },
   {
     "bid_no": "GEM/2026/B/7468819",
@@ -815,7 +982,11 @@
           }
         }
       }
-    ]
+    ],
+    "relevance_score": 15,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — no genuine overlap with EarthSense Labs' core capabilities."
   },
   {
     "bid_no": "GEM/2026/B/7369984",
@@ -829,6 +1000,10 @@
       "Start Date: 07-05-2026 4:56 PM",
       "End Date: 29-05-2026 9:00 AM"
     ],
-    "source_page": 3
+    "source_page": 3,
+    "relevance_score": 0,
+    "matching_capabilities": [],
+    "missing_capabilities": [],
+    "recommendation": "Skip — this is a generic non-technical category (transport / logistics / vehicle hiring / repair & maintenance / similar) outside EarthSense Labs' AI, GIS, remote sensing, drone and surveillance focus."
   }
 ]

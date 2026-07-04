@@ -1,0 +1,39 @@
+{% macro relevance_cell(score) -%}
+{%- if score is defined and score is not none -%}
+  {%- if score >= 85 -%}{% set c, l = '#2dc653', 'Pursue' %}
+  {%- elif score >= 70 -%}{% set c, l = '#4cc9f0', 'Relevant' %}
+  {%- elif score >= 40 -%}{% set c, l = '#ffd60a', 'Consider' %}
+  {%- else -%}{% set c, l = '#f72585', 'Skip' %}{%- endif %}
+  <span style="display:inline-flex;align-items:center;gap:4px;background:{{ c }}22;border:1px solid {{ c }}55;color:{{ c }};border-radius:20px;padding:2px 8px;font-size:0.72rem;font-weight:700">{{ score }}<span style="font-weight:400;font-size:0.65rem;opacity:.85">{{ l }}</span></span>
+{%- else -%}
+  <span style="color:var(--muted);font-size:0.8rem">—</span>
+{%- endif -%}
+{%- endmacro %}
+
+{% macro relevance_bucket(score) -%}
+{%- if score is not defined or score is none -%}none{%- elif score >= 85 -%}pursue{%- elif score >= 70 -%}relevant{%- elif score >= 40 -%}consider{%- else -%}skip{%- endif -%}
+{%- endmacro %}
+
+{% macro sortable_th(label, type='text', default=false) -%}
+<th class="th-sortable" data-sort-type="{{ type }}"{% if default %} data-sort-default="desc"{% endif %}>
+  <span class="th-label">{{ label }}</span><i class="bi bi-sort-down-alt sort-icon{{ '' if default else ' sort-icon-idle' }}"></i>
+</th>
+{%- endmacro %}
+
+{% macro relevance_filter_bar(bar_id, bids) -%}
+{% set c = namespace(pursue=0, relevant=0, consider=0, skip=0) %}
+{% for b in bids %}
+  {% set bucket = relevance_bucket(b.relevance_score) %}
+  {%- if bucket == 'pursue' %}{% set c.pursue = c.pursue + 1 %}
+  {%- elif bucket == 'relevant' %}{% set c.relevant = c.relevant + 1 %}
+  {%- elif bucket == 'consider' %}{% set c.consider = c.consider + 1 %}
+  {%- elif bucket == 'skip' %}{% set c.skip = c.skip + 1 %}{%- endif %}
+{% endfor %}
+<div class="rel-filter-bar" id="{{ bar_id }}">
+  <button type="button" class="rel-filter-btn active" data-bucket="">All<span class="rel-count">{{ bids | length }}</span></button>
+  <button type="button" class="rel-filter-btn" data-bucket="pursue">Pursue<span class="rel-count">{{ c.pursue }}</span></button>
+  <button type="button" class="rel-filter-btn" data-bucket="relevant">Relevant<span class="rel-count">{{ c.relevant }}</span></button>
+  <button type="button" class="rel-filter-btn" data-bucket="consider">Consider<span class="rel-count">{{ c.consider }}</span></button>
+  <button type="button" class="rel-filter-btn" data-bucket="skip">Skip<span class="rel-count">{{ c.skip }}</span></button>
+</div>
+{%- endmacro %}
