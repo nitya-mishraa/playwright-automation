@@ -115,6 +115,34 @@ http://localhost:5000
 ```
 
 ---
+# Relevance Intelligence
+
+The platform includes a local LLM-powered relevance scoring engine that evaluates each tender against the company's capabilities.
+
+### Scoring Categories
+
+| Score | Category |
+|---------|---------|
+| 85-100 | Pursue |
+| 70-84 | Relevant |
+| 40-69 | Consider |
+| 0-39 | Skip |
+
+### Output Fields
+
+Each bid is enriched with:
+
+- relevance_score
+- matching_capabilities
+- missing_capabilities
+- recommendation
+## Running Relevance Scoring
+
+```bash
+python score_bids.py --keyword AI
+```
+
+---
 
 # Output Structure
 
@@ -156,6 +184,14 @@ results/
 - L1 bidder analysis
 - Tender intelligence exploration
 
+### Relevance Features
+
+- Relevance Score column
+- Pursue / Relevant / Consider / Skip filters
+- Category-wise counts
+- Default relevance-based ranking
+- Click-to-sort columns (Ascending / Descending)
+
 ---
 
 # Project Structure
@@ -165,8 +201,9 @@ playwright-automation/
 │
 ├── main.py
 ├── main_sir.py
+├── score_bids.py
+├── company_profile.json
 ├── README.md
-├── downloads/
 ├── results/
 │
 └── dashboard/
@@ -175,6 +212,29 @@ playwright-automation/
     ├── templates/
     └── static/
 ```
+
+---
+# Architecture
+```text
+GeM BidPlus
+     ↓
+Playwright Scraper
+     ↓
+Structured JSON
+     ↓
+Local LLM Relevance Engine
+     ↓
+Enhanced Bid Intelligence
+     ↓
+Flask Dashboard
+```
+---
+# Impact
+
+- Automated extraction of Technical Evaluation and Financial Evaluation information from GeM.
+- Automated tender relevance assessment using a local LLM.
+- Reduced manual tender review effort through intelligent bid prioritization.
+- Enabled keyword-wise exploration and analytics through an interactive dashboard.
 
 ---
 
