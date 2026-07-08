@@ -9,7 +9,7 @@ missing_capabilities, and recommendation back into the JSON file without
 overwriting existing fields.
 
 Requirements:
-  pip install requests
+  pip install -r requirements.txt
   A running llama.cpp server, e.g.:
     llama-server -m Qwen2.5-3B-Instruct-Q4_K_M.gguf --port 8080
 
@@ -29,12 +29,16 @@ Usage:
 
 import argparse
 import json
+import logging
 import os
 import re
 import sys
 import time
 
 import requests
+
+logging.basicConfig(level=logging.INFO, format='%(message)s')
+logger = logging.getLogger(__name__)
 
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
 RESULTS_DIR  = os.path.join(SCRIPT_DIR, 'results')
@@ -243,7 +247,7 @@ def build_recommendation(final_score, genuine_matches, unrelated_hits):
 
 def load_company_profile():
     if not os.path.exists(PROFILE_PATH):
-        print(f"[WARN] company_profile.json not found — using built-in default.")
+        logger.warning("company_profile.json not found — using built-in default.")
         return DEFAULT_PROFILE
     with open(PROFILE_PATH, encoding='utf-8') as f:
         return json.load(f)
@@ -323,16 +327,16 @@ def call_llamacpp(prompt, base_url):
         content = data['choices'][0]['message']['content']
         return json.loads(content)
     except requests.exceptions.ConnectionError:
-        print(f"\n[ERROR] Cannot connect to llama.cpp server at {base_url}")
-        print("        Start it first, e.g.:")
-        print("        llama-server -m Qwen2.5-3B-Instruct-Q4_K_M.gguf --port 8080")
+        logger.error("Cannot connect to llama.cpp server at %s", base_url)
+        logger.error("        Start it first, e.g.:")
+        logger.error("        llama-server -m Qwen2.5-3B-Instruct-Q4_K_M.gguf --port 8080")
         sys.exit(1)
     except requests.exceptions.HTTPError as exc:
         body = getattr(exc.response, 'text', '')[:400]
-        print(f"\n[ERROR] llama.cpp server HTTP {exc.response.status_code}: {body}")
+        logger.error("llama.cpp server HTTP %s: %s", exc.response.status_code, body)
         sys.exit(1)
     except (json.JSONDecodeError, KeyError, IndexError) as exc:
-        print(f"  [WARN] LLM returned unexpected/non-JSON content: {exc}")
+        logger.warning("  LLM returned unexpected/non-JSON content: %s", exc)
         return None
 
 
@@ -452,7 +456,7 @@ def main():
     print('=' * 60)
 
     if not os.path.isdir(RESULTS_DIR):
-        print(f"\n[ERROR] Results directory not found: {RESULTS_DIR}")
+        logger.error("Results directory not found: %s", RESULTS_DIR)
         sys.exit(1)
 
     keywords = sorted(
@@ -461,8 +465,8 @@ def main():
     )
     if args.keyword:
         if args.keyword not in keywords:
-            print(f"[ERROR] Keyword folder '{args.keyword}' not found in {RESULTS_DIR}")
-            print(f"        Available: {', '.join(keywords)}")
+            logger.error("Keyword folder '%s' not found in %s", args.keyword, RESULTS_DIR)
+            logger.error("        Available: %s", ', '.join(keywords))
             sys.exit(1)
         keywords = [args.keyword]
 

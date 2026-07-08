@@ -4,9 +4,9 @@ A Tender Intelligence platform built on top of GeM BidPlus data extraction.
 
 This project consists of:
 
-1. **main.py** – Playwright-based scraper for extracting GeM BidPlus tender data.
-2. **Flask Dashboard** – Interactive dashboard for exploring awarded, technical, and financial bid intelligence.
-3. **Keyword Intelligence System** – Organizes results keyword-wise for targeted analysis.
+1. **Scraper** (`main.py` + `scraper/`) – Playwright-based scraper for extracting GeM BidPlus tender data.
+2. **Relevance Scorer** (`score_bids.py`) – Local LLM-powered engine that scores each tender against a company profile.
+3. **Flask Dashboard** (`dashboard/`) – Interactive dashboard for exploring awarded, technical, and financial bid intelligence.
 
 ---
 
@@ -116,7 +116,7 @@ http://localhost:5000
 ---
 # Relevance Intelligence
 
-The platform includes a local LLM-powered relevance scoring engine that evaluates each tender against the company's capabilities.
+The platform includes a local LLM-powered relevance scoring engine that evaluates each tender against the company's capabilities (defined in `company_profile.json`).
 
 ### Scoring Categories
 
@@ -135,6 +135,7 @@ Each bid is enriched with:
 - matching_capabilities
 - missing_capabilities
 - recommendation
+
 ## Running Relevance Scoring
 
 ```bash
@@ -198,18 +199,29 @@ results/
 ```text
 playwright-automation/
 │
-├── main.py
-├── main_sir.py
-├── score_bids.py
-├── company_profile.json
+├── main.py                    # Scraper entry point (single, thin CLI wrapper)
+├── score_bids.py               # Relevance scoring CLI (local LLM)
+├── company_profile.json        # Company capability profile used for scoring
+├── requirements.txt             # Consolidated dependencies for scraper + scorer + dashboard
+├── .gitignore
 ├── README.md
-├── results/
 │
-└── dashboard/
-    ├── app.py
-    ├── requirements.txt
-    ├── templates/
-    └── static/
+├── scraper/                     # Scraper package
+│   ├── __init__.py
+│   ├── config.py                 # Config dataclass, defaults, CLI arg parsing
+│   ├── browser_scripts.py        # In-page JS snippets used via page.evaluate
+│   ├── html_parser.py            # HTML -> structured bid data parsing
+│   └── pipeline.py               # Search/filter, pagination, scraping, orchestration
+│
+├── dashboard/                    # Flask dashboard
+│   ├── app.py                     # Routes and API endpoints only
+│   ├── data_loader.py             # Loading/merging bid JSON from results/
+│   ├── formatters.py              # Currency formatting, sorting, vendor ranking
+│   ├── run.bat
+│   ├── templates/
+│   └── static/
+│
+└── results/                      # Scraped + scored tender data, one folder per keyword
 ```
 
 ---
@@ -217,15 +229,15 @@ playwright-automation/
 ```text
 GeM BidPlus
      ↓
-Playwright Scraper
+Playwright Scraper (scraper/)
      ↓
-Structured JSON
+Structured JSON (results/)
      ↓
-Local LLM Relevance Engine
+Local LLM Relevance Engine (score_bids.py)
      ↓
 Enhanced Bid Intelligence
      ↓
-Flask Dashboard
+Flask Dashboard (dashboard/)
 ```
 ---
 # Impact

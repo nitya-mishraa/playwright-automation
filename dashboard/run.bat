@@ -4,7 +4,7 @@ echo  GeM Tender Intelligence Dashboard
 echo  ===================================
 echo.
 cd /d "%~dp0"
-python -m pip install flask --quiet
+python -m pip install -r ..\requirements.txt --quiet
 echo  Starting server at http://localhost:5000
 echo  Press Ctrl+C to stop.
 echo.
