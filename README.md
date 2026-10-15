@@ -237,16 +237,9 @@ Python · Playwright · BeautifulSoup · Flask · Bootstrap · Chart.js · JSON 
 - **Local over cloud:** running Qwen through llama.cpp keeps procurement data private and removes API dependence.
 - **Maintainability:** the code was refactored into separate scraper, scoring and dashboard modules with logging and error handling.
 
-## Future Enhancements
 
-- Natural-language tender search
-- Semantic bid retrieval with embeddings
-- Local-LLM-based pre-filtering before scraping detail pages
-- Advanced analytics and reporting
-- Scheduled scraping and alerts for new "Pursue" tenders
 
 ---
 
-## Author
-
-Built by **Nandani Tripathi** (B.Tech CSE, Cyber Security and Digital Forensics, VIT Bhopal) during an LLM Intern – Tender Analysis internship at EarthSense Labs, May–July 2026.
+### Note
+Built during internship as an LLM Intern – Tender Analysis internship at EarthSense Labs, May–July 2026.
